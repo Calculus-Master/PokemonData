@@ -1,0 +1,21 @@
+{
+    "name": "Pachirisu",
+    "fillerinfo": "Pachirisu-0.4-3.9",
+    "dex": 417,
+    "type": ["Electric", "Electric"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [60, 45, 70, 45, 90, 95],
+    "ev": [0, 0, 0, 0, 0, 1],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Run Away", "Pickup", "Volt Absorb"],
+    "growthrate": "Medium_Fast",
+    "exp": 142,
+    "normalURL": "",
+    "shinyURL": ""
+}

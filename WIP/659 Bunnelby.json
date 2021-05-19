@@ -1,0 +1,21 @@
+{
+    "name": "Bunnelby",
+    "fillerinfo": "Bunnelby-0.4-5.0",
+    "dex": 659,
+    "type": ["Normal", "Normal"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [38, 36, 38, 32, 36, 57],
+    "ev": [0, 0, 0, 0, 0, 1],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Pickup", "Cheek Pouch", "Huge Power"],
+    "growthrate": "Medium_Fast",
+    "exp": 47,
+    "normalURL": "",
+    "shinyURL": ""
+}

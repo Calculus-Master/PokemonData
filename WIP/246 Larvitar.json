@@ -1,0 +1,21 @@
+{
+    "name": "Larvitar",
+    "fillerinfo": "Larvitar-0.6-72.0",
+    "dex": 246,
+    "type": ["Rock", "Ground"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [50, 64, 50, 45, 50, 41],
+    "ev": [0, 1, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Guts", "Sand Veil"],
+    "growthrate": "Slow",
+    "exp": 60,
+    "normalURL": "",
+    "shinyURL": ""
+}

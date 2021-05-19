@@ -1,0 +1,21 @@
+{
+    "name": "Whirlipede",
+    "fillerinfo": "Whirlipede-1.2-58.5",
+    "dex": 544,
+    "type": ["Bug", "Poison"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [40, 55, 99, 40, 79, 47],
+    "ev": [0, 0, 2, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Poison Point", "Swarm", "Speed Boost"],
+    "growthrate": "Medium_Slow",
+    "exp": 126,
+    "normalURL": "",
+    "shinyURL": ""
+}

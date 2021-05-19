@@ -1,0 +1,21 @@
+{
+    "name": "Mothim",
+    "fillerinfo": "Mothim-0.9-23.3",
+    "dex": 414,
+    "type": ["Bug", "Flying"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [70, 94, 50, 94, 50, 66],
+    "ev": [0, 1, 0, 1, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Swarm", "Tinted Lens"],
+    "growthrate": "Medium_Fast",
+    "exp": 148,
+    "normalURL": "",
+    "shinyURL": ""
+}

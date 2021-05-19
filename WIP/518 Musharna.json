@@ -1,0 +1,21 @@
+{
+    "name": "Musharna",
+    "fillerinfo": "Musharna-1.1-60.5",
+    "dex": 518,
+    "type": ["Psychic", "Psychic"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [116, 55, 85, 107, 95, 29],
+    "ev": [2, 0, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Forewarn", "Synchronize", "Telepathy"],
+    "growthrate": "Fast",
+    "exp": 170,
+    "normalURL": "",
+    "shinyURL": ""
+}

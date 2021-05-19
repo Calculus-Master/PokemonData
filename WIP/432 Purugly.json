@@ -1,0 +1,21 @@
+{
+    "name": "Purugly",
+    "fillerinfo": "Purugly-1.0-43.8",
+    "dex": 432,
+    "type": ["Normal", "Normal"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [71, 82, 64, 64, 59, 112],
+    "ev": [0, 0, 0, 0, 0, 2],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Thick Fat", "Own Tempo", "Defiant"],
+    "growthrate": "Fast",
+    "exp": 158,
+    "normalURL": "",
+    "shinyURL": ""
+}

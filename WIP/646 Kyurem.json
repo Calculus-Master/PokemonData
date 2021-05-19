@@ -1,0 +1,21 @@
+{
+    "name": "Kyurem",
+    "fillerinfo": "Kyurem-3.0-325.0",
+    "dex": 646,
+    "type": ["Dragon", "Ice"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [125, 130, 90, 130, 90, 95],
+    "ev": [1, 1, 0, 1, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Pressure"],
+    "growthrate": "Slow",
+    "exp": 297,
+    "normalURL": "",
+    "shinyURL": ""
+}

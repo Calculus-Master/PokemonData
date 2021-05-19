@@ -1,0 +1,21 @@
+{
+    "name": "Type-Null-",
+    "fillerinfo": "Type-Null--1.9-120.5",
+    "dex": 772,
+    "type": ["Normal", "Normal"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [95, 95, 95, 95, 95, 59],
+    "ev": [2, 0, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Battle Armor"],
+    "growthrate": "Slow",
+    "exp": 107,
+    "normalURL": "",
+    "shinyURL": ""
+}

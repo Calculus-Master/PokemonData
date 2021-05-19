@@ -1,0 +1,21 @@
+{
+    "name": "Shuppet",
+    "fillerinfo": "Shuppet-0.6-2.3",
+    "dex": 353,
+    "type": ["Ghost", "Ghost"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [44, 75, 35, 63, 33, 45],
+    "ev": [0, 1, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Insomnia", "Frisk", "Cursed Body"],
+    "growthrate": "Fast",
+    "exp": 59,
+    "normalURL": "",
+    "shinyURL": ""
+}

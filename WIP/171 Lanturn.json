@@ -1,0 +1,21 @@
+{
+    "name": "Lanturn",
+    "fillerinfo": "Lanturn-1.2-22.5",
+    "dex": 171,
+    "type": ["Water", "Electric"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [125, 58, 58, 76, 76, 67],
+    "ev": [2, 0, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Volt Absorb", "Illuminate", "Water Absorb"],
+    "growthrate": "Slow",
+    "exp": 161,
+    "normalURL": "",
+    "shinyURL": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Teddiursa",
+    "fillerinfo": "Teddiursa-0.6-8.8",
+    "dex": 216,
+    "type": ["Normal", "Normal"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [60, 80, 50, 50, 50, 40],
+    "ev": [0, 1, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Pickup", "Quick Feet", "Honey Gather"],
+    "growthrate": "Medium_Fast",
+    "exp": 66,
+    "normalURL": "",
+    "shinyURL": ""
+}

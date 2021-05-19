@@ -1,0 +1,21 @@
+{
+    "name": "Terrakion",
+    "fillerinfo": "Terrakion-1.9-260.0",
+    "dex": 639,
+    "type": ["Rock", "Fighting"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [91, 129, 90, 72, 90, 108],
+    "ev": [0, 3, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Justified"],
+    "growthrate": "Slow",
+    "exp": 261,
+    "normalURL": "",
+    "shinyURL": ""
+}

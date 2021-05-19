@@ -1,0 +1,21 @@
+{
+    "name": "Beartic",
+    "fillerinfo": "Beartic-2.6-260.0",
+    "dex": 614,
+    "type": ["Ice", "Ice"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [95, 130, 80, 70, 80, 50],
+    "ev": [0, 2, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Snow Cloak", "Slush Rush", "Swift Swim"],
+    "growthrate": "Medium_Fast",
+    "exp": 177,
+    "normalURL": "",
+    "shinyURL": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Fomantis",
+    "fillerinfo": "Fomantis-0.3-1.5",
+    "dex": 753,
+    "type": ["Grass", "Grass"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [40, 55, 35, 50, 35, 35],
+    "ev": [0, 1, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Leaf Guard", "Contrary"],
+    "growthrate": "Medium_Fast",
+    "exp": 50,
+    "normalURL": "",
+    "shinyURL": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Nosepass",
+    "fillerinfo": "Nosepass-1.0-97.0",
+    "dex": 299,
+    "type": ["Rock", "Rock"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [30, 45, 135, 45, 90, 30],
+    "ev": [0, 0, 1, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Sturdy", "Magnet Pull", "Sand Force"],
+    "growthrate": "Medium_Fast",
+    "exp": 75,
+    "normalURL": "",
+    "shinyURL": ""
+}

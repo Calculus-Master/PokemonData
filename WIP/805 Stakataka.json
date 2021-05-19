@@ -1,0 +1,21 @@
+{
+    "name": "Stakataka",
+    "fillerinfo": "Stakataka-5.5-820.0",
+    "dex": 805,
+    "type": ["Rock", "Steel"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [61, 131, 211, 53, 101, 13],
+    "ev": [0, 0, 3, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Beast Boost"],
+    "growthrate": "Slow",
+    "exp": 257,
+    "normalURL": "",
+    "shinyURL": ""
+}

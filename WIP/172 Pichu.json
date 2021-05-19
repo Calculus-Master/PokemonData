@@ -1,0 +1,21 @@
+{
+    "name": "Pichu",
+    "fillerinfo": "Pichu-0.3-2.0",
+    "dex": 172,
+    "type": ["Electric", "Electric"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [20, 40, 15, 35, 35, 60],
+    "ev": [0, 0, 0, 0, 0, 1],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Static", "Lightning Rod"],
+    "growthrate": "Medium_Fast",
+    "exp": 41,
+    "normalURL": "",
+    "shinyURL": ""
+}

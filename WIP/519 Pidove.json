@@ -1,0 +1,21 @@
+{
+    "name": "Pidove",
+    "fillerinfo": "Pidove-0.3-2.1",
+    "dex": 519,
+    "type": ["Normal", "Flying"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [50, 55, 50, 36, 30, 43],
+    "ev": [0, 1, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Big Pecks", "Super Luck", "Rivalry"],
+    "growthrate": "Medium_Slow",
+    "exp": 53,
+    "normalURL": "",
+    "shinyURL": ""
+}

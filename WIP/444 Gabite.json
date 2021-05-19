@@ -1,0 +1,21 @@
+{
+    "name": "Gabite",
+    "fillerinfo": "Gabite-1.4-56.0",
+    "dex": 444,
+    "type": ["Dragon", "Ground"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [68, 90, 65, 50, 55, 82],
+    "ev": [0, 2, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Sand Veil", "Rough Skin"],
+    "growthrate": "Slow",
+    "exp": 144,
+    "normalURL": "",
+    "shinyURL": ""
+}

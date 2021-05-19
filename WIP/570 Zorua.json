@@ -1,0 +1,21 @@
+{
+    "name": "Zorua",
+    "fillerinfo": "Zorua-0.7-12.5",
+    "dex": 570,
+    "type": ["Dark", "Dark"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [40, 65, 40, 80, 40, 65],
+    "ev": [0, 0, 0, 1, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Illusion"],
+    "growthrate": "Medium_Slow",
+    "exp": 66,
+    "normalURL": "",
+    "shinyURL": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Shaymin-Land-",
+    "fillerinfo": "Shaymin-0.2-2.1",
+    "dex": 492,
+    "type": ["Grass", "Grass"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [100, 100, 100, 100, 100, 100],
+    "ev": [3, 0, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Natural Cure"],
+    "growthrate": "Medium_Slow",
+    "exp": 270,
+    "normalURL": "",
+    "shinyURL": ""
+}

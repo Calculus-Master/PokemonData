@@ -1,0 +1,21 @@
+{
+    "name": "Trapinch",
+    "fillerinfo": "Trapinch-0.7-15.0",
+    "dex": 328,
+    "type": ["Ground", "Ground"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [45, 100, 45, 45, 45, 10],
+    "ev": [0, 1, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Hyper Cutter", "Arena Trap", "Sheer Force"],
+    "growthrate": "Medium_Slow",
+    "exp": 58,
+    "normalURL": "",
+    "shinyURL": ""
+}

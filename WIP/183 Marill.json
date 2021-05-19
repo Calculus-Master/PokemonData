@@ -1,0 +1,21 @@
+{
+    "name": "Marill",
+    "fillerinfo": "Marill-0.4-8.5",
+    "dex": 183,
+    "type": ["Water", "Fairy"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [70, 20, 50, 20, 50, 40],
+    "ev": [2, 0, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Thick Fat", "Huge Power", "Sap Sipper"],
+    "growthrate": "Fast",
+    "exp": 88,
+    "normalURL": "",
+    "shinyURL": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Grimer",
+    "fillerinfo": "Grimer-0.9-30.0",
+    "dex": 88,
+    "type": ["Poison", "Poison"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [80, 80, 50, 40, 50, 25],
+    "ev": [1, 0, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Stench", "Sticky Hold", "Poison Touch"],
+    "growthrate": "Medium_Fast",
+    "exp": 65,
+    "normalURL": "",
+    "shinyURL": ""
+}

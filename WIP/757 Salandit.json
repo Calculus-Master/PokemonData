@@ -1,0 +1,21 @@
+{
+    "name": "Salandit",
+    "fillerinfo": "Salandit-0.6-4.8",
+    "dex": 757,
+    "type": ["Poison", "Fire"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [48, 44, 40, 71, 40, 77],
+    "ev": [0, 0, 0, 0, 0, 1],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Corrosion", "Oblivious"],
+    "growthrate": "Medium_Fast",
+    "exp": 64,
+    "normalURL": "",
+    "shinyURL": ""
+}

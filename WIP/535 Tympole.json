@@ -1,0 +1,21 @@
+{
+    "name": "Tympole",
+    "fillerinfo": "Tympole-0.5-4.5",
+    "dex": 535,
+    "type": ["Water", "Water"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [50, 50, 40, 50, 40, 64],
+    "ev": [0, 0, 0, 0, 0, 1],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Swift Swim", "Hydration", "Water Absorb"],
+    "growthrate": "Medium_Slow",
+    "exp": 59,
+    "normalURL": "",
+    "shinyURL": ""
+}

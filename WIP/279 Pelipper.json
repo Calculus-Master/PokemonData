@@ -1,0 +1,21 @@
+{
+    "name": "Pelipper",
+    "fillerinfo": "Pelipper-1.2-28.0",
+    "dex": 279,
+    "type": ["Water", "Flying"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [60, 50, 100, 95, 70, 65],
+    "ev": [0, 0, 2, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Keen Eye", "Drizzle", "Rain Dish"],
+    "growthrate": "Medium_Fast",
+    "exp": 154,
+    "normalURL": "",
+    "shinyURL": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Talonflame",
+    "fillerinfo": "Talonflame-1.2-24.5",
+    "dex": 663,
+    "type": ["Fire", "Flying"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [78, 81, 71, 74, 69, 126],
+    "ev": [0, 0, 0, 0, 0, 3],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Flame Body", "Gale Wings"],
+    "growthrate": "Medium_Slow",
+    "exp": 175,
+    "normalURL": "",
+    "shinyURL": ""
+}

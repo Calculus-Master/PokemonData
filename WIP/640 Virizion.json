@@ -1,0 +1,21 @@
+{
+    "name": "Virizion",
+    "fillerinfo": "Virizion-2.0-200.0",
+    "dex": 640,
+    "type": ["Grass", "Fighting"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [91, 90, 72, 90, 129, 108],
+    "ev": [0, 0, 0, 0, 3, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Justified"],
+    "growthrate": "Slow",
+    "exp": 261,
+    "normalURL": "",
+    "shinyURL": ""
+}

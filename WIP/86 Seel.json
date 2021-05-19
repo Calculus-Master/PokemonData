@@ -1,0 +1,21 @@
+{
+    "name": "Seel",
+    "fillerinfo": "Seel-1.1-90.0",
+    "dex": 86,
+    "type": ["Water", "Water"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [65, 45, 55, 45, 70, 45],
+    "ev": [0, 0, 0, 0, 1, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Thick Fat", "Hydration", "Ice Body"],
+    "growthrate": "Medium_Fast",
+    "exp": 65,
+    "normalURL": "",
+    "shinyURL": ""
+}

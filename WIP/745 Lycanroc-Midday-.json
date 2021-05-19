@@ -1,0 +1,21 @@
+{
+    "name": "Lycanroc-Midday-",
+    "fillerinfo": "Lycanroc-0.8-25.0",
+    "dex": 745,
+    "type": ["Rock", "Rock"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [75, 115, 65, 55, 65, 112],
+    "ev": [0, 2, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Keen Eye", "Sand Rush", "Steadfast"],
+    "growthrate": "Medium_Fast",
+    "exp": 170,
+    "normalURL": "",
+    "shinyURL": ""
+}

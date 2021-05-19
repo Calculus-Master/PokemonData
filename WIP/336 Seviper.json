@@ -1,0 +1,21 @@
+{
+    "name": "Seviper",
+    "fillerinfo": "Seviper-2.7-52.5",
+    "dex": 336,
+    "type": ["Poison", "Poison"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [73, 100, 60, 100, 60, 65],
+    "ev": [0, 1, 0, 1, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Shed Skin", "Infiltrator"],
+    "growthrate": "Fluctuating",
+    "exp": 160,
+    "normalURL": "",
+    "shinyURL": ""
+}

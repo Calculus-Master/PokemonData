@@ -1,0 +1,21 @@
+{
+    "name": "Sunflora",
+    "fillerinfo": "Sunflora-0.8-8.5",
+    "dex": 192,
+    "type": ["Grass", "Grass"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [75, 75, 55, 105, 85, 30],
+    "ev": [0, 0, 0, 2, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Chlorophyll", "Solar Power", "Early Bird"],
+    "growthrate": "Medium_Slow",
+    "exp": 149,
+    "normalURL": "",
+    "shinyURL": ""
+}

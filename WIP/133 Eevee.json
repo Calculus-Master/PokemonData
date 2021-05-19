@@ -1,0 +1,21 @@
+{
+    "name": "Eevee",
+    "fillerinfo": "Eevee-0.3-6.5",
+    "dex": 133,
+    "type": ["Normal", "Normal"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [55, 55, 50, 45, 65, 55],
+    "ev": [0, 0, 0, 0, 1, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Run Away", "Adaptability", "Anticipation"],
+    "growthrate": "Medium_Fast",
+    "exp": 65,
+    "normalURL": "",
+    "shinyURL": ""
+}

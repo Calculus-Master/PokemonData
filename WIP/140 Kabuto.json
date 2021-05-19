@@ -1,0 +1,21 @@
+{
+    "name": "Kabuto",
+    "fillerinfo": "Kabuto-0.5-11.5",
+    "dex": 140,
+    "type": ["Rock", "Water"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [30, 80, 90, 55, 45, 55],
+    "ev": [0, 0, 1, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Swift Swim", "Battle Armor", "Weak Armor"],
+    "growthrate": "Medium_Fast",
+    "exp": 71,
+    "normalURL": "",
+    "shinyURL": ""
+}

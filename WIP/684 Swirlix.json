@@ -1,0 +1,21 @@
+{
+    "name": "Swirlix",
+    "fillerinfo": "Swirlix-0.4-3.5",
+    "dex": 684,
+    "type": ["Fairy", "Fairy"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [62, 48, 66, 59, 57, 49],
+    "ev": [0, 0, 1, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Sweet Veil", "Unburden"],
+    "growthrate": "Medium_Fast",
+    "exp": 68,
+    "normalURL": "",
+    "shinyURL": ""
+}

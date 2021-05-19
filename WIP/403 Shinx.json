@@ -1,0 +1,21 @@
+{
+    "name": "Shinx",
+    "fillerinfo": "Shinx-0.5-9.5",
+    "dex": 403,
+    "type": ["Electric", "Electric"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [45, 65, 34, 40, 34, 45],
+    "ev": [0, 1, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Rivalry", "Intimidate", "Guts"],
+    "growthrate": "Medium_Slow",
+    "exp": 53,
+    "normalURL": "",
+    "shinyURL": ""
+}

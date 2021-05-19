@@ -1,0 +1,21 @@
+{
+    "name": "Igglybuff",
+    "fillerinfo": "Igglybuff-0.3-1.0",
+    "dex": 174,
+    "type": ["Normal", "Fairy"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [90, 30, 15, 40, 20, 15],
+    "ev": [1, 0, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Cute Charm", "Competitive", "Friend Guard"],
+    "growthrate": "Fast",
+    "exp": 42,
+    "normalURL": "",
+    "shinyURL": ""
+}

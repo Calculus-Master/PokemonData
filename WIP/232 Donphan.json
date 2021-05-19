@@ -1,0 +1,21 @@
+{
+    "name": "Donphan",
+    "fillerinfo": "Donphan-1.1-120.0",
+    "dex": 232,
+    "type": ["Ground", "Ground"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [90, 120, 120, 60, 60, 50],
+    "ev": [0, 1, 1, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Sturdy", "Sand Veil"],
+    "growthrate": "Medium_Fast",
+    "exp": 175,
+    "normalURL": "",
+    "shinyURL": ""
+}

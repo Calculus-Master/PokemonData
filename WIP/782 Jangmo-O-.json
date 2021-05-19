@@ -1,0 +1,21 @@
+{
+    "name": "Jangmo-O-",
+    "fillerinfo": "Jangmo-O--0.6-29.7",
+    "dex": 782,
+    "type": ["Dragon", "Dragon"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [45, 55, 65, 45, 45, 45],
+    "ev": [0, 0, 1, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Bulletproof", "Soundproof", "Overcoat"],
+    "growthrate": "Slow",
+    "exp": 60,
+    "normalURL": "",
+    "shinyURL": ""
+}

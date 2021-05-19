@@ -1,0 +1,21 @@
+{
+    "name": "Gorebyss",
+    "fillerinfo": "Gorebyss-1.8-22.6",
+    "dex": 368,
+    "type": ["Water", "Water"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [55, 84, 105, 114, 75, 52],
+    "ev": [0, 0, 0, 2, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Swift Swim", "Hydration"],
+    "growthrate": "Erratic",
+    "exp": 170,
+    "normalURL": "",
+    "shinyURL": ""
+}

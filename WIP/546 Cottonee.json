@@ -1,0 +1,21 @@
+{
+    "name": "Cottonee",
+    "fillerinfo": "Cottonee-0.3-0.6",
+    "dex": 546,
+    "type": ["Grass", "Fairy"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [40, 27, 60, 37, 50, 66],
+    "ev": [0, 0, 0, 0, 0, 1],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Prankster", "Infiltrator", "Chlorophyll"],
+    "growthrate": "Medium_Fast",
+    "exp": 56,
+    "normalURL": "",
+    "shinyURL": ""
+}

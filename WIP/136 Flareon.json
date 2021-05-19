@@ -1,0 +1,21 @@
+{
+    "name": "Flareon",
+    "fillerinfo": "Flareon-0.9-25.0",
+    "dex": 136,
+    "type": ["Fire", "Fire"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [65, 130, 60, 95, 110, 65],
+    "ev": [0, 2, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Flash Fire", "Guts"],
+    "growthrate": "Medium_Fast",
+    "exp": 184,
+    "normalURL": "",
+    "shinyURL": ""
+}

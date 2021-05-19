@@ -1,0 +1,21 @@
+{
+    "name": "Tapu-Fini-",
+    "fillerinfo": "Tapu-Fini--1.3-21.2",
+    "dex": 788,
+    "type": ["Water", "Fairy"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [70, 75, 115, 95, 130, 85],
+    "ev": [0, 0, 0, 0, 3, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Misty Surge", "Telepathy"],
+    "growthrate": "Slow",
+    "exp": 257,
+    "normalURL": "",
+    "shinyURL": ""
+}

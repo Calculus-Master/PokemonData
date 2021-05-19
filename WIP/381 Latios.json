@@ -1,0 +1,21 @@
+{
+    "name": "Latios",
+    "fillerinfo": "Latios-2.0-60.0",
+    "dex": 381,
+    "type": ["Dragon", "Psychic"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [80, 90, 80, 130, 110, 110],
+    "ev": [0, 0, 0, 3, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Levitate"],
+    "growthrate": "Slow",
+    "exp": 270,
+    "normalURL": "",
+    "shinyURL": ""
+}

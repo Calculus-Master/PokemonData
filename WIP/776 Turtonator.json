@@ -1,0 +1,21 @@
+{
+    "name": "Turtonator",
+    "fillerinfo": "Turtonator-2.0-212.0",
+    "dex": 776,
+    "type": ["Fire", "Dragon"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [60, 78, 135, 91, 85, 36],
+    "ev": [0, 0, 2, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Shell Armor"],
+    "growthrate": "Medium_Fast",
+    "exp": 170,
+    "normalURL": "",
+    "shinyURL": ""
+}

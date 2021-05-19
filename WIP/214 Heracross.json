@@ -1,0 +1,21 @@
+{
+    "name": "Heracross",
+    "fillerinfo": "Heracross-1.5-54.0",
+    "dex": 214,
+    "type": ["Bug", "Fighting"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [80, 125, 75, 40, 95, 85],
+    "ev": [0, 2, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Swarm", "Guts", "Moxie"],
+    "growthrate": "Slow",
+    "exp": 175,
+    "normalURL": "",
+    "shinyURL": ""
+}

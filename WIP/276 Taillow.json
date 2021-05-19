@@ -1,0 +1,21 @@
+{
+    "name": "Taillow",
+    "fillerinfo": "Taillow-0.3-2.3",
+    "dex": 276,
+    "type": ["Normal", "Flying"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [40, 55, 30, 30, 30, 85],
+    "ev": [0, 0, 0, 0, 0, 1],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Guts", "Scrappy"],
+    "growthrate": "Medium_Slow",
+    "exp": 54,
+    "normalURL": "",
+    "shinyURL": ""
+}

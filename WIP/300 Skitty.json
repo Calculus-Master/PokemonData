@@ -1,0 +1,21 @@
+{
+    "name": "Skitty",
+    "fillerinfo": "Skitty-0.6-11.0",
+    "dex": 300,
+    "type": ["Normal", "Normal"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [50, 45, 45, 35, 35, 50],
+    "ev": [0, 0, 0, 0, 0, 1],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Cute Charm", "Normalize", "Wonder Skin"],
+    "growthrate": "Fast",
+    "exp": 52,
+    "normalURL": "",
+    "shinyURL": ""
+}

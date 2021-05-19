@@ -1,0 +1,21 @@
+{
+    "name": "Cradily",
+    "fillerinfo": "Cradily-1.5-60.4",
+    "dex": 346,
+    "type": ["Rock", "Grass"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [86, 81, 97, 81, 107, 43],
+    "ev": [0, 0, 0, 0, 2, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Suction Cups", "Storm Drain"],
+    "growthrate": "Erratic",
+    "exp": 173,
+    "normalURL": "",
+    "shinyURL": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Sewaddle",
+    "fillerinfo": "Sewaddle-0.3-2.5",
+    "dex": 540,
+    "type": ["Bug", "Grass"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [45, 53, 70, 40, 60, 42],
+    "ev": [0, 0, 1, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Swarm", "Chlorophyll", "Overcoat"],
+    "growthrate": "Medium_Slow",
+    "exp": 62,
+    "normalURL": "",
+    "shinyURL": ""
+}

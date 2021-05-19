@@ -1,0 +1,21 @@
+{
+    "name": "Scatterbug",
+    "fillerinfo": "Scatterbug-0.3-2.5",
+    "dex": 664,
+    "type": ["Bug", "Bug"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [38, 35, 40, 27, 25, 35],
+    "ev": [0, 0, 1, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Shield Dust", "Compound Eyes", "Friend Guard"],
+    "growthrate": "Medium_Fast",
+    "exp": 40,
+    "normalURL": "",
+    "shinyURL": ""
+}

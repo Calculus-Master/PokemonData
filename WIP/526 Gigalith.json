@@ -1,0 +1,21 @@
+{
+    "name": "Gigalith",
+    "fillerinfo": "Gigalith-1.7-260.0",
+    "dex": 526,
+    "type": ["Rock", "Rock"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [85, 135, 130, 60, 80, 25],
+    "ev": [0, 3, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Sturdy", "Sand Stream", "Sand Force"],
+    "growthrate": "Medium_Slow",
+    "exp": 232,
+    "normalURL": "",
+    "shinyURL": ""
+}

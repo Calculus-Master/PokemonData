@@ -1,0 +1,21 @@
+{
+    "name": "Darmanitan-Standard-",
+    "fillerinfo": "Darmanitan-1.3-92.9",
+    "dex": 555,
+    "type": ["Fire", "Fire"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [105, 140, 55, 30, 55, 95],
+    "ev": [0, 2, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Sheer Force", "Zen Mode"],
+    "growthrate": "Medium_Slow",
+    "exp": 168,
+    "normalURL": "",
+    "shinyURL": ""
+}

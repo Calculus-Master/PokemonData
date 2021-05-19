@@ -1,0 +1,21 @@
+{
+    "name": "Aerodactyl",
+    "fillerinfo": "Aerodactyl-1.8-59.0",
+    "dex": 142,
+    "type": ["Rock", "Flying"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [80, 105, 65, 60, 75, 130],
+    "ev": [0, 0, 0, 0, 0, 2],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Rock Head", "Pressure", "Unnerve"],
+    "growthrate": "Slow",
+    "exp": 180,
+    "normalURL": "",
+    "shinyURL": ""
+}

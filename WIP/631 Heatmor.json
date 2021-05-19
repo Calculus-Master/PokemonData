@@ -1,0 +1,21 @@
+{
+    "name": "Heatmor",
+    "fillerinfo": "Heatmor-1.4-58.0",
+    "dex": 631,
+    "type": ["Fire", "Fire"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [85, 97, 66, 105, 66, 65],
+    "ev": [0, 0, 0, 2, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Gluttony", "Flash Fire", "White Smoke"],
+    "growthrate": "Medium_Fast",
+    "exp": 169,
+    "normalURL": "",
+    "shinyURL": ""
+}

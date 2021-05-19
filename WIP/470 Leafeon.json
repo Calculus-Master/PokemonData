@@ -1,0 +1,21 @@
+{
+    "name": "Leafeon",
+    "fillerinfo": "Leafeon-1.0-25.5",
+    "dex": 470,
+    "type": ["Grass", "Grass"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [65, 110, 130, 60, 65, 95],
+    "ev": [0, 0, 2, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Leaf Guard", "Chlorophyll"],
+    "growthrate": "Medium_Fast",
+    "exp": 184,
+    "normalURL": "",
+    "shinyURL": ""
+}

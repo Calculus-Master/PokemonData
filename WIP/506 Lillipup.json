@@ -1,0 +1,21 @@
+{
+    "name": "Lillipup",
+    "fillerinfo": "Lillipup-0.4-4.1",
+    "dex": 506,
+    "type": ["Normal", "Normal"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [45, 60, 45, 25, 45, 55],
+    "ev": [0, 1, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Vital Spirit", "Pickup", "Run Away"],
+    "growthrate": "Medium_Slow",
+    "exp": 55,
+    "normalURL": "",
+    "shinyURL": ""
+}

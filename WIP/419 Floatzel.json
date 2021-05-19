@@ -1,0 +1,21 @@
+{
+    "name": "Floatzel",
+    "fillerinfo": "Floatzel-1.1-33.5",
+    "dex": 419,
+    "type": ["Water", "Water"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [85, 105, 55, 85, 50, 115],
+    "ev": [0, 0, 0, 0, 0, 2],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Swift Swim", "Water Veil"],
+    "growthrate": "Medium_Fast",
+    "exp": 173,
+    "normalURL": "",
+    "shinyURL": ""
+}

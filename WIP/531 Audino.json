@@ -1,0 +1,21 @@
+{
+    "name": "Audino",
+    "fillerinfo": "Audino-1.1-31.0",
+    "dex": 531,
+    "type": ["Normal", "Normal"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [103, 60, 86, 60, 86, 50],
+    "ev": [2, 0, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Healer", "Regenerator", "Klutz"],
+    "growthrate": "Fast",
+    "exp": 390,
+    "normalURL": "",
+    "shinyURL": ""
+}

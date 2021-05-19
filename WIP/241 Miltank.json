@@ -1,0 +1,21 @@
+{
+    "name": "Miltank",
+    "fillerinfo": "Miltank-1.2-75.5",
+    "dex": 241,
+    "type": ["Normal", "Normal"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [95, 80, 105, 40, 70, 100],
+    "ev": [0, 0, 2, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Thick Fat", "Scrappy", "Sap Sipper"],
+    "growthrate": "Slow",
+    "exp": 172,
+    "normalURL": "",
+    "shinyURL": ""
+}

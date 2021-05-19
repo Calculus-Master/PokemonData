@@ -1,0 +1,21 @@
+{
+    "name": "Regirock",
+    "fillerinfo": "Regirock-1.7-230.0",
+    "dex": 377,
+    "type": ["Rock", "Rock"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [80, 100, 200, 50, 100, 50],
+    "ev": [0, 0, 3, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Clear Body", "Sturdy"],
+    "growthrate": "Slow",
+    "exp": 261,
+    "normalURL": "",
+    "shinyURL": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Totodile",
+    "fillerinfo": "Totodile-0.6-9.5",
+    "dex": 158,
+    "type": ["Water", "Water"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [50, 65, 64, 44, 48, 43],
+    "ev": [0, 1, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Torrent", "Sheer Force"],
+    "growthrate": "Medium_Slow",
+    "exp": 63,
+    "normalURL": "",
+    "shinyURL": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Crabominable",
+    "fillerinfo": "Crabominable-1.7-180.0",
+    "dex": 740,
+    "type": ["Fighting", "Ice"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [97, 132, 77, 62, 67, 43],
+    "ev": [0, 2, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Hyper Cutter", "Iron Fist", "Anger Point"],
+    "growthrate": "Medium_Fast",
+    "exp": 167,
+    "normalURL": "",
+    "shinyURL": ""
+}

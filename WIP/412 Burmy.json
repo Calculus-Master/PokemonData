@@ -1,0 +1,21 @@
+{
+    "name": "Burmy",
+    "fillerinfo": "Burmy-0.2-3.4",
+    "dex": 412,
+    "type": ["Bug", "Bug"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [40, 29, 45, 29, 45, 36],
+    "ev": [0, 0, 0, 0, 1, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Shed Skin", "Overcoat"],
+    "growthrate": "Medium_Fast",
+    "exp": 45,
+    "normalURL": "",
+    "shinyURL": ""
+}

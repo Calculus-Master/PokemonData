@@ -1,0 +1,21 @@
+{
+    "name": "Cleffa",
+    "fillerinfo": "Cleffa-0.3-3.0",
+    "dex": 173,
+    "type": ["Fairy", "Fairy"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [50, 25, 28, 45, 55, 15],
+    "ev": [0, 0, 0, 0, 1, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Cute Charm", "Magic Guard", "Friend Guard"],
+    "growthrate": "Fast",
+    "exp": 44,
+    "normalURL": "",
+    "shinyURL": ""
+}

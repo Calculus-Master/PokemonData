@@ -1,0 +1,21 @@
+{
+    "name": "Durant",
+    "fillerinfo": "Durant-0.3-33.0",
+    "dex": 632,
+    "type": ["Bug", "Steel"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [58, 109, 112, 48, 48, 109],
+    "ev": [0, 0, 2, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Swarm", "Hustle", "Truant"],
+    "growthrate": "Medium_Fast",
+    "exp": 169,
+    "normalURL": "",
+    "shinyURL": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Mareep",
+    "fillerinfo": "Mareep-0.6-7.8",
+    "dex": 179,
+    "type": ["Electric", "Electric"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [55, 40, 40, 65, 45, 35],
+    "ev": [0, 0, 0, 1, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Static", "Plus"],
+    "growthrate": "Medium_Slow",
+    "exp": 56,
+    "normalURL": "",
+    "shinyURL": ""
+}

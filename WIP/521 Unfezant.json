@@ -1,0 +1,21 @@
+{
+    "name": "Unfezant",
+    "fillerinfo": "Unfezant-1.2-29.0",
+    "dex": 521,
+    "type": ["Normal", "Flying"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [80, 115, 80, 65, 55, 93],
+    "ev": [0, 3, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Big Pecks", "Super Luck", "Rivalry"],
+    "growthrate": "Medium_Slow",
+    "exp": 220,
+    "normalURL": "",
+    "shinyURL": ""
+}

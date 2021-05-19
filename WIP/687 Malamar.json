@@ -1,0 +1,21 @@
+{
+    "name": "Malamar",
+    "fillerinfo": "Malamar-1.5-47.0",
+    "dex": 687,
+    "type": ["Dark", "Psychic"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [86, 92, 88, 68, 75, 73],
+    "ev": [0, 2, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Contrary", "Suction Cups", "Infiltrator"],
+    "growthrate": "Medium_Fast",
+    "exp": 169,
+    "normalURL": "",
+    "shinyURL": ""
+}

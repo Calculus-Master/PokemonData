@@ -1,0 +1,21 @@
+{
+    "name": "Bounsweet",
+    "fillerinfo": "Bounsweet-0.3-3.2",
+    "dex": 761,
+    "type": ["Grass", "Grass"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [42, 30, 38, 30, 38, 32],
+    "ev": [1, 0, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Leaf Guard", "Oblivious", "Sweet Veil"],
+    "growthrate": "Medium_Slow",
+    "exp": 42,
+    "normalURL": "",
+    "shinyURL": ""
+}

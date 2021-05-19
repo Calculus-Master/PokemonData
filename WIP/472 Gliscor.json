@@ -1,0 +1,21 @@
+{
+    "name": "Gliscor",
+    "fillerinfo": "Gliscor-2.0-42.5",
+    "dex": 472,
+    "type": ["Ground", "Flying"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [75, 95, 125, 45, 75, 95],
+    "ev": [0, 0, 2, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Hyper Cutter", "Sand Veil", "Poison Heal"],
+    "growthrate": "Medium_Slow",
+    "exp": 179,
+    "normalURL": "",
+    "shinyURL": ""
+}

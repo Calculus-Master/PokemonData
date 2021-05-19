@@ -1,0 +1,21 @@
+{
+    "name": "Kyogre",
+    "fillerinfo": "Kyogre-4.5-352.0",
+    "dex": 382,
+    "type": ["Water", "Water"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [100, 100, 90, 150, 140, 90],
+    "ev": [0, 0, 0, 3, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Drizzle"],
+    "growthrate": "Slow",
+    "exp": 302,
+    "normalURL": "",
+    "shinyURL": ""
+}

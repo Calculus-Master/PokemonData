@@ -1,0 +1,21 @@
+{
+    "name": "Shuckle",
+    "fillerinfo": "Shuckle-0.6-20.5",
+    "dex": 213,
+    "type": ["Bug", "Rock"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [20, 10, 230, 10, 230, 5],
+    "ev": [0, 0, 1, 0, 1, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Sturdy", "Gluttony", "Contrary"],
+    "growthrate": "Medium_Slow",
+    "exp": 177,
+    "normalURL": "",
+    "shinyURL": ""
+}

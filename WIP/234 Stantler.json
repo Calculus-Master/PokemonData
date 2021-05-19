@@ -1,0 +1,21 @@
+{
+    "name": "Stantler",
+    "fillerinfo": "Stantler-1.4-71.2",
+    "dex": 234,
+    "type": ["Normal", "Normal"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [73, 95, 62, 85, 65, 85],
+    "ev": [0, 1, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Intimidate", "Frisk", "Sap Sipper"],
+    "growthrate": "Slow",
+    "exp": 163,
+    "normalURL": "",
+    "shinyURL": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Monferno",
+    "fillerinfo": "Monferno-0.9-22.0",
+    "dex": 391,
+    "type": ["Fire", "Fighting"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [64, 78, 52, 78, 52, 81],
+    "ev": [0, 0, 0, 1, 0, 1],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Blaze", "Iron Fist"],
+    "growthrate": "Medium_Slow",
+    "exp": 142,
+    "normalURL": "",
+    "shinyURL": ""
+}

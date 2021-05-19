@@ -1,0 +1,21 @@
+{
+    "name": "Croagunk",
+    "fillerinfo": "Croagunk-0.7-23.0",
+    "dex": 453,
+    "type": ["Poison", "Fighting"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [48, 61, 40, 61, 40, 50],
+    "ev": [0, 1, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Anticipation", "Dry Skin", "Poison Touch"],
+    "growthrate": "Medium_Fast",
+    "exp": 60,
+    "normalURL": "",
+    "shinyURL": ""
+}

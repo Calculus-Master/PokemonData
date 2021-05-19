@@ -1,0 +1,21 @@
+{
+    "name": "Ambipom",
+    "fillerinfo": "Ambipom-1.2-20.3",
+    "dex": 424,
+    "type": ["Normal", "Normal"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [75, 100, 66, 60, 66, 115],
+    "ev": [0, 0, 0, 0, 0, 2],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Technician", "Pickup", "Skill Link"],
+    "growthrate": "Fast",
+    "exp": 169,
+    "normalURL": "",
+    "shinyURL": ""
+}

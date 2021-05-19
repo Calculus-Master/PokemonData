@@ -1,0 +1,21 @@
+{
+    "name": "Cryogonal",
+    "fillerinfo": "Cryogonal-1.1-148.0",
+    "dex": 615,
+    "type": ["Ice", "Ice"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [80, 50, 50, 95, 135, 105],
+    "ev": [0, 0, 0, 0, 2, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Levitate"],
+    "growthrate": "Medium_Fast",
+    "exp": 180,
+    "normalURL": "",
+    "shinyURL": ""
+}

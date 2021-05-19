@@ -1,0 +1,21 @@
+{
+    "name": "Scrafty",
+    "fillerinfo": "Scrafty-1.1-30.0",
+    "dex": 560,
+    "type": ["Dark", "Fighting"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [65, 90, 115, 45, 115, 58],
+    "ev": [0, 0, 1, 0, 1, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Shed Skin", "Moxie", "Intimidate"],
+    "growthrate": "Medium_Fast",
+    "exp": 171,
+    "normalURL": "",
+    "shinyURL": ""
+}

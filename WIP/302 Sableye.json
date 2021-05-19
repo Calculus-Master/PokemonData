@@ -1,0 +1,21 @@
+{
+    "name": "Sableye",
+    "fillerinfo": "Sableye-0.5-11.0",
+    "dex": 302,
+    "type": ["Dark", "Ghost"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [50, 75, 75, 65, 65, 50],
+    "ev": [0, 1, 1, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Keen Eye", "Stall", "Prankster"],
+    "growthrate": "Medium_Slow",
+    "exp": 133,
+    "normalURL": "",
+    "shinyURL": ""
+}

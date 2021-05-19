@@ -1,0 +1,21 @@
+{
+    "name": "Cosmoem",
+    "fillerinfo": "Cosmoem-0.1-999.9",
+    "dex": 790,
+    "type": ["Psychic", "Psychic"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [43, 29, 131, 29, 131, 37],
+    "ev": [0, 0, 1, 0, 1, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Sturdy"],
+    "growthrate": "Slow",
+    "exp": 140,
+    "normalURL": "",
+    "shinyURL": ""
+}

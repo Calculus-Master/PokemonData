@@ -1,0 +1,21 @@
+{
+    "name": "Kirlia",
+    "fillerinfo": "Kirlia-0.8-20.2",
+    "dex": 281,
+    "type": ["Psychic", "Fairy"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [38, 35, 35, 65, 55, 50],
+    "ev": [0, 0, 0, 2, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Synchronize", "Trace", "Telepathy"],
+    "growthrate": "Slow",
+    "exp": 97,
+    "normalURL": "",
+    "shinyURL": ""
+}

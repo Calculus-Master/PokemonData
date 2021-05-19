@@ -1,0 +1,21 @@
+{
+    "name": "Froakie",
+    "fillerinfo": "Froakie-0.3-7.0",
+    "dex": 656,
+    "type": ["Water", "Water"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [41, 56, 40, 62, 44, 71],
+    "ev": [0, 0, 0, 0, 0, 1],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Torrent", "Protean"],
+    "growthrate": "Medium_Slow",
+    "exp": 63,
+    "normalURL": "",
+    "shinyURL": ""
+}

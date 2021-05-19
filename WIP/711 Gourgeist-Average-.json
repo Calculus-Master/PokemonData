@@ -1,0 +1,21 @@
+{
+    "name": "Gourgeist-Average-",
+    "fillerinfo": "Gourgeist-0.9-12.5",
+    "dex": 711,
+    "type": ["Ghost", "Grass"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [65, 90, 122, 58, 75, 84],
+    "ev": [0, 0, 2, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Pickup", "Frisk", "Insomnia"],
+    "growthrate": "Medium_Fast",
+    "exp": 173,
+    "normalURL": "",
+    "shinyURL": ""
+}

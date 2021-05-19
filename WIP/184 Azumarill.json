@@ -1,0 +1,21 @@
+{
+    "name": "Azumarill",
+    "fillerinfo": "Azumarill-0.8-28.5",
+    "dex": 184,
+    "type": ["Water", "Fairy"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [100, 50, 80, 60, 80, 50],
+    "ev": [3, 0, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Thick Fat", "Huge Power", "Sap Sipper"],
+    "growthrate": "Fast",
+    "exp": 189,
+    "normalURL": "",
+    "shinyURL": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Heliolisk",
+    "fillerinfo": "Heliolisk-1.0-21.0",
+    "dex": 695,
+    "type": ["Electric", "Normal"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [62, 55, 52, 109, 94, 109],
+    "ev": [0, 0, 0, 1, 0, 1],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Dry Skin", "Sand Veil", "Solar Power"],
+    "growthrate": "Medium_Fast",
+    "exp": 168,
+    "normalURL": "",
+    "shinyURL": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Vanillite",
+    "fillerinfo": "Vanillite-0.4-5.7",
+    "dex": 582,
+    "type": ["Ice", "Ice"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [36, 50, 50, 65, 60, 44],
+    "ev": [0, 0, 0, 1, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Ice Body", "Snow Cloak", "Weak Armor"],
+    "growthrate": "Slow",
+    "exp": 61,
+    "normalURL": "",
+    "shinyURL": ""
+}

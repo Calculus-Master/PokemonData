@@ -1,0 +1,21 @@
+{
+    "name": "Gothitelle",
+    "fillerinfo": "Gothitelle-1.5-44.0",
+    "dex": 576,
+    "type": ["Psychic", "Psychic"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [70, 55, 95, 95, 110, 65],
+    "ev": [0, 0, 0, 0, 3, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Frisk", "Competitive", "Shadow Tag"],
+    "growthrate": "Medium_Slow",
+    "exp": 221,
+    "normalURL": "",
+    "shinyURL": ""
+}

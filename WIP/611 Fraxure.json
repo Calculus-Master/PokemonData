@@ -1,0 +1,21 @@
+{
+    "name": "Fraxure",
+    "fillerinfo": "Fraxure-1.0-36.0",
+    "dex": 611,
+    "type": ["Dragon", "Dragon"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [66, 117, 70, 40, 50, 67],
+    "ev": [0, 2, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Rivalry", "Mold Breaker", "Unnerve"],
+    "growthrate": "Slow",
+    "exp": 144,
+    "normalURL": "",
+    "shinyURL": ""
+}

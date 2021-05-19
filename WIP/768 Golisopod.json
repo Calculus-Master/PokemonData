@@ -1,0 +1,21 @@
+{
+    "name": "Golisopod",
+    "fillerinfo": "Golisopod-2.0-108.0",
+    "dex": 768,
+    "type": ["Bug", "Water"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [75, 125, 140, 60, 90, 40],
+    "ev": [0, 0, 2, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Emergency Exit"],
+    "growthrate": "Medium_Fast",
+    "exp": 186,
+    "normalURL": "",
+    "shinyURL": ""
+}

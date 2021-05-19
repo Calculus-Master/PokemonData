@@ -1,0 +1,21 @@
+{
+    "name": "Sneasel",
+    "fillerinfo": "Sneasel-0.9-28.0",
+    "dex": 215,
+    "type": ["Dark", "Ice"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [55, 95, 55, 35, 75, 115],
+    "ev": [0, 0, 0, 0, 0, 1],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Inner Focus", "Keen Eye", "Pickpocket"],
+    "growthrate": "Medium_Slow",
+    "exp": 86,
+    "normalURL": "",
+    "shinyURL": ""
+}

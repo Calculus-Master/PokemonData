@@ -1,0 +1,21 @@
+{
+    "name": "Gastrodon",
+    "fillerinfo": "Gastrodon-0.9-29.9",
+    "dex": 423,
+    "type": ["Water", "Ground"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [111, 83, 68, 92, 82, 39],
+    "ev": [2, 0, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Sticky Hold", "Storm Drain", "Sand Force"],
+    "growthrate": "Medium_Fast",
+    "exp": 166,
+    "normalURL": "",
+    "shinyURL": ""
+}

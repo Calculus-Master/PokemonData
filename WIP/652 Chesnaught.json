@@ -1,0 +1,21 @@
+{
+    "name": "Chesnaught",
+    "fillerinfo": "Chesnaught-1.6-90.0",
+    "dex": 652,
+    "type": ["Grass", "Fighting"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [88, 107, 122, 74, 75, 64],
+    "ev": [0, 0, 3, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Overgrow", "Bulletproof"],
+    "growthrate": "Medium_Slow",
+    "exp": 239,
+    "normalURL": "",
+    "shinyURL": ""
+}

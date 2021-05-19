@@ -1,0 +1,21 @@
+{
+    "name": "Krabby",
+    "fillerinfo": "Krabby-0.4-6.5",
+    "dex": 98,
+    "type": ["Water", "Water"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [30, 105, 90, 25, 25, 50],
+    "ev": [0, 1, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Hyper Cutter", "Shell Armor", "Sheer Force"],
+    "growthrate": "Medium_Fast",
+    "exp": 65,
+    "normalURL": "",
+    "shinyURL": ""
+}

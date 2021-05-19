@@ -1,0 +1,21 @@
+{
+    "name": "Tepig",
+    "fillerinfo": "Tepig-0.5-9.9",
+    "dex": 498,
+    "type": ["Fire", "Fire"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [65, 63, 45, 45, 45, 45],
+    "ev": [1, 0, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Blaze", "Thick Fat"],
+    "growthrate": "Medium_Slow",
+    "exp": 62,
+    "normalURL": "",
+    "shinyURL": ""
+}

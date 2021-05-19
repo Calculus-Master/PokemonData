@@ -1,0 +1,21 @@
+{
+    "name": "Primarina",
+    "fillerinfo": "Primarina-1.8-44.0",
+    "dex": 730,
+    "type": ["Water", "Fairy"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [80, 74, 74, 126, 116, 60],
+    "ev": [0, 0, 0, 3, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Torrent", "Liquid Voice"],
+    "growthrate": "Medium_Slow",
+    "exp": 239,
+    "normalURL": "",
+    "shinyURL": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Slowking",
+    "fillerinfo": "Slowking-2.0-79.5",
+    "dex": 199,
+    "type": ["Water", "Psychic"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [95, 75, 80, 100, 110, 30],
+    "ev": [0, 0, 0, 0, 3, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Oblivious", "Own Tempo", "Regenerator"],
+    "growthrate": "Medium_Fast",
+    "exp": 172,
+    "normalURL": "",
+    "shinyURL": ""
+}

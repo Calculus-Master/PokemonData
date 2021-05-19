@@ -1,0 +1,21 @@
+{
+    "name": "Farfetchd",
+    "fillerinfo": "Farfetchd-0.8-15.0",
+    "dex": 83,
+    "type": ["Normal", "Flying"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [52, 90, 55, 58, 62, 60],
+    "ev": [0, 1, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Keen Eye", "Inner Focus", "Defiant"],
+    "growthrate": "Medium_Fast",
+    "exp": 132,
+    "normalURL": "",
+    "shinyURL": ""
+}

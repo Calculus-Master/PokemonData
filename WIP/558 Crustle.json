@@ -1,0 +1,21 @@
+{
+    "name": "Crustle",
+    "fillerinfo": "Crustle-1.4-200.0",
+    "dex": 558,
+    "type": ["Bug", "Rock"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [70, 105, 125, 65, 75, 45],
+    "ev": [0, 0, 2, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Sturdy", "Shell Armor", "Weak Armor"],
+    "growthrate": "Medium_Fast",
+    "exp": 170,
+    "normalURL": "",
+    "shinyURL": ""
+}

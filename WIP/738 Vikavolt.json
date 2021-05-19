@@ -1,0 +1,21 @@
+{
+    "name": "Vikavolt",
+    "fillerinfo": "Vikavolt-1.5-45.0",
+    "dex": 738,
+    "type": ["Bug", "Electric"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [77, 70, 90, 145, 75, 43],
+    "ev": [0, 0, 0, 3, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Levitate"],
+    "growthrate": "Medium_Fast",
+    "exp": 225,
+    "normalURL": "",
+    "shinyURL": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Quilladin",
+    "fillerinfo": "Quilladin-0.7-29.0",
+    "dex": 651,
+    "type": ["Grass", "Grass"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [61, 78, 95, 56, 58, 57],
+    "ev": [0, 0, 2, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Overgrow", "Bulletproof"],
+    "growthrate": "Medium_Slow",
+    "exp": 142,
+    "normalURL": "",
+    "shinyURL": ""
+}

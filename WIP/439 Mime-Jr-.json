@@ -1,0 +1,21 @@
+{
+    "name": "Mime-Jr-",
+    "fillerinfo": "Mime-Jr--0.6-13.0",
+    "dex": 439,
+    "type": ["Psychic", "Fairy"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [20, 25, 45, 70, 90, 60],
+    "ev": [0, 0, 0, 0, 1, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Soundproof", "Filter", "Technician"],
+    "growthrate": "Medium_Fast",
+    "exp": 62,
+    "normalURL": "",
+    "shinyURL": ""
+}

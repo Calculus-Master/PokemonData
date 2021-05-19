@@ -1,0 +1,21 @@
+{
+    "name": "Staravia",
+    "fillerinfo": "Staravia-0.6-15.5",
+    "dex": 397,
+    "type": ["Normal", "Flying"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [55, 75, 50, 40, 40, 80],
+    "ev": [0, 0, 0, 0, 0, 2],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Intimidate", "Reckless"],
+    "growthrate": "Medium_Slow",
+    "exp": 119,
+    "normalURL": "",
+    "shinyURL": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Dwebble",
+    "fillerinfo": "Dwebble-0.3-14.5",
+    "dex": 557,
+    "type": ["Bug", "Rock"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [50, 65, 85, 35, 35, 55],
+    "ev": [0, 0, 1, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Sturdy", "Shell Armor", "Weak Armor"],
+    "growthrate": "Medium_Fast",
+    "exp": 65,
+    "normalURL": "",
+    "shinyURL": ""
+}

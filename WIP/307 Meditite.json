@@ -1,0 +1,21 @@
+{
+    "name": "Meditite",
+    "fillerinfo": "Meditite-0.6-11.2",
+    "dex": 307,
+    "type": ["Fighting", "Psychic"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [30, 40, 55, 40, 55, 60],
+    "ev": [0, 0, 0, 0, 0, 1],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Pure Power", "Telepathy"],
+    "growthrate": "Medium_Fast",
+    "exp": 56,
+    "normalURL": "",
+    "shinyURL": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Absol",
+    "fillerinfo": "Absol-1.2-47.0",
+    "dex": 359,
+    "type": ["Dark", "Dark"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [65, 130, 60, 75, 60, 75],
+    "ev": [0, 2, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Pressure", "Super Luck", "Justified"],
+    "growthrate": "Medium_Slow",
+    "exp": 163,
+    "normalURL": "",
+    "shinyURL": ""
+}

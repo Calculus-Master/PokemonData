@@ -1,0 +1,21 @@
+{
+    "name": "Qwilfish",
+    "fillerinfo": "Qwilfish-0.5-3.9",
+    "dex": 211,
+    "type": ["Water", "Poison"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [65, 95, 85, 55, 55, 85],
+    "ev": [0, 1, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Poison Point", "Swift Swim", "Intimidate"],
+    "growthrate": "Medium_Fast",
+    "exp": 88,
+    "normalURL": "",
+    "shinyURL": ""
+}

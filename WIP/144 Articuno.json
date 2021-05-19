@@ -1,0 +1,21 @@
+{
+    "name": "Articuno",
+    "fillerinfo": "Articuno-1.7-55.4",
+    "dex": 144,
+    "type": ["Ice", "Flying"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [90, 85, 100, 95, 125, 85],
+    "ev": [0, 0, 0, 0, 3, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Pressure", "Snow Cloak"],
+    "growthrate": "Slow",
+    "exp": 261,
+    "normalURL": "",
+    "shinyURL": ""
+}

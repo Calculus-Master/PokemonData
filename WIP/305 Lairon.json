@@ -1,0 +1,21 @@
+{
+    "name": "Lairon",
+    "fillerinfo": "Lairon-0.9-120.0",
+    "dex": 305,
+    "type": ["Steel", "Rock"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [60, 90, 140, 50, 50, 40],
+    "ev": [0, 0, 2, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Sturdy", "Rock Head", "Heavy Metal"],
+    "growthrate": "Slow",
+    "exp": 151,
+    "normalURL": "",
+    "shinyURL": ""
+}

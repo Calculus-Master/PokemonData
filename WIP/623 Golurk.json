@@ -1,0 +1,21 @@
+{
+    "name": "Golurk",
+    "fillerinfo": "Golurk-2.8-330.0",
+    "dex": 623,
+    "type": ["Ground", "Ghost"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [89, 124, 80, 55, 80, 55],
+    "ev": [0, 2, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Iron Fist", "Klutz", "No Guard"],
+    "growthrate": "Medium_Fast",
+    "exp": 169,
+    "normalURL": "",
+    "shinyURL": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Zekrom",
+    "fillerinfo": "Zekrom-2.9-345.0",
+    "dex": 644,
+    "type": ["Dragon", "Electric"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [100, 150, 120, 120, 100, 90],
+    "ev": [0, 3, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Teravolt"],
+    "growthrate": "Slow",
+    "exp": 306,
+    "normalURL": "",
+    "shinyURL": ""
+}

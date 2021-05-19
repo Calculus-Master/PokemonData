@@ -1,0 +1,21 @@
+{
+    "name": "Oranguru",
+    "fillerinfo": "Oranguru-1.5-76.0",
+    "dex": 765,
+    "type": ["Normal", "Psychic"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [90, 60, 80, 90, 110, 60],
+    "ev": [0, 0, 0, 0, 2, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Inner Focus", "Telepathy", "Symbiosis"],
+    "growthrate": "Slow",
+    "exp": 172,
+    "normalURL": "",
+    "shinyURL": ""
+}

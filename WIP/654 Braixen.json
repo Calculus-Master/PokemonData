@@ -1,0 +1,21 @@
+{
+    "name": "Braixen",
+    "fillerinfo": "Braixen-1.0-14.5",
+    "dex": 654,
+    "type": ["Fire", "Fire"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [59, 59, 58, 90, 70, 73],
+    "ev": [0, 0, 0, 2, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Blaze", "Magician"],
+    "growthrate": "Medium_Slow",
+    "exp": 143,
+    "normalURL": "",
+    "shinyURL": ""
+}

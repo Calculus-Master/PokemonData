@@ -1,0 +1,21 @@
+{
+    "name": "Crabrawler",
+    "fillerinfo": "Crabrawler-0.6-7.0",
+    "dex": 739,
+    "type": ["Fighting", "Fighting"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [47, 82, 57, 42, 47, 63],
+    "ev": [0, 1, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Hyper Cutter", "Iron Fist", "Anger Point"],
+    "growthrate": "Medium_Fast",
+    "exp": 68,
+    "normalURL": "",
+    "shinyURL": ""
+}

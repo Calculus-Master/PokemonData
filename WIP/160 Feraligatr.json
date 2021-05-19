@@ -1,0 +1,21 @@
+{
+    "name": "Feraligatr",
+    "fillerinfo": "Feraligatr-2.3-88.8",
+    "dex": 160,
+    "type": ["Water", "Water"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [85, 105, 100, 79, 83, 78],
+    "ev": [0, 2, 1, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Torrent", "Sheer Force"],
+    "growthrate": "Medium_Slow",
+    "exp": 239,
+    "normalURL": "",
+    "shinyURL": ""
+}

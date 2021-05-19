@@ -1,0 +1,21 @@
+{
+    "name": "Cofagrigus",
+    "fillerinfo": "Cofagrigus-1.7-76.5",
+    "dex": 563,
+    "type": ["Ghost", "Ghost"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [58, 50, 145, 95, 105, 30],
+    "ev": [0, 0, 2, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Mummy"],
+    "growthrate": "Medium_Fast",
+    "exp": 169,
+    "normalURL": "",
+    "shinyURL": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Glameow",
+    "fillerinfo": "Glameow-0.5-3.9",
+    "dex": 431,
+    "type": ["Normal", "Normal"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [49, 55, 42, 42, 37, 85],
+    "ev": [0, 0, 0, 0, 0, 1],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Limber", "Own Tempo", "Keen Eye"],
+    "growthrate": "Fast",
+    "exp": 62,
+    "normalURL": "",
+    "shinyURL": ""
+}

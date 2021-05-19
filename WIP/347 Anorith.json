@@ -1,0 +1,21 @@
+{
+    "name": "Anorith",
+    "fillerinfo": "Anorith-0.7-12.5",
+    "dex": 347,
+    "type": ["Rock", "Bug"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [45, 95, 50, 40, 50, 75],
+    "ev": [0, 1, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Battle Armor", "Swift Swim"],
+    "growthrate": "Erratic",
+    "exp": 71,
+    "normalURL": "",
+    "shinyURL": ""
+}

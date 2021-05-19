@@ -1,0 +1,21 @@
+{
+    "name": "Comfey",
+    "fillerinfo": "Comfey-0.1-0.3",
+    "dex": 764,
+    "type": ["Fairy", "Fairy"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [51, 52, 90, 82, 110, 100],
+    "ev": [0, 0, 0, 0, 2, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Flower Veil", "Triage", "Natural Cure"],
+    "growthrate": "Fast",
+    "exp": 170,
+    "normalURL": "",
+    "shinyURL": ""
+}

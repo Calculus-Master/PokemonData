@@ -1,0 +1,21 @@
+{
+    "name": "Shedinja",
+    "fillerinfo": "Shedinja-0.8-1.2",
+    "dex": 292,
+    "type": ["Bug", "Ghost"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [1, 90, 45, 30, 30, 40],
+    "ev": [2, 0, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Wonder Guard"],
+    "growthrate": "Erratic",
+    "exp": 83,
+    "normalURL": "",
+    "shinyURL": ""
+}

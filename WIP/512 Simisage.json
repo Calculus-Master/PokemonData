@@ -1,0 +1,21 @@
+{
+    "name": "Simisage",
+    "fillerinfo": "Simisage-1.1-30.5",
+    "dex": 512,
+    "type": ["Grass", "Grass"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [75, 98, 63, 98, 63, 101],
+    "ev": [0, 0, 0, 0, 0, 2],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Gluttony", "Overgrow"],
+    "growthrate": "Medium_Fast",
+    "exp": 174,
+    "normalURL": "",
+    "shinyURL": ""
+}

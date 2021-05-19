@@ -1,0 +1,21 @@
+{
+    "name": "Petilil",
+    "fillerinfo": "Petilil-0.5-6.6",
+    "dex": 548,
+    "type": ["Grass", "Grass"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [45, 35, 50, 70, 50, 30],
+    "ev": [0, 0, 0, 1, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Chlorophyll", "Own Tempo", "Leaf Guard"],
+    "growthrate": "Medium_Fast",
+    "exp": 56,
+    "normalURL": "",
+    "shinyURL": ""
+}

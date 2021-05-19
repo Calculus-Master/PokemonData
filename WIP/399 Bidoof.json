@@ -1,0 +1,21 @@
+{
+    "name": "Bidoof",
+    "fillerinfo": "Bidoof-0.5-20.0",
+    "dex": 399,
+    "type": ["Normal", "Normal"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [59, 45, 40, 35, 40, 31],
+    "ev": [1, 0, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Simple", "Unaware", "Moody"],
+    "growthrate": "Medium_Fast",
+    "exp": 50,
+    "normalURL": "",
+    "shinyURL": ""
+}

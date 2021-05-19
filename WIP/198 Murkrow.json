@@ -1,0 +1,21 @@
+{
+    "name": "Murkrow",
+    "fillerinfo": "Murkrow-0.5-2.1",
+    "dex": 198,
+    "type": ["Dark", "Flying"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [60, 85, 42, 85, 42, 91],
+    "ev": [0, 0, 0, 0, 0, 1],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Insomnia", "Super Luck", "Prankster"],
+    "growthrate": "Medium_Slow",
+    "exp": 81,
+    "normalURL": "",
+    "shinyURL": ""
+}

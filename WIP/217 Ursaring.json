@@ -1,0 +1,21 @@
+{
+    "name": "Ursaring",
+    "fillerinfo": "Ursaring-1.8-125.8",
+    "dex": 217,
+    "type": ["Normal", "Normal"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [90, 130, 75, 75, 75, 55],
+    "ev": [0, 2, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Guts", "Quick Feet", "Unnerve"],
+    "growthrate": "Medium_Fast",
+    "exp": 175,
+    "normalURL": "",
+    "shinyURL": ""
+}

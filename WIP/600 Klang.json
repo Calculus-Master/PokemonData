@@ -1,0 +1,21 @@
+{
+    "name": "Klang",
+    "fillerinfo": "Klang-0.6-51.0",
+    "dex": 600,
+    "type": ["Steel", "Steel"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [60, 80, 95, 70, 85, 50],
+    "ev": [0, 0, 2, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Plus", "Minus", "Clear Body"],
+    "growthrate": "Medium_Slow",
+    "exp": 154,
+    "normalURL": "",
+    "shinyURL": ""
+}

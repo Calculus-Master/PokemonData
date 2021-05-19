@@ -1,0 +1,21 @@
+{
+    "name": "Morelull",
+    "fillerinfo": "Morelull-0.2-1.5",
+    "dex": 755,
+    "type": ["Grass", "Fairy"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [40, 35, 55, 65, 75, 15],
+    "ev": [0, 0, 0, 0, 1, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Illuminate", "Effect Spore", "Rain Dish"],
+    "growthrate": "Medium_Fast",
+    "exp": 57,
+    "normalURL": "",
+    "shinyURL": ""
+}

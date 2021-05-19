@@ -1,0 +1,21 @@
+{
+    "name": "Chatot",
+    "fillerinfo": "Chatot-0.5-1.9",
+    "dex": 441,
+    "type": ["Normal", "Flying"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [76, 65, 45, 92, 42, 91],
+    "ev": [0, 1, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Keen Eye", "Tangled Feet", "Big Pecks"],
+    "growthrate": "Medium_Slow",
+    "exp": 144,
+    "normalURL": "",
+    "shinyURL": ""
+}

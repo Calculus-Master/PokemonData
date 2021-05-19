@@ -1,0 +1,21 @@
+{
+    "name": "Kecleon",
+    "fillerinfo": "Kecleon-1.0-22.0",
+    "dex": 352,
+    "type": ["Normal", "Normal"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [60, 90, 70, 60, 120, 40],
+    "ev": [0, 0, 0, 0, 1, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Color Change", "Protean"],
+    "growthrate": "Medium_Slow",
+    "exp": 154,
+    "normalURL": "",
+    "shinyURL": ""
+}

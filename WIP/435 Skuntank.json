@@ -1,0 +1,21 @@
+{
+    "name": "Skuntank",
+    "fillerinfo": "Skuntank-1.0-38.0",
+    "dex": 435,
+    "type": ["Poison", "Dark"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [103, 93, 67, 71, 61, 84],
+    "ev": [2, 0, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Stench", "Aftermath", "Keen Eye"],
+    "growthrate": "Medium_Fast",
+    "exp": 168,
+    "normalURL": "",
+    "shinyURL": ""
+}

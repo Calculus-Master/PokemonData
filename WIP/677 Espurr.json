@@ -1,0 +1,21 @@
+{
+    "name": "Espurr",
+    "fillerinfo": "Espurr-0.3-3.5",
+    "dex": 677,
+    "type": ["Psychic", "Psychic"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [62, 48, 54, 63, 60, 68],
+    "ev": [0, 0, 0, 0, 0, 1],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Keen Eye", "Infiltrator", "Own Tempo"],
+    "growthrate": "Medium_Fast",
+    "exp": 71,
+    "normalURL": "",
+    "shinyURL": ""
+}

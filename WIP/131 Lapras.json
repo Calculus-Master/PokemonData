@@ -1,0 +1,21 @@
+{
+    "name": "Lapras",
+    "fillerinfo": "Lapras-2.5-220.0",
+    "dex": 131,
+    "type": ["Water", "Ice"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [130, 85, 80, 85, 95, 60],
+    "ev": [2, 0, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Water Absorb", "Shell Armor", "Hydration"],
+    "growthrate": "Slow",
+    "exp": 187,
+    "normalURL": "",
+    "shinyURL": ""
+}

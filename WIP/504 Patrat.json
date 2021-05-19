@@ -1,0 +1,21 @@
+{
+    "name": "Patrat",
+    "fillerinfo": "Patrat-0.5-11.6",
+    "dex": 504,
+    "type": ["Normal", "Normal"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [45, 55, 39, 35, 39, 42],
+    "ev": [0, 1, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Run Away", "Keen Eye", "Analytic"],
+    "growthrate": "Medium_Fast",
+    "exp": 51,
+    "normalURL": "",
+    "shinyURL": ""
+}

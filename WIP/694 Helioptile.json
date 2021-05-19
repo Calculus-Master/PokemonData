@@ -1,0 +1,21 @@
+{
+    "name": "Helioptile",
+    "fillerinfo": "Helioptile-0.5-6.0",
+    "dex": 694,
+    "type": ["Electric", "Normal"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [44, 38, 33, 61, 43, 70],
+    "ev": [0, 0, 0, 0, 0, 1],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Dry Skin", "Sand Veil", "Solar Power"],
+    "growthrate": "Medium_Fast",
+    "exp": 58,
+    "normalURL": "",
+    "shinyURL": ""
+}

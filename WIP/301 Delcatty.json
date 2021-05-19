@@ -1,0 +1,21 @@
+{
+    "name": "Delcatty",
+    "fillerinfo": "Delcatty-1.1-32.6",
+    "dex": 301,
+    "type": ["Normal", "Normal"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [70, 65, 65, 55, 55, 90],
+    "ev": [1, 0, 0, 0, 0, 1],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Cute Charm", "Normalize", "Wonder Skin"],
+    "growthrate": "Fast",
+    "exp": 140,
+    "normalURL": "",
+    "shinyURL": ""
+}

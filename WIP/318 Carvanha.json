@@ -1,0 +1,21 @@
+{
+    "name": "Carvanha",
+    "fillerinfo": "Carvanha-0.8-20.8",
+    "dex": 318,
+    "type": ["Water", "Dark"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [45, 90, 20, 65, 20, 65],
+    "ev": [0, 1, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Rough Skin", "Speed Boost"],
+    "growthrate": "Slow",
+    "exp": 61,
+    "normalURL": "",
+    "shinyURL": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Aromatisse",
+    "fillerinfo": "Aromatisse-0.8-15.5",
+    "dex": 683,
+    "type": ["Fairy", "Fairy"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [101, 72, 72, 99, 89, 29],
+    "ev": [2, 0, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Healer", "Aroma Veil"],
+    "growthrate": "Medium_Fast",
+    "exp": 162,
+    "normalURL": "",
+    "shinyURL": ""
+}

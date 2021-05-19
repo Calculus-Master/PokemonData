@@ -1,0 +1,21 @@
+{
+    "name": "Mightyena",
+    "fillerinfo": "Mightyena-1.0-37.0",
+    "dex": 262,
+    "type": ["Dark", "Dark"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [70, 90, 70, 60, 60, 70],
+    "ev": [0, 2, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Intimidate", "Quick Feet", "Moxie"],
+    "growthrate": "Medium_Fast",
+    "exp": 147,
+    "normalURL": "",
+    "shinyURL": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Electrike",
+    "fillerinfo": "Electrike-0.6-15.2",
+    "dex": 309,
+    "type": ["Electric", "Electric"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [40, 45, 40, 65, 40, 65],
+    "ev": [0, 0, 0, 0, 0, 1],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Static", "Lightning Rod", "Minus"],
+    "growthrate": "Slow",
+    "exp": 59,
+    "normalURL": "",
+    "shinyURL": ""
+}

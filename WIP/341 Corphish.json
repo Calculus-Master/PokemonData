@@ -1,0 +1,21 @@
+{
+    "name": "Corphish",
+    "fillerinfo": "Corphish-0.6-11.5",
+    "dex": 341,
+    "type": ["Water", "Water"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [43, 80, 65, 50, 35, 35],
+    "ev": [0, 1, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Hyper Cutter", "Shell Armor", "Adaptability"],
+    "growthrate": "Fluctuating",
+    "exp": 62,
+    "normalURL": "",
+    "shinyURL": ""
+}

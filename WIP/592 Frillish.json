@@ -1,0 +1,21 @@
+{
+    "name": "Frillish",
+    "fillerinfo": "Frillish-1.2-33.0",
+    "dex": 592,
+    "type": ["Water", "Ghost"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [55, 40, 50, 65, 85, 40],
+    "ev": [0, 0, 0, 0, 1, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Water Absorb", "Cursed Body", "Damp"],
+    "growthrate": "Medium_Fast",
+    "exp": 67,
+    "normalURL": "",
+    "shinyURL": ""
+}

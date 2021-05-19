@@ -1,0 +1,21 @@
+{
+    "name": "Klefki",
+    "fillerinfo": "Klefki-0.2-3.0",
+    "dex": 707,
+    "type": ["Steel", "Fairy"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [57, 80, 91, 80, 87, 75],
+    "ev": [0, 0, 1, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Prankster", "Magician"],
+    "growthrate": "Fast",
+    "exp": 165,
+    "normalURL": "",
+    "shinyURL": ""
+}

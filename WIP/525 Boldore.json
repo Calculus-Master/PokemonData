@@ -1,0 +1,21 @@
+{
+    "name": "Boldore",
+    "fillerinfo": "Boldore-0.9-102.0",
+    "dex": 525,
+    "type": ["Rock", "Rock"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [70, 105, 105, 50, 40, 20],
+    "ev": [0, 1, 1, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Sturdy", "Weak Armor", "Sand Force"],
+    "growthrate": "Medium_Slow",
+    "exp": 137,
+    "normalURL": "",
+    "shinyURL": ""
+}

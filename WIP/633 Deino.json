@@ -1,0 +1,21 @@
+{
+    "name": "Deino",
+    "fillerinfo": "Deino-0.8-17.3",
+    "dex": 633,
+    "type": ["Dark", "Dragon"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [52, 65, 50, 45, 50, 38],
+    "ev": [0, 1, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Hustle"],
+    "growthrate": "Slow",
+    "exp": 60,
+    "normalURL": "",
+    "shinyURL": ""
+}

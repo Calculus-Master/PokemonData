@@ -1,0 +1,21 @@
+{
+    "name": "Bayleef",
+    "fillerinfo": "Bayleef-1.2-15.8",
+    "dex": 153,
+    "type": ["Grass", "Grass"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [60, 62, 80, 63, 80, 60],
+    "ev": [0, 0, 1, 0, 1, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Overgrow", "Leaf Guard"],
+    "growthrate": "Medium_Slow",
+    "exp": 142,
+    "normalURL": "",
+    "shinyURL": ""
+}

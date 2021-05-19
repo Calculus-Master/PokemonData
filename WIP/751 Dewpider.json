@@ -1,0 +1,21 @@
+{
+    "name": "Dewpider",
+    "fillerinfo": "Dewpider-0.3-4.0",
+    "dex": 751,
+    "type": ["Water", "Bug"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [38, 40, 52, 40, 72, 27],
+    "ev": [0, 0, 0, 0, 1, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Water Bubble", "Water Absorb"],
+    "growthrate": "Medium_Fast",
+    "exp": 54,
+    "normalURL": "",
+    "shinyURL": ""
+}

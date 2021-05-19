@@ -1,0 +1,21 @@
+{
+    "name": "Misdreavus",
+    "fillerinfo": "Misdreavus-0.7-1.0",
+    "dex": 200,
+    "type": ["Ghost", "Ghost"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [60, 60, 60, 85, 85, 85],
+    "ev": [0, 0, 0, 0, 1, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Levitate"],
+    "growthrate": "Fast",
+    "exp": 87,
+    "normalURL": "",
+    "shinyURL": ""
+}

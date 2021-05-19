@@ -1,0 +1,21 @@
+{
+    "name": "Chikorita",
+    "fillerinfo": "Chikorita-0.9-6.4",
+    "dex": 152,
+    "type": ["Grass", "Grass"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [45, 49, 65, 49, 65, 45],
+    "ev": [0, 0, 0, 0, 1, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Overgrow", "Leaf Guard"],
+    "growthrate": "Medium_Slow",
+    "exp": 64,
+    "normalURL": "",
+    "shinyURL": ""
+}

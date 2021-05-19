@@ -1,0 +1,21 @@
+{
+    "name": "Sawk",
+    "fillerinfo": "Sawk-1.4-51.0",
+    "dex": 539,
+    "type": ["Fighting", "Fighting"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [75, 125, 75, 30, 75, 85],
+    "ev": [0, 2, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Sturdy", "Inner Focus", "Mold Breaker"],
+    "growthrate": "Medium_Fast",
+    "exp": 163,
+    "normalURL": "",
+    "shinyURL": ""
+}

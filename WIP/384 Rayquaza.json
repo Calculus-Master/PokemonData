@@ -1,0 +1,21 @@
+{
+    "name": "Rayquaza",
+    "fillerinfo": "Rayquaza-7.0-206.5",
+    "dex": 384,
+    "type": ["Dragon", "Flying"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [105, 150, 90, 150, 90, 95],
+    "ev": [0, 2, 0, 1, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Air Lock"],
+    "growthrate": "Slow",
+    "exp": 306,
+    "normalURL": "",
+    "shinyURL": ""
+}

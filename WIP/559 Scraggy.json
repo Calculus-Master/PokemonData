@@ -1,0 +1,21 @@
+{
+    "name": "Scraggy",
+    "fillerinfo": "Scraggy-0.6-11.8",
+    "dex": 559,
+    "type": ["Dark", "Fighting"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [50, 75, 70, 35, 70, 48],
+    "ev": [0, 1, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Shed Skin", "Moxie", "Intimidate"],
+    "growthrate": "Medium_Fast",
+    "exp": 70,
+    "normalURL": "",
+    "shinyURL": ""
+}

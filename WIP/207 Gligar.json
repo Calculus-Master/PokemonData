@@ -1,0 +1,21 @@
+{
+    "name": "Gligar",
+    "fillerinfo": "Gligar-1.1-64.8",
+    "dex": 207,
+    "type": ["Ground", "Flying"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [65, 75, 105, 35, 65, 85],
+    "ev": [0, 0, 1, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Hyper Cutter", "Sand Veil", "Immunity"],
+    "growthrate": "Medium_Slow",
+    "exp": 86,
+    "normalURL": "",
+    "shinyURL": ""
+}

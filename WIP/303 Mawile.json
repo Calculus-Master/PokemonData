@@ -1,0 +1,21 @@
+{
+    "name": "Mawile",
+    "fillerinfo": "Mawile-0.6-11.5",
+    "dex": 303,
+    "type": ["Steel", "Fairy"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [50, 85, 85, 55, 55, 50],
+    "ev": [0, 1, 1, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Hyper Cutter", "Intimidate", "Sheer Force"],
+    "growthrate": "Fast",
+    "exp": 133,
+    "normalURL": "",
+    "shinyURL": ""
+}

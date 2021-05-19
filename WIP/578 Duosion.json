@@ -1,0 +1,21 @@
+{
+    "name": "Duosion",
+    "fillerinfo": "Duosion-0.6-8.0",
+    "dex": 578,
+    "type": ["Psychic", "Psychic"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [65, 40, 50, 125, 60, 30],
+    "ev": [0, 0, 0, 2, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Overcoat", "Magic Guard", "Regenerator"],
+    "growthrate": "Medium_Slow",
+    "exp": 130,
+    "normalURL": "",
+    "shinyURL": ""
+}

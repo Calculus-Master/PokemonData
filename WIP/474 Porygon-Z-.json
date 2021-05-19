@@ -1,0 +1,21 @@
+{
+    "name": "Porygon-Z-",
+    "fillerinfo": "Porygon-Z--0.9-34.0",
+    "dex": 474,
+    "type": ["Normal", "Normal"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [85, 80, 70, 135, 75, 90],
+    "ev": [0, 0, 0, 3, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Adaptability", "Download", "Analytic"],
+    "growthrate": "Medium_Fast",
+    "exp": 241,
+    "normalURL": "",
+    "shinyURL": ""
+}

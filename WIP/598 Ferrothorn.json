@@ -1,0 +1,21 @@
+{
+    "name": "Ferrothorn",
+    "fillerinfo": "Ferrothorn-1.0-110.0",
+    "dex": 598,
+    "type": ["Grass", "Steel"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [74, 94, 131, 54, 116, 20],
+    "ev": [0, 0, 2, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Iron Barbs", "Anticipation"],
+    "growthrate": "Medium_Fast",
+    "exp": 171,
+    "normalURL": "",
+    "shinyURL": ""
+}

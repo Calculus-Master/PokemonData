@@ -1,0 +1,21 @@
+{
+    "name": "Lumineon",
+    "fillerinfo": "Lumineon-1.2-24.0",
+    "dex": 457,
+    "type": ["Water", "Water"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [69, 69, 76, 69, 86, 91],
+    "ev": [0, 0, 0, 0, 0, 2],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Swift Swim", "Storm Drain", "Water Veil"],
+    "growthrate": "Erratic",
+    "exp": 161,
+    "normalURL": "",
+    "shinyURL": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Kingdra",
+    "fillerinfo": "Kingdra-1.8-152.0",
+    "dex": 230,
+    "type": ["Water", "Dragon"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [75, 95, 95, 95, 95, 85],
+    "ev": [0, 1, 0, 1, 1, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Swift Swim", "Sniper", "Damp"],
+    "growthrate": "Medium_Fast",
+    "exp": 243,
+    "normalURL": "",
+    "shinyURL": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Registeel",
+    "fillerinfo": "Registeel-1.9-205.0",
+    "dex": 379,
+    "type": ["Steel", "Steel"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [80, 75, 150, 75, 150, 50],
+    "ev": [0, 0, 2, 0, 1, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Clear Body", "Light Metal"],
+    "growthrate": "Slow",
+    "exp": 261,
+    "normalURL": "",
+    "shinyURL": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Quagsire",
+    "fillerinfo": "Quagsire-1.4-75.0",
+    "dex": 195,
+    "type": ["Water", "Ground"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [95, 85, 85, 65, 65, 35],
+    "ev": [2, 0, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Damp", "Water Absorb", "Unaware"],
+    "growthrate": "Medium_Fast",
+    "exp": 151,
+    "normalURL": "",
+    "shinyURL": ""
+}

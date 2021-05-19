@@ -1,0 +1,21 @@
+{
+    "name": "Pangoro",
+    "fillerinfo": "Pangoro-2.1-136.0",
+    "dex": 675,
+    "type": ["Fighting", "Dark"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [95, 124, 78, 69, 71, 58],
+    "ev": [0, 2, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Iron Fist", "Mold Breaker", "Scrappy"],
+    "growthrate": "Medium_Fast",
+    "exp": 173,
+    "normalURL": "",
+    "shinyURL": ""
+}

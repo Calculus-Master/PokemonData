@@ -1,0 +1,21 @@
+{
+    "name": "Aron",
+    "fillerinfo": "Aron-0.4-60.0",
+    "dex": 304,
+    "type": ["Steel", "Rock"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [50, 70, 100, 40, 40, 30],
+    "ev": [0, 0, 1, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Sturdy", "Rock Head", "Heavy Metal"],
+    "growthrate": "Slow",
+    "exp": 66,
+    "normalURL": "",
+    "shinyURL": ""
+}

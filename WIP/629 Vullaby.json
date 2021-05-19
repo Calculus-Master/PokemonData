@@ -1,0 +1,21 @@
+{
+    "name": "Vullaby",
+    "fillerinfo": "Vullaby-0.5-9.0",
+    "dex": 629,
+    "type": ["Dark", "Flying"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [70, 55, 75, 45, 65, 60],
+    "ev": [0, 0, 1, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Big Pecks", "Overcoat", "Weak Armor"],
+    "growthrate": "Slow",
+    "exp": 74,
+    "normalURL": "",
+    "shinyURL": ""
+}

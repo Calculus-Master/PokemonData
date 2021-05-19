@@ -1,0 +1,21 @@
+{
+    "name": "Drampa",
+    "fillerinfo": "Drampa-3.0-185.0",
+    "dex": 780,
+    "type": ["Normal", "Dragon"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [78, 60, 85, 135, 91, 36],
+    "ev": [0, 0, 0, 2, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Berserk", "Sap Sipper", "Cloud Nine"],
+    "growthrate": "Medium_Fast",
+    "exp": 170,
+    "normalURL": "",
+    "shinyURL": ""
+}

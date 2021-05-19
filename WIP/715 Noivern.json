@@ -1,0 +1,21 @@
+{
+    "name": "Noivern",
+    "fillerinfo": "Noivern-1.5-85.0",
+    "dex": 715,
+    "type": ["Flying", "Dragon"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [85, 70, 80, 97, 80, 123],
+    "ev": [0, 0, 0, 0, 0, 2],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Frisk", "Infiltrator", "Telepathy"],
+    "growthrate": "Medium_Fast",
+    "exp": 187,
+    "normalURL": "",
+    "shinyURL": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Furfrou",
+    "fillerinfo": "Furfrou-1.2-28.0",
+    "dex": 676,
+    "type": ["Normal", "Normal"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [75, 80, 60, 65, 90, 102],
+    "ev": [0, 0, 0, 0, 0, 1],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Fur Coat"],
+    "growthrate": "Medium_Fast",
+    "exp": 165,
+    "normalURL": "",
+    "shinyURL": ""
+}

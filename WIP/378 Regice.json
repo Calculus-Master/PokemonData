@@ -1,0 +1,21 @@
+{
+    "name": "Regice",
+    "fillerinfo": "Regice-1.8-175.0",
+    "dex": 378,
+    "type": ["Ice", "Ice"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [80, 50, 100, 100, 200, 50],
+    "ev": [0, 0, 0, 0, 3, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Clear Body", "Ice Body"],
+    "growthrate": "Slow",
+    "exp": 261,
+    "normalURL": "",
+    "shinyURL": ""
+}

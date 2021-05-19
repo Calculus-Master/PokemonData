@@ -1,0 +1,21 @@
+{
+    "name": "Milotic",
+    "fillerinfo": "Milotic-6.2-162.0",
+    "dex": 350,
+    "type": ["Water", "Water"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [95, 60, 79, 100, 125, 81],
+    "ev": [0, 0, 0, 0, 2, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Marvel Scale", "Competitive", "Cute Charm"],
+    "growthrate": "Erratic",
+    "exp": 189,
+    "normalURL": "",
+    "shinyURL": ""
+}

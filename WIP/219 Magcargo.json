@@ -1,0 +1,21 @@
+{
+    "name": "Magcargo",
+    "fillerinfo": "Magcargo-0.8-55.0",
+    "dex": 219,
+    "type": ["Fire", "Rock"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [60, 50, 120, 90, 80, 30],
+    "ev": [0, 0, 2, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Magma Armor", "Flame Body", "Weak Armor"],
+    "growthrate": "Medium_Fast",
+    "exp": 151,
+    "normalURL": "",
+    "shinyURL": ""
+}

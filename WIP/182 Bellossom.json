@@ -1,0 +1,21 @@
+{
+    "name": "Bellossom",
+    "fillerinfo": "Bellossom-0.4-5.8",
+    "dex": 182,
+    "type": ["Grass", "Grass"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [75, 80, 95, 90, 100, 50],
+    "ev": [0, 0, 0, 0, 3, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Chlorophyll", "Healer"],
+    "growthrate": "Medium_Slow",
+    "exp": 221,
+    "normalURL": "",
+    "shinyURL": ""
+}

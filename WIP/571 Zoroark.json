@@ -1,0 +1,21 @@
+{
+    "name": "Zoroark",
+    "fillerinfo": "Zoroark-1.6-81.1",
+    "dex": 571,
+    "type": ["Dark", "Dark"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [60, 105, 60, 120, 60, 105],
+    "ev": [0, 0, 0, 2, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Illusion"],
+    "growthrate": "Medium_Slow",
+    "exp": 179,
+    "normalURL": "",
+    "shinyURL": ""
+}

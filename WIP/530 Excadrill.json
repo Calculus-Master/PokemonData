@@ -1,0 +1,21 @@
+{
+    "name": "Excadrill",
+    "fillerinfo": "Excadrill-0.7-40.4",
+    "dex": 530,
+    "type": ["Ground", "Steel"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [110, 135, 60, 50, 65, 88],
+    "ev": [0, 2, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Sand Rush", "Sand Force", "Mold Breaker"],
+    "growthrate": "Medium_Fast",
+    "exp": 178,
+    "normalURL": "",
+    "shinyURL": ""
+}

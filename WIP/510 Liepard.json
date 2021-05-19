@@ -1,0 +1,21 @@
+{
+    "name": "Liepard",
+    "fillerinfo": "Liepard-1.1-37.5",
+    "dex": 510,
+    "type": ["Dark", "Dark"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [64, 88, 50, 88, 50, 106],
+    "ev": [0, 0, 0, 0, 0, 2],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Limber", "Unburden", "Prankster"],
+    "growthrate": "Medium_Fast",
+    "exp": 156,
+    "normalURL": "",
+    "shinyURL": ""
+}

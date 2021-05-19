@@ -1,0 +1,21 @@
+{
+    "name": "Vaporeon",
+    "fillerinfo": "Vaporeon-1.0-29.0",
+    "dex": 134,
+    "type": ["Water", "Water"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [130, 65, 60, 110, 95, 65],
+    "ev": [2, 0, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Water Absorb", "Hydration"],
+    "growthrate": "Medium_Fast",
+    "exp": 184,
+    "normalURL": "",
+    "shinyURL": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Lopunny",
+    "fillerinfo": "Lopunny-1.2-33.3",
+    "dex": 428,
+    "type": ["Normal", "Normal"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [65, 76, 84, 54, 96, 105],
+    "ev": [0, 0, 0, 0, 0, 2],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Cute Charm", "Klutz", "Limber"],
+    "growthrate": "Medium_Fast",
+    "exp": 168,
+    "normalURL": "",
+    "shinyURL": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Delphox",
+    "fillerinfo": "Delphox-1.5-39.0",
+    "dex": 655,
+    "type": ["Fire", "Psychic"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [75, 69, 72, 114, 100, 104],
+    "ev": [0, 0, 0, 3, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Blaze", "Magician"],
+    "growthrate": "Medium_Slow",
+    "exp": 240,
+    "normalURL": "",
+    "shinyURL": ""
+}

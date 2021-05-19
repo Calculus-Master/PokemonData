@@ -1,0 +1,21 @@
+{
+    "name": "Torkoal",
+    "fillerinfo": "Torkoal-0.5-80.4",
+    "dex": 324,
+    "type": ["Fire", "Fire"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [70, 85, 140, 85, 70, 20],
+    "ev": [0, 0, 2, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["White Smoke", "Drought", "Shell Armor"],
+    "growthrate": "Medium_Fast",
+    "exp": 165,
+    "normalURL": "",
+    "shinyURL": ""
+}

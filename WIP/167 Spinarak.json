@@ -1,0 +1,21 @@
+{
+    "name": "Spinarak",
+    "fillerinfo": "Spinarak-0.5-8.5",
+    "dex": 167,
+    "type": ["Bug", "Poison"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [40, 60, 40, 40, 40, 30],
+    "ev": [0, 1, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Swarm", "Insomnia", "Sniper"],
+    "growthrate": "Fast",
+    "exp": 50,
+    "normalURL": "",
+    "shinyURL": ""
+}

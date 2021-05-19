@@ -1,0 +1,21 @@
+{
+    "name": "Seadra",
+    "fillerinfo": "Seadra-1.2-25.0",
+    "dex": 117,
+    "type": ["Water", "Water"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [55, 65, 95, 95, 45, 85],
+    "ev": [0, 0, 1, 1, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Poison Point", "Sniper", "Damp"],
+    "growthrate": "Medium_Fast",
+    "exp": 154,
+    "normalURL": "",
+    "shinyURL": ""
+}

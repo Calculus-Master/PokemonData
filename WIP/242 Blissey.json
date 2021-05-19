@@ -1,0 +1,21 @@
+{
+    "name": "Blissey",
+    "fillerinfo": "Blissey-1.5-46.8",
+    "dex": 242,
+    "type": ["Normal", "Normal"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [255, 10, 10, 75, 135, 55],
+    "ev": [3, 0, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Natural Cure", "Serene Grace", "Healer"],
+    "growthrate": "Fast",
+    "exp": 608,
+    "normalURL": "",
+    "shinyURL": ""
+}

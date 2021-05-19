@@ -1,0 +1,21 @@
+{
+    "name": "Silcoon",
+    "fillerinfo": "Silcoon-0.6-10.0",
+    "dex": 266,
+    "type": ["Bug", "Bug"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [50, 35, 55, 25, 25, 15],
+    "ev": [0, 0, 2, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Shed Skin"],
+    "growthrate": "Medium_Fast",
+    "exp": 72,
+    "normalURL": "",
+    "shinyURL": ""
+}

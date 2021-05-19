@@ -1,0 +1,21 @@
+{
+    "name": "Tranquill",
+    "fillerinfo": "Tranquill-0.6-15.0",
+    "dex": 520,
+    "type": ["Normal", "Flying"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [62, 77, 62, 50, 42, 65],
+    "ev": [0, 2, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Big Pecks", "Super Luck", "Rivalry"],
+    "growthrate": "Medium_Slow",
+    "exp": 125,
+    "normalURL": "",
+    "shinyURL": ""
+}

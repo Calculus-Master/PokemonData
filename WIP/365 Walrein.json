@@ -1,0 +1,21 @@
+{
+    "name": "Walrein",
+    "fillerinfo": "Walrein-1.4-150.6",
+    "dex": 365,
+    "type": ["Ice", "Water"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [110, 80, 90, 95, 90, 65],
+    "ev": [3, 0, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Thick Fat", "Ice Body", "Oblivious"],
+    "growthrate": "Medium_Slow",
+    "exp": 239,
+    "normalURL": "",
+    "shinyURL": ""
+}

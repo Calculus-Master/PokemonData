@@ -1,0 +1,21 @@
+{
+    "name": "Slaking",
+    "fillerinfo": "Slaking-2.0-130.5",
+    "dex": 289,
+    "type": ["Normal", "Normal"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [150, 160, 100, 95, 65, 100],
+    "ev": [3, 0, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Truant"],
+    "growthrate": "Slow",
+    "exp": 252,
+    "normalURL": "",
+    "shinyURL": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Salamence",
+    "fillerinfo": "Salamence-1.5-102.6",
+    "dex": 373,
+    "type": ["Dragon", "Flying"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [95, 135, 80, 110, 80, 100],
+    "ev": [0, 3, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Intimidate", "Moxie"],
+    "growthrate": "Slow",
+    "exp": 270,
+    "normalURL": "",
+    "shinyURL": ""
+}

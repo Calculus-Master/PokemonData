@@ -1,0 +1,21 @@
+{
+    "name": "Komala",
+    "fillerinfo": "Komala-0.4-19.9",
+    "dex": 775,
+    "type": ["Normal", "Normal"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [65, 115, 65, 75, 95, 65],
+    "ev": [0, 2, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Comatose"],
+    "growthrate": "Slow",
+    "exp": 168,
+    "normalURL": "",
+    "shinyURL": ""
+}

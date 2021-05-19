@@ -1,0 +1,21 @@
+{
+    "name": "Sentret",
+    "fillerinfo": "Sentret-0.8-6.0",
+    "dex": 161,
+    "type": ["Normal", "Normal"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [35, 46, 34, 35, 45, 20],
+    "ev": [0, 1, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Run Away", "Keen Eye", "Frisk"],
+    "growthrate": "Medium_Fast",
+    "exp": 43,
+    "normalURL": "",
+    "shinyURL": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Entei",
+    "fillerinfo": "Entei-2.1-198.0",
+    "dex": 244,
+    "type": ["Fire", "Fire"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [115, 115, 85, 90, 75, 100],
+    "ev": [1, 2, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Pressure", "Inner Focus"],
+    "growthrate": "Slow",
+    "exp": 261,
+    "normalURL": "",
+    "shinyURL": ""
+}

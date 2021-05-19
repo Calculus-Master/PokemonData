@@ -1,0 +1,21 @@
+{
+    "name": "Cloyster",
+    "fillerinfo": "Cloyster-1.5-132.5",
+    "dex": 91,
+    "type": ["Water", "Ice"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [50, 95, 180, 85, 45, 70],
+    "ev": [0, 0, 2, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Shell Armor", "Skill Link", "Overcoat"],
+    "growthrate": "Slow",
+    "exp": 184,
+    "normalURL": "",
+    "shinyURL": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Noibat",
+    "fillerinfo": "Noibat-0.5-8.0",
+    "dex": 714,
+    "type": ["Flying", "Dragon"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [40, 30, 35, 45, 40, 55],
+    "ev": [0, 0, 0, 0, 0, 1],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Frisk", "Infiltrator", "Telepathy"],
+    "growthrate": "Medium_Fast",
+    "exp": 49,
+    "normalURL": "",
+    "shinyURL": ""
+}

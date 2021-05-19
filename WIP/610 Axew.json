@@ -1,0 +1,21 @@
+{
+    "name": "Axew",
+    "fillerinfo": "Axew-0.6-18.0",
+    "dex": 610,
+    "type": ["Dragon", "Dragon"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [46, 87, 60, 30, 40, 57],
+    "ev": [0, 1, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Rivalry", "Mold Breaker", "Unnerve"],
+    "growthrate": "Slow",
+    "exp": 64,
+    "normalURL": "",
+    "shinyURL": ""
+}

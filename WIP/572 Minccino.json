@@ -1,0 +1,21 @@
+{
+    "name": "Minccino",
+    "fillerinfo": "Minccino-0.4-5.8",
+    "dex": 572,
+    "type": ["Normal", "Normal"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [55, 50, 40, 40, 40, 75],
+    "ev": [0, 0, 0, 0, 0, 1],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Cute Charm", "Technician", "Skill Link"],
+    "growthrate": "Fast",
+    "exp": 60,
+    "normalURL": "",
+    "shinyURL": ""
+}

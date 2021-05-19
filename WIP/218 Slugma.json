@@ -1,0 +1,21 @@
+{
+    "name": "Slugma",
+    "fillerinfo": "Slugma-0.7-35.0",
+    "dex": 218,
+    "type": ["Fire", "Fire"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [40, 40, 40, 70, 40, 20],
+    "ev": [0, 0, 0, 1, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Magma Armor", "Flame Body", "Weak Armor"],
+    "growthrate": "Medium_Fast",
+    "exp": 50,
+    "normalURL": "",
+    "shinyURL": ""
+}

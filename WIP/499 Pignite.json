@@ -1,0 +1,21 @@
+{
+    "name": "Pignite",
+    "fillerinfo": "Pignite-1.0-55.5",
+    "dex": 499,
+    "type": ["Fire", "Fighting"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [90, 93, 55, 70, 55, 55],
+    "ev": [0, 2, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Blaze", "Thick Fat"],
+    "growthrate": "Medium_Slow",
+    "exp": 146,
+    "normalURL": "",
+    "shinyURL": ""
+}

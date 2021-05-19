@@ -1,0 +1,21 @@
+{
+    "name": "Corsola",
+    "fillerinfo": "Corsola-0.6-5.0",
+    "dex": 222,
+    "type": ["Water", "Rock"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [65, 55, 95, 65, 95, 35],
+    "ev": [0, 0, 1, 0, 1, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Hustle", "Natural Cure", "Regenerator"],
+    "growthrate": "Fast",
+    "exp": 144,
+    "normalURL": "",
+    "shinyURL": ""
+}

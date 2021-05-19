@@ -1,0 +1,21 @@
+{
+    "name": "Munchlax",
+    "fillerinfo": "Munchlax-0.6-105.0",
+    "dex": 446,
+    "type": ["Normal", "Normal"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [135, 85, 40, 40, 85, 5],
+    "ev": [1, 0, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Pickup", "Thick Fat", "Gluttony"],
+    "growthrate": "Slow",
+    "exp": 78,
+    "normalURL": "",
+    "shinyURL": ""
+}

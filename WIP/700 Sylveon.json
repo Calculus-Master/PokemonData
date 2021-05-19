@@ -1,0 +1,21 @@
+{
+    "name": "Sylveon",
+    "fillerinfo": "Sylveon-1.0-23.5",
+    "dex": 700,
+    "type": ["Fairy", "Fairy"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [95, 65, 65, 110, 130, 60],
+    "ev": [0, 0, 0, 0, 2, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Cute Charm", "Pixilate"],
+    "growthrate": "Medium_Fast",
+    "exp": 184,
+    "normalURL": "",
+    "shinyURL": ""
+}

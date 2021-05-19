@@ -1,0 +1,21 @@
+{
+    "name": "Pyroar",
+    "fillerinfo": "Pyroar-1.5-81.5",
+    "dex": 668,
+    "type": ["Fire", "Normal"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [86, 68, 72, 109, 66, 106],
+    "ev": [0, 0, 0, 2, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Rivalry", "Unnerve", "Moxie"],
+    "growthrate": "Medium_Slow",
+    "exp": 177,
+    "normalURL": "",
+    "shinyURL": ""
+}

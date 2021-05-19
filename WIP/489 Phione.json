@@ -1,0 +1,21 @@
+{
+    "name": "Phione",
+    "fillerinfo": "Phione-0.4-3.1",
+    "dex": 489,
+    "type": ["Water", "Water"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [80, 80, 80, 80, 80, 80],
+    "ev": [1, 0, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Hydration"],
+    "growthrate": "Slow",
+    "exp": 216,
+    "normalURL": "",
+    "shinyURL": ""
+}

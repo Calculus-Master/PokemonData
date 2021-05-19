@@ -1,0 +1,21 @@
+{
+    "name": "Emboar",
+    "fillerinfo": "Emboar-1.6-150.0",
+    "dex": 500,
+    "type": ["Fire", "Fighting"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [110, 123, 65, 100, 65, 65],
+    "ev": [0, 3, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Blaze", "Reckless"],
+    "growthrate": "Medium_Slow",
+    "exp": 238,
+    "normalURL": "",
+    "shinyURL": ""
+}

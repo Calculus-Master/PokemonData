@@ -1,0 +1,21 @@
+{
+    "name": "Kartana",
+    "fillerinfo": "Kartana-0.3-0.1",
+    "dex": 798,
+    "type": ["Grass", "Steel"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [59, 181, 131, 59, 31, 109],
+    "ev": [0, 3, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Beast Boost"],
+    "growthrate": "Slow",
+    "exp": 257,
+    "normalURL": "",
+    "shinyURL": ""
+}

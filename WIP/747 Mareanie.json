@@ -1,0 +1,21 @@
+{
+    "name": "Mareanie",
+    "fillerinfo": "Mareanie-0.4-8.0",
+    "dex": 747,
+    "type": ["Poison", "Water"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [50, 53, 62, 43, 52, 45],
+    "ev": [0, 0, 1, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Merciless", "Limber", "Regenerator"],
+    "growthrate": "Medium_Fast",
+    "exp": 61,
+    "normalURL": "",
+    "shinyURL": ""
+}

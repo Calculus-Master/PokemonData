@@ -1,0 +1,21 @@
+{
+    "name": "Ariados",
+    "fillerinfo": "Ariados-1.1-33.5",
+    "dex": 168,
+    "type": ["Bug", "Poison"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [70, 90, 70, 60, 70, 40],
+    "ev": [0, 2, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Swarm", "Insomnia", "Sniper"],
+    "growthrate": "Fast",
+    "exp": 140,
+    "normalURL": "",
+    "shinyURL": ""
+}

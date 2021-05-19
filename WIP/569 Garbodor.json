@@ -1,0 +1,21 @@
+{
+    "name": "Garbodor",
+    "fillerinfo": "Garbodor-1.9-107.3",
+    "dex": 569,
+    "type": ["Poison", "Poison"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [80, 95, 82, 60, 82, 75],
+    "ev": [0, 2, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Stench", "Weak Armor", "Aftermath"],
+    "growthrate": "Medium_Fast",
+    "exp": 166,
+    "normalURL": "",
+    "shinyURL": ""
+}

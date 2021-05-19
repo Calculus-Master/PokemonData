@@ -1,0 +1,21 @@
+{
+    "name": "Swoobat",
+    "fillerinfo": "Swoobat-0.9-10.5",
+    "dex": 528,
+    "type": ["Psychic", "Flying"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [67, 57, 55, 77, 55, 114],
+    "ev": [0, 0, 0, 0, 0, 2],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Unaware", "Klutz", "Simple"],
+    "growthrate": "Medium_Fast",
+    "exp": 149,
+    "normalURL": "",
+    "shinyURL": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Horsea",
+    "fillerinfo": "Horsea-0.4-8.0",
+    "dex": 116,
+    "type": ["Water", "Water"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [30, 40, 70, 70, 25, 60],
+    "ev": [0, 0, 0, 1, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Swift Swim", "Sniper", "Damp"],
+    "growthrate": "Medium_Fast",
+    "exp": 59,
+    "normalURL": "",
+    "shinyURL": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Emolga",
+    "fillerinfo": "Emolga-0.4-5.0",
+    "dex": 587,
+    "type": ["Electric", "Flying"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [55, 75, 60, 75, 60, 103],
+    "ev": [0, 0, 0, 0, 0, 2],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Static", "Motor Drive"],
+    "growthrate": "Medium_Fast",
+    "exp": 150,
+    "normalURL": "",
+    "shinyURL": ""
+}

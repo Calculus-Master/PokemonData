@@ -1,0 +1,21 @@
+{
+    "name": "Lurantis",
+    "fillerinfo": "Lurantis-0.9-18.5",
+    "dex": 754,
+    "type": ["Grass", "Grass"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [70, 105, 90, 80, 90, 45],
+    "ev": [0, 2, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Leaf Guard", "Contrary"],
+    "growthrate": "Medium_Fast",
+    "exp": 168,
+    "normalURL": "",
+    "shinyURL": ""
+}

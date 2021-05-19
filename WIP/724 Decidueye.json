@@ -1,0 +1,21 @@
+{
+    "name": "Decidueye",
+    "fillerinfo": "Decidueye-1.6-36.6",
+    "dex": 724,
+    "type": ["Grass", "Ghost"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [78, 107, 75, 100, 100, 70],
+    "ev": [0, 3, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Overgrow", "Long Reach"],
+    "growthrate": "Medium_Slow",
+    "exp": 239,
+    "normalURL": "",
+    "shinyURL": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Yanmega",
+    "fillerinfo": "Yanmega-1.9-51.5",
+    "dex": 469,
+    "type": ["Bug", "Flying"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [86, 76, 86, 116, 56, 95],
+    "ev": [0, 2, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Speed Boost", "Tinted Lens", "Frisk"],
+    "growthrate": "Medium_Fast",
+    "exp": 180,
+    "normalURL": "",
+    "shinyURL": ""
+}

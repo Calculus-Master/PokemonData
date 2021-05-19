@@ -1,0 +1,21 @@
+{
+    "name": "Tyrogue",
+    "fillerinfo": "Tyrogue-0.7-21.0",
+    "dex": 236,
+    "type": ["Fighting", "Fighting"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [35, 35, 35, 35, 35, 35],
+    "ev": [0, 1, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Guts", "Steadfast", "Vital Spirit"],
+    "growthrate": "Medium_Fast",
+    "exp": 42,
+    "normalURL": "",
+    "shinyURL": ""
+}

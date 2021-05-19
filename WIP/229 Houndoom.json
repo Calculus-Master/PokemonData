@@ -1,0 +1,21 @@
+{
+    "name": "Houndoom",
+    "fillerinfo": "Houndoom-1.4-35.0",
+    "dex": 229,
+    "type": ["Dark", "Fire"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [75, 90, 50, 110, 80, 95],
+    "ev": [0, 0, 0, 2, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Early Bird", "Flash Fire", "Unnerve"],
+    "growthrate": "Slow",
+    "exp": 175,
+    "normalURL": "",
+    "shinyURL": ""
+}

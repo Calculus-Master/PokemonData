@@ -1,0 +1,21 @@
+{
+    "name": "Bewear",
+    "fillerinfo": "Bewear-2.1-135.0",
+    "dex": 760,
+    "type": ["Normal", "Fighting"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [120, 125, 80, 55, 60, 60],
+    "ev": [0, 2, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Fluffy", "Klutz", "Unnerve"],
+    "growthrate": "Medium_Fast",
+    "exp": 175,
+    "normalURL": "",
+    "shinyURL": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Vivillon",
+    "fillerinfo": "Vivillon-1.2-17.0",
+    "dex": 666,
+    "type": ["Bug", "Flying"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [80, 52, 50, 90, 50, 89],
+    "ev": [1, 0, 0, 1, 0, 1],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Shield Dust", "Compound Eyes", "Friend Guard"],
+    "growthrate": "Medium_Fast",
+    "exp": 185,
+    "normalURL": "",
+    "shinyURL": ""
+}

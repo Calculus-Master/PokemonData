@@ -1,0 +1,21 @@
+{
+    "name": "Yveltal",
+    "fillerinfo": "Yveltal-5.8-203.0",
+    "dex": 717,
+    "type": ["Dark", "Flying"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [126, 131, 95, 131, 98, 99],
+    "ev": [3, 0, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Dark Aura"],
+    "growthrate": "Slow",
+    "exp": 306,
+    "normalURL": "",
+    "shinyURL": ""
+}

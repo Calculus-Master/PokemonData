@@ -1,0 +1,21 @@
+{
+    "name": "Steelix",
+    "fillerinfo": "Steelix-9.2-400.0",
+    "dex": 208,
+    "type": ["Steel", "Ground"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [75, 85, 200, 55, 65, 30],
+    "ev": [0, 0, 2, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Rock Head", "Sturdy", "Sheer Force"],
+    "growthrate": "Medium_Fast",
+    "exp": 179,
+    "normalURL": "",
+    "shinyURL": ""
+}

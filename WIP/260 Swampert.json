@@ -1,0 +1,21 @@
+{
+    "name": "Swampert",
+    "fillerinfo": "Swampert-1.5-81.9",
+    "dex": 260,
+    "type": ["Water", "Ground"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [100, 110, 90, 85, 90, 60],
+    "ev": [0, 3, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Torrent", "Damp"],
+    "growthrate": "Medium_Slow",
+    "exp": 241,
+    "normalURL": "",
+    "shinyURL": ""
+}

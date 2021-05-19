@@ -1,0 +1,21 @@
+{
+    "name": "Bagon",
+    "fillerinfo": "Bagon-0.6-42.1",
+    "dex": 371,
+    "type": ["Dragon", "Dragon"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [45, 75, 60, 40, 30, 50],
+    "ev": [0, 1, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Rock Head", "Sheer Force"],
+    "growthrate": "Slow",
+    "exp": 60,
+    "normalURL": "",
+    "shinyURL": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Goomy",
+    "fillerinfo": "Goomy-0.3-2.8",
+    "dex": 704,
+    "type": ["Dragon", "Dragon"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [45, 50, 35, 55, 75, 40],
+    "ev": [0, 0, 0, 0, 1, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Sap Sipper", "Hydration", "Gooey"],
+    "growthrate": "Slow",
+    "exp": 60,
+    "normalURL": "",
+    "shinyURL": ""
+}

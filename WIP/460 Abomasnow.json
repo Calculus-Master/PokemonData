@@ -1,0 +1,21 @@
+{
+    "name": "Abomasnow",
+    "fillerinfo": "Abomasnow-2.2-135.5",
+    "dex": 460,
+    "type": ["Grass", "Ice"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [90, 92, 75, 92, 85, 60],
+    "ev": [0, 1, 0, 1, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Snow Warning", "Soundproof"],
+    "growthrate": "Slow",
+    "exp": 173,
+    "normalURL": "",
+    "shinyURL": ""
+}

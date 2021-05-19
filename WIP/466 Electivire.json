@@ -1,0 +1,21 @@
+{
+    "name": "Electivire",
+    "fillerinfo": "Electivire-1.8-138.6",
+    "dex": 466,
+    "type": ["Electric", "Electric"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [75, 123, 67, 95, 85, 95],
+    "ev": [0, 3, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Motor Drive", "Vital Spirit"],
+    "growthrate": "Medium_Fast",
+    "exp": 243,
+    "normalURL": "",
+    "shinyURL": ""
+}

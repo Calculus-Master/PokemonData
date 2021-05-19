@@ -1,0 +1,21 @@
+{
+    "name": "Spinda",
+    "fillerinfo": "Spinda-1.1-5.0",
+    "dex": 327,
+    "type": ["Normal", "Normal"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [60, 60, 60, 60, 60, 60],
+    "ev": [0, 0, 0, 1, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Own Tempo", "Tangled Feet", "Contrary"],
+    "growthrate": "Fast",
+    "exp": 126,
+    "normalURL": "",
+    "shinyURL": ""
+}

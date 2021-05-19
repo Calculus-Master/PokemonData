@@ -1,0 +1,21 @@
+{
+    "name": "Tropius",
+    "fillerinfo": "Tropius-2.0-100.0",
+    "dex": 357,
+    "type": ["Grass", "Flying"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [99, 68, 83, 72, 87, 51],
+    "ev": [2, 0, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Chlorophyll", "Solar Power", "Harvest"],
+    "growthrate": "Slow",
+    "exp": 161,
+    "normalURL": "",
+    "shinyURL": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Mamoswine",
+    "fillerinfo": "Mamoswine-2.5-291.0",
+    "dex": 473,
+    "type": ["Ice", "Ground"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [110, 130, 80, 70, 60, 80],
+    "ev": [0, 3, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Oblivious", "Snow Cloak", "Thick Fat"],
+    "growthrate": "Slow",
+    "exp": 239,
+    "normalURL": "",
+    "shinyURL": ""
+}

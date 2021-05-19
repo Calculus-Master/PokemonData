@@ -1,0 +1,21 @@
+{
+    "name": "Torchic",
+    "fillerinfo": "Torchic-0.4-2.5",
+    "dex": 255,
+    "type": ["Fire", "Fire"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [45, 60, 40, 70, 50, 45],
+    "ev": [0, 0, 0, 1, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Blaze", "Speed Boost"],
+    "growthrate": "Medium_Slow",
+    "exp": 62,
+    "normalURL": "",
+    "shinyURL": ""
+}

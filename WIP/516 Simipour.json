@@ -1,0 +1,21 @@
+{
+    "name": "Simipour",
+    "fillerinfo": "Simipour-1.0-29.0",
+    "dex": 516,
+    "type": ["Water", "Water"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [75, 98, 63, 98, 63, 101],
+    "ev": [0, 0, 0, 0, 0, 2],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Gluttony", "Torrent"],
+    "growthrate": "Medium_Fast",
+    "exp": 174,
+    "normalURL": "",
+    "shinyURL": ""
+}

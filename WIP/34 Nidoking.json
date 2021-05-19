@@ -1,0 +1,21 @@
+{
+    "name": "Nidoking",
+    "fillerinfo": "Nidoking-1.4-62.0",
+    "dex": 34,
+    "type": ["Poison", "Ground"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [81, 102, 77, 85, 75, 85],
+    "ev": [0, 3, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Poison Point", "Rivalry", "Sheer Force"],
+    "growthrate": "Medium_Slow",
+    "exp": 227,
+    "normalURL": "",
+    "shinyURL": ""
+}

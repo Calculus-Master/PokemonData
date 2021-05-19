@@ -1,0 +1,21 @@
+{
+    "name": "Dustox",
+    "fillerinfo": "Dustox-1.2-31.6",
+    "dex": 269,
+    "type": ["Bug", "Poison"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [60, 50, 70, 50, 90, 65],
+    "ev": [0, 0, 0, 0, 3, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Shield Dust", "Compound Eyes"],
+    "growthrate": "Medium_Fast",
+    "exp": 173,
+    "normalURL": "",
+    "shinyURL": ""
+}

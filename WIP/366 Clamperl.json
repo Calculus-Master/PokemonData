@@ -1,0 +1,21 @@
+{
+    "name": "Clamperl",
+    "fillerinfo": "Clamperl-0.4-52.5",
+    "dex": 366,
+    "type": ["Water", "Water"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [35, 64, 85, 74, 55, 32],
+    "ev": [0, 0, 1, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Shell Armor", "Rattled"],
+    "growthrate": "Erratic",
+    "exp": 69,
+    "normalURL": "",
+    "shinyURL": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Grovyle",
+    "fillerinfo": "Grovyle-0.9-21.6",
+    "dex": 253,
+    "type": ["Grass", "Grass"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [50, 65, 45, 85, 65, 95],
+    "ev": [0, 0, 0, 0, 0, 2],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Overgrow", "Unburden"],
+    "growthrate": "Medium_Slow",
+    "exp": 142,
+    "normalURL": "",
+    "shinyURL": ""
+}

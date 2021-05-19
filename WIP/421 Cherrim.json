@@ -1,0 +1,21 @@
+{
+    "name": "Cherrim",
+    "fillerinfo": "Cherrim-0.5-9.3",
+    "dex": 421,
+    "type": ["Grass", "Grass"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [70, 60, 70, 87, 78, 85],
+    "ev": [0, 0, 0, 2, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Flower Gift"],
+    "growthrate": "Medium_Fast",
+    "exp": 158,
+    "normalURL": "",
+    "shinyURL": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Lickilicky",
+    "fillerinfo": "Lickilicky-1.7-140.0",
+    "dex": 463,
+    "type": ["Normal", "Normal"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [110, 85, 95, 80, 95, 50],
+    "ev": [3, 0, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Own Tempo", "Oblivious", "Cloud Nine"],
+    "growthrate": "Medium_Fast",
+    "exp": 180,
+    "normalURL": "",
+    "shinyURL": ""
+}

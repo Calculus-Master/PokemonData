@@ -1,0 +1,21 @@
+{
+    "name": "Ninjask",
+    "fillerinfo": "Ninjask-0.8-12.0",
+    "dex": 291,
+    "type": ["Bug", "Flying"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [61, 90, 45, 50, 50, 160],
+    "ev": [0, 0, 0, 0, 0, 2],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Speed Boost", "Infiltrator"],
+    "growthrate": "Erratic",
+    "exp": 160,
+    "normalURL": "",
+    "shinyURL": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Mew",
+    "fillerinfo": "Mew-0.4-4.0",
+    "dex": 151,
+    "type": ["Psychic", "Psychic"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [100, 100, 100, 100, 100, 100],
+    "ev": [3, 0, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Synchronize"],
+    "growthrate": "Medium_Slow",
+    "exp": 270,
+    "normalURL": "",
+    "shinyURL": ""
+}

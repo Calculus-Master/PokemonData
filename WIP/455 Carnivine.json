@@ -1,0 +1,21 @@
+{
+    "name": "Carnivine",
+    "fillerinfo": "Carnivine-1.4-27.0",
+    "dex": 455,
+    "type": ["Grass", "Grass"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [74, 100, 72, 90, 72, 46],
+    "ev": [0, 2, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Levitate"],
+    "growthrate": "Slow",
+    "exp": 159,
+    "normalURL": "",
+    "shinyURL": ""
+}

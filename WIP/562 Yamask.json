@@ -1,0 +1,21 @@
+{
+    "name": "Yamask",
+    "fillerinfo": "Yamask-0.5-1.5",
+    "dex": 562,
+    "type": ["Ghost", "Ghost"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [38, 30, 85, 55, 65, 30],
+    "ev": [0, 0, 1, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Mummy"],
+    "growthrate": "Medium_Fast",
+    "exp": 61,
+    "normalURL": "",
+    "shinyURL": ""
+}

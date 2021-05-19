@@ -1,0 +1,21 @@
+{
+    "name": "Medicham",
+    "fillerinfo": "Medicham-1.3-31.5",
+    "dex": 308,
+    "type": ["Fighting", "Psychic"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [60, 60, 75, 60, 75, 80],
+    "ev": [0, 0, 0, 0, 0, 2],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Pure Power", "Telepathy"],
+    "growthrate": "Medium_Fast",
+    "exp": 144,
+    "normalURL": "",
+    "shinyURL": ""
+}

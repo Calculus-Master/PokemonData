@@ -1,0 +1,21 @@
+{
+    "name": "Purrloin",
+    "fillerinfo": "Purrloin-0.4-10.1",
+    "dex": 509,
+    "type": ["Dark", "Dark"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [41, 50, 37, 50, 37, 66],
+    "ev": [0, 0, 0, 0, 0, 1],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Limber", "Unburden", "Prankster"],
+    "growthrate": "Medium_Fast",
+    "exp": 56,
+    "normalURL": "",
+    "shinyURL": ""
+}

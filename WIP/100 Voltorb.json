@@ -1,0 +1,21 @@
+{
+    "name": "Voltorb",
+    "fillerinfo": "Voltorb-0.5-10.4",
+    "dex": 100,
+    "type": ["Electric", "Electric"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [40, 30, 50, 55, 55, 100],
+    "ev": [0, 0, 0, 0, 0, 1],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Soundproof", "Static", "Aftermath"],
+    "growthrate": "Medium_Fast",
+    "exp": 66,
+    "normalURL": "",
+    "shinyURL": ""
+}

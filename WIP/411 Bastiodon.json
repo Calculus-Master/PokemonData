@@ -1,0 +1,21 @@
+{
+    "name": "Bastiodon",
+    "fillerinfo": "Bastiodon-1.3-149.5",
+    "dex": 411,
+    "type": ["Rock", "Steel"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [60, 52, 168, 47, 138, 30],
+    "ev": [0, 0, 2, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Sturdy", "Soundproof"],
+    "growthrate": "Erratic",
+    "exp": 173,
+    "normalURL": "",
+    "shinyURL": ""
+}

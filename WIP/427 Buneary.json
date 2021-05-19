@@ -1,0 +1,21 @@
+{
+    "name": "Buneary",
+    "fillerinfo": "Buneary-0.4-5.5",
+    "dex": 427,
+    "type": ["Normal", "Normal"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [55, 66, 44, 44, 56, 85],
+    "ev": [0, 0, 0, 0, 0, 1],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Run Away", "Klutz", "Limber"],
+    "growthrate": "Medium_Fast",
+    "exp": 70,
+    "normalURL": "",
+    "shinyURL": ""
+}

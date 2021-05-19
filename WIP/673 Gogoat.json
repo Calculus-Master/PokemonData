@@ -1,0 +1,21 @@
+{
+    "name": "Gogoat",
+    "fillerinfo": "Gogoat-1.7-91.0",
+    "dex": 673,
+    "type": ["Grass", "Grass"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [123, 100, 62, 97, 81, 68],
+    "ev": [2, 0, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Sap Sipper", "Grass Pelt"],
+    "growthrate": "Medium_Fast",
+    "exp": 186,
+    "normalURL": "",
+    "shinyURL": ""
+}

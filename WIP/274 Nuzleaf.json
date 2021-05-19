@@ -1,0 +1,21 @@
+{
+    "name": "Nuzleaf",
+    "fillerinfo": "Nuzleaf-1.0-28.0",
+    "dex": 274,
+    "type": ["Grass", "Dark"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [70, 70, 40, 60, 40, 60],
+    "ev": [0, 2, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Chlorophyll", "Early Bird", "Pickpocket"],
+    "growthrate": "Medium_Slow",
+    "exp": 119,
+    "normalURL": "",
+    "shinyURL": ""
+}

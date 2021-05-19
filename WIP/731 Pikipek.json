@@ -1,0 +1,21 @@
+{
+    "name": "Pikipek",
+    "fillerinfo": "Pikipek-0.3-1.2",
+    "dex": 731,
+    "type": ["Normal", "Flying"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [35, 75, 30, 30, 30, 65],
+    "ev": [0, 1, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Keen Eye", "Skill Link", "Pickup"],
+    "growthrate": "Medium_Fast",
+    "exp": 53,
+    "normalURL": "",
+    "shinyURL": ""
+}

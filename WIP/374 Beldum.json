@@ -1,0 +1,21 @@
+{
+    "name": "Beldum",
+    "fillerinfo": "Beldum-0.6-95.2",
+    "dex": 374,
+    "type": ["Steel", "Psychic"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [40, 55, 80, 35, 60, 30],
+    "ev": [0, 0, 1, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Clear Body", "Light Metal"],
+    "growthrate": "Slow",
+    "exp": 60,
+    "normalURL": "",
+    "shinyURL": ""
+}

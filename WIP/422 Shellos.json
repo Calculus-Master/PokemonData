@@ -1,0 +1,21 @@
+{
+    "name": "Shellos",
+    "fillerinfo": "Shellos-0.3-6.3",
+    "dex": 422,
+    "type": ["Water", "Water"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [76, 48, 48, 57, 62, 34],
+    "ev": [1, 0, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Sticky Hold", "Storm Drain", "Sand Force"],
+    "growthrate": "Medium_Fast",
+    "exp": 65,
+    "normalURL": "",
+    "shinyURL": ""
+}

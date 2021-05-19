@@ -1,0 +1,21 @@
+{
+    "name": "Scyther",
+    "fillerinfo": "Scyther-1.5-56.0",
+    "dex": 123,
+    "type": ["Bug", "Flying"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [70, 110, 80, 55, 80, 105],
+    "ev": [0, 1, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Swarm", "Technician", "Steadfast"],
+    "growthrate": "Medium_Fast",
+    "exp": 100,
+    "normalURL": "",
+    "shinyURL": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Vanillish",
+    "fillerinfo": "Vanillish-1.1-41.0",
+    "dex": 583,
+    "type": ["Ice", "Ice"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [51, 65, 65, 80, 75, 59],
+    "ev": [0, 0, 0, 2, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Ice Body", "Snow Cloak", "Weak Armor"],
+    "growthrate": "Slow",
+    "exp": 138,
+    "normalURL": "",
+    "shinyURL": ""
+}

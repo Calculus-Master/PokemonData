@@ -1,0 +1,21 @@
+{
+    "name": "Chimecho",
+    "fillerinfo": "Chimecho-0.6-1.0",
+    "dex": 358,
+    "type": ["Psychic", "Psychic"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [75, 50, 80, 95, 90, 65],
+    "ev": [0, 0, 0, 1, 1, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Levitate"],
+    "growthrate": "Fast",
+    "exp": 159,
+    "normalURL": "",
+    "shinyURL": ""
+}

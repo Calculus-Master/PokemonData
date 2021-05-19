@@ -1,0 +1,21 @@
+{
+    "name": "Mudbray",
+    "fillerinfo": "Mudbray-1.0-110.0",
+    "dex": 749,
+    "type": ["Ground", "Ground"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [70, 100, 70, 45, 55, 45],
+    "ev": [0, 1, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Own Tempo", "Stamina", "Inner Focus"],
+    "growthrate": "Medium_Fast",
+    "exp": 77,
+    "normalURL": "",
+    "shinyURL": ""
+}

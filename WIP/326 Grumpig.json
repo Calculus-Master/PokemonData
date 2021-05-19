@@ -1,0 +1,21 @@
+{
+    "name": "Grumpig",
+    "fillerinfo": "Grumpig-0.9-71.5",
+    "dex": 326,
+    "type": ["Psychic", "Psychic"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [80, 45, 65, 90, 110, 80],
+    "ev": [0, 0, 0, 0, 2, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Thick Fat", "Own Tempo", "Gluttony"],
+    "growthrate": "Fast",
+    "exp": 165,
+    "normalURL": "",
+    "shinyURL": ""
+}

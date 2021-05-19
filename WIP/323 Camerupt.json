@@ -1,0 +1,21 @@
+{
+    "name": "Camerupt",
+    "fillerinfo": "Camerupt-1.9-220.0",
+    "dex": 323,
+    "type": ["Fire", "Ground"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [70, 100, 70, 105, 75, 40],
+    "ev": [0, 1, 0, 1, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Magma Armor", "Solid Rock", "Anger Point"],
+    "growthrate": "Medium_Fast",
+    "exp": 161,
+    "normalURL": "",
+    "shinyURL": ""
+}

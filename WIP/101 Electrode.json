@@ -1,0 +1,21 @@
+{
+    "name": "Electrode",
+    "fillerinfo": "Electrode-1.2-66.6",
+    "dex": 101,
+    "type": ["Electric", "Electric"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [60, 50, 70, 80, 80, 150],
+    "ev": [0, 0, 0, 0, 0, 2],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Soundproof", "Static", "Aftermath"],
+    "growthrate": "Medium_Fast",
+    "exp": 172,
+    "normalURL": "",
+    "shinyURL": ""
+}

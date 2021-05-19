@@ -1,0 +1,21 @@
+{
+    "name": "Oshawott",
+    "fillerinfo": "Oshawott-0.5-5.9",
+    "dex": 501,
+    "type": ["Water", "Water"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [55, 55, 45, 63, 45, 45],
+    "ev": [0, 0, 0, 1, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Torrent", "Shell Armor"],
+    "growthrate": "Medium_Slow",
+    "exp": 62,
+    "normalURL": "",
+    "shinyURL": ""
+}

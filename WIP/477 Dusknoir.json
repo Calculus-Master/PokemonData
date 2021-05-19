@@ -1,0 +1,21 @@
+{
+    "name": "Dusknoir",
+    "fillerinfo": "Dusknoir-2.2-106.6",
+    "dex": 477,
+    "type": ["Ghost", "Ghost"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [45, 100, 135, 65, 135, 45],
+    "ev": [0, 0, 1, 0, 2, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Pressure", "Frisk"],
+    "growthrate": "Fast",
+    "exp": 236,
+    "normalURL": "",
+    "shinyURL": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Kommo-O-",
+    "fillerinfo": "Kommo-O--1.6-78.2",
+    "dex": 784,
+    "type": ["Dragon", "Fighting"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [75, 110, 125, 100, 105, 85],
+    "ev": [0, 0, 3, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Bulletproof", "Soundproof", "Overcoat"],
+    "growthrate": "Slow",
+    "exp": 270,
+    "normalURL": "",
+    "shinyURL": ""
+}

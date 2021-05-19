@@ -1,0 +1,21 @@
+{
+    "name": "Wooper",
+    "fillerinfo": "Wooper-0.4-8.5",
+    "dex": 194,
+    "type": ["Water", "Ground"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [55, 45, 45, 25, 25, 15],
+    "ev": [1, 0, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Damp", "Water Absorb", "Unaware"],
+    "growthrate": "Medium_Fast",
+    "exp": 42,
+    "normalURL": "",
+    "shinyURL": ""
+}

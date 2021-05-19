@@ -1,0 +1,21 @@
+{
+    "name": "Stunky",
+    "fillerinfo": "Stunky-0.4-19.2",
+    "dex": 434,
+    "type": ["Poison", "Dark"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [63, 63, 47, 41, 41, 74],
+    "ev": [0, 0, 0, 0, 0, 1],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Stench", "Aftermath", "Keen Eye"],
+    "growthrate": "Medium_Fast",
+    "exp": 66,
+    "normalURL": "",
+    "shinyURL": ""
+}

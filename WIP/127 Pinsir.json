@@ -1,0 +1,21 @@
+{
+    "name": "Pinsir",
+    "fillerinfo": "Pinsir-1.5-55.0",
+    "dex": 127,
+    "type": ["Bug", "Bug"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [65, 125, 100, 55, 70, 85],
+    "ev": [0, 2, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Hyper Cutter", "Mold Breaker", "Moxie"],
+    "growthrate": "Slow",
+    "exp": 175,
+    "normalURL": "",
+    "shinyURL": ""
+}

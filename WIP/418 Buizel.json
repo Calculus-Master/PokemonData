@@ -1,0 +1,21 @@
+{
+    "name": "Buizel",
+    "fillerinfo": "Buizel-0.7-29.5",
+    "dex": 418,
+    "type": ["Water", "Water"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [55, 65, 35, 60, 30, 85],
+    "ev": [0, 0, 0, 0, 0, 1],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Swift Swim", "Water Veil"],
+    "growthrate": "Medium_Fast",
+    "exp": 66,
+    "normalURL": "",
+    "shinyURL": ""
+}

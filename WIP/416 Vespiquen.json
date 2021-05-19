@@ -1,0 +1,21 @@
+{
+    "name": "Vespiquen",
+    "fillerinfo": "Vespiquen-1.2-38.5",
+    "dex": 416,
+    "type": ["Bug", "Flying"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [70, 80, 102, 80, 102, 40],
+    "ev": [0, 0, 1, 0, 1, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Pressure", "Unnerve"],
+    "growthrate": "Medium_Slow",
+    "exp": 166,
+    "normalURL": "",
+    "shinyURL": ""
+}

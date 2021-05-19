@@ -1,0 +1,21 @@
+{
+    "name": "Lugia",
+    "fillerinfo": "Lugia-5.2-216.0",
+    "dex": 249,
+    "type": ["Psychic", "Flying"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [106, 90, 130, 90, 154, 110],
+    "ev": [0, 0, 0, 0, 3, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Pressure", "Multiscale"],
+    "growthrate": "Slow",
+    "exp": 306,
+    "normalURL": "",
+    "shinyURL": ""
+}

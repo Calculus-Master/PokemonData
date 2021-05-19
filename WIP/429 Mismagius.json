@@ -1,0 +1,21 @@
+{
+    "name": "Mismagius",
+    "fillerinfo": "Mismagius-0.9-4.4",
+    "dex": 429,
+    "type": ["Ghost", "Ghost"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [60, 60, 60, 105, 105, 105],
+    "ev": [0, 0, 0, 1, 1, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Levitate"],
+    "growthrate": "Fast",
+    "exp": 173,
+    "normalURL": "",
+    "shinyURL": ""
+}

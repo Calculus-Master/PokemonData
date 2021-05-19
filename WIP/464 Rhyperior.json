@@ -1,0 +1,21 @@
+{
+    "name": "Rhyperior",
+    "fillerinfo": "Rhyperior-2.4-282.8",
+    "dex": 464,
+    "type": ["Ground", "Rock"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [115, 140, 130, 55, 55, 40],
+    "ev": [0, 3, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Lightning Rod", "Solid Rock", "Reckless"],
+    "growthrate": "Slow",
+    "exp": 241,
+    "normalURL": "",
+    "shinyURL": ""
+}

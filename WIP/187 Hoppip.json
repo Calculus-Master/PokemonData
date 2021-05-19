@@ -1,0 +1,21 @@
+{
+    "name": "Hoppip",
+    "fillerinfo": "Hoppip-0.4-0.5",
+    "dex": 187,
+    "type": ["Grass", "Flying"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [35, 35, 40, 35, 55, 50],
+    "ev": [0, 0, 0, 0, 1, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Chlorophyll", "Leaf Guard", "Infiltrator"],
+    "growthrate": "Medium_Slow",
+    "exp": 50,
+    "normalURL": "",
+    "shinyURL": ""
+}

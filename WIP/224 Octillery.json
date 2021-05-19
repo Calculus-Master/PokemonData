@@ -1,0 +1,21 @@
+{
+    "name": "Octillery",
+    "fillerinfo": "Octillery-0.9-28.5",
+    "dex": 224,
+    "type": ["Water", "Water"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [75, 105, 75, 105, 75, 45],
+    "ev": [0, 1, 0, 1, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Suction Cups", "Sniper", "Moody"],
+    "growthrate": "Medium_Fast",
+    "exp": 168,
+    "normalURL": "",
+    "shinyURL": ""
+}

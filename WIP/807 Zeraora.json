@@ -1,0 +1,21 @@
+{
+    "name": "Zeraora",
+    "fillerinfo": "Zeraora-1.5-44.5",
+    "dex": 807,
+    "type": ["Electric", "Electric"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [88, 112, 75, 102, 80, 143],
+    "ev": [0, 0, 0, 0, 0, 3],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Volt Absorb"],
+    "growthrate": "Slow",
+    "exp": 270,
+    "normalURL": "",
+    "shinyURL": ""
+}

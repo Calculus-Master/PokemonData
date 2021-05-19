@@ -1,0 +1,21 @@
+{
+    "name": "Luvdisc",
+    "fillerinfo": "Luvdisc-0.6-8.7",
+    "dex": 370,
+    "type": ["Water", "Water"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [43, 30, 55, 40, 65, 97],
+    "ev": [0, 0, 0, 0, 0, 1],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Swift Swim", "Hydration"],
+    "growthrate": "Fast",
+    "exp": 116,
+    "normalURL": "",
+    "shinyURL": ""
+}

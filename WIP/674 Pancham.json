@@ -1,0 +1,21 @@
+{
+    "name": "Pancham",
+    "fillerinfo": "Pancham-0.6-8.0",
+    "dex": 674,
+    "type": ["Fighting", "Fighting"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [67, 82, 62, 46, 48, 43],
+    "ev": [0, 1, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Iron Fist", "Mold Breaker", "Scrappy"],
+    "growthrate": "Medium_Fast",
+    "exp": 70,
+    "normalURL": "",
+    "shinyURL": ""
+}

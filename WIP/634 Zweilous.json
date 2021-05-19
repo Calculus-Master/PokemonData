@@ -1,0 +1,21 @@
+{
+    "name": "Zweilous",
+    "fillerinfo": "Zweilous-1.4-50.0",
+    "dex": 634,
+    "type": ["Dark", "Dragon"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [72, 85, 70, 65, 70, 58],
+    "ev": [0, 2, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Hustle"],
+    "growthrate": "Slow",
+    "exp": 147,
+    "normalURL": "",
+    "shinyURL": ""
+}

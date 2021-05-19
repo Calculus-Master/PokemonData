@@ -1,0 +1,21 @@
+{
+    "name": "Galvantula",
+    "fillerinfo": "Galvantula-0.8-14.3",
+    "dex": 596,
+    "type": ["Bug", "Electric"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [70, 77, 60, 97, 60, 108],
+    "ev": [0, 0, 0, 0, 0, 2],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Compound Eyes", "Unnerve", "Swarm"],
+    "growthrate": "Medium_Fast",
+    "exp": 165,
+    "normalURL": "",
+    "shinyURL": ""
+}

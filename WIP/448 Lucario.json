@@ -1,0 +1,21 @@
+{
+    "name": "Lucario",
+    "fillerinfo": "Lucario-1.2-54.0",
+    "dex": 448,
+    "type": ["Fighting", "Steel"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [70, 110, 70, 115, 70, 90],
+    "ev": [0, 1, 0, 1, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Steadfast", "Inner Focus", "Justified"],
+    "growthrate": "Medium_Slow",
+    "exp": 184,
+    "normalURL": "",
+    "shinyURL": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Escavalier",
+    "fillerinfo": "Escavalier-1.0-33.0",
+    "dex": 589,
+    "type": ["Bug", "Steel"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [70, 135, 105, 60, 105, 20],
+    "ev": [0, 2, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Swarm", "Shell Armor", "Overcoat"],
+    "growthrate": "Medium_Fast",
+    "exp": 173,
+    "normalURL": "",
+    "shinyURL": ""
+}

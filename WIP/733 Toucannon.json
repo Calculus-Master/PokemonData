@@ -1,0 +1,21 @@
+{
+    "name": "Toucannon",
+    "fillerinfo": "Toucannon-1.1-26.0",
+    "dex": 733,
+    "type": ["Normal", "Flying"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [80, 120, 75, 75, 75, 60],
+    "ev": [0, 3, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Keen Eye", "Skill Link", "Sheer Force"],
+    "growthrate": "Medium_Fast",
+    "exp": 218,
+    "normalURL": "",
+    "shinyURL": ""
+}

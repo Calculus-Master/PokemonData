@@ -1,0 +1,21 @@
+{
+    "name": "Meganium",
+    "fillerinfo": "Meganium-1.8-100.5",
+    "dex": 154,
+    "type": ["Grass", "Grass"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [80, 82, 100, 83, 100, 80],
+    "ev": [0, 0, 1, 0, 2, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Overgrow", "Leaf Guard"],
+    "growthrate": "Medium_Slow",
+    "exp": 236,
+    "normalURL": "",
+    "shinyURL": ""
+}

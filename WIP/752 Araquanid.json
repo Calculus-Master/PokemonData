@@ -1,0 +1,21 @@
+{
+    "name": "Araquanid",
+    "fillerinfo": "Araquanid-1.8-82.0",
+    "dex": 752,
+    "type": ["Water", "Bug"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [68, 70, 92, 50, 132, 42],
+    "ev": [0, 0, 0, 0, 2, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Water Bubble", "Water Absorb"],
+    "growthrate": "Medium_Fast",
+    "exp": 159,
+    "normalURL": "",
+    "shinyURL": ""
+}

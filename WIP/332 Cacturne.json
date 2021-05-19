@@ -1,0 +1,21 @@
+{
+    "name": "Cacturne",
+    "fillerinfo": "Cacturne-1.3-77.4",
+    "dex": 332,
+    "type": ["Grass", "Dark"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [70, 115, 60, 115, 60, 55],
+    "ev": [0, 1, 0, 1, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Sand Veil", "Water Absorb"],
+    "growthrate": "Medium_Slow",
+    "exp": 166,
+    "normalURL": "",
+    "shinyURL": ""
+}

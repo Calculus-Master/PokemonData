@@ -1,0 +1,21 @@
+{
+    "name": "Amoonguss",
+    "fillerinfo": "Amoonguss-0.6-10.5",
+    "dex": 591,
+    "type": ["Grass", "Poison"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [114, 85, 70, 85, 80, 30],
+    "ev": [2, 0, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Effect Spore", "Regenerator"],
+    "growthrate": "Medium_Fast",
+    "exp": 162,
+    "normalURL": "",
+    "shinyURL": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Tirtouga",
+    "fillerinfo": "Tirtouga-0.7-16.5",
+    "dex": 564,
+    "type": ["Water", "Rock"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [54, 78, 103, 53, 45, 22],
+    "ev": [0, 0, 1, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Solid Rock", "Sturdy", "Swift Swim"],
+    "growthrate": "Medium_Fast",
+    "exp": 71,
+    "normalURL": "",
+    "shinyURL": ""
+}

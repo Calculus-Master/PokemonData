@@ -1,0 +1,21 @@
+{
+    "name": "Infernape",
+    "fillerinfo": "Infernape-1.2-55.0",
+    "dex": 392,
+    "type": ["Fire", "Fighting"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [76, 104, 71, 104, 71, 108],
+    "ev": [0, 1, 0, 1, 0, 1],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Blaze", "Iron Fist"],
+    "growthrate": "Medium_Slow",
+    "exp": 240,
+    "normalURL": "",
+    "shinyURL": ""
+}

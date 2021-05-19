@@ -1,0 +1,21 @@
+{
+    "name": "Tauros",
+    "fillerinfo": "Tauros-1.4-88.4",
+    "dex": 128,
+    "type": ["Normal", "Normal"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [75, 100, 95, 40, 70, 110],
+    "ev": [0, 1, 0, 0, 0, 1],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Intimidate", "Anger Point", "Sheer Force"],
+    "growthrate": "Slow",
+    "exp": 172,
+    "normalURL": "",
+    "shinyURL": ""
+}

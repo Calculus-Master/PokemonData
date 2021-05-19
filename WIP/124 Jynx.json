@@ -1,0 +1,21 @@
+{
+    "name": "Jynx",
+    "fillerinfo": "Jynx-1.4-40.6",
+    "dex": 124,
+    "type": ["Ice", "Psychic"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [65, 50, 35, 115, 95, 95],
+    "ev": [0, 0, 0, 2, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Oblivious", "Forewarn", "Dry Skin"],
+    "growthrate": "Medium_Fast",
+    "exp": 159,
+    "normalURL": "",
+    "shinyURL": ""
+}

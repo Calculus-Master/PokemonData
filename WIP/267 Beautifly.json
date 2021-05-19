@@ -1,0 +1,21 @@
+{
+    "name": "Beautifly",
+    "fillerinfo": "Beautifly-1.0-28.4",
+    "dex": 267,
+    "type": ["Bug", "Flying"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [60, 70, 50, 100, 50, 65],
+    "ev": [0, 0, 0, 3, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Swarm", "Rivalry"],
+    "growthrate": "Medium_Fast",
+    "exp": 178,
+    "normalURL": "",
+    "shinyURL": ""
+}

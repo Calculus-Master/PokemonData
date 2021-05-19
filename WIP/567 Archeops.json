@@ -1,0 +1,21 @@
+{
+    "name": "Archeops",
+    "fillerinfo": "Archeops-1.4-32.0",
+    "dex": 567,
+    "type": ["Rock", "Flying"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [75, 140, 65, 112, 65, 110],
+    "ev": [0, 2, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Defeatist"],
+    "growthrate": "Medium_Fast",
+    "exp": 177,
+    "normalURL": "",
+    "shinyURL": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Pheromosa",
+    "fillerinfo": "Pheromosa-1.8-25.0",
+    "dex": 795,
+    "type": ["Bug", "Fighting"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [71, 137, 37, 137, 37, 151],
+    "ev": [0, 0, 0, 0, 0, 3],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Beast Boost"],
+    "growthrate": "Slow",
+    "exp": 257,
+    "normalURL": "",
+    "shinyURL": ""
+}

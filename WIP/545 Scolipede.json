@@ -1,0 +1,21 @@
+{
+    "name": "Scolipede",
+    "fillerinfo": "Scolipede-2.5-200.5",
+    "dex": 545,
+    "type": ["Bug", "Poison"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [60, 100, 89, 55, 69, 112],
+    "ev": [0, 0, 0, 0, 0, 3],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Poison Point", "Swarm", "Speed Boost"],
+    "growthrate": "Medium_Slow",
+    "exp": 218,
+    "normalURL": "",
+    "shinyURL": ""
+}

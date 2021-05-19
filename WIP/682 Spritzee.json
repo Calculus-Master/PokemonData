@@ -1,0 +1,21 @@
+{
+    "name": "Spritzee",
+    "fillerinfo": "Spritzee-0.2-0.5",
+    "dex": 682,
+    "type": ["Fairy", "Fairy"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [78, 52, 60, 63, 65, 23],
+    "ev": [1, 0, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Healer", "Aroma Veil"],
+    "growthrate": "Medium_Fast",
+    "exp": 68,
+    "normalURL": "",
+    "shinyURL": ""
+}

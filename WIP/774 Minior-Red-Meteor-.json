@@ -1,0 +1,21 @@
+{
+    "name": "Minior-Red-Meteor-",
+    "fillerinfo": "Minior-0.3-40.0",
+    "dex": 774,
+    "type": ["Rock", "Flying"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [60, 60, 100, 60, 100, 60],
+    "ev": [0, 0, 1, 0, 1, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Shields Down"],
+    "growthrate": "Medium_Slow",
+    "exp": 154,
+    "normalURL": "",
+    "shinyURL": ""
+}

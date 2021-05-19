@@ -1,0 +1,21 @@
+{
+    "name": "Hippowdon",
+    "fillerinfo": "Hippowdon-2.0-300.0",
+    "dex": 450,
+    "type": ["Ground", "Ground"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [108, 112, 118, 68, 72, 47],
+    "ev": [0, 0, 2, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Sand Stream", "Sand Force"],
+    "growthrate": "Slow",
+    "exp": 184,
+    "normalURL": "",
+    "shinyURL": ""
+}

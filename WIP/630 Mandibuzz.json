@@ -1,0 +1,21 @@
+{
+    "name": "Mandibuzz",
+    "fillerinfo": "Mandibuzz-1.2-39.5",
+    "dex": 630,
+    "type": ["Dark", "Flying"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [110, 65, 105, 55, 95, 80],
+    "ev": [0, 0, 0, 2, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Big Pecks", "Overcoat", "Weak Armor"],
+    "growthrate": "Slow",
+    "exp": 179,
+    "normalURL": "",
+    "shinyURL": ""
+}

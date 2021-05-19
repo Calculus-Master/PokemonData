@@ -1,0 +1,21 @@
+{
+    "name": "Staryu",
+    "fillerinfo": "Staryu-0.8-34.5",
+    "dex": 120,
+    "type": ["Water", "Water"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [30, 45, 55, 70, 55, 85],
+    "ev": [0, 0, 0, 0, 0, 1],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Illuminate", "Natural Cure", "Analytic"],
+    "growthrate": "Slow",
+    "exp": 68,
+    "normalURL": "",
+    "shinyURL": ""
+}

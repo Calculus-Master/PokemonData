@@ -1,0 +1,21 @@
+{
+    "name": "Jellicent",
+    "fillerinfo": "Jellicent-2.2-135.0",
+    "dex": 593,
+    "type": ["Water", "Ghost"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [100, 60, 70, 85, 105, 60],
+    "ev": [0, 0, 0, 0, 2, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Water Absorb", "Cursed Body", "Damp"],
+    "growthrate": "Medium_Fast",
+    "exp": 168,
+    "normalURL": "",
+    "shinyURL": ""
+}

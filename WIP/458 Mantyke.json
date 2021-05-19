@@ -1,0 +1,21 @@
+{
+    "name": "Mantyke",
+    "fillerinfo": "Mantyke-1.0-65.0",
+    "dex": 458,
+    "type": ["Water", "Flying"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [45, 20, 50, 60, 120, 50],
+    "ev": [0, 0, 0, 0, 1, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Swift Swim", "Water Absorb", "Water Veil"],
+    "growthrate": "Slow",
+    "exp": 69,
+    "normalURL": "",
+    "shinyURL": ""
+}

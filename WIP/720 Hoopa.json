@@ -1,0 +1,21 @@
+{
+    "name": "Hoopa",
+    "fillerinfo": "Hoopa-0.5-9.0",
+    "dex": 720,
+    "type": ["Psychic", "Ghost"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [80, 110, 60, 150, 130, 70],
+    "ev": [0, 0, 0, 3, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Magician"],
+    "growthrate": "Slow",
+    "exp": 270,
+    "normalURL": "",
+    "shinyURL": ""
+}

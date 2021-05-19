@@ -1,0 +1,21 @@
+{
+    "name": "Rotom",
+    "fillerinfo": "Rotom-0.3-0.3",
+    "dex": 479,
+    "type": ["Electric", "Ghost"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [50, 50, 77, 95, 77, 91],
+    "ev": [0, 0, 0, 1, 0, 1],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Levitate"],
+    "growthrate": "Medium_Fast",
+    "exp": 154,
+    "normalURL": "",
+    "shinyURL": ""
+}

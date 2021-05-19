@@ -1,0 +1,21 @@
+{
+    "name": "Drilbur",
+    "fillerinfo": "Drilbur-0.3-8.5",
+    "dex": 529,
+    "type": ["Ground", "Ground"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [60, 85, 40, 30, 45, 68],
+    "ev": [0, 1, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Sand Rush", "Sand Force", "Mold Breaker"],
+    "growthrate": "Medium_Fast",
+    "exp": 66,
+    "normalURL": "",
+    "shinyURL": ""
+}

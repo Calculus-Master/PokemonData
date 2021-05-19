@@ -1,0 +1,21 @@
+{
+    "name": "Swellow",
+    "fillerinfo": "Swellow-0.7-19.8",
+    "dex": 277,
+    "type": ["Normal", "Flying"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [60, 85, 60, 75, 50, 125],
+    "ev": [0, 0, 0, 0, 0, 2],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Guts", "Scrappy"],
+    "growthrate": "Medium_Slow",
+    "exp": 159,
+    "normalURL": "",
+    "shinyURL": ""
+}

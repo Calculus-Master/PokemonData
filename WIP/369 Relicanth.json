@@ -1,0 +1,21 @@
+{
+    "name": "Relicanth",
+    "fillerinfo": "Relicanth-1.0-23.4",
+    "dex": 369,
+    "type": ["Water", "Rock"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [100, 90, 130, 45, 65, 55],
+    "ev": [1, 0, 1, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Swift Swim", "Rock Head", "Sturdy"],
+    "growthrate": "Slow",
+    "exp": 170,
+    "normalURL": "",
+    "shinyURL": ""
+}

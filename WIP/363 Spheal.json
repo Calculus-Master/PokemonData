@@ -1,0 +1,21 @@
+{
+    "name": "Spheal",
+    "fillerinfo": "Spheal-0.8-39.5",
+    "dex": 363,
+    "type": ["Ice", "Water"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [70, 40, 50, 55, 50, 25],
+    "ev": [1, 0, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Thick Fat", "Ice Body", "Oblivious"],
+    "growthrate": "Medium_Slow",
+    "exp": 58,
+    "normalURL": "",
+    "shinyURL": ""
+}

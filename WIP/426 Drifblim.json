@@ -1,0 +1,21 @@
+{
+    "name": "Drifblim",
+    "fillerinfo": "Drifblim-1.2-15.0",
+    "dex": 426,
+    "type": ["Ghost", "Flying"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [150, 80, 44, 90, 54, 80],
+    "ev": [2, 0, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Aftermath", "Unburden", "Flare Boost"],
+    "growthrate": "Fluctuating",
+    "exp": 174,
+    "normalURL": "",
+    "shinyURL": ""
+}

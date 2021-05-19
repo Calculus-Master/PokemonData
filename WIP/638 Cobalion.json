@@ -1,0 +1,21 @@
+{
+    "name": "Cobalion",
+    "fillerinfo": "Cobalion-2.1-250.0",
+    "dex": 638,
+    "type": ["Steel", "Fighting"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [91, 90, 129, 90, 72, 108],
+    "ev": [0, 0, 3, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Justified"],
+    "growthrate": "Slow",
+    "exp": 261,
+    "normalURL": "",
+    "shinyURL": ""
+}

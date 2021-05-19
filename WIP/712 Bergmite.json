@@ -1,0 +1,21 @@
+{
+    "name": "Bergmite",
+    "fillerinfo": "Bergmite-1.0-99.5",
+    "dex": 712,
+    "type": ["Ice", "Ice"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [55, 69, 85, 32, 35, 28],
+    "ev": [0, 0, 1, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Own Tempo", "Ice Body", "Sturdy"],
+    "growthrate": "Medium_Fast",
+    "exp": 61,
+    "normalURL": "",
+    "shinyURL": ""
+}

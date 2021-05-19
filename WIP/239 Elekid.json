@@ -1,0 +1,21 @@
+{
+    "name": "Elekid",
+    "fillerinfo": "Elekid-0.6-23.5",
+    "dex": 239,
+    "type": ["Electric", "Electric"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [45, 63, 37, 65, 55, 95],
+    "ev": [0, 0, 0, 0, 0, 1],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Static", "Vital Spirit"],
+    "growthrate": "Medium_Fast",
+    "exp": 72,
+    "normalURL": "",
+    "shinyURL": ""
+}

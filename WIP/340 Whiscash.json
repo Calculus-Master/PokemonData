@@ -1,0 +1,21 @@
+{
+    "name": "Whiscash",
+    "fillerinfo": "Whiscash-0.9-23.6",
+    "dex": 340,
+    "type": ["Water", "Ground"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [110, 78, 73, 76, 71, 60],
+    "ev": [2, 0, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Oblivious", "Anticipation", "Hydration"],
+    "growthrate": "Medium_Fast",
+    "exp": 164,
+    "normalURL": "",
+    "shinyURL": ""
+}

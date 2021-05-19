@@ -1,0 +1,21 @@
+{
+    "name": "Omastar",
+    "fillerinfo": "Omastar-1.0-35.0",
+    "dex": 139,
+    "type": ["Rock", "Water"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [70, 60, 125, 115, 70, 55],
+    "ev": [0, 0, 2, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Swift Swim", "Shell Armor", "Weak Armor"],
+    "growthrate": "Medium_Fast",
+    "exp": 173,
+    "normalURL": "",
+    "shinyURL": ""
+}

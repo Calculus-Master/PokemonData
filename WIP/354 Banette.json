@@ -1,0 +1,21 @@
+{
+    "name": "Banette",
+    "fillerinfo": "Banette-1.1-12.5",
+    "dex": 354,
+    "type": ["Ghost", "Ghost"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [64, 115, 65, 83, 63, 65],
+    "ev": [0, 2, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Insomnia", "Frisk", "Cursed Body"],
+    "growthrate": "Fast",
+    "exp": 159,
+    "normalURL": "",
+    "shinyURL": ""
+}

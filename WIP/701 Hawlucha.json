@@ -1,0 +1,21 @@
+{
+    "name": "Hawlucha",
+    "fillerinfo": "Hawlucha-0.8-21.5",
+    "dex": 701,
+    "type": ["Fighting", "Flying"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [78, 92, 75, 74, 63, 118],
+    "ev": [0, 2, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Limber", "Unburden", "Mold Breaker"],
+    "growthrate": "Medium_Fast",
+    "exp": 175,
+    "normalURL": "",
+    "shinyURL": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Hydreigon",
+    "fillerinfo": "Hydreigon-1.8-160.0",
+    "dex": 635,
+    "type": ["Dark", "Dragon"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [92, 105, 90, 125, 90, 98],
+    "ev": [0, 0, 0, 3, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Levitate"],
+    "growthrate": "Slow",
+    "exp": 270,
+    "normalURL": "",
+    "shinyURL": ""
+}

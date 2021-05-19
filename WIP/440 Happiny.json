@@ -1,0 +1,21 @@
+{
+    "name": "Happiny",
+    "fillerinfo": "Happiny-0.6-24.4",
+    "dex": 440,
+    "type": ["Normal", "Normal"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [100, 5, 5, 15, 65, 30],
+    "ev": [1, 0, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Natural Cure", "Serene Grace", "Friend Guard"],
+    "growthrate": "Fast",
+    "exp": 110,
+    "normalURL": "",
+    "shinyURL": ""
+}

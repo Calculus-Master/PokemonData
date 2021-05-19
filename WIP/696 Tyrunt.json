@@ -1,0 +1,21 @@
+{
+    "name": "Tyrunt",
+    "fillerinfo": "Tyrunt-0.8-26.0",
+    "dex": 696,
+    "type": ["Rock", "Dragon"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [58, 89, 77, 45, 45, 48],
+    "ev": [0, 1, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Strong Jaw", "Sturdy"],
+    "growthrate": "Medium_Fast",
+    "exp": 72,
+    "normalURL": "",
+    "shinyURL": ""
+}

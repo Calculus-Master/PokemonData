@@ -1,0 +1,21 @@
+{
+    "name": "Oricorio-Baile-",
+    "fillerinfo": "Oricorio-0.6-3.4",
+    "dex": 741,
+    "type": ["Fire", "Flying"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [75, 70, 70, 98, 70, 93],
+    "ev": [0, 0, 0, 2, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Dancer"],
+    "growthrate": "Medium_Fast",
+    "exp": 167,
+    "normalURL": "",
+    "shinyURL": ""
+}

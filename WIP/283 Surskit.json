@@ -1,0 +1,21 @@
+{
+    "name": "Surskit",
+    "fillerinfo": "Surskit-0.5-1.7",
+    "dex": 283,
+    "type": ["Bug", "Water"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [40, 30, 32, 50, 52, 65],
+    "ev": [0, 0, 0, 0, 0, 1],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Swift Swim", "Rain Dish"],
+    "growthrate": "Medium_Fast",
+    "exp": 54,
+    "normalURL": "",
+    "shinyURL": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Quilava",
+    "fillerinfo": "Quilava-0.9-19.0",
+    "dex": 156,
+    "type": ["Fire", "Fire"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [58, 64, 58, 80, 65, 80],
+    "ev": [0, 0, 0, 1, 0, 1],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Blaze", "Flash Fire"],
+    "growthrate": "Medium_Slow",
+    "exp": 142,
+    "normalURL": "",
+    "shinyURL": ""
+}

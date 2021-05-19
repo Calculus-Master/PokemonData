@@ -1,0 +1,21 @@
+{
+    "name": "Druddigon",
+    "fillerinfo": "Druddigon-1.6-139.0",
+    "dex": 621,
+    "type": ["Dragon", "Dragon"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [77, 120, 90, 60, 90, 48],
+    "ev": [0, 2, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Rough Skin", "Sheer Force", "Mold Breaker"],
+    "growthrate": "Medium_Fast",
+    "exp": 170,
+    "normalURL": "",
+    "shinyURL": ""
+}

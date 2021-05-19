@@ -1,0 +1,21 @@
+{
+    "name": "Meowstic-Male-",
+    "fillerinfo": "Meowstic-0.6-8.5",
+    "dex": 678,
+    "type": ["Psychic", "Psychic"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [74, 48, 76, 83, 81, 104],
+    "ev": [0, 0, 0, 0, 0, 2],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Keen Eye", "Infiltrator", "Prankster"],
+    "growthrate": "Medium_Fast",
+    "exp": 163,
+    "normalURL": "",
+    "shinyURL": ""
+}

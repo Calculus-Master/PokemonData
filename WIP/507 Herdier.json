@@ -1,0 +1,21 @@
+{
+    "name": "Herdier",
+    "fillerinfo": "Herdier-0.9-14.7",
+    "dex": 507,
+    "type": ["Normal", "Normal"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [65, 80, 65, 35, 65, 60],
+    "ev": [0, 2, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Intimidate", "Sand Rush", "Scrappy"],
+    "growthrate": "Medium_Slow",
+    "exp": 130,
+    "normalURL": "",
+    "shinyURL": ""
+}

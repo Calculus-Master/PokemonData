@@ -1,0 +1,21 @@
+{
+    "name": "Diancie",
+    "fillerinfo": "Diancie-0.7-8.8",
+    "dex": 719,
+    "type": ["Rock", "Fairy"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [50, 100, 150, 100, 150, 50],
+    "ev": [0, 0, 1, 0, 2, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Clear Body"],
+    "growthrate": "Slow",
+    "exp": 270,
+    "normalURL": "",
+    "shinyURL": ""
+}

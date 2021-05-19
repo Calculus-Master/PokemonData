@@ -1,0 +1,21 @@
+{
+    "name": "Passimian",
+    "fillerinfo": "Passimian-2.0-82.8",
+    "dex": 766,
+    "type": ["Fighting", "Fighting"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [100, 120, 90, 40, 60, 80],
+    "ev": [0, 2, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Receiver", "Defiant"],
+    "growthrate": "Slow",
+    "exp": 172,
+    "normalURL": "",
+    "shinyURL": ""
+}

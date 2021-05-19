@@ -1,0 +1,21 @@
+{
+    "name": "Skarmory",
+    "fillerinfo": "Skarmory-1.7-50.5",
+    "dex": 227,
+    "type": ["Steel", "Flying"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [65, 80, 140, 40, 70, 70],
+    "ev": [0, 0, 2, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Keen Eye", "Sturdy", "Weak Armor"],
+    "growthrate": "Slow",
+    "exp": 163,
+    "normalURL": "",
+    "shinyURL": ""
+}

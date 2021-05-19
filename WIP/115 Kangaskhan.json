@@ -1,0 +1,21 @@
+{
+    "name": "Kangaskhan",
+    "fillerinfo": "Kangaskhan-2.2-80.0",
+    "dex": 115,
+    "type": ["Normal", "Normal"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [105, 95, 80, 40, 80, 90],
+    "ev": [2, 0, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Early Bird", "Scrappy", "Inner Focus"],
+    "growthrate": "Medium_Fast",
+    "exp": 172,
+    "normalURL": "",
+    "shinyURL": ""
+}

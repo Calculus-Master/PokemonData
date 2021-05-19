@@ -1,0 +1,21 @@
+{
+    "name": "Tsareena",
+    "fillerinfo": "Tsareena-1.2-21.4",
+    "dex": 763,
+    "type": ["Grass", "Grass"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [72, 120, 98, 50, 98, 72],
+    "ev": [0, 3, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Leaf Guard", "Queenly Majesty", "Sweet Veil"],
+    "growthrate": "Medium_Slow",
+    "exp": 230,
+    "normalURL": "",
+    "shinyURL": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Tapu-Koko-",
+    "fillerinfo": "Tapu-Koko--1.8-20.5",
+    "dex": 785,
+    "type": ["Electric", "Fairy"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [70, 115, 85, 95, 75, 130],
+    "ev": [0, 0, 0, 0, 0, 3],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Electric Surge", "Telepathy"],
+    "growthrate": "Slow",
+    "exp": 257,
+    "normalURL": "",
+    "shinyURL": ""
+}

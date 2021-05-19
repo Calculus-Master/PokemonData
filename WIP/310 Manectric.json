@@ -1,0 +1,21 @@
+{
+    "name": "Manectric",
+    "fillerinfo": "Manectric-1.5-40.2",
+    "dex": 310,
+    "type": ["Electric", "Electric"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [70, 75, 60, 105, 60, 105],
+    "ev": [0, 0, 0, 0, 0, 2],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Static", "Lightning Rod", "Minus"],
+    "growthrate": "Slow",
+    "exp": 166,
+    "normalURL": "",
+    "shinyURL": ""
+}

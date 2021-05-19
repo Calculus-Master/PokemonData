@@ -1,0 +1,21 @@
+{
+    "name": "Exploud",
+    "fillerinfo": "Exploud-1.5-84.0",
+    "dex": 295,
+    "type": ["Normal", "Normal"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [104, 91, 63, 91, 73, 68],
+    "ev": [3, 0, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Soundproof", "Scrappy"],
+    "growthrate": "Medium_Slow",
+    "exp": 221,
+    "normalURL": "",
+    "shinyURL": ""
+}

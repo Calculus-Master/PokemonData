@@ -1,0 +1,21 @@
+{
+    "name": "Metang",
+    "fillerinfo": "Metang-1.2-202.5",
+    "dex": 375,
+    "type": ["Steel", "Psychic"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [60, 75, 100, 55, 80, 50],
+    "ev": [0, 0, 2, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Clear Body", "Light Metal"],
+    "growthrate": "Slow",
+    "exp": 147,
+    "normalURL": "",
+    "shinyURL": ""
+}

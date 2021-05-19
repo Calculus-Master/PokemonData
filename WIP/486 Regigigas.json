@@ -1,0 +1,21 @@
+{
+    "name": "Regigigas",
+    "fillerinfo": "Regigigas-3.7-420.0",
+    "dex": 486,
+    "type": ["Normal", "Normal"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [110, 160, 110, 80, 110, 100],
+    "ev": [0, 3, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Slow Start"],
+    "growthrate": "Slow",
+    "exp": 302,
+    "normalURL": "",
+    "shinyURL": ""
+}

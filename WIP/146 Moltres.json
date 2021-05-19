@@ -1,0 +1,21 @@
+{
+    "name": "Moltres",
+    "fillerinfo": "Moltres-2.0-60.0",
+    "dex": 146,
+    "type": ["Fire", "Flying"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [90, 100, 90, 125, 85, 90],
+    "ev": [0, 0, 0, 3, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Pressure", "Flame Body"],
+    "growthrate": "Slow",
+    "exp": 261,
+    "normalURL": "",
+    "shinyURL": ""
+}

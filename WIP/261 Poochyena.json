@@ -1,0 +1,21 @@
+{
+    "name": "Poochyena",
+    "fillerinfo": "Poochyena-0.5-13.6",
+    "dex": 261,
+    "type": ["Dark", "Dark"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [35, 55, 35, 30, 30, 35],
+    "ev": [0, 1, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Run Away", "Quick Feet", "Rattled"],
+    "growthrate": "Medium_Fast",
+    "exp": 56,
+    "normalURL": "",
+    "shinyURL": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Aipom",
+    "fillerinfo": "Aipom-0.8-11.5",
+    "dex": 190,
+    "type": ["Normal", "Normal"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [55, 70, 55, 40, 55, 85],
+    "ev": [0, 0, 0, 0, 0, 1],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Run Away", "Pickup", "Skill Link"],
+    "growthrate": "Fast",
+    "exp": 72,
+    "normalURL": "",
+    "shinyURL": ""
+}

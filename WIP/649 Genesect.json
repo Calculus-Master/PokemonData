@@ -1,0 +1,21 @@
+{
+    "name": "Genesect",
+    "fillerinfo": "Genesect-1.5-82.5",
+    "dex": 649,
+    "type": ["Bug", "Steel"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [71, 120, 95, 120, 95, 99],
+    "ev": [0, 1, 0, 1, 0, 1],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Download"],
+    "growthrate": "Slow",
+    "exp": 270,
+    "normalURL": "",
+    "shinyURL": ""
+}

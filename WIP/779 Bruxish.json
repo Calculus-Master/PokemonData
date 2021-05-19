@@ -1,0 +1,21 @@
+{
+    "name": "Bruxish",
+    "fillerinfo": "Bruxish-0.9-19.0",
+    "dex": 779,
+    "type": ["Water", "Psychic"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [68, 105, 70, 70, 70, 92],
+    "ev": [0, 2, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Dazzling", "Strong Jaw", "Wonder Skin"],
+    "growthrate": "Medium_Fast",
+    "exp": 166,
+    "normalURL": "",
+    "shinyURL": ""
+}

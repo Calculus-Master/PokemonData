@@ -1,0 +1,21 @@
+{
+    "name": "Sharpedo",
+    "fillerinfo": "Sharpedo-1.8-88.8",
+    "dex": 319,
+    "type": ["Water", "Dark"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [70, 120, 40, 95, 40, 95],
+    "ev": [0, 2, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Rough Skin", "Speed Boost"],
+    "growthrate": "Slow",
+    "exp": 161,
+    "normalURL": "",
+    "shinyURL": ""
+}

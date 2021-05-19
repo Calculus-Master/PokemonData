@@ -1,0 +1,21 @@
+{
+    "name": "Snover",
+    "fillerinfo": "Snover-1.0-50.5",
+    "dex": 459,
+    "type": ["Grass", "Ice"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [60, 62, 50, 62, 60, 40],
+    "ev": [0, 1, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Snow Warning", "Soundproof"],
+    "growthrate": "Slow",
+    "exp": 67,
+    "normalURL": "",
+    "shinyURL": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Vigoroth",
+    "fillerinfo": "Vigoroth-1.4-46.5",
+    "dex": 288,
+    "type": ["Normal", "Normal"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [80, 80, 80, 55, 55, 90],
+    "ev": [0, 0, 0, 0, 0, 2],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Vital Spirit"],
+    "growthrate": "Slow",
+    "exp": 154,
+    "normalURL": "",
+    "shinyURL": ""
+}

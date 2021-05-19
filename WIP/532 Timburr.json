@@ -1,0 +1,21 @@
+{
+    "name": "Timburr",
+    "fillerinfo": "Timburr-0.6-12.5",
+    "dex": 532,
+    "type": ["Fighting", "Fighting"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [75, 80, 55, 25, 35, 35],
+    "ev": [0, 1, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Guts", "Sheer Force", "Iron Fist"],
+    "growthrate": "Medium_Slow",
+    "exp": 61,
+    "normalURL": "",
+    "shinyURL": ""
+}

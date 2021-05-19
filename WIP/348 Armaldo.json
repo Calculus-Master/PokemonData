@@ -1,0 +1,21 @@
+{
+    "name": "Armaldo",
+    "fillerinfo": "Armaldo-1.5-68.2",
+    "dex": 348,
+    "type": ["Rock", "Bug"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [75, 125, 100, 70, 80, 45],
+    "ev": [0, 2, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Battle Armor", "Swift Swim"],
+    "growthrate": "Erratic",
+    "exp": 173,
+    "normalURL": "",
+    "shinyURL": ""
+}

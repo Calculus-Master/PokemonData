@@ -1,0 +1,21 @@
+{
+    "name": "Samurott",
+    "fillerinfo": "Samurott-1.5-94.6",
+    "dex": 503,
+    "type": ["Water", "Water"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [95, 100, 85, 108, 70, 70],
+    "ev": [0, 0, 0, 3, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Torrent", "Shell Armor"],
+    "growthrate": "Medium_Slow",
+    "exp": 238,
+    "normalURL": "",
+    "shinyURL": ""
+}

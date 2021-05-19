@@ -1,0 +1,21 @@
+{
+    "name": "Luxray",
+    "fillerinfo": "Luxray-1.4-42.0",
+    "dex": 405,
+    "type": ["Electric", "Electric"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [80, 120, 79, 95, 79, 70],
+    "ev": [0, 3, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Rivalry", "Intimidate", "Guts"],
+    "growthrate": "Medium_Slow",
+    "exp": 235,
+    "normalURL": "",
+    "shinyURL": ""
+}

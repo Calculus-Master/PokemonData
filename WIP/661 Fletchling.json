@@ -1,0 +1,21 @@
+{
+    "name": "Fletchling",
+    "fillerinfo": "Fletchling-0.3-1.7",
+    "dex": 661,
+    "type": ["Normal", "Flying"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [45, 50, 43, 40, 38, 62],
+    "ev": [0, 0, 0, 0, 0, 1],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Big Pecks", "Gale Wings"],
+    "growthrate": "Medium_Slow",
+    "exp": 56,
+    "normalURL": "",
+    "shinyURL": ""
+}

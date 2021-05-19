@@ -1,0 +1,21 @@
+{
+    "name": "Dunsparce",
+    "fillerinfo": "Dunsparce-1.5-14.0",
+    "dex": 206,
+    "type": ["Normal", "Normal"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [100, 70, 70, 65, 65, 45],
+    "ev": [1, 0, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Serene Grace", "Run Away", "Rattled"],
+    "growthrate": "Medium_Fast",
+    "exp": 145,
+    "normalURL": "",
+    "shinyURL": ""
+}

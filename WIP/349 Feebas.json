@@ -1,0 +1,21 @@
+{
+    "name": "Feebas",
+    "fillerinfo": "Feebas-0.6-7.4",
+    "dex": 349,
+    "type": ["Water", "Water"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [20, 15, 20, 10, 55, 80],
+    "ev": [0, 0, 0, 0, 0, 1],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Swift Swim", "Oblivious", "Adaptability"],
+    "growthrate": "Erratic",
+    "exp": 40,
+    "normalURL": "",
+    "shinyURL": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Wynaut",
+    "fillerinfo": "Wynaut-0.6-14.0",
+    "dex": 360,
+    "type": ["Psychic", "Psychic"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [95, 23, 48, 23, 48, 23],
+    "ev": [1, 0, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Shadow Tag", "Telepathy"],
+    "growthrate": "Medium_Fast",
+    "exp": 52,
+    "normalURL": "",
+    "shinyURL": ""
+}

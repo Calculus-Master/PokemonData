@@ -1,0 +1,21 @@
+{
+    "name": "Plusle",
+    "fillerinfo": "Plusle-0.4-4.2",
+    "dex": 311,
+    "type": ["Electric", "Electric"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [60, 50, 40, 85, 75, 95],
+    "ev": [0, 0, 0, 0, 0, 1],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Plus", "Lightning Rod"],
+    "growthrate": "Medium_Fast",
+    "exp": 142,
+    "normalURL": "",
+    "shinyURL": ""
+}

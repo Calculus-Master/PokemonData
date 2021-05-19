@@ -1,0 +1,21 @@
+{
+    "name": "Volcarona",
+    "fillerinfo": "Volcarona-1.6-46.0",
+    "dex": 637,
+    "type": ["Bug", "Fire"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [85, 60, 65, 135, 105, 100],
+    "ev": [0, 0, 0, 3, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Flame Body", "Swarm"],
+    "growthrate": "Slow",
+    "exp": 248,
+    "normalURL": "",
+    "shinyURL": ""
+}

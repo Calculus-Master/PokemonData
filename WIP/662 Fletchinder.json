@@ -1,0 +1,21 @@
+{
+    "name": "Fletchinder",
+    "fillerinfo": "Fletchinder-0.7-16.0",
+    "dex": 662,
+    "type": ["Fire", "Flying"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [62, 73, 55, 56, 52, 84],
+    "ev": [0, 0, 0, 0, 0, 2],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Flame Body", "Gale Wings"],
+    "growthrate": "Medium_Slow",
+    "exp": 134,
+    "normalURL": "",
+    "shinyURL": ""
+}

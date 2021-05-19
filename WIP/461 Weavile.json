@@ -1,0 +1,21 @@
+{
+    "name": "Weavile",
+    "fillerinfo": "Weavile-1.1-34.0",
+    "dex": 461,
+    "type": ["Dark", "Ice"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [70, 120, 65, 45, 85, 125],
+    "ev": [0, 1, 0, 0, 0, 1],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Pressure", "Pickpocket"],
+    "growthrate": "Medium_Slow",
+    "exp": 179,
+    "normalURL": "",
+    "shinyURL": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Ducklett",
+    "fillerinfo": "Ducklett-0.5-5.5",
+    "dex": 580,
+    "type": ["Water", "Flying"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [62, 44, 50, 44, 50, 55],
+    "ev": [1, 0, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Keen Eye", "Big Pecks", "Hydration"],
+    "growthrate": "Medium_Fast",
+    "exp": 61,
+    "normalURL": "",
+    "shinyURL": ""
+}

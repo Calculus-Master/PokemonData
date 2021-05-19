@@ -1,0 +1,21 @@
+{
+    "name": "Alomomola",
+    "fillerinfo": "Alomomola-1.2-31.6",
+    "dex": 594,
+    "type": ["Water", "Water"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [165, 75, 80, 40, 45, 65],
+    "ev": [2, 0, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Healer", "Hydration", "Regenerator"],
+    "growthrate": "Fast",
+    "exp": 165,
+    "normalURL": "",
+    "shinyURL": ""
+}

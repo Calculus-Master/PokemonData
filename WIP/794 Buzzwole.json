@@ -1,0 +1,21 @@
+{
+    "name": "Buzzwole",
+    "fillerinfo": "Buzzwole-2.4-333.6",
+    "dex": 794,
+    "type": ["Bug", "Fighting"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [107, 139, 139, 53, 53, 79],
+    "ev": [0, 1, 2, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Beast Boost"],
+    "growthrate": "Slow",
+    "exp": 257,
+    "normalURL": "",
+    "shinyURL": ""
+}

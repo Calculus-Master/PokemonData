@@ -1,0 +1,21 @@
+{
+    "name": "Empoleon",
+    "fillerinfo": "Empoleon-1.7-84.5",
+    "dex": 395,
+    "type": ["Water", "Steel"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [84, 86, 88, 111, 101, 60],
+    "ev": [0, 0, 0, 3, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Torrent", "Defiant"],
+    "growthrate": "Medium_Slow",
+    "exp": 239,
+    "normalURL": "",
+    "shinyURL": ""
+}

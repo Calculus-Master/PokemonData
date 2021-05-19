@@ -1,0 +1,21 @@
+{
+    "name": "Panpour",
+    "fillerinfo": "Panpour-0.6-13.5",
+    "dex": 515,
+    "type": ["Water", "Water"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [50, 53, 48, 53, 48, 64],
+    "ev": [0, 0, 0, 0, 0, 1],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Gluttony", "Torrent"],
+    "growthrate": "Medium_Fast",
+    "exp": 63,
+    "normalURL": "",
+    "shinyURL": ""
+}

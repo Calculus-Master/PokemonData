@@ -1,0 +1,21 @@
+{
+    "name": "Combusken",
+    "fillerinfo": "Combusken-0.9-19.5",
+    "dex": 256,
+    "type": ["Fire", "Fighting"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [60, 85, 60, 85, 60, 55],
+    "ev": [0, 1, 0, 1, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Blaze", "Speed Boost"],
+    "growthrate": "Medium_Slow",
+    "exp": 142,
+    "normalURL": "",
+    "shinyURL": ""
+}

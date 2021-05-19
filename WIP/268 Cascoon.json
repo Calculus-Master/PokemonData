@@ -1,0 +1,21 @@
+{
+    "name": "Cascoon",
+    "fillerinfo": "Cascoon-0.7-11.5",
+    "dex": 268,
+    "type": ["Bug", "Bug"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [50, 35, 55, 25, 25, 15],
+    "ev": [0, 0, 2, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Shed Skin"],
+    "growthrate": "Medium_Fast",
+    "exp": 72,
+    "normalURL": "",
+    "shinyURL": ""
+}

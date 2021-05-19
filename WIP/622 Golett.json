@@ -1,0 +1,21 @@
+{
+    "name": "Golett",
+    "fillerinfo": "Golett-1.0-92.0",
+    "dex": 622,
+    "type": ["Ground", "Ghost"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [59, 74, 50, 35, 50, 35],
+    "ev": [0, 1, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Iron Fist", "Klutz", "No Guard"],
+    "growthrate": "Medium_Fast",
+    "exp": 61,
+    "normalURL": "",
+    "shinyURL": ""
+}

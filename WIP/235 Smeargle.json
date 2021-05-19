@@ -1,0 +1,21 @@
+{
+    "name": "Smeargle",
+    "fillerinfo": "Smeargle-1.2-58.0",
+    "dex": 235,
+    "type": ["Normal", "Normal"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [55, 20, 35, 20, 45, 75],
+    "ev": [0, 0, 0, 0, 0, 1],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Own Tempo", "Technician", "Moody"],
+    "growthrate": "Fast",
+    "exp": 88,
+    "normalURL": "",
+    "shinyURL": ""
+}

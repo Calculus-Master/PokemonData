@@ -1,0 +1,21 @@
+{
+    "name": "Lunala",
+    "fillerinfo": "Lunala-4.0-120.0",
+    "dex": 792,
+    "type": ["Psychic", "Ghost"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [137, 113, 89, 137, 107, 97],
+    "ev": [0, 0, 0, 3, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Shadow Shield"],
+    "growthrate": "Slow",
+    "exp": 306,
+    "normalURL": "",
+    "shinyURL": ""
+}

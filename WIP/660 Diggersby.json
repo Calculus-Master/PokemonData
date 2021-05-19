@@ -1,0 +1,21 @@
+{
+    "name": "Diggersby",
+    "fillerinfo": "Diggersby-1.0-42.4",
+    "dex": 660,
+    "type": ["Normal", "Ground"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [85, 56, 77, 50, 77, 78],
+    "ev": [2, 0, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Pickup", "Cheek Pouch", "Huge Power"],
+    "growthrate": "Medium_Fast",
+    "exp": 148,
+    "normalURL": "",
+    "shinyURL": ""
+}

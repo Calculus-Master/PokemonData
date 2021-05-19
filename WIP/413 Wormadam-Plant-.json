@@ -1,0 +1,21 @@
+{
+    "name": "Wormadam-Plant-",
+    "fillerinfo": "Wormadam-0.5-6.5",
+    "dex": 413,
+    "type": ["Bug", "Grass"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [60, 59, 85, 79, 105, 36],
+    "ev": [0, 0, 0, 0, 2, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Anticipation", "Overcoat"],
+    "growthrate": "Medium_Fast",
+    "exp": 148,
+    "normalURL": "",
+    "shinyURL": ""
+}

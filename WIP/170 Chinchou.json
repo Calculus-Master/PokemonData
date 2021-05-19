@@ -1,0 +1,21 @@
+{
+    "name": "Chinchou",
+    "fillerinfo": "Chinchou-0.5-12.0",
+    "dex": 170,
+    "type": ["Water", "Electric"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [75, 38, 38, 56, 56, 67],
+    "ev": [1, 0, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Volt Absorb", "Illuminate", "Water Absorb"],
+    "growthrate": "Slow",
+    "exp": 66,
+    "normalURL": "",
+    "shinyURL": ""
+}

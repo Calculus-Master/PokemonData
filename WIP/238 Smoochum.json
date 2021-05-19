@@ -1,0 +1,21 @@
+{
+    "name": "Smoochum",
+    "fillerinfo": "Smoochum-0.4-6.0",
+    "dex": 238,
+    "type": ["Ice", "Psychic"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [45, 30, 15, 85, 65, 65],
+    "ev": [0, 0, 0, 1, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Oblivious", "Forewarn", "Hydration"],
+    "growthrate": "Medium_Fast",
+    "exp": 61,
+    "normalURL": "",
+    "shinyURL": ""
+}

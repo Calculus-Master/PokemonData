@@ -1,0 +1,21 @@
+{
+    "name": "Masquerain",
+    "fillerinfo": "Masquerain-0.8-3.6",
+    "dex": 284,
+    "type": ["Bug", "Flying"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [70, 60, 62, 100, 82, 80],
+    "ev": [0, 0, 0, 1, 1, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Intimidate", "Unnerve"],
+    "growthrate": "Medium_Fast",
+    "exp": 159,
+    "normalURL": "",
+    "shinyURL": ""
+}

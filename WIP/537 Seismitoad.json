@@ -1,0 +1,21 @@
+{
+    "name": "Seismitoad",
+    "fillerinfo": "Seismitoad-1.5-62.0",
+    "dex": 537,
+    "type": ["Water", "Ground"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [105, 95, 75, 85, 75, 74],
+    "ev": [3, 0, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Swift Swim", "Poison Touch", "Water Absorb"],
+    "growthrate": "Medium_Slow",
+    "exp": 229,
+    "normalURL": "",
+    "shinyURL": ""
+}

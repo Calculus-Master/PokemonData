@@ -1,0 +1,21 @@
+{
+    "name": "Magby",
+    "fillerinfo": "Magby-0.7-21.4",
+    "dex": 240,
+    "type": ["Fire", "Fire"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [45, 75, 37, 70, 55, 83],
+    "ev": [0, 0, 0, 0, 0, 1],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Flame Body", "Vital Spirit"],
+    "growthrate": "Medium_Fast",
+    "exp": 73,
+    "normalURL": "",
+    "shinyURL": ""
+}

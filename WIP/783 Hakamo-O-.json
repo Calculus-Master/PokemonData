@@ -1,0 +1,21 @@
+{
+    "name": "Hakamo-O-",
+    "fillerinfo": "Hakamo-O--1.2-47.0",
+    "dex": 783,
+    "type": ["Dragon", "Fighting"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [55, 75, 90, 65, 70, 65],
+    "ev": [0, 0, 2, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Bulletproof", "Soundproof", "Overcoat"],
+    "growthrate": "Slow",
+    "exp": 147,
+    "normalURL": "",
+    "shinyURL": ""
+}

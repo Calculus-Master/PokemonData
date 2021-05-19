@@ -1,0 +1,21 @@
+{
+    "name": "Floette",
+    "fillerinfo": "Floette-0.2-0.9",
+    "dex": 670,
+    "type": ["Fairy", "Fairy"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [54, 45, 47, 75, 98, 52],
+    "ev": [0, 0, 0, 0, 2, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Flower Veil", "Symbiosis"],
+    "growthrate": "Medium_Fast",
+    "exp": 130,
+    "normalURL": "",
+    "shinyURL": ""
+}

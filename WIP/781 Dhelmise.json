@@ -1,0 +1,21 @@
+{
+    "name": "Dhelmise",
+    "fillerinfo": "Dhelmise-3.9-210.0",
+    "dex": 781,
+    "type": ["Ghost", "Grass"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [70, 131, 100, 86, 90, 40],
+    "ev": [0, 2, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Steelworker"],
+    "growthrate": "Medium_Fast",
+    "exp": 181,
+    "normalURL": "",
+    "shinyURL": ""
+}

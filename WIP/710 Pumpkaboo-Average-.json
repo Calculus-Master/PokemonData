@@ -1,0 +1,21 @@
+{
+    "name": "Pumpkaboo-Average-",
+    "fillerinfo": "Pumpkaboo-0.4-5.0",
+    "dex": 710,
+    "type": ["Ghost", "Grass"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [49, 66, 70, 44, 55, 51],
+    "ev": [0, 0, 1, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Pickup", "Frisk", "Insomnia"],
+    "growthrate": "Medium_Fast",
+    "exp": 67,
+    "normalURL": "",
+    "shinyURL": ""
+}

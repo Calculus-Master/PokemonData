@@ -1,0 +1,21 @@
+{
+    "name": "Incineroar",
+    "fillerinfo": "Incineroar-1.8-83.0",
+    "dex": 727,
+    "type": ["Fire", "Dark"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [95, 115, 90, 80, 90, 60],
+    "ev": [0, 3, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Blaze", "Intimidate"],
+    "growthrate": "Medium_Slow",
+    "exp": 239,
+    "normalURL": "",
+    "shinyURL": ""
+}

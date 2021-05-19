@@ -1,0 +1,21 @@
+{
+    "name": "Mimikyu-Disguised-",
+    "fillerinfo": "Mimikyu-0.2-0.7",
+    "dex": 778,
+    "type": ["Ghost", "Fairy"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [55, 90, 80, 50, 105, 96],
+    "ev": [0, 0, 0, 0, 2, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Disguise"],
+    "growthrate": "Medium_Fast",
+    "exp": 167,
+    "normalURL": "",
+    "shinyURL": ""
+}

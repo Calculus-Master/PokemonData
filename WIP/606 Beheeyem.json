@@ -1,0 +1,21 @@
+{
+    "name": "Beheeyem",
+    "fillerinfo": "Beheeyem-1.0-34.5",
+    "dex": 606,
+    "type": ["Psychic", "Psychic"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [75, 75, 75, 125, 95, 40],
+    "ev": [0, 0, 0, 2, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Telepathy", "Synchronize", "Analytic"],
+    "growthrate": "Medium_Fast",
+    "exp": 170,
+    "normalURL": "",
+    "shinyURL": ""
+}

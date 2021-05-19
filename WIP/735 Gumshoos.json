@@ -1,0 +1,21 @@
+{
+    "name": "Gumshoos",
+    "fillerinfo": "Gumshoos-0.7-14.2",
+    "dex": 735,
+    "type": ["Normal", "Normal"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [88, 110, 60, 55, 60, 45],
+    "ev": [0, 2, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Stakeout", "Strong Jaw", "Adaptability"],
+    "growthrate": "Medium_Fast",
+    "exp": 146,
+    "normalURL": "",
+    "shinyURL": ""
+}

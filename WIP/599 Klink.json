@@ -1,0 +1,21 @@
+{
+    "name": "Klink",
+    "fillerinfo": "Klink-0.3-21.0",
+    "dex": 599,
+    "type": ["Steel", "Steel"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [40, 55, 70, 45, 60, 30],
+    "ev": [0, 0, 1, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Plus", "Minus", "Clear Body"],
+    "growthrate": "Medium_Slow",
+    "exp": 60,
+    "normalURL": "",
+    "shinyURL": ""
+}

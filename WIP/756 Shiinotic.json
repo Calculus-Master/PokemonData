@@ -1,0 +1,21 @@
+{
+    "name": "Shiinotic",
+    "fillerinfo": "Shiinotic-1.0-11.5",
+    "dex": 756,
+    "type": ["Grass", "Fairy"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [60, 45, 80, 90, 100, 30],
+    "ev": [0, 0, 0, 0, 2, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Illuminate", "Effect Spore", "Rain Dish"],
+    "growthrate": "Medium_Fast",
+    "exp": 142,
+    "normalURL": "",
+    "shinyURL": ""
+}

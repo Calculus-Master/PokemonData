@@ -1,0 +1,21 @@
+{
+    "name": "Meloetta-Aria-",
+    "fillerinfo": "Meloetta-0.6-6.5",
+    "dex": 648,
+    "type": ["Normal", "Psychic"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [100, 77, 77, 128, 128, 90],
+    "ev": [0, 0, 0, 1, 1, 1],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Serene Grace"],
+    "growthrate": "Slow",
+    "exp": 270,
+    "normalURL": "",
+    "shinyURL": ""
+}

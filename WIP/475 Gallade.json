@@ -1,0 +1,21 @@
+{
+    "name": "Gallade",
+    "fillerinfo": "Gallade-1.6-52.0",
+    "dex": 475,
+    "type": ["Psychic", "Fighting"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [68, 125, 65, 65, 115, 80],
+    "ev": [0, 3, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Steadfast", "Justified"],
+    "growthrate": "Slow",
+    "exp": 233,
+    "normalURL": "",
+    "shinyURL": ""
+}

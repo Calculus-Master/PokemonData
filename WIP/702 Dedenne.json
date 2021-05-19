@@ -1,0 +1,21 @@
+{
+    "name": "Dedenne",
+    "fillerinfo": "Dedenne-0.2-2.2",
+    "dex": 702,
+    "type": ["Electric", "Fairy"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [67, 58, 57, 81, 67, 101],
+    "ev": [0, 0, 0, 0, 0, 2],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Cheek Pouch", "Pickup", "Plus"],
+    "growthrate": "Medium_Fast",
+    "exp": 151,
+    "normalURL": "",
+    "shinyURL": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Tynamo",
+    "fillerinfo": "Tynamo-0.2-0.3",
+    "dex": 602,
+    "type": ["Electric", "Electric"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [35, 55, 40, 45, 40, 60],
+    "ev": [0, 0, 0, 0, 0, 1],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Levitate"],
+    "growthrate": "Slow",
+    "exp": 55,
+    "normalURL": "",
+    "shinyURL": ""
+}

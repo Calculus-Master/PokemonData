@@ -1,0 +1,21 @@
+{
+    "name": "Palkia",
+    "fillerinfo": "Palkia-4.2-336.0",
+    "dex": 484,
+    "type": ["Water", "Dragon"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [90, 120, 100, 150, 120, 100],
+    "ev": [0, 0, 0, 3, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Pressure", "Telepathy"],
+    "growthrate": "Slow",
+    "exp": 306,
+    "normalURL": "",
+    "shinyURL": ""
+}

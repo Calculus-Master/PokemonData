@@ -1,0 +1,21 @@
+{
+    "name": "Ludicolo",
+    "fillerinfo": "Ludicolo-1.5-55.0",
+    "dex": 272,
+    "type": ["Water", "Grass"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [80, 70, 70, 90, 100, 70],
+    "ev": [0, 0, 0, 0, 3, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Swift Swim", "Rain Dish", "Own Tempo"],
+    "growthrate": "Medium_Slow",
+    "exp": 216,
+    "normalURL": "",
+    "shinyURL": ""
+}

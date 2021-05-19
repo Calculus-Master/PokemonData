@@ -1,0 +1,21 @@
+{
+    "name": "Litwick",
+    "fillerinfo": "Litwick-0.3-3.1",
+    "dex": 607,
+    "type": ["Ghost", "Fire"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [50, 30, 55, 65, 55, 20],
+    "ev": [0, 0, 0, 1, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Flash Fire", "Flame Body", "Infiltrator"],
+    "growthrate": "Medium_Slow",
+    "exp": 55,
+    "normalURL": "",
+    "shinyURL": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Wishiwashi-Solo-",
+    "fillerinfo": "Wishiwashi-0.2-0.3",
+    "dex": 746,
+    "type": ["Water", "Water"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [45, 20, 20, 25, 25, 40],
+    "ev": [1, 0, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Schooling"],
+    "growthrate": "Fast",
+    "exp": 61,
+    "normalURL": "",
+    "shinyURL": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Aegislash-Shield-",
+    "fillerinfo": "Aegislash-1.7-53.0",
+    "dex": 681,
+    "type": ["Steel", "Ghost"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [60, 50, 150, 50, 150, 60],
+    "ev": [0, 0, 2, 0, 1, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Stance Change"],
+    "growthrate": "Medium_Fast",
+    "exp": 234,
+    "normalURL": "",
+    "shinyURL": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Altaria",
+    "fillerinfo": "Altaria-1.1-20.6",
+    "dex": 334,
+    "type": ["Dragon", "Flying"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [75, 70, 90, 70, 105, 80],
+    "ev": [0, 0, 0, 0, 2, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Natural Cure", "Cloud Nine"],
+    "growthrate": "Erratic",
+    "exp": 172,
+    "normalURL": "",
+    "shinyURL": ""
+}

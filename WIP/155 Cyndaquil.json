@@ -1,0 +1,21 @@
+{
+    "name": "Cyndaquil",
+    "fillerinfo": "Cyndaquil-0.5-7.9",
+    "dex": 155,
+    "type": ["Fire", "Fire"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [39, 52, 43, 60, 50, 65],
+    "ev": [0, 0, 0, 0, 0, 1],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Blaze", "Flash Fire"],
+    "growthrate": "Medium_Slow",
+    "exp": 62,
+    "normalURL": "",
+    "shinyURL": ""
+}

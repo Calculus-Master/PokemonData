@@ -1,0 +1,21 @@
+{
+    "name": "Hitmontop",
+    "fillerinfo": "Hitmontop-1.4-48.0",
+    "dex": 237,
+    "type": ["Fighting", "Fighting"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [50, 95, 95, 35, 110, 70],
+    "ev": [0, 0, 0, 0, 2, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Intimidate", "Technician", "Steadfast"],
+    "growthrate": "Medium_Fast",
+    "exp": 159,
+    "normalURL": "",
+    "shinyURL": ""
+}

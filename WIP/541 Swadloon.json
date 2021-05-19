@@ -1,0 +1,21 @@
+{
+    "name": "Swadloon",
+    "fillerinfo": "Swadloon-0.5-7.3",
+    "dex": 541,
+    "type": ["Bug", "Grass"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [55, 63, 90, 50, 80, 42],
+    "ev": [0, 0, 2, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Leaf Guard", "Chlorophyll", "Overcoat"],
+    "growthrate": "Medium_Slow",
+    "exp": 133,
+    "normalURL": "",
+    "shinyURL": ""
+}

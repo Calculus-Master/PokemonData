@@ -1,0 +1,21 @@
+{
+    "name": "Slurpuff",
+    "fillerinfo": "Slurpuff-0.8-5.0",
+    "dex": 685,
+    "type": ["Fairy", "Fairy"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [82, 80, 86, 85, 75, 72],
+    "ev": [0, 0, 2, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Sweet Veil", "Unburden"],
+    "growthrate": "Medium_Fast",
+    "exp": 168,
+    "normalURL": "",
+    "shinyURL": ""
+}

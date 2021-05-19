@@ -1,0 +1,21 @@
+{
+    "name": "Serperior",
+    "fillerinfo": "Serperior-3.3-63.0",
+    "dex": 497,
+    "type": ["Grass", "Grass"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [75, 75, 95, 75, 95, 113],
+    "ev": [0, 0, 0, 0, 0, 3],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Overgrow", "Contrary"],
+    "growthrate": "Medium_Slow",
+    "exp": 238,
+    "normalURL": "",
+    "shinyURL": ""
+}

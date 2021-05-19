@@ -1,0 +1,21 @@
+{
+    "name": "Flygon",
+    "fillerinfo": "Flygon-2.0-82.0",
+    "dex": 330,
+    "type": ["Ground", "Dragon"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [80, 100, 80, 80, 80, 100],
+    "ev": [0, 1, 0, 0, 0, 2],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Levitate"],
+    "growthrate": "Medium_Slow",
+    "exp": 234,
+    "normalURL": "",
+    "shinyURL": ""
+}

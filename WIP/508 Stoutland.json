@@ -1,0 +1,21 @@
+{
+    "name": "Stoutland",
+    "fillerinfo": "Stoutland-1.2-61.0",
+    "dex": 508,
+    "type": ["Normal", "Normal"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [85, 110, 90, 45, 90, 80],
+    "ev": [0, 3, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Intimidate", "Sand Rush", "Scrappy"],
+    "growthrate": "Medium_Slow",
+    "exp": 225,
+    "normalURL": "",
+    "shinyURL": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Natu",
+    "fillerinfo": "Natu-0.2-2.0",
+    "dex": 177,
+    "type": ["Psychic", "Flying"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [40, 50, 45, 70, 45, 70],
+    "ev": [0, 0, 0, 1, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Synchronize", "Early Bird", "Magic Bounce"],
+    "growthrate": "Medium_Fast",
+    "exp": 64,
+    "normalURL": "",
+    "shinyURL": ""
+}

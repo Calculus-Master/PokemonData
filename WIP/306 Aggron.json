@@ -1,0 +1,21 @@
+{
+    "name": "Aggron",
+    "fillerinfo": "Aggron-2.1-360.0",
+    "dex": 306,
+    "type": ["Steel", "Rock"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [70, 110, 180, 60, 60, 50],
+    "ev": [0, 0, 3, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Sturdy", "Rock Head", "Heavy Metal"],
+    "growthrate": "Slow",
+    "exp": 239,
+    "normalURL": "",
+    "shinyURL": ""
+}

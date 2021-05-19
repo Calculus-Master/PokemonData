@@ -1,0 +1,21 @@
+{
+    "name": "Solrock",
+    "fillerinfo": "Solrock-1.2-154.0",
+    "dex": 338,
+    "type": ["Rock", "Psychic"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [90, 95, 85, 55, 65, 70],
+    "ev": [0, 2, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Levitate"],
+    "growthrate": "Fast",
+    "exp": 161,
+    "normalURL": "",
+    "shinyURL": ""
+}

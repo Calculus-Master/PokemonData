@@ -1,0 +1,21 @@
+{
+    "name": "Lileep",
+    "fillerinfo": "Lileep-1.0-23.8",
+    "dex": 345,
+    "type": ["Rock", "Grass"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [66, 41, 77, 61, 87, 23],
+    "ev": [0, 0, 0, 0, 1, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Suction Cups", "Storm Drain"],
+    "growthrate": "Erratic",
+    "exp": 71,
+    "normalURL": "",
+    "shinyURL": ""
+}

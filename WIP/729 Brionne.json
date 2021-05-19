@@ -1,0 +1,21 @@
+{
+    "name": "Brionne",
+    "fillerinfo": "Brionne-0.6-17.5",
+    "dex": 729,
+    "type": ["Water", "Water"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [60, 69, 69, 91, 81, 50],
+    "ev": [0, 0, 0, 2, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Torrent", "Liquid Voice"],
+    "growthrate": "Medium_Slow",
+    "exp": 147,
+    "normalURL": "",
+    "shinyURL": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Wingull",
+    "fillerinfo": "Wingull-0.6-9.5",
+    "dex": 278,
+    "type": ["Water", "Flying"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [40, 30, 30, 55, 30, 85],
+    "ev": [0, 0, 0, 0, 0, 1],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Keen Eye", "Hydration", "Rain Dish"],
+    "growthrate": "Medium_Fast",
+    "exp": 54,
+    "normalURL": "",
+    "shinyURL": ""
+}

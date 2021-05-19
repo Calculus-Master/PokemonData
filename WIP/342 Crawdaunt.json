@@ -1,0 +1,21 @@
+{
+    "name": "Crawdaunt",
+    "fillerinfo": "Crawdaunt-1.1-32.8",
+    "dex": 342,
+    "type": ["Water", "Dark"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [63, 120, 85, 90, 55, 55],
+    "ev": [0, 2, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Hyper Cutter", "Shell Armor", "Adaptability"],
+    "growthrate": "Fluctuating",
+    "exp": 164,
+    "normalURL": "",
+    "shinyURL": ""
+}

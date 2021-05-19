@@ -1,0 +1,21 @@
+{
+    "name": "Zebstrika",
+    "fillerinfo": "Zebstrika-1.6-79.5",
+    "dex": 523,
+    "type": ["Electric", "Electric"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [75, 100, 63, 80, 63, 116],
+    "ev": [0, 0, 0, 0, 0, 2],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Lightning Rod", "Motor Drive", "Sap Sipper"],
+    "growthrate": "Medium_Fast",
+    "exp": 174,
+    "normalURL": "",
+    "shinyURL": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Dusclops",
+    "fillerinfo": "Dusclops-1.6-30.6",
+    "dex": 356,
+    "type": ["Ghost", "Ghost"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [40, 70, 130, 60, 130, 25],
+    "ev": [0, 0, 1, 0, 1, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Pressure", "Frisk"],
+    "growthrate": "Fast",
+    "exp": 159,
+    "normalURL": "",
+    "shinyURL": ""
+}

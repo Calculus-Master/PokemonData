@@ -1,0 +1,21 @@
+{
+    "name": "Shroomish",
+    "fillerinfo": "Shroomish-0.4-4.5",
+    "dex": 285,
+    "type": ["Grass", "Grass"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [60, 40, 60, 40, 60, 35],
+    "ev": [1, 0, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Effect Spore", "Poison Heal", "Quick Feet"],
+    "growthrate": "Fluctuating",
+    "exp": 59,
+    "normalURL": "",
+    "shinyURL": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Noctowl",
+    "fillerinfo": "Noctowl-1.6-40.8",
+    "dex": 164,
+    "type": ["Normal", "Flying"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [100, 50, 50, 86, 96, 70],
+    "ev": [2, 0, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Insomnia", "Keen Eye", "Tinted Lens"],
+    "growthrate": "Medium_Fast",
+    "exp": 158,
+    "normalURL": "",
+    "shinyURL": ""
+}

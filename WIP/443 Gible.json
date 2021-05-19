@@ -1,0 +1,21 @@
+{
+    "name": "Gible",
+    "fillerinfo": "Gible-0.7-20.5",
+    "dex": 443,
+    "type": ["Dragon", "Ground"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [58, 70, 45, 40, 45, 42],
+    "ev": [0, 1, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Sand Veil", "Rough Skin"],
+    "growthrate": "Slow",
+    "exp": 60,
+    "normalURL": "",
+    "shinyURL": ""
+}

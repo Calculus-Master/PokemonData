@@ -1,0 +1,21 @@
+{
+    "name": "Rampardos",
+    "fillerinfo": "Rampardos-1.6-102.5",
+    "dex": 409,
+    "type": ["Rock", "Rock"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [97, 165, 60, 65, 50, 58],
+    "ev": [0, 2, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Mold Breaker", "Sheer Force"],
+    "growthrate": "Erratic",
+    "exp": 173,
+    "normalURL": "",
+    "shinyURL": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Shelmet",
+    "fillerinfo": "Shelmet-0.4-7.7",
+    "dex": 616,
+    "type": ["Bug", "Bug"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [50, 40, 85, 40, 65, 25],
+    "ev": [0, 0, 1, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Hydration", "Shell Armor", "Overcoat"],
+    "growthrate": "Medium_Fast",
+    "exp": 61,
+    "normalURL": "",
+    "shinyURL": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Ribombee",
+    "fillerinfo": "Ribombee-0.2-0.5",
+    "dex": 743,
+    "type": ["Bug", "Fairy"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [60, 55, 60, 95, 70, 124],
+    "ev": [0, 0, 0, 0, 0, 2],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Honey Gather", "Shield Dust", "Sweet Veil"],
+    "growthrate": "Medium_Fast",
+    "exp": 162,
+    "normalURL": "",
+    "shinyURL": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Poipole",
+    "fillerinfo": "Poipole-0.6-1.8",
+    "dex": 803,
+    "type": ["Poison", "Poison"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [67, 73, 67, 73, 67, 73],
+    "ev": [0, 0, 0, 0, 0, 1],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Beast Boost"],
+    "growthrate": "Slow",
+    "exp": 189,
+    "normalURL": "",
+    "shinyURL": ""
+}

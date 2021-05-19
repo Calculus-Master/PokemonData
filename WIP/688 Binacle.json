@@ -1,0 +1,21 @@
+{
+    "name": "Binacle",
+    "fillerinfo": "Binacle-0.5-31.0",
+    "dex": 688,
+    "type": ["Rock", "Water"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [42, 52, 67, 39, 56, 50],
+    "ev": [0, 1, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Tough Claws", "Sniper", "Pickpocket"],
+    "growthrate": "Medium_Fast",
+    "exp": 61,
+    "normalURL": "",
+    "shinyURL": ""
+}

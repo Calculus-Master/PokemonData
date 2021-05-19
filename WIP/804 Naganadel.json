@@ -1,0 +1,21 @@
+{
+    "name": "Naganadel",
+    "fillerinfo": "Naganadel-3.6-150.0",
+    "dex": 804,
+    "type": ["Poison", "Dragon"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [73, 73, 73, 127, 73, 121],
+    "ev": [0, 0, 0, 3, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Beast Boost"],
+    "growthrate": "Slow",
+    "exp": 243,
+    "normalURL": "",
+    "shinyURL": ""
+}

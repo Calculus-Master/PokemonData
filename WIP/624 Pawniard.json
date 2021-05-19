@@ -1,0 +1,21 @@
+{
+    "name": "Pawniard",
+    "fillerinfo": "Pawniard-0.5-10.2",
+    "dex": 624,
+    "type": ["Dark", "Steel"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [45, 85, 70, 40, 40, 60],
+    "ev": [0, 1, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Defiant", "Inner Focus", "Pressure"],
+    "growthrate": "Medium_Fast",
+    "exp": 68,
+    "normalURL": "",
+    "shinyURL": ""
+}

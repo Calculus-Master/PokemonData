@@ -1,0 +1,21 @@
+{
+    "name": "Swablu",
+    "fillerinfo": "Swablu-0.4-1.2",
+    "dex": 333,
+    "type": ["Normal", "Flying"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [45, 40, 60, 40, 75, 50],
+    "ev": [0, 0, 0, 0, 1, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Natural Cure", "Cloud Nine"],
+    "growthrate": "Erratic",
+    "exp": 62,
+    "normalURL": "",
+    "shinyURL": ""
+}

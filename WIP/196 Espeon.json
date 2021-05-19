@@ -1,0 +1,21 @@
+{
+    "name": "Espeon",
+    "fillerinfo": "Espeon-0.9-26.5",
+    "dex": 196,
+    "type": ["Psychic", "Psychic"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [65, 65, 60, 130, 95, 110],
+    "ev": [0, 0, 0, 2, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Synchronize", "Magic Bounce"],
+    "growthrate": "Medium_Fast",
+    "exp": 184,
+    "normalURL": "",
+    "shinyURL": ""
+}

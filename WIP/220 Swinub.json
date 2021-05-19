@@ -1,0 +1,21 @@
+{
+    "name": "Swinub",
+    "fillerinfo": "Swinub-0.4-6.5",
+    "dex": 220,
+    "type": ["Ice", "Ground"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [50, 50, 40, 30, 30, 50],
+    "ev": [0, 1, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Oblivious", "Snow Cloak", "Thick Fat"],
+    "growthrate": "Slow",
+    "exp": 50,
+    "normalURL": "",
+    "shinyURL": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Tyranitar",
+    "fillerinfo": "Tyranitar-2.0-202.0",
+    "dex": 248,
+    "type": ["Rock", "Dark"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [100, 134, 110, 95, 100, 61],
+    "ev": [0, 3, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Sand Stream", "Unnerve"],
+    "growthrate": "Slow",
+    "exp": 270,
+    "normalURL": "",
+    "shinyURL": ""
+}

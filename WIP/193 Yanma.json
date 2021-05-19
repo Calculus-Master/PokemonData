@@ -1,0 +1,21 @@
+{
+    "name": "Yanma",
+    "fillerinfo": "Yanma-1.2-38.0",
+    "dex": 193,
+    "type": ["Bug", "Flying"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [65, 65, 45, 75, 45, 95],
+    "ev": [0, 0, 0, 0, 0, 1],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Speed Boost", "Compound Eyes", "Frisk"],
+    "growthrate": "Medium_Fast",
+    "exp": 78,
+    "normalURL": "",
+    "shinyURL": ""
+}

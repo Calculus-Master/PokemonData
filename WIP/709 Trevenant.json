@@ -1,0 +1,21 @@
+{
+    "name": "Trevenant",
+    "fillerinfo": "Trevenant-1.5-71.0",
+    "dex": 709,
+    "type": ["Ghost", "Grass"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [85, 110, 76, 65, 82, 56],
+    "ev": [0, 2, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Natural Cure", "Frisk", "Harvest"],
+    "growthrate": "Medium_Fast",
+    "exp": 166,
+    "normalURL": "",
+    "shinyURL": ""
+}

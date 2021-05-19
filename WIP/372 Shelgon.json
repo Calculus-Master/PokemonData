@@ -1,0 +1,21 @@
+{
+    "name": "Shelgon",
+    "fillerinfo": "Shelgon-1.1-110.5",
+    "dex": 372,
+    "type": ["Dragon", "Dragon"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [65, 95, 100, 60, 50, 50],
+    "ev": [0, 0, 2, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Rock Head", "Overcoat"],
+    "growthrate": "Slow",
+    "exp": 147,
+    "normalURL": "",
+    "shinyURL": ""
+}

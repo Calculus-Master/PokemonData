@@ -1,0 +1,21 @@
+{
+    "name": "Deerling",
+    "fillerinfo": "Deerling-0.6-19.5",
+    "dex": 585,
+    "type": ["Normal", "Grass"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [60, 60, 50, 40, 50, 75],
+    "ev": [0, 0, 0, 0, 0, 1],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Chlorophyll", "Sap Sipper", "Serene Grace"],
+    "growthrate": "Medium_Fast",
+    "exp": 67,
+    "normalURL": "",
+    "shinyURL": ""
+}

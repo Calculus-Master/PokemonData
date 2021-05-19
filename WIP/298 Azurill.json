@@ -1,0 +1,21 @@
+{
+    "name": "Azurill",
+    "fillerinfo": "Azurill-0.2-2.0",
+    "dex": 298,
+    "type": ["Normal", "Fairy"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [50, 20, 40, 20, 40, 20],
+    "ev": [1, 0, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Thick Fat", "Huge Power", "Sap Sipper"],
+    "growthrate": "Fast",
+    "exp": 38,
+    "normalURL": "",
+    "shinyURL": ""
+}

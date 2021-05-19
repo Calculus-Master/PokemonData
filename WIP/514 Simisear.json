@@ -1,0 +1,21 @@
+{
+    "name": "Simisear",
+    "fillerinfo": "Simisear-1.0-28.0",
+    "dex": 514,
+    "type": ["Fire", "Fire"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [75, 98, 63, 98, 63, 101],
+    "ev": [0, 0, 0, 0, 0, 2],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Gluttony", "Blaze"],
+    "growthrate": "Medium_Fast",
+    "exp": 174,
+    "normalURL": "",
+    "shinyURL": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Whimsicott",
+    "fillerinfo": "Whimsicott-0.7-6.6",
+    "dex": 547,
+    "type": ["Grass", "Fairy"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [60, 67, 85, 77, 75, 116],
+    "ev": [0, 0, 0, 0, 0, 2],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Prankster", "Infiltrator", "Chlorophyll"],
+    "growthrate": "Medium_Fast",
+    "exp": 168,
+    "normalURL": "",
+    "shinyURL": ""
+}

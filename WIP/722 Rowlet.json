@@ -1,0 +1,21 @@
+{
+    "name": "Rowlet",
+    "fillerinfo": "Rowlet-0.3-1.5",
+    "dex": 722,
+    "type": ["Grass", "Flying"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [68, 55, 55, 50, 50, 42],
+    "ev": [1, 0, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Overgrow", "Long Reach"],
+    "growthrate": "Medium_Slow",
+    "exp": 64,
+    "normalURL": "",
+    "shinyURL": ""
+}

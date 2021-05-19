@@ -1,0 +1,21 @@
+{
+    "name": "Houndour",
+    "fillerinfo": "Houndour-0.6-10.8",
+    "dex": 228,
+    "type": ["Dark", "Fire"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [45, 60, 30, 80, 50, 65],
+    "ev": [0, 0, 0, 1, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Early Bird", "Flash Fire", "Unnerve"],
+    "growthrate": "Slow",
+    "exp": 66,
+    "normalURL": "",
+    "shinyURL": ""
+}

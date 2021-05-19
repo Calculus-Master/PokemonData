@@ -1,0 +1,21 @@
+{
+    "name": "Nidoran-F-",
+    "fillerinfo": "Nidoran-F--0.4-7.0",
+    "dex": 29,
+    "type": ["Poison", "Poison"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [55, 47, 52, 40, 40, 41],
+    "ev": [1, 0, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Poison Point", "Rivalry", "Hustle"],
+    "growthrate": "Medium_Slow",
+    "exp": 55,
+    "normalURL": "",
+    "shinyURL": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Ralts",
+    "fillerinfo": "Ralts-0.4-6.6",
+    "dex": 280,
+    "type": ["Psychic", "Fairy"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [28, 25, 25, 45, 35, 40],
+    "ev": [0, 0, 0, 1, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Synchronize", "Trace", "Telepathy"],
+    "growthrate": "Slow",
+    "exp": 40,
+    "normalURL": "",
+    "shinyURL": ""
+}

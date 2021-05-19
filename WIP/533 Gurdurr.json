@@ -1,0 +1,21 @@
+{
+    "name": "Gurdurr",
+    "fillerinfo": "Gurdurr-1.2-40.0",
+    "dex": 533,
+    "type": ["Fighting", "Fighting"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [85, 105, 85, 40, 50, 40],
+    "ev": [0, 2, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Guts", "Sheer Force", "Iron Fist"],
+    "growthrate": "Medium_Slow",
+    "exp": 142,
+    "normalURL": "",
+    "shinyURL": ""
+}

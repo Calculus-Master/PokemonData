@@ -1,0 +1,21 @@
+{
+    "name": "Omanyte",
+    "fillerinfo": "Omanyte-0.4-7.5",
+    "dex": 138,
+    "type": ["Rock", "Water"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [35, 40, 100, 90, 55, 35],
+    "ev": [0, 0, 1, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Swift Swim", "Shell Armor", "Weak Armor"],
+    "growthrate": "Medium_Fast",
+    "exp": 71,
+    "normalURL": "",
+    "shinyURL": ""
+}

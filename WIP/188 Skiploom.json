@@ -1,0 +1,21 @@
+{
+    "name": "Skiploom",
+    "fillerinfo": "Skiploom-0.6-1.0",
+    "dex": 188,
+    "type": ["Grass", "Flying"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [55, 45, 50, 45, 65, 80],
+    "ev": [0, 0, 0, 0, 0, 2],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Chlorophyll", "Leaf Guard", "Infiltrator"],
+    "growthrate": "Medium_Slow",
+    "exp": 119,
+    "normalURL": "",
+    "shinyURL": ""
+}

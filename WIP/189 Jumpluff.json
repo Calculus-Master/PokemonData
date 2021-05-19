@@ -1,0 +1,21 @@
+{
+    "name": "Jumpluff",
+    "fillerinfo": "Jumpluff-0.8-3.0",
+    "dex": 189,
+    "type": ["Grass", "Flying"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [75, 55, 70, 55, 95, 110],
+    "ev": [0, 0, 0, 0, 0, 3],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Chlorophyll", "Leaf Guard", "Infiltrator"],
+    "growthrate": "Medium_Slow",
+    "exp": 207,
+    "normalURL": "",
+    "shinyURL": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Starly",
+    "fillerinfo": "Starly-0.3-2.0",
+    "dex": 396,
+    "type": ["Normal", "Flying"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [40, 55, 30, 30, 30, 60],
+    "ev": [0, 0, 0, 0, 0, 1],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Keen Eye", "Reckless"],
+    "growthrate": "Medium_Slow",
+    "exp": 49,
+    "normalURL": "",
+    "shinyURL": ""
+}

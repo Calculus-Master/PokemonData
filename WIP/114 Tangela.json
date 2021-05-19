@@ -1,0 +1,21 @@
+{
+    "name": "Tangela",
+    "fillerinfo": "Tangela-1.0-35.0",
+    "dex": 114,
+    "type": ["Grass", "Grass"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [65, 55, 115, 100, 40, 60],
+    "ev": [0, 0, 1, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Chlorophyll", "Leaf Guard", "Regenerator"],
+    "growthrate": "Medium_Fast",
+    "exp": 87,
+    "normalURL": "",
+    "shinyURL": ""
+}

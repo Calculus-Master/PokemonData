@@ -1,0 +1,21 @@
+{
+    "name": "Conkeldurr",
+    "fillerinfo": "Conkeldurr-1.4-87.0",
+    "dex": 534,
+    "type": ["Fighting", "Fighting"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [105, 140, 95, 55, 65, 45],
+    "ev": [0, 3, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Guts", "Sheer Force", "Iron Fist"],
+    "growthrate": "Medium_Slow",
+    "exp": 227,
+    "normalURL": "",
+    "shinyURL": ""
+}

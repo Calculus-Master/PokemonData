@@ -1,0 +1,21 @@
+{
+    "name": "Piloswine",
+    "fillerinfo": "Piloswine-1.1-55.8",
+    "dex": 221,
+    "type": ["Ice", "Ground"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [100, 100, 80, 60, 60, 50],
+    "ev": [1, 1, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Oblivious", "Snow Cloak", "Thick Fat"],
+    "growthrate": "Slow",
+    "exp": 158,
+    "normalURL": "",
+    "shinyURL": ""
+}

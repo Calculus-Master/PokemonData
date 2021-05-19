@@ -1,0 +1,21 @@
+{
+    "name": "Seedot",
+    "fillerinfo": "Seedot-0.5-4.0",
+    "dex": 273,
+    "type": ["Grass", "Grass"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [40, 40, 50, 30, 30, 30],
+    "ev": [0, 0, 1, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Chlorophyll", "Early Bird", "Pickpocket"],
+    "growthrate": "Medium_Slow",
+    "exp": 44,
+    "normalURL": "",
+    "shinyURL": ""
+}

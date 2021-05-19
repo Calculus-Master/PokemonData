@@ -1,0 +1,21 @@
+{
+    "name": "Togetic",
+    "fillerinfo": "Togetic-0.6-3.2",
+    "dex": 176,
+    "type": ["Fairy", "Flying"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [55, 40, 85, 80, 105, 40],
+    "ev": [0, 0, 0, 0, 2, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Hustle", "Serene Grace", "Super Luck"],
+    "growthrate": "Fast",
+    "exp": 142,
+    "normalURL": "",
+    "shinyURL": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Spewpa",
+    "fillerinfo": "Spewpa-0.3-8.4",
+    "dex": 665,
+    "type": ["Bug", "Bug"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [45, 22, 60, 27, 30, 29],
+    "ev": [0, 0, 2, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Shed Skin", "Friend Guard"],
+    "growthrate": "Medium_Fast",
+    "exp": 75,
+    "normalURL": "",
+    "shinyURL": ""
+}

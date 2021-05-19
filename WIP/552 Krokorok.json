@@ -1,0 +1,21 @@
+{
+    "name": "Krokorok",
+    "fillerinfo": "Krokorok-1.0-33.4",
+    "dex": 552,
+    "type": ["Ground", "Dark"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [60, 82, 45, 45, 45, 74],
+    "ev": [0, 2, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Intimidate", "Moxie", "Anger Point"],
+    "growthrate": "Medium_Slow",
+    "exp": 123,
+    "normalURL": "",
+    "shinyURL": ""
+}

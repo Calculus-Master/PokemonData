@@ -1,0 +1,21 @@
+{
+    "name": "Furret",
+    "fillerinfo": "Furret-1.8-32.5",
+    "dex": 162,
+    "type": ["Normal", "Normal"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [85, 76, 64, 45, 55, 90],
+    "ev": [0, 0, 0, 0, 0, 2],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Run Away", "Keen Eye", "Frisk"],
+    "growthrate": "Medium_Fast",
+    "exp": 145,
+    "normalURL": "",
+    "shinyURL": ""
+}

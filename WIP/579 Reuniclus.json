@@ -1,0 +1,21 @@
+{
+    "name": "Reuniclus",
+    "fillerinfo": "Reuniclus-1.0-20.1",
+    "dex": 579,
+    "type": ["Psychic", "Psychic"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [110, 65, 75, 125, 85, 30],
+    "ev": [0, 0, 0, 3, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Overcoat", "Magic Guard", "Regenerator"],
+    "growthrate": "Medium_Slow",
+    "exp": 221,
+    "normalURL": "",
+    "shinyURL": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Basculin-Red-Striped-",
+    "fillerinfo": "Basculin-1.0-18.0",
+    "dex": 550,
+    "type": ["Water", "Water"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [70, 92, 65, 80, 55, 98],
+    "ev": [0, 0, 0, 0, 0, 2],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Reckless", "Adaptability", "Mold Breaker"],
+    "growthrate": "Medium_Fast",
+    "exp": 161,
+    "normalURL": "",
+    "shinyURL": ""
+}

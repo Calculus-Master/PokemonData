@@ -1,0 +1,21 @@
+{
+    "name": "Carracosta",
+    "fillerinfo": "Carracosta-1.2-81.0",
+    "dex": 565,
+    "type": ["Water", "Rock"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [74, 108, 133, 83, 65, 32],
+    "ev": [0, 0, 2, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Solid Rock", "Sturdy", "Swift Swim"],
+    "growthrate": "Medium_Fast",
+    "exp": 173,
+    "normalURL": "",
+    "shinyURL": ""
+}

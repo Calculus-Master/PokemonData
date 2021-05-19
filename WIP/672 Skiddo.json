@@ -1,0 +1,21 @@
+{
+    "name": "Skiddo",
+    "fillerinfo": "Skiddo-0.9-31.0",
+    "dex": 672,
+    "type": ["Grass", "Grass"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [66, 65, 48, 62, 57, 52],
+    "ev": [1, 0, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Sap Sipper", "Grass Pelt"],
+    "growthrate": "Medium_Fast",
+    "exp": 70,
+    "normalURL": "",
+    "shinyURL": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Tapu-Bulu-",
+    "fillerinfo": "Tapu-Bulu--1.9-45.5",
+    "dex": 787,
+    "type": ["Grass", "Fairy"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [70, 130, 115, 85, 95, 75],
+    "ev": [0, 3, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Grassy Surge", "Telepathy"],
+    "growthrate": "Slow",
+    "exp": 257,
+    "normalURL": "",
+    "shinyURL": ""
+}

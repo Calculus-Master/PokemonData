@@ -1,0 +1,21 @@
+{
+    "name": "Politoed",
+    "fillerinfo": "Politoed-1.1-33.9",
+    "dex": 186,
+    "type": ["Water", "Water"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [90, 75, 75, 90, 100, 70],
+    "ev": [0, 0, 0, 0, 3, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Water Absorb", "Damp", "Drizzle"],
+    "growthrate": "Medium_Slow",
+    "exp": 225,
+    "normalURL": "",
+    "shinyURL": ""
+}

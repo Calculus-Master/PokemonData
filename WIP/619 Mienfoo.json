@@ -1,0 +1,21 @@
+{
+    "name": "Mienfoo",
+    "fillerinfo": "Mienfoo-0.9-20.0",
+    "dex": 619,
+    "type": ["Fighting", "Fighting"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [45, 85, 50, 55, 50, 65],
+    "ev": [0, 1, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Inner Focus", "Regenerator", "Reckless"],
+    "growthrate": "Medium_Slow",
+    "exp": 70,
+    "normalURL": "",
+    "shinyURL": ""
+}

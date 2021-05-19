@@ -1,0 +1,21 @@
+{
+    "name": "Trumbeak",
+    "fillerinfo": "Trumbeak-0.6-14.8",
+    "dex": 732,
+    "type": ["Normal", "Flying"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [55, 85, 50, 40, 50, 75],
+    "ev": [0, 2, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Keen Eye", "Skill Link", "Pickup"],
+    "growthrate": "Medium_Fast",
+    "exp": 124,
+    "normalURL": "",
+    "shinyURL": ""
+}

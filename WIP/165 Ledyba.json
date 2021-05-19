@@ -1,0 +1,21 @@
+{
+    "name": "Ledyba",
+    "fillerinfo": "Ledyba-1.0-10.8",
+    "dex": 165,
+    "type": ["Bug", "Flying"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [40, 20, 30, 40, 80, 55],
+    "ev": [0, 0, 0, 0, 1, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Swarm", "Early Bird", "Rattled"],
+    "growthrate": "Fast",
+    "exp": 53,
+    "normalURL": "",
+    "shinyURL": ""
+}

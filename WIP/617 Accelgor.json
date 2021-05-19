@@ -1,0 +1,21 @@
+{
+    "name": "Accelgor",
+    "fillerinfo": "Accelgor-0.8-25.3",
+    "dex": 617,
+    "type": ["Bug", "Bug"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [80, 70, 40, 100, 60, 145],
+    "ev": [0, 0, 0, 0, 0, 2],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Hydration", "Sticky Hold", "Unburden"],
+    "growthrate": "Medium_Fast",
+    "exp": 173,
+    "normalURL": "",
+    "shinyURL": ""
+}

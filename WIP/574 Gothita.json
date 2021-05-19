@@ -1,0 +1,21 @@
+{
+    "name": "Gothita",
+    "fillerinfo": "Gothita-0.4-5.8",
+    "dex": 574,
+    "type": ["Psychic", "Psychic"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [45, 30, 50, 55, 65, 45],
+    "ev": [0, 0, 0, 0, 1, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Frisk", "Competitive", "Shadow Tag"],
+    "growthrate": "Medium_Slow",
+    "exp": 58,
+    "normalURL": "",
+    "shinyURL": ""
+}

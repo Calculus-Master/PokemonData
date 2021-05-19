@@ -1,0 +1,21 @@
+{
+    "name": "Spiritomb",
+    "fillerinfo": "Spiritomb-1.0-108.0",
+    "dex": 442,
+    "type": ["Ghost", "Dark"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [50, 92, 108, 92, 108, 35],
+    "ev": [0, 0, 1, 0, 1, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Pressure", "Infiltrator"],
+    "growthrate": "Medium_Fast",
+    "exp": 170,
+    "normalURL": "",
+    "shinyURL": ""
+}

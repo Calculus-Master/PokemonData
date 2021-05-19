@@ -1,0 +1,21 @@
+{
+    "name": "Riolu",
+    "fillerinfo": "Riolu-0.7-20.2",
+    "dex": 447,
+    "type": ["Fighting", "Fighting"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [40, 70, 40, 35, 40, 60],
+    "ev": [0, 1, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Steadfast", "Inner Focus", "Prankster"],
+    "growthrate": "Medium_Slow",
+    "exp": 57,
+    "normalURL": "",
+    "shinyURL": ""
+}

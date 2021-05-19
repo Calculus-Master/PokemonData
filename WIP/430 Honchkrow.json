@@ -1,0 +1,21 @@
+{
+    "name": "Honchkrow",
+    "fillerinfo": "Honchkrow-0.9-27.3",
+    "dex": 430,
+    "type": ["Dark", "Flying"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [100, 125, 52, 105, 52, 71],
+    "ev": [0, 2, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Insomnia", "Super Luck", "Moxie"],
+    "growthrate": "Medium_Slow",
+    "exp": 177,
+    "normalURL": "",
+    "shinyURL": ""
+}

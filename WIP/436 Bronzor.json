@@ -1,0 +1,21 @@
+{
+    "name": "Bronzor",
+    "fillerinfo": "Bronzor-0.5-60.5",
+    "dex": 436,
+    "type": ["Steel", "Psychic"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [57, 24, 86, 24, 86, 23],
+    "ev": [0, 0, 1, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Levitate", "Heatproof", "Heavy Metal"],
+    "growthrate": "Medium_Fast",
+    "exp": 60,
+    "normalURL": "",
+    "shinyURL": ""
+}

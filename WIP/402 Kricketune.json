@@ -1,0 +1,21 @@
+{
+    "name": "Kricketune",
+    "fillerinfo": "Kricketune-1.0-25.5",
+    "dex": 402,
+    "type": ["Bug", "Bug"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [77, 85, 51, 55, 51, 65],
+    "ev": [0, 2, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Swarm", "Technician"],
+    "growthrate": "Medium_Slow",
+    "exp": 134,
+    "normalURL": "",
+    "shinyURL": ""
+}

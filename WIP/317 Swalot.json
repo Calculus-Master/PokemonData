@@ -1,0 +1,21 @@
+{
+    "name": "Swalot",
+    "fillerinfo": "Swalot-1.7-80.0",
+    "dex": 317,
+    "type": ["Poison", "Poison"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [100, 73, 83, 73, 83, 55],
+    "ev": [2, 0, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Liquid Ooze", "Sticky Hold", "Gluttony"],
+    "growthrate": "Fluctuating",
+    "exp": 163,
+    "normalURL": "",
+    "shinyURL": ""
+}

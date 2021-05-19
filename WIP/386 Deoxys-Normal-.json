@@ -1,0 +1,21 @@
+{
+    "name": "Deoxys-Normal-",
+    "fillerinfo": "Deoxys-1.7-60.8",
+    "dex": 386,
+    "type": ["Psychic", "Psychic"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [50, 150, 50, 150, 50, 150],
+    "ev": [0, 1, 0, 1, 0, 1],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Pressure"],
+    "growthrate": "Slow",
+    "exp": 270,
+    "normalURL": "",
+    "shinyURL": ""
+}

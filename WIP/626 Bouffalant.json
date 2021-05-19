@@ -1,0 +1,21 @@
+{
+    "name": "Bouffalant",
+    "fillerinfo": "Bouffalant-1.6-94.6",
+    "dex": 626,
+    "type": ["Normal", "Normal"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [95, 110, 95, 40, 95, 55],
+    "ev": [0, 2, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Reckless", "Sap Sipper", "Soundproof"],
+    "growthrate": "Medium_Fast",
+    "exp": 172,
+    "normalURL": "",
+    "shinyURL": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Exeggutor",
+    "fillerinfo": "Exeggutor-2.0-120.0",
+    "dex": 103,
+    "type": ["Grass", "Psychic"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [95, 95, 85, 125, 75, 55],
+    "ev": [0, 0, 0, 2, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Chlorophyll", "Harvest"],
+    "growthrate": "Slow",
+    "exp": 186,
+    "normalURL": "",
+    "shinyURL": ""
+}

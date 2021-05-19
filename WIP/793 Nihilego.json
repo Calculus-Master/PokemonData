@@ -1,0 +1,21 @@
+{
+    "name": "Nihilego",
+    "fillerinfo": "Nihilego-1.2-55.5",
+    "dex": 793,
+    "type": ["Rock", "Poison"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [109, 53, 47, 127, 131, 103],
+    "ev": [0, 0, 0, 0, 3, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Beast Boost"],
+    "growthrate": "Slow",
+    "exp": 257,
+    "normalURL": "",
+    "shinyURL": ""
+}

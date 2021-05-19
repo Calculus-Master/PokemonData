@@ -1,0 +1,21 @@
+{
+    "name": "Braviary",
+    "fillerinfo": "Braviary-1.5-41.0",
+    "dex": 628,
+    "type": ["Normal", "Flying"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [100, 123, 75, 57, 75, 80],
+    "ev": [0, 2, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Keen Eye", "Sheer Force", "Defiant"],
+    "growthrate": "Slow",
+    "exp": 179,
+    "normalURL": "",
+    "shinyURL": ""
+}

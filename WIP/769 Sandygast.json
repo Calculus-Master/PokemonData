@@ -1,0 +1,21 @@
+{
+    "name": "Sandygast",
+    "fillerinfo": "Sandygast-0.5-70.0",
+    "dex": 769,
+    "type": ["Ghost", "Ground"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [55, 55, 80, 70, 45, 15],
+    "ev": [0, 0, 1, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Water Compaction", "Sand Veil"],
+    "growthrate": "Medium_Fast",
+    "exp": 64,
+    "normalURL": "",
+    "shinyURL": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Ledian",
+    "fillerinfo": "Ledian-1.4-35.6",
+    "dex": 166,
+    "type": ["Bug", "Flying"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [55, 35, 50, 55, 110, 85],
+    "ev": [0, 0, 0, 0, 2, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Swarm", "Early Bird", "Iron Fist"],
+    "growthrate": "Fast",
+    "exp": 137,
+    "normalURL": "",
+    "shinyURL": ""
+}

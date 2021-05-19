@@ -1,0 +1,21 @@
+{
+    "name": "Lunatone",
+    "fillerinfo": "Lunatone-1.0-168.0",
+    "dex": 337,
+    "type": ["Rock", "Psychic"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [90, 55, 65, 95, 85, 70],
+    "ev": [0, 0, 0, 2, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Levitate"],
+    "growthrate": "Fast",
+    "exp": 161,
+    "normalURL": "",
+    "shinyURL": ""
+}

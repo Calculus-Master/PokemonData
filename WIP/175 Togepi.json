@@ -1,0 +1,21 @@
+{
+    "name": "Togepi",
+    "fillerinfo": "Togepi-0.3-1.5",
+    "dex": 175,
+    "type": ["Fairy", "Fairy"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [35, 20, 65, 40, 65, 20],
+    "ev": [0, 0, 0, 0, 1, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Hustle", "Serene Grace", "Super Luck"],
+    "growthrate": "Fast",
+    "exp": 49,
+    "normalURL": "",
+    "shinyURL": ""
+}

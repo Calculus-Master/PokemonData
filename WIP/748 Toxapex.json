@@ -1,0 +1,21 @@
+{
+    "name": "Toxapex",
+    "fillerinfo": "Toxapex-0.7-14.5",
+    "dex": 748,
+    "type": ["Poison", "Water"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [50, 63, 152, 53, 142, 35],
+    "ev": [0, 0, 2, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Merciless", "Limber", "Regenerator"],
+    "growthrate": "Medium_Fast",
+    "exp": 173,
+    "normalURL": "",
+    "shinyURL": ""
+}

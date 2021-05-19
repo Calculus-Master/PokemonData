@@ -1,0 +1,21 @@
+{
+    "name": "Minun",
+    "fillerinfo": "Minun-0.4-4.2",
+    "dex": 312,
+    "type": ["Electric", "Electric"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [60, 40, 50, 75, 85, 95],
+    "ev": [0, 0, 0, 0, 0, 1],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Minus", "Volt Absorb"],
+    "growthrate": "Medium_Fast",
+    "exp": 142,
+    "normalURL": "",
+    "shinyURL": ""
+}

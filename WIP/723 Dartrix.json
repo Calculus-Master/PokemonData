@@ -1,0 +1,21 @@
+{
+    "name": "Dartrix",
+    "fillerinfo": "Dartrix-0.7-16.0",
+    "dex": 723,
+    "type": ["Grass", "Flying"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [78, 75, 75, 70, 70, 52],
+    "ev": [2, 0, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Overgrow", "Long Reach"],
+    "growthrate": "Medium_Slow",
+    "exp": 147,
+    "normalURL": "",
+    "shinyURL": ""
+}

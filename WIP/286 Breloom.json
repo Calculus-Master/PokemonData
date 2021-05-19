@@ -1,0 +1,21 @@
+{
+    "name": "Breloom",
+    "fillerinfo": "Breloom-1.2-39.2",
+    "dex": 286,
+    "type": ["Grass", "Fighting"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [60, 130, 80, 60, 60, 70],
+    "ev": [0, 2, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Effect Spore", "Poison Heal", "Technician"],
+    "growthrate": "Fluctuating",
+    "exp": 161,
+    "normalURL": "",
+    "shinyURL": ""
+}

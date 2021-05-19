@@ -1,0 +1,21 @@
+{
+    "name": "Scizor",
+    "fillerinfo": "Scizor-1.8-118.0",
+    "dex": 212,
+    "type": ["Bug", "Steel"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [70, 130, 100, 55, 80, 65],
+    "ev": [0, 2, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Swarm", "Technician", "Light Metal"],
+    "growthrate": "Medium_Fast",
+    "exp": 175,
+    "normalURL": "",
+    "shinyURL": ""
+}

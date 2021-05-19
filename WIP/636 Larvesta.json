@@ -1,0 +1,21 @@
+{
+    "name": "Larvesta",
+    "fillerinfo": "Larvesta-1.1-28.8",
+    "dex": 636,
+    "type": ["Bug", "Fire"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [55, 85, 55, 50, 55, 60],
+    "ev": [0, 1, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Flame Body", "Swarm"],
+    "growthrate": "Slow",
+    "exp": 72,
+    "normalURL": "",
+    "shinyURL": ""
+}

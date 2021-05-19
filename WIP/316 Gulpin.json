@@ -1,0 +1,21 @@
+{
+    "name": "Gulpin",
+    "fillerinfo": "Gulpin-0.4-10.3",
+    "dex": 316,
+    "type": ["Poison", "Poison"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [70, 43, 53, 43, 53, 40],
+    "ev": [1, 0, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Liquid Ooze", "Sticky Hold", "Gluttony"],
+    "growthrate": "Fluctuating",
+    "exp": 60,
+    "normalURL": "",
+    "shinyURL": ""
+}

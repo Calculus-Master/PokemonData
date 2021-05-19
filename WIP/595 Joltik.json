@@ -1,0 +1,21 @@
+{
+    "name": "Joltik",
+    "fillerinfo": "Joltik-0.1-0.6",
+    "dex": 595,
+    "type": ["Bug", "Electric"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [50, 47, 50, 57, 50, 65],
+    "ev": [0, 0, 0, 0, 0, 1],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Compound Eyes", "Unnerve", "Swarm"],
+    "growthrate": "Medium_Fast",
+    "exp": 64,
+    "normalURL": "",
+    "shinyURL": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Crobat",
+    "fillerinfo": "Crobat-1.8-75.0",
+    "dex": 169,
+    "type": ["Poison", "Flying"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [85, 90, 80, 70, 80, 130],
+    "ev": [0, 0, 0, 0, 0, 3],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Inner Focus", "Infiltrator"],
+    "growthrate": "Medium_Fast",
+    "exp": 241,
+    "normalURL": "",
+    "shinyURL": ""
+}

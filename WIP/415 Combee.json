@@ -1,0 +1,21 @@
+{
+    "name": "Combee",
+    "fillerinfo": "Combee-0.3-5.5",
+    "dex": 415,
+    "type": ["Bug", "Flying"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [30, 30, 42, 30, 42, 70],
+    "ev": [0, 0, 0, 0, 0, 1],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Honey Gather", "Hustle"],
+    "growthrate": "Medium_Slow",
+    "exp": 49,
+    "normalURL": "",
+    "shinyURL": ""
+}

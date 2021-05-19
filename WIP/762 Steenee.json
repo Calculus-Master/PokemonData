@@ -1,0 +1,21 @@
+{
+    "name": "Steenee",
+    "fillerinfo": "Steenee-0.7-8.2",
+    "dex": 762,
+    "type": ["Grass", "Grass"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [52, 40, 48, 40, 48, 62],
+    "ev": [0, 0, 0, 0, 0, 2],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Leaf Guard", "Oblivious", "Sweet Veil"],
+    "growthrate": "Medium_Slow",
+    "exp": 102,
+    "normalURL": "",
+    "shinyURL": ""
+}

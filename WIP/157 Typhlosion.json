@@ -1,0 +1,21 @@
+{
+    "name": "Typhlosion",
+    "fillerinfo": "Typhlosion-1.7-79.5",
+    "dex": 157,
+    "type": ["Fire", "Fire"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [78, 84, 78, 109, 85, 100],
+    "ev": [0, 0, 0, 3, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Blaze", "Flash Fire"],
+    "growthrate": "Medium_Slow",
+    "exp": 240,
+    "normalURL": "",
+    "shinyURL": ""
+}

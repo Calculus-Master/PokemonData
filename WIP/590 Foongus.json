@@ -1,0 +1,21 @@
+{
+    "name": "Foongus",
+    "fillerinfo": "Foongus-0.2-1.0",
+    "dex": 590,
+    "type": ["Grass", "Poison"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [69, 55, 45, 55, 55, 15],
+    "ev": [1, 0, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Effect Spore", "Regenerator"],
+    "growthrate": "Medium_Fast",
+    "exp": 59,
+    "normalURL": "",
+    "shinyURL": ""
+}

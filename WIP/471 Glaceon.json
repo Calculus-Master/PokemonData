@@ -1,0 +1,21 @@
+{
+    "name": "Glaceon",
+    "fillerinfo": "Glaceon-0.8-25.9",
+    "dex": 471,
+    "type": ["Ice", "Ice"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [65, 60, 110, 130, 95, 65],
+    "ev": [0, 0, 0, 2, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Snow Cloak", "Ice Body"],
+    "growthrate": "Medium_Fast",
+    "exp": 184,
+    "normalURL": "",
+    "shinyURL": ""
+}

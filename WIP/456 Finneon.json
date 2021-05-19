@@ -1,0 +1,21 @@
+{
+    "name": "Finneon",
+    "fillerinfo": "Finneon-0.4-7.0",
+    "dex": 456,
+    "type": ["Water", "Water"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [49, 49, 56, 49, 61, 66],
+    "ev": [0, 0, 0, 0, 0, 1],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Swift Swim", "Storm Drain", "Water Veil"],
+    "growthrate": "Erratic",
+    "exp": 66,
+    "normalURL": "",
+    "shinyURL": ""
+}

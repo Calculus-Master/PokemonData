@@ -1,0 +1,21 @@
+{
+    "name": "Unown",
+    "fillerinfo": "Unown-0.5-5.0",
+    "dex": 201,
+    "type": ["Psychic", "Psychic"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [48, 72, 48, 72, 48, 48],
+    "ev": [0, 1, 0, 1, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Levitate"],
+    "growthrate": "Medium_Fast",
+    "exp": 118,
+    "normalURL": "",
+    "shinyURL": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Trubbish",
+    "fillerinfo": "Trubbish-0.6-31.0",
+    "dex": 568,
+    "type": ["Poison", "Poison"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [50, 50, 62, 40, 62, 65],
+    "ev": [0, 0, 0, 0, 0, 1],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Stench", "Sticky Hold", "Aftermath"],
+    "growthrate": "Medium_Fast",
+    "exp": 66,
+    "normalURL": "",
+    "shinyURL": ""
+}

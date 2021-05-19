@@ -1,0 +1,21 @@
+{
+    "name": "Goodra",
+    "fillerinfo": "Goodra-2.0-150.5",
+    "dex": 706,
+    "type": ["Dragon", "Dragon"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [90, 100, 70, 110, 150, 80],
+    "ev": [0, 0, 0, 0, 3, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Sap Sipper", "Hydration", "Gooey"],
+    "growthrate": "Slow",
+    "exp": 270,
+    "normalURL": "",
+    "shinyURL": ""
+}

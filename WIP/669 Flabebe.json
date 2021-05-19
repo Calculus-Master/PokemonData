@@ -1,0 +1,21 @@
+{
+    "name": "Flabebe",
+    "fillerinfo": "Flabebe-0.1-0.1",
+    "dex": 669,
+    "type": ["Fairy", "Fairy"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [44, 38, 39, 61, 79, 42],
+    "ev": [0, 0, 0, 0, 1, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Flower Veil", "Symbiosis"],
+    "growthrate": "Medium_Fast",
+    "exp": 61,
+    "normalURL": "",
+    "shinyURL": ""
+}

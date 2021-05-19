@@ -1,0 +1,21 @@
+{
+    "name": "Sudowoodo",
+    "fillerinfo": "Sudowoodo-1.2-38.0",
+    "dex": 185,
+    "type": ["Rock", "Rock"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [70, 100, 115, 30, 65, 30],
+    "ev": [0, 0, 2, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Sturdy", "Rock Head", "Rattled"],
+    "growthrate": "Medium_Fast",
+    "exp": 144,
+    "normalURL": "",
+    "shinyURL": ""
+}

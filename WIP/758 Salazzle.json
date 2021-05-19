@@ -1,0 +1,21 @@
+{
+    "name": "Salazzle",
+    "fillerinfo": "Salazzle-1.2-22.2",
+    "dex": 758,
+    "type": ["Poison", "Fire"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [68, 64, 60, 111, 60, 117],
+    "ev": [0, 0, 0, 0, 0, 2],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Corrosion", "Oblivious"],
+    "growthrate": "Medium_Fast",
+    "exp": 168,
+    "normalURL": "",
+    "shinyURL": ""
+}

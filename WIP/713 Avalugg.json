@@ -1,0 +1,21 @@
+{
+    "name": "Avalugg",
+    "fillerinfo": "Avalugg-2.0-505.0",
+    "dex": 713,
+    "type": ["Ice", "Ice"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [95, 117, 184, 44, 46, 28],
+    "ev": [0, 0, 2, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Own Tempo", "Ice Body", "Sturdy"],
+    "growthrate": "Medium_Fast",
+    "exp": 180,
+    "normalURL": "",
+    "shinyURL": ""
+}

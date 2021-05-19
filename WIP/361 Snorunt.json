@@ -1,0 +1,21 @@
+{
+    "name": "Snorunt",
+    "fillerinfo": "Snorunt-0.7-16.8",
+    "dex": 361,
+    "type": ["Ice", "Ice"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [50, 50, 50, 50, 50, 50],
+    "ev": [1, 0, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Inner Focus", "Ice Body", "Moody"],
+    "growthrate": "Medium_Fast",
+    "exp": 60,
+    "normalURL": "",
+    "shinyURL": ""
+}

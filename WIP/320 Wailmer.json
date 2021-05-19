@@ -1,0 +1,21 @@
+{
+    "name": "Wailmer",
+    "fillerinfo": "Wailmer-2.0-130.0",
+    "dex": 320,
+    "type": ["Water", "Water"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [130, 70, 35, 70, 35, 60],
+    "ev": [1, 0, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Water Veil", "Oblivious", "Pressure"],
+    "growthrate": "Fluctuating",
+    "exp": 80,
+    "normalURL": "",
+    "shinyURL": ""
+}

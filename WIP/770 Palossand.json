@@ -1,0 +1,21 @@
+{
+    "name": "Palossand",
+    "fillerinfo": "Palossand-1.3-250.0",
+    "dex": 770,
+    "type": ["Ghost", "Ground"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [85, 75, 110, 100, 75, 35],
+    "ev": [0, 0, 2, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Water Compaction", "Sand Veil"],
+    "growthrate": "Medium_Fast",
+    "exp": 168,
+    "normalURL": "",
+    "shinyURL": ""
+}

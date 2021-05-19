@@ -1,0 +1,21 @@
+{
+    "name": "Carbink",
+    "fillerinfo": "Carbink-0.3-5.7",
+    "dex": 703,
+    "type": ["Rock", "Fairy"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [50, 50, 150, 50, 150, 50],
+    "ev": [0, 0, 1, 0, 1, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Clear Body", "Sturdy"],
+    "growthrate": "Slow",
+    "exp": 100,
+    "normalURL": "",
+    "shinyURL": ""
+}

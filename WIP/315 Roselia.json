@@ -1,0 +1,21 @@
+{
+    "name": "Roselia",
+    "fillerinfo": "Roselia-0.3-2.0",
+    "dex": 315,
+    "type": ["Grass", "Poison"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [50, 60, 45, 100, 80, 65],
+    "ev": [0, 0, 0, 2, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Natural Cure", "Poison Point", "Leaf Guard"],
+    "growthrate": "Medium_Slow",
+    "exp": 140,
+    "normalURL": "",
+    "shinyURL": ""
+}

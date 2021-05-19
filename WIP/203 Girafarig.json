@@ -1,0 +1,21 @@
+{
+    "name": "Girafarig",
+    "fillerinfo": "Girafarig-1.5-41.5",
+    "dex": 203,
+    "type": ["Normal", "Psychic"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [70, 80, 65, 90, 65, 85],
+    "ev": [0, 0, 0, 2, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Inner Focus", "Early Bird", "Sap Sipper"],
+    "growthrate": "Medium_Fast",
+    "exp": 159,
+    "normalURL": "",
+    "shinyURL": ""
+}

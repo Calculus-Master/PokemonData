@@ -1,0 +1,21 @@
+{
+    "name": "Whismur",
+    "fillerinfo": "Whismur-0.6-16.3",
+    "dex": 293,
+    "type": ["Normal", "Normal"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [64, 51, 23, 51, 23, 28],
+    "ev": [1, 0, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Soundproof", "Rattled"],
+    "growthrate": "Medium_Slow",
+    "exp": 48,
+    "normalURL": "",
+    "shinyURL": ""
+}

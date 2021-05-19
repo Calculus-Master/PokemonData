@@ -1,0 +1,21 @@
+{
+    "name": "Palpitoad",
+    "fillerinfo": "Palpitoad-0.8-17.0",
+    "dex": 536,
+    "type": ["Water", "Ground"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [75, 65, 55, 65, 55, 69],
+    "ev": [2, 0, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Swift Swim", "Hydration", "Water Absorb"],
+    "growthrate": "Medium_Slow",
+    "exp": 134,
+    "normalURL": "",
+    "shinyURL": ""
+}

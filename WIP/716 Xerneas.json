@@ -1,0 +1,21 @@
+{
+    "name": "Xerneas",
+    "fillerinfo": "Xerneas-3.0-215.0",
+    "dex": 716,
+    "type": ["Fairy", "Fairy"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [126, 131, 95, 131, 98, 99],
+    "ev": [3, 0, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Fairy Aura"],
+    "growthrate": "Slow",
+    "exp": 306,
+    "normalURL": "",
+    "shinyURL": ""
+}

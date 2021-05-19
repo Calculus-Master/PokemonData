@@ -1,0 +1,21 @@
+{
+    "name": "Muk",
+    "fillerinfo": "Muk-1.2-30.0",
+    "dex": 89,
+    "type": ["Poison", "Poison"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [105, 105, 75, 65, 100, 50],
+    "ev": [1, 1, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Stench", "Sticky Hold", "Poison Touch"],
+    "growthrate": "Medium_Fast",
+    "exp": 175,
+    "normalURL": "",
+    "shinyURL": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Ditto",
+    "fillerinfo": "Ditto-0.3-4.0",
+    "dex": 132,
+    "type": ["Normal", "Normal"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [48, 48, 48, 48, 48, 48],
+    "ev": [1, 0, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Limber", "Imposter"],
+    "growthrate": "Medium_Fast",
+    "exp": 101,
+    "normalURL": "",
+    "shinyURL": ""
+}

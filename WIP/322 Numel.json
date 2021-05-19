@@ -1,0 +1,21 @@
+{
+    "name": "Numel",
+    "fillerinfo": "Numel-0.7-24.0",
+    "dex": 322,
+    "type": ["Fire", "Ground"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [60, 60, 40, 65, 45, 35],
+    "ev": [0, 0, 0, 1, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Oblivious", "Simple", "Own Tempo"],
+    "growthrate": "Medium_Fast",
+    "exp": 61,
+    "normalURL": "",
+    "shinyURL": ""
+}

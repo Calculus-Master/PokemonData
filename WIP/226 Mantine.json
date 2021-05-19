@@ -1,0 +1,21 @@
+{
+    "name": "Mantine",
+    "fillerinfo": "Mantine-2.1-220.0",
+    "dex": 226,
+    "type": ["Water", "Flying"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [85, 40, 70, 80, 140, 70],
+    "ev": [0, 0, 0, 0, 2, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Swift Swim", "Water Absorb", "Water Veil"],
+    "growthrate": "Slow",
+    "exp": 170,
+    "normalURL": "",
+    "shinyURL": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Gothorita",
+    "fillerinfo": "Gothorita-0.7-18.0",
+    "dex": 575,
+    "type": ["Psychic", "Psychic"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [60, 45, 70, 75, 85, 55],
+    "ev": [0, 0, 0, 0, 2, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Frisk", "Competitive", "Shadow Tag"],
+    "growthrate": "Medium_Slow",
+    "exp": 137,
+    "normalURL": "",
+    "shinyURL": ""
+}

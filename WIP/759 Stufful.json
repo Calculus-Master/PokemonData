@@ -1,0 +1,21 @@
+{
+    "name": "Stufful",
+    "fillerinfo": "Stufful-0.5-6.8",
+    "dex": 759,
+    "type": ["Normal", "Fighting"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [70, 75, 50, 45, 50, 50],
+    "ev": [0, 1, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Fluffy", "Klutz", "Cute Charm"],
+    "growthrate": "Medium_Fast",
+    "exp": 68,
+    "normalURL": "",
+    "shinyURL": ""
+}

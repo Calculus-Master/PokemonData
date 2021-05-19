@@ -1,0 +1,21 @@
+{
+    "name": "Cubchoo",
+    "fillerinfo": "Cubchoo-0.5-8.5",
+    "dex": 613,
+    "type": ["Ice", "Ice"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [55, 70, 40, 60, 40, 40],
+    "ev": [0, 1, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Snow Cloak", "Slush Rush", "Rattled"],
+    "growthrate": "Medium_Fast",
+    "exp": 61,
+    "normalURL": "",
+    "shinyURL": ""
+}

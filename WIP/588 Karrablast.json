@@ -1,0 +1,21 @@
+{
+    "name": "Karrablast",
+    "fillerinfo": "Karrablast-0.5-5.9",
+    "dex": 588,
+    "type": ["Bug", "Bug"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [50, 75, 45, 40, 45, 60],
+    "ev": [0, 1, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Swarm", "Shed Skin", "No Guard"],
+    "growthrate": "Medium_Fast",
+    "exp": 63,
+    "normalURL": "",
+    "shinyURL": ""
+}

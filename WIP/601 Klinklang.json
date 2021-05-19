@@ -1,0 +1,21 @@
+{
+    "name": "Klinklang",
+    "fillerinfo": "Klinklang-0.6-81.0",
+    "dex": 601,
+    "type": ["Steel", "Steel"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [60, 100, 115, 70, 85, 90],
+    "ev": [0, 0, 3, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Plus", "Minus", "Clear Body"],
+    "growthrate": "Medium_Slow",
+    "exp": 234,
+    "normalURL": "",
+    "shinyURL": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Pansear",
+    "fillerinfo": "Pansear-0.6-11.0",
+    "dex": 513,
+    "type": ["Fire", "Fire"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [50, 53, 48, 53, 48, 64],
+    "ev": [0, 0, 0, 0, 0, 1],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Gluttony", "Blaze"],
+    "growthrate": "Medium_Fast",
+    "exp": 63,
+    "normalURL": "",
+    "shinyURL": ""
+}

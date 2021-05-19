@@ -1,0 +1,21 @@
+{
+    "name": "Bisharp",
+    "fillerinfo": "Bisharp-1.6-70.0",
+    "dex": 625,
+    "type": ["Dark", "Steel"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [65, 125, 100, 60, 70, 70],
+    "ev": [0, 2, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Defiant", "Inner Focus", "Pressure"],
+    "growthrate": "Medium_Fast",
+    "exp": 172,
+    "normalURL": "",
+    "shinyURL": ""
+}

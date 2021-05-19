@@ -1,0 +1,21 @@
+{
+    "name": "Delibird",
+    "fillerinfo": "Delibird-0.9-16.0",
+    "dex": 225,
+    "type": ["Ice", "Flying"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [45, 55, 45, 65, 45, 75],
+    "ev": [0, 0, 0, 0, 0, 1],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Vital Spirit", "Hustle", "Insomnia"],
+    "growthrate": "Fast",
+    "exp": 116,
+    "normalURL": "",
+    "shinyURL": ""
+}

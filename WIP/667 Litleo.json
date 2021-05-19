@@ -1,0 +1,21 @@
+{
+    "name": "Litleo",
+    "fillerinfo": "Litleo-0.6-13.5",
+    "dex": 667,
+    "type": ["Fire", "Normal"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [62, 50, 58, 73, 54, 72],
+    "ev": [0, 0, 0, 1, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Rivalry", "Unnerve", "Moxie"],
+    "growthrate": "Medium_Slow",
+    "exp": 74,
+    "normalURL": "",
+    "shinyURL": ""
+}

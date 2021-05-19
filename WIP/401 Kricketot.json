@@ -1,0 +1,21 @@
+{
+    "name": "Kricketot",
+    "fillerinfo": "Kricketot-0.3-2.2",
+    "dex": 401,
+    "type": ["Bug", "Bug"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [37, 25, 41, 25, 41, 25],
+    "ev": [0, 0, 1, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Shed Skin", "Run Away"],
+    "growthrate": "Medium_Slow",
+    "exp": 39,
+    "normalURL": "",
+    "shinyURL": ""
+}

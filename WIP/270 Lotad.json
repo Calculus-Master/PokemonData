@@ -1,0 +1,21 @@
+{
+    "name": "Lotad",
+    "fillerinfo": "Lotad-0.5-2.6",
+    "dex": 270,
+    "type": ["Water", "Grass"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [40, 30, 30, 40, 50, 30],
+    "ev": [0, 0, 0, 0, 1, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Swift Swim", "Rain Dish", "Own Tempo"],
+    "growthrate": "Medium_Slow",
+    "exp": 44,
+    "normalURL": "",
+    "shinyURL": ""
+}

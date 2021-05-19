@@ -1,0 +1,21 @@
+{
+    "name": "Loudred",
+    "fillerinfo": "Loudred-1.0-40.5",
+    "dex": 294,
+    "type": ["Normal", "Normal"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [84, 71, 43, 71, 43, 48],
+    "ev": [2, 0, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Soundproof", "Scrappy"],
+    "growthrate": "Medium_Slow",
+    "exp": 126,
+    "normalURL": "",
+    "shinyURL": ""
+}

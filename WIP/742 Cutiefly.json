@@ -1,0 +1,21 @@
+{
+    "name": "Cutiefly",
+    "fillerinfo": "Cutiefly-0.1-0.2",
+    "dex": 742,
+    "type": ["Bug", "Fairy"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [40, 45, 40, 55, 40, 84],
+    "ev": [0, 0, 0, 0, 0, 1],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Honey Gather", "Shield Dust", "Sweet Veil"],
+    "growthrate": "Medium_Fast",
+    "exp": 61,
+    "normalURL": "",
+    "shinyURL": ""
+}

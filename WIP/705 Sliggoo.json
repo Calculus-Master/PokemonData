@@ -1,0 +1,21 @@
+{
+    "name": "Sliggoo",
+    "fillerinfo": "Sliggoo-0.8-17.5",
+    "dex": 705,
+    "type": ["Dragon", "Dragon"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [68, 75, 53, 83, 113, 60],
+    "ev": [0, 0, 0, 0, 2, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Sap Sipper", "Hydration", "Gooey"],
+    "growthrate": "Slow",
+    "exp": 158,
+    "normalURL": "",
+    "shinyURL": ""
+}

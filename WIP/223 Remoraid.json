@@ -1,0 +1,21 @@
+{
+    "name": "Remoraid",
+    "fillerinfo": "Remoraid-0.6-12.0",
+    "dex": 223,
+    "type": ["Water", "Water"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [35, 65, 35, 65, 35, 65],
+    "ev": [0, 0, 0, 1, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Hustle", "Sniper", "Moody"],
+    "growthrate": "Medium_Fast",
+    "exp": 60,
+    "normalURL": "",
+    "shinyURL": ""
+}

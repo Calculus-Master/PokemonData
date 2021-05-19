@@ -1,0 +1,21 @@
+{
+    "name": "Baltoy",
+    "fillerinfo": "Baltoy-0.5-21.5",
+    "dex": 343,
+    "type": ["Ground", "Psychic"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [40, 40, 55, 40, 70, 55],
+    "ev": [0, 0, 0, 0, 1, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Levitate"],
+    "growthrate": "Medium_Fast",
+    "exp": 60,
+    "normalURL": "",
+    "shinyURL": ""
+}

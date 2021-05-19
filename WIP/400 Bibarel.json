@@ -1,0 +1,21 @@
+{
+    "name": "Bibarel",
+    "fillerinfo": "Bibarel-1.0-31.5",
+    "dex": 400,
+    "type": ["Normal", "Water"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [79, 85, 60, 55, 60, 71],
+    "ev": [0, 2, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Simple", "Unaware", "Moody"],
+    "growthrate": "Medium_Fast",
+    "exp": 144,
+    "normalURL": "",
+    "shinyURL": ""
+}

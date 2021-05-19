@@ -1,0 +1,21 @@
+{
+    "name": "Luxio",
+    "fillerinfo": "Luxio-0.9-30.5",
+    "dex": 404,
+    "type": ["Electric", "Electric"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [60, 85, 49, 60, 49, 60],
+    "ev": [0, 2, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Rivalry", "Intimidate", "Guts"],
+    "growthrate": "Medium_Slow",
+    "exp": 127,
+    "normalURL": "",
+    "shinyURL": ""
+}

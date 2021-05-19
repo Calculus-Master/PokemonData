@@ -1,0 +1,21 @@
+{
+    "name": "Eelektrik",
+    "fillerinfo": "Eelektrik-1.2-22.0",
+    "dex": 603,
+    "type": ["Electric", "Electric"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [65, 85, 70, 75, 70, 40],
+    "ev": [0, 2, 0, 0, 0, 0],
+    "moves": [],
+    "movesLVL": [],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Levitate"],
+    "growthrate": "Slow",
+    "exp": 142,
+    "normalURL": "",
+    "shinyURL": ""
+}
