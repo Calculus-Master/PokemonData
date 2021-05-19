@@ -1,0 +1,21 @@
+{
+    "name": "Sandslash",
+    "fillerinfo": "Sandslash-1.0-29.5",
+    "dex": 28,
+    "type": ["Ground", "Ground"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": ["Alolan Sandslash"],
+    "mega": [],
+    "stats": [75, 100, 110, 45, 55, 65],
+    "ev": [0, 0, 2, 0, 0, 0],
+    "moves": ["Crush Claw", "Defense Curl", "Poison Sting", "Sand Attack", "Scratch", "Rollout", "Rapid Spin", "Fury Cutter", "Magnitude", "Swift", "Fury Swipes", "Sand Tomb", "Slash", "Dig", "Gyro Ball", "Swords Dance", "Sandstorm", "Earthquake"],
+    "movesLVL": [1, 1, 1, 1, 1, 7, 9, 11, 14, 17, 20, 24, 28, 33, 38, 43, 48, 53],
+    "movesTM": [6, 10, 11, 15, 17, 20, 21, 26, 27, 31, 32, 37, 39, 40, 42, 44, 45, 46, 48, 52, 56, 65, 68, 71, 74, 75, 78, 80, 81, 84, 87, 88, 90, 100],
+    "movesTR": [0, 1, 10, 12, 17, 18, 20, 23, 26, 27, 31, 52, 57, 60, 64, 67, 75, 76, 85, 87, 95],
+    "abilities": ["Sand Veil", "Sand Rush"],
+    "growthrate": "Medium_Fast",
+    "exp": 158,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/0/0b/028Sandslash.png/600px-028Sandslash.png",
+    "shinyURL": ""
+}
