@@ -1,0 +1,21 @@
+{
+    "name": "Alolan Raichu",
+    "fillerinfo": "Mouse Pokemon-0.7-21.0",
+    "dex": 26,
+    "type": ["Electric", "Psychic"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": ["Raichu"],
+    "mega": [],
+    "stats": [60, 85, 50, 95, 85, 110],
+    "ev": [0, 0, 0, 0, 0, 3],
+    "moves": ["Psychic", "Quick Attack", "Speed Swap", "Tail Whip", "Thunder Shock", "Thunderbolt"],
+    "movesLVL": [1, 1, 1, 1, 1, 1],
+    "movesTM": [3, 4, 6, 10, 15, 16, 17, 18, 20, 21, 24, 25, 27, 29, 31, 32, 33, 42, 44, 45, 46, 48, 49, 52, 56, 57, 68, 72, 73, 86, 87, 88, 90, 93, 100],
+    "movesTR": [1, 4, 8, 9, 11, 12, 20, 21, 25, 26, 27, 30, 31, 34, 35, 49, 64, 68, 77, 80, 82, 83, 86, 90],
+    "abilities": ["Surge Surfer"],
+    "growthrate": "Medium_Fast",
+    "exp": 218,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/3/3a/026Raichu-Alola.png/600px-026Raichu-Alola.png",
+    "shinyURL": ""
+}

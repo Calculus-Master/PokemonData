@@ -1,0 +1,21 @@
+{
+    "name": "Pikachu",
+    "fillerinfo": "Mouse Pokemon-0.4-6.0",
+    "dex": 25,
+    "type": ["Electric", "Electric"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [35, 55, 40, 50, 50, 90],
+    "ev": [0, 0, 0, 0, 0, 2],
+    "moves": ["Tail Whip", "Thunder Shock", "Growl", "Play Nice", "Quick Attack", "Electro Ball", "Thunder Wave", "Feint", "Double Team", "Spark", "Nuzzle", "Discharge", "Slam", "Thunderbolt", "Agility", "Wild Charge", "Light Screen", "Thunder"],
+    "movesLVL": [1, 1, 5, 7, 10, 13, 18, 21, 23, 26, 29, 34, 37, 42, 45, 50, 53, 58],
+    "movesTM": [6, 10, 16, 17, 18, 21, 24, 25, 27, 31, 32, 42, 44, 45, 48, 49, 56, 57, 72, 73, 86, 87, 88, 90, 93, 100],
+    "movesTR": [1, 4, 8, 9, 12, 20, 21, 26, 27, 30, 31, 35, 68, 77, 80, 86, 90],
+    "abilities": ["Static", "Lightning Rod"],
+    "growthrate": "Medium_Fast",
+    "exp": 112,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/0/0d/025Pikachu.png/600px-025Pikachu.png",
+    "shinyURL": ""
+}
