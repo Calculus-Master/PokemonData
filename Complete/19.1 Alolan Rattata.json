@@ -1,0 +1,21 @@
+{
+    "name": "Alolan Rattata",
+    "fillerinfo": "Mouse Pokemon-0.3-3.8",
+    "dex": 19,
+    "type": ["Dark", "Normal"],
+    "evolutions": ["Alolan Raticate"],
+    "evolutionsLVL": [20],
+    "forms": ["Rattata"],
+    "mega": [],
+    "stats": [30, 56, 35, 25, 35, 72],
+    "ev": [0, 0, 0, 0, 0, 1],
+    "moves": ["Tackle", "Tail Whip", "Quick Attack", "Focus Energy", "Bite", "Pursuit", "Hyper Fang", "Assurance", "Crunch", "Sucker Punch", "Super Fang", "Double Edge", "Endeavor"],
+    "movesLVL": [1, 1, 4, 7, 10, 13, 16, 19, 22, 25, 28, 31, 34],
+    "movesTM": [6, 10, 11, 12, 13, 14, 17, 18, 21, 27, 30, 32, 36, 41, 42, 44, 45, 46, 48, 60, 63, 65 ,86, 87, 88, 89, 90, 95, 97, 100],
+    "movesTR": [],
+    "abilities": ["Gluttony", "Hustle", "Thick Fat"],
+    "growthrate": "Medium_Fast",
+    "exp": 51,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/9/91/019Rattata-Alola.png/600px-019Rattata-Alola.png",
+    "shinyURL": ""
+}

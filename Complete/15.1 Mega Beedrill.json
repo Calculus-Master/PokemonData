@@ -1,0 +1,21 @@
+{
+    "name": "Mega Beedrill",
+    "fillerinfo": "Poison Bee Pokemon-1.4-40.5",
+    "dex": 15,
+    "type": ["Bug", "Poison"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [65, 150, 40, 15, 80, 145],
+    "ev": [0, 2, 0, 0, 1, 0],
+    "moves": ["Fury Attack", "Twineedle", "Rage", "Pursuit", "Focus Energy", "Venoshock", "Assurance", "Toxic Spikes", "Pin Missile", "Poison Jab", "Agility", "Endeavor", "Fell Stinger"],
+    "movesLVL": [1, 1, 14, 17, 20, 23, 26, 29, 32, 35, 38, 41, 44],
+    "movesTM": [6, 9, 10, 11, 15, 17, 19, 21, 22, 27, 31, 32, 36, 40, 42, 44, 45, 46, 48, 54, 59, 62, 66, 68, 75, 81, 83, 84, 87, 88, 89, 90, 100],
+    "movesTR": [],
+    "abilities": ["Adaptability"],
+    "growthrate": "Medium_Fast",
+    "exp": 223,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/6/61/015Beedrill.png",
+    "shinyURL": ""
+}

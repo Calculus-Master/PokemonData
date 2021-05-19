@@ -1,0 +1,21 @@
+{
+    "name": "Kakuna",
+    "fillerinfo": "Cocoon Pokemon-0.6-10.0",
+    "dex": 14,
+    "type": ["Bug", "Poison"],
+    "evolutions": ["Beedrill"],
+    "evolutionsLVL": [10],
+    "forms": [],
+    "mega": [],
+    "stats": [45, 25, 50, 25, 25, 35],
+    "ev": [0, 0, 2, 0, 0, 0],
+    "moves": ["Harden"],
+    "movesLVL": [1],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Shed Skin"],
+    "growthrate": "Medium_Fast",
+    "exp": 72,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/f/f0/014Kakuna.png",
+    "shinyURL": ""
+}

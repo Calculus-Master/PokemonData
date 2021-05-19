@@ -1,0 +1,21 @@
+{
+    "name": "Pidgey",
+    "fillerinfo": "Tiny Bird Pokemon-0.3-1.8",
+    "dex": 16,
+    "type": ["Normal", "Flying"],
+    "evolutions": ["Pidgeotto", "Pidgeot"],
+    "evolutionsLVL": [18, 36],
+    "forms": [],
+    "mega": [],
+    "stats": [40, 45, 40, 35, 35, 56],
+    "ev": [0, 0, 0, 0, 0, 1],
+    "moves": ["Tackle", "Sand Attack", "Gust", "Quick Attack", "Whirlwind", "Twister", "Feather Dance", "Agility", "Wing Attack", "Roost", "Tailwind", "Mirror Move", "Air Slash", "Hurricane"],
+    "movesLVL": [1, 5, 9, 13, 17, 21, 25, 29, 33, 37, 41, 45, 49, 53],
+    "movesTM": [1, 6, 10, 11, 17, 18, 19, 21, 27, 32, 40, 42, 44, 45, 46, 48, 51, 76, 87, 88, 89, 90, 100],
+    "movesTR": [],
+    "abilities": ["Keen Eye", "Tangled Feet", "Big Pecks"],
+    "growthrate": "Medium_Slow",
+    "exp": 50,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/5/55/016Pidgey.png",
+    "shinyURL": ""
+}

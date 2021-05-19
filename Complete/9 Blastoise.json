@@ -1,0 +1,21 @@
+{
+    "name": "Blastoise",
+    "fillerinfo": "Shellfish Pokemon-1.6-85.5",
+    "dex": 9,
+    "type": ["Water", "Water"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": ["Mega Blastoise"],
+    "stats": [79, 83, 100, 85, 105, 78],
+    "ev": [0, 0, 0, 0, 3, 0],
+    "moves": ["Flash Cannon", "Tackle", "Tail Whip", "Water Gun", "Withdraw", "Rapid Spin", "Bite", "Water Pulse", "Protect", "Rain Dance", "Aqua Tail", "Shell Smash", "Iron Defense", "Hydro Pump", "Skull Bash"],
+    "movesLVL": [1, 1, 1, 1, 1, 9, 12, 15, 20, 25, 30, 35, 42, 49, 56],
+    "movesTM": [1, 5, 6, 7, 10, 13, 14, 15, 17, 18, 21, 23, 26, 27, 31, 32, 39, 42, 44, 45, 48, 52, 55, 56, 68, 74, 78, 80, 82, 87, 88, 90, 91, 94, 97, 98, 100],
+    "movesTR": [1, 3, 4, 5, 6, 10, 16, 20, 24, 26, 27, 31, 32, 45, 46, 52, 56, 58, 62, 64, 69, 70, 84, 85, 98, 99],
+    "abilities": ["Torrent", "Rain Dish"],
+    "growthrate": "Medium_Slow",
+    "exp": 239,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/0/02/009Blastoise.png",
+    "shinyURL": "https://i.pinimg.com/originals/b4/10/6a/b4106aecddb32407dca29323a42ed8b9.png"
+}

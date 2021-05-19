@@ -1,0 +1,21 @@
+{
+    "name": "Charmeleon",
+    "fillerinfo": "Flame Pokemon-1.1-19.0",
+    "dex": 5,
+    "type": ["Fire", "Fire"],
+    "evolutions": ["Charizard"],
+    "evolutionsLVL": [36],
+    "forms": [],
+    "mega": [],
+    "stats": [58, 64, 58, 80, 65, 80],
+    "ev": [0, 0, 0, 1, 0, 1],
+    "moves": ["Ember", "Growl", "Scratch", "Smokescreen", "Dragon Breath", "Fire Fang", "Slash", "Flamethrower", "Scary Face", "Fire Spin", "Inferno", "Flare Blitz"],
+    "movesLVL": [1, 1, 1, 1, 12, 19, 24, 30, 37, 42, 48, 54],
+    "movesTM": [1, 2, 6, 10, 11, 17, 21, 27, 31, 32, 35, 38, 39, 40, 42, 43, 44, 45, 48, 49, 50, 56, 61, 65, 75, 80, 87, 88, 90, 100],
+    "movesTR": [0, 1, 2, 15, 20, 24, 26, 27, 31, 32, 36, 43, 47, 51, 55, 62, 85],
+    "abilities": ["Blaze", "Solar Power"],
+    "growthrate": "Medium_Slow",
+    "exp": 142,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/4/4a/005Charmeleon.png",
+    "shinyURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/34949f93-8022-47ca-a20e-35d2b4f12c98/d6m1n21-e6ba49ab-73b7-41cf-964f-b5217d0e3960.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvMzQ5NDlmOTMtODAyMi00N2NhLWEyMGUtMzVkMmI0ZjEyYzk4XC9kNm0xbjIxLWU2YmE0OWFiLTczYjctNDFjZi05NjRmLWI1MjE3ZDBlMzk2MC5wbmcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.dZ4M7DXoV--ShH5gPVNRI1V4Gl6GDqt5wkd-2Y4LCuM"
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Butterfree",
+    "fillerinfo": "Butterfly Pokemon-1.1-32.0",
+    "dex": 12,
+    "type": ["Bug", "Flying"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [60, 45, 50, 90, 80, 70],
+    "ev": [0, 0, 0, 2, 1, 0],
+    "moves": ["Bug Bite", "Gust", "Harden", "String Shot", "Tackle", "Supersonic", "Confusion", "Poison Powder", "Sleep Powder", "Stun Spore", "Psybeam", "Whirlwind", "Air Slash", "Safeguard", "Bug Buzz", "Tailwind", "Rage Powder", "Quiver Dance"],
+    "movesLVL": [1, 1, 1, 1, 1, 4, 8, 12, 12, 12, 16, 20, 24, 28, 32, 36, 40, 44],
+    "movesTM": [6, 9, 10, 11, 15, 17, 18, 19, 20, 21, 22, 27, 29, 30, 32, 40, 42, 44, 45, 46, 48, 53, 62, 68, 77, 83, 85, 87, 88, 89, 90, 100],
+    "movesTR": [11, 20, 26, 27, 29, 33, 40, 46, 61, 65, 89, 96],
+    "abilities": ["Compound Eyes", "Tinted Lens"],
+    "growthrate": "Medium_Fast",
+    "exp": 178,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/d/d1/012Butterfree.png",
+    "shinyURL": ""
+}

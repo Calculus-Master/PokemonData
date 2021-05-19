@@ -1,0 +1,21 @@
+{
+    "name": "Metapod",
+    "fillerinfo": "Cocoon Pokemon-0.7-9.9",
+    "dex": 11,
+    "type": ["Bug", "Bug"],
+    "evolutions": ["Butterfree"],
+    "evolutionsLVL": [10],
+    "forms": [],
+    "mega": [],
+    "stats": [50, 20, 55, 25, 25, 30],
+    "ev": [0, 0, 2, 0, 0, 0],
+    "moves": ["Harden"],
+    "movesLVL": [1],
+    "movesTM": [],
+    "movesTR": [46],
+    "abilities": ["Shed Skin"],
+    "growthrate": "Medium_Fast",
+    "exp": 72,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/c/cd/011Metapod.png",
+    "shinyURL": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Mega Pidgeot",
+    "fillerinfo": "Bird Pokemon-2.2-50.5",
+    "dex": 18,
+    "type": ["Normal", "Flying"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [83, 80, 80, 135, 80, 121],
+    "ev": [0, 0, 0, 0, 0, 3],
+    "moves": ["Gust", "Quick Attack", "Sand Attack", "Tackle", "Whirlwind", "Twister", "Feather Dance", "Agility", "Wing Attack", "Roost", "Tailwind", "Mirror Move", "Air Slash", "Hurricane"],
+    "movesLVL": [1, 1, 1, 1, 17, 22, 27, 32, 38, 44, 50, 56, 62, 68],
+    "movesTM": [1, 6, 10, 11, 15, 17, 18, 19, 21, 27, 32, 40, 42, 44, 45, 46, 48, 51, 68, 76, 87, 88, 89, 90, 100],
+    "movesTR": [],
+    "abilities": ["No Guard"],
+    "growthrate": "Medium_Slow",
+    "exp": 261,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/5/57/018Pidgeot.png",
+    "shinyURL": ""
+}

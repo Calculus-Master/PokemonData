@@ -1,0 +1,21 @@
+{
+    "name": "Weedle",
+    "fillerinfo": "Hairy Bug Pokemon-0.3-3.2",
+    "dex": 13,
+    "type": ["Bug", "Poison"],
+    "evolutions": ["Kakuna", "Beedrill"],
+    "evolutionsLVL": [7, 10],
+    "forms": [],
+    "mega": [],
+    "stats": [40, 35, 30, 20, 20, 50],
+    "ev": [0, 0, 0, 0, 0, 1],
+    "moves": ["Poison Sting", "String Shot", "Bug Bite"],
+    "movesLVL": [1, 1, 9],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Shield Dust", "Run Away"],
+    "growthrate": "Medium_Fast",
+    "exp": 39,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/d/df/013Weedle.png",
+    "shinyURL": ""
+}

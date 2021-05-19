@@ -1,0 +1,21 @@
+{
+    "name": "Alolan Raticate",
+    "fillerinfo": "Mouse Pokemon-0.7-25.5",
+    "dex": 20,
+    "type": ["Dark", "Normal"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": ["Raticate"],
+    "mega": [],
+    "stats": [75, 71, 70, 40, 80, 77],
+    "ev": [0, 0, 0, 0, 0, 2],
+    "moves": ["Focus Energy", "Quick Attack", "Scary Face", "Swords Dance", "Tackle", "Tail Whip", "Quick Attack", "Focus Energy", "Bite", "Pursuit", "Hyper Fang", "Assurance", "Crunch", "Sucker Punch", "Super Fang", "Double Edge", "Endeavor"],
+    "movesLVL": [1, 1, 1, 1, 1, 1, 4, 7, 10, 13, 16, 19, 24, 29, 34, 39, 44],
+    "movesTM": [5, 6, 8, 9, 10, 11, 12, 13, 14, 15, 18, 18, 21, 27, 30, 32, 34, 36, 41, 42, 44, 45, 46, 48, 60, 63, 65, 68, 75, 86, 87, 88, 89, 90, 95, 97, 100],
+    "movesTR": [],
+    "abilities": ["Gluttony", "Hustle", "Thick Fat"],
+    "growthrate": "Medium_Fast",
+    "exp": 145,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/7/71/020Raticate-Alola.png/600px-020Raticate-Alola.png",
+    "shinyURL": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Arbok",
+    "fillerinfo": "Cobra Pokemon-3.5-65.0",
+    "dex": 24,
+    "type": ["Poison", "Poison"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [60, 95, 69, 65, 79, 80],
+    "ev": [0, 2, 0, 0, 0, 0],
+    "moves": ["Bite", "Crunch", "Fire Fang", "Ice Fang", "Leer", "Poison Sting", "Thunder Fang", "Wrap", "Glare", "Screech", "Acid", "Spit Up", "Stockpile", "Swallow", "Acid Spray", "Mud Bomb", "Gastro Acid", "Belch", "Haze", "Coil", "Gunk Shot"],
+    "movesLVL": [1, 1, 1, 1, 1, 1, 1, 1, 12, 17, 20, 27, 27, 27, 32, 39, 44, 48, 51, 56, 63],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Intimidate", "Shed Skin"],
+    "growthrate": "Medium_Fast",
+    "exp": 157,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/c/cd/024Arbok.png/600px-024Arbok.png",
+    "shinyURL": ""
+}

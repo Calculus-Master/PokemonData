@@ -1,0 +1,21 @@
+{
+    "name": "Mega Charizard Y",
+    "fillerinfo": "Flame Pokemon-1.7-100.5",
+    "dex": 6,
+    "type": ["Fire", "Flying"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [78, 104, 78, 159, 115, 100],
+    "ev": [0, 0, 0, 3, 0, 0],
+    "moves": ["Air Slash", "Dragon Claw", "Ember", "Growl", "Heat Wave", "Scratch", "Smokescreen", "Dragon Breath", "Fire Fang", "Slash", "Flamethrower", "Scary Face", "Fire Spin", "Inferno", "Flare Blitz"],
+    "movesLVL": [1, 1, 1, 1, 1, 1, 1, 12, 19, 24, 30, 39, 46, 54, 62],
+    "movesTM": [1, 2, 5, 6, 10, 11, 15, 17, 19, 21, 22, 26, 27, 31, 32, 35, 38, 39, 40, 42, 43, 44, 45, 48, 49, 50, 51, 52, 56, 58, 59, 61, 65, 68, 75, 76, 78, 80, 82, 87, 88, 90, 100],
+    "movesTR": [0, 1, 2, 10, 15, 20, 24, 26, 27, 31, 32, 36, 41, 43, 47, 51, 55, 62, 64, 85, 88, 89],
+    "abilities": ["Drought"],
+    "growthrate": "Medium_Slow",
+    "exp": 285,
+    "normalURL": "https://img.pokemondb.net/artwork/large/charizard-mega-y.jpg",
+    "shinyURL": "https://img.pokemondb.net/artwork/large/charizard-mega-y.jpg"
+}

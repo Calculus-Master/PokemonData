@@ -1,0 +1,21 @@
+{
+    "name": "Spearow",
+    "fillerinfo": "Tiny Bird Pokemon-0.3-2.0",
+    "dex": 21,
+    "type": ["Normal", "Flying"],
+    "evolutions": ["Fearow"],
+    "evolutionsLVL": [20],
+    "forms": [],
+    "mega": [],
+    "stats": [40, 60, 30, 31, 31, 70],
+    "ev": [0, 0, 0, 0, 0, 1],
+    "moves": ["Growl", "Peck", "Leer", "Pursuit", "Fury Attack", "Aerial Ace", "Mirror Move", "Assurance", "Agility", "Focus Energy", "Roost", "Drill Peck"],
+    "movesLVL": [1, 1, 4, 8, 11, 15, 18, 22, 25, 29, 32, 36],
+    "movesTM": [1, 6, 10, 11, 17, 18, 19, 21, 27, 32, 40, 42, 44, 45, 46, 48, 49, 51, 54, 76, 87, 88, 89, 90, 100],
+    "movesTR": [],
+    "abilities": ["Keen Eye", "Sniper"],
+    "growthrate": "Medium_Fast",
+    "exp": 52,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/8/8b/021Spearow.png/600px-021Spearow.png",
+    "shinyURL": ""
+}

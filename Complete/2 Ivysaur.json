@@ -1,0 +1,21 @@
+{
+    "name": "Ivysaur",
+    "fillerinfo": "Seed Pokemon-1.0-13.0",
+    "dex": 2,
+    "type": ["Grass", "Poison"],
+    "evolutions": ["Venusaur"],
+    "evolutionsLVL": [32],
+    "forms": [],
+    "mega": [],
+    "stats": [60, 62, 63, 80, 80, 60],
+    "ev": [0, 0, 0, 1, 1, 0],
+    "moves": ["Growl", "Growth", "Tackle", "Vine Whip", "Leech Seed", "Razor Leaf", "Poison Powder", "Sleep Powder", "Seed Bomb", "Take Down", "Sweet Scent", "Synthesis", "Worry Seed", "Double Edge", "Solar Beam"],
+    "movesLVL": [1, 1, 1, 1, 9, 12, 15, 15, 20, 25, 30, 35, 40, 45, 50],
+    "movesTM": [1, 6, 9, 10, 11, 16, 17, 20, 21, 22, 27, 32, 36, 42, 44, 45, 48, 49, 53, 75, 86, 87, 88, 90, 96, 100],
+    "movesTR": [0, 1, 17, 20, 22, 26, 27, 59, 65, 71, 72, 77, 85],
+    "abilities": ["Overgrow", "Chlorophyll"],
+    "growthrate": "Medium_Slow",
+    "exp": 142,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/7/73/002Ivysaur.png",
+    "shinyURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/34949f93-8022-47ca-a20e-35d2b4f12c98/d6lyoph-c02934be-8acd-4731-8b2c-f47c5d88df37.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvMzQ5NDlmOTMtODAyMi00N2NhLWEyMGUtMzVkMmI0ZjEyYzk4XC9kNmx5b3BoLWMwMjkzNGJlLThhY2QtNDczMS04YjJjLWY0N2M1ZDg4ZGYzNy5wbmcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.TIwJxcDdBfLuMmBi2Lu_iz_oGTMLAjCifiDGM4XgIDw"
+}

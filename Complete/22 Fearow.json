@@ -1,0 +1,21 @@
+{
+    "name": "Fearow",
+    "fillerinfo": "Beak Pokemon-1.2-38.0",
+    "dex": 22,
+    "type": ["Normal", "Flying"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [65, 90, 65, 61, 61, 100],
+    "ev": [0, 0, 0, 0, 0, 2],
+    "moves": ["Drill Run", "Growl", "Leer", "Peck", "Pluck", "Pursuit", "Fury Attack", "Aerial Ace", "Mirror Move", "Assurance", "Agility", "Focus Energy", "Roost", "Drill Peck", "Drill Run"],
+    "movesLVL": [1, 1, 1, 1, 1, 1, 11, 15, 18, 23, 27, 32, 36, 41, 45],
+    "movesTM": [1, 6, 10, 11, 15, 17, 18, 19, 21, 27, 32, 40, 42, 44, 45, 46, 48, 49, 51, 54, 68, 76, 87, 88, 89, 90, 100],
+    "movesTR": [],
+    "abilities": ["Keen Eye", "Sniper"],
+    "growthrate": "Medium_Fast",
+    "exp": 155,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/a/a0/022Fearow.png/600px-022Fearow.png",
+    "shinyURL": ""
+}

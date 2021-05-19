@@ -1,0 +1,21 @@
+{
+    "name": "Caterpie",
+    "fillerinfo": "Worm Pokemon-0.3-2.9",
+    "dex": 10,
+    "type": ["Bug", "Bug"],
+    "evolutions": ["Metapod", "Butterfree"],
+    "evolutionsLVL": [7, 10],
+    "forms": [],
+    "mega": [],
+    "stats": [45, 30, 35, 20, 20, 45],
+    "ev": [1, 0, 0, 0, 0, 0],
+    "moves": ["String Shot", "Tackle", "Bug Bite"],
+    "movesLVL": [1, 1, 9],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Shield Dust", "Run Away"],
+    "growthrate": "Medium_Fast",
+    "exp": 39,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/5/5d/010Caterpie.png",
+    "shinyURL": ""
+}

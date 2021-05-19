@@ -1,0 +1,21 @@
+{
+    "name": "Pidgeotto",
+    "fillerinfo": "Bird Pokemon-1.1-30.0",
+    "dex": 17,
+    "type": ["Normal", "Flying"],
+    "evolutions": ["Pidgeot"],
+    "evolutionsLVL": [36],
+    "forms": [],
+    "mega": [],
+    "stats": [63, 60, 55, 50, 50, 71],
+    "ev": [0, 0, 0, 0, 0, 2],
+    "moves": ["Gust", "Sand Attack", "Tackle", "Quick Attack", "Whirlwind", "Twister", "Feather Dance", "Agility", "Wing Attack", "Roost", "Tailwind", "Mirror Move", "Air Slash", "Hurricane"],
+    "movesLVL": [1, 1, 1, 13, 17, 22, 27, 32, 37, 42, 47, 52, 57, 62],
+    "movesTM": [1, 6, 10, 11, 17, 18, 19, 21, 27, 32, 40, 42, 44, 45, 46, 48, 51, 76, 87, 88, 89, 90, 100],
+    "movesTR": [],
+    "abilities": ["Keen Eye", "Tangled Feet", "Big Pecks"],
+    "growthrate": "Medium_Slow",
+    "exp": 122,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/7/7a/017Pidgeotto.png",
+    "shinyURL": ""
+}
