@@ -1,11 +1,11 @@
 {
     "name": "Rapidash",
-    "fillerinfo": "Rapidash-1.7-95.0",
+    "fillerinfo": "Fire Horse Pokemon-1.7-95.0",
     "dex": 78,
     "type": ["Fire", "Fire"],
     "evolutions": [],
     "evolutionsLVL": [],
-    "forms": [],
+    "forms": ["Galarian Rapidash"],
     "mega": [],
     "stats": [65, 100, 70, 80, 80, 105],
     "ev": [0, 0, 0, 0, 0, 2],

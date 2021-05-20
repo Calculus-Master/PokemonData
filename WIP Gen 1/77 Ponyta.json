@@ -1,0 +1,21 @@
+{
+    "name": "Ponyta",
+    "fillerinfo": "Fire Horse Pokemon-1.0-30.0",
+    "dex": 77,
+    "type": ["Fire", "Fire"],
+    "evolutions": ["Rapidash"],
+    "evolutionsLVL": [40],
+    "forms": ["Galarian Ponyta"],
+    "mega": [],
+    "stats": [50, 85, 55, 65, 65, 90],
+    "ev": [0, 0, 0, 0, 0, 1],
+    "moves": ["Growl", "Tackle", "Tail Whip", "Ember", "Flame Wheel", "Stomp", "Flame Charge", "Fire Spin", "Take Down", "Inferno", "Agility", "Fire Blast", "Bounce", "Flare Blitz"],
+    "movesLVL": [1, 1, 4, 9, 13, 17, 21, 25, 29, 33, 37, 41, 45, 49],
+    "movesTM": [6, 10, 11, 17, 21, 22, 27, 32, 35, 38, 42, 43, 44, 45, 48, 49, 50, 61, 87, 88, 90, 93, 100],
+    "movesTR": [1, 2, 7, 12, 15, 20, 26, 27, 31, 36, 43, 55, 83, 86, 90, 94],
+    "abilities": ["Run Away", "Flash Fire", "Flame Body"],
+    "growthrate": "Medium_Fast",
+    "exp": 82,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/3/3b/077Ponyta.png/600px-077Ponyta.png",
+    "shinyURL": ""
+}
