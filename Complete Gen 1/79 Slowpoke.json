@@ -1,0 +1,21 @@
+{
+    "name": "Slowpoke",
+    "fillerinfo": "Dopey Pokemon-1.2-36.0",
+    "dex": 79,
+    "type": ["Water", "Psychic"],
+    "evolutions": ["Slowbro"],
+    "evolutionsLVL": [37],
+    "forms": ["Galarian Slowpoke"],
+    "mega": [],
+    "stats": [90, 65, 65, 40, 40, 15],
+    "ev": [1, 0, 0, 0, 0, 0],
+    "moves": ["Curse", "Tackle", "Yawn", "Growl", "Water Gun", "Confusion", "Disable", "Headbutt", "Water Pulse", "Zen Headbutt", "Slack Off", "Amnesia", "Psychic", "Rain Dance", "Psych Up", "Heal Pulse"],
+    "movesLVL": [1, 1, 1, 5, 9, 14, 19, 23, 28, 32, 36, 41, 45, 49, 54, 58],
+    "movesTM": [3, 4, 6, 7, 10, 11, 13, 14, 16, 17, 18, 20, 21, 26, 27, 39, 30, 32, 35, 38, 42, 44, 45, 48, 49, 55, 73, 77, 78, 85, 86, 87, 88, 90, 92, 94, 100],
+    "movesTR": [1, 2, 3, 4, 5, 6, 10, 11, 15, 17, 19, 20, 25, 26, 27, 31, 33, 34, 38, 40, 49, 69, 77, 82, 84, 98],
+    "abilities": ["Oblivious", "Own Tempo", "Regenerator"],
+    "growthrate": "Medium_Fast",
+    "exp": 63,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/7/70/079Slowpoke.png/600px-079Slowpoke.png",
+    "shinyURL": ""
+}

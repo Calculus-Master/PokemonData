@@ -1,0 +1,21 @@
+{
+    "name": "Mega Slowbro",
+    "fillerinfo": "Hermit Crab Pokemon-2.0-120.0",
+    "dex": 80,
+    "type": ["Water", "Psychic"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [95, 75, 180, 130, 80, 30],
+    "ev": [0, 0, 2, 0, 0, 0],
+    "moves": ["Curse", "Growl", "Heal Pulse", "Tackle", "Withdraw", "Yawn", "Water Gun", "Confusion", "Disable", "Headbutt", "Water Pulse", "Zen Headbutt", "Slack Off", "Amnesia", "Psychic", "Rain Dance", "Psych Up"],
+    "movesLVL": [1, 1, 1, 1, 1, 1, 5, 9, 14, 19, 23, 28, 32, 36, 43, 49, 55, 62],
+    "movesTM": [3, 4, 6, 7, 10, 11, 13, 14, 15, 16, 17, 18, 20, 21, 26, 27, 29, 30, 31, 32, 35, 38, 40, 42, 44, 45, 48, 49, 52, 55, 56, 68, 73, 77, 78, 85, 86, 87, 88, 90, 92, 94, 100],
+    "movesTR": [1, 2, 3, 4, 5, 6, 10, 11, 15, 17, 19, 20, 25, 26, 27, 31, 33, 34, 38, 40, 45, 46, 49, 64, 68, 69, 77, 81, 82, 84, 98, 99],
+    "abilities": ["Shell Armor"],
+    "growthrate": "Medium_Fast",
+    "exp": 207,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/6/69/080Slowbro-Mega.png/600px-080Slowbro-Mega.png",
+    "shinyURL": ""
+}

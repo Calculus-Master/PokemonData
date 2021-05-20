@@ -1,0 +1,21 @@
+{
+    "name": "Galarian Slowbro",
+    "fillerinfo": "Hermit Crab Pokemon-1.6-70.5",
+    "dex": 80,
+    "type": ["Poison", "Psychic"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": ["Slowbro"],
+    "mega": ["Mega Slowbro"],
+    "stats": [95, 100, 95, 100, 70, 30],
+    "ev": [0, 0, 2, 0, 0, 0],
+    "moves": ["Acid", "Curse", "Growl", "ShellSide Arm", "Tackle", "Withdraw", "Yawn", "Confusion", "Disable", "Water Pulse", "Headbutt", "Zen Headbutt", "Amnesia", "Surf", "Slack Off", "Psychic", "Psych Up", "Rain Dance", "Heal Pulse"],
+    "movesLVL": [1, 1, 1, 1, 1, 1, 9, 12, 15, 18, 21, 24, 27, 30, 33, 36, 39, 42, 45],
+    "movesTM": [],
+    "movesTR": [1, 2, 3, 4, 5, 6, 10, 11, 15, 17, 19, 20, 22, 25, 26, 27, 31, 33, 34, 38, 40, 45, 46, 49, 57, 64, 68, 69, 77, 78, 81, 82, 84, 98],
+    "abilities": ["Quick Draw", "Own Tempo", "Regenerator"],
+    "growthrate": "Medium_Fast",
+    "exp": 172,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/8/8b/080Slowbro-Galar.png/600px-080Slowbro-Galar.png",
+    "shinyURL": ""
+}
