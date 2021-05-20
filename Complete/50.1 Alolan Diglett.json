@@ -1,0 +1,21 @@
+{
+    "name": "Alolan Diglett",
+    "fillerinfo": "Mole Pokemon-0.2-1.0",
+    "dex": 50,
+    "type": ["Ground", "Steel"],
+    "evolutions": ["Alolan Dugtrio"],
+    "evolutionsLVL": [26],
+    "forms": ["Diglett"],
+    "mega": [],
+    "stats": [10, 55, 30, 35, 45, 90],
+    "ev": [0, 0, 0, 0, 0, 1],
+    "moves": ["Metal Claw", "Sand Attack", "Growl", "Astonish", "Mud Slap", "Magnitude", "Bulldoze", "Sucker Punch", "Mud Bomb", "Earth Power", "Dig", "Iron Head", "Earthquake", "Fissure"],
+    "movesLVL": [1, 1, 4, 7, 10, 14, 18, 22, 25, 28, 31, 35, 39, 43],
+    "movesTM": [1, 6, 10, 11, 17, 21, 26, 27, 32, 36, 37, 39, 40, 42, 44, 45, 46, 48, 49, 65, 78, 80, 87, 88, 90, 91, 100],
+    "movesTR": [1, 10, 12, 20, 21, 22, 26, 27, 35, 46, 67, 70, 74, 83, 85],
+    "abilities": ["Sand Veil", "Tangling Hair", "Sand Force"],
+    "growthrate": "Medium_Fast",
+    "exp": 53,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/3/31/050Diglett.png/600px-050Diglett.png",
+    "shinyURL": ""
+}

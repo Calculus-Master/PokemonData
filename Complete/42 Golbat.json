@@ -1,0 +1,21 @@
+{
+    "name": "Golbat",
+    "fillerinfo": "Golbat-1.6-55.0",
+    "dex": 42,
+    "type": ["Poison", "Flying"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [75, 80, 70, 65, 75, 90],
+    "ev": [0, 0, 0, 0, 0, 2],
+    "moves": ["Absorb", "Astonish", "Bite", "Screech", "Supersonic", "Wing Attack", "Confuse Ray", "Air Cutter", "Swift", "Poison Fang", "Mean Look", "Leech Life", "Haze", "Venoshock", "Air Slash", "Quick Guard"],
+    "movesLVL": [1, 1, 1, 1, 1, 13, 17, 19, 24, 27, 32, 35, 40, 43, 48, 51],
+    "movesTM": [6, 9, 10, 11, 12, 15, 17, 18, 19, 21, 27, 28, 30, 32, 36, 40, 41, 42, 44, 45, 46, 48, 51, 62, 66, 68, 76, 87, 88, 89, 90, 100],
+    "movesTR": [12, 18, 20, 22, 26, 27, 32, 33, 35, 36, 37, 66, 68, 69, 91],
+    "abilities": ["Inner Focus", "Infiltrator"],
+    "growthrate": "Medium_Fast",
+    "exp": 159,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/0/0c/042Golbat.png/600px-042Golbat.png",
+    "shinyURL": ""
+}

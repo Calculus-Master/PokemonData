@@ -1,0 +1,21 @@
+{
+    "name": "Zubat",
+    "fillerinfo": "Zubat-0.8-7.5",
+    "dex": 41,
+    "type": ["Poison", "Flying"],
+    "evolutions": ["Golbat"],
+    "evolutionsLVL": [22],
+    "forms": [],
+    "mega": [],
+    "stats": [40, 45, 35, 30, 40, 55],
+    "ev": [0, 0, 0, 0, 0, 1],
+    "moves": ["Absorb", "Supersonic", "Astonish", "Bite", "Wing Attack", "Confuse Ray", "Air Cutter", "Swift", "Poison Fang", "Mean Look", "Leech Life", "Haze", "Venoshock", "Air Slash", "Quick Guard"],
+    "movesLVL": [1, 5, 7, 11, 13, 17, 19, 23, 25, 29, 31, 35, 37, 41, 43],
+    "movesTM": [6, 9, 10, 11, 12, 17, 18, 19, 21, 27, 28, 30, 32, 36, 40, 41, 42, 44, 45, 46, 48, 51, 62, 66, 76, 87, 88, 89, 90, 100],
+    "movesTR": [12, 18, 20, 22, 26, 27, 32, 33, 35, 36, 37, 66, 68, 69, 91],
+    "abilities": ["Inner Focus", "Infiltrator"],
+    "growthrate": "Medium_Fast",
+    "exp": 49,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/d/da/041Zubat.png/600px-041Zubat.png",
+    "shinyURL": ""
+}

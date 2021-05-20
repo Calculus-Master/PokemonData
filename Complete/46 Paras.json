@@ -1,0 +1,21 @@
+{
+    "name": "Paras",
+    "fillerinfo": "Mushroom Pokemon-0.3-5.4",
+    "dex": 46,
+    "type": ["Bug", "Grass"],
+    "evolutions": ["Parasect"],
+    "evolutionsLVL": [24],
+    "forms": [],
+    "mega": [],
+    "stats": [35, 70, 55, 45, 55, 25],
+    "ev": [0, 1, 0, 0, 0, 0],
+    "moves": ["Scratch", "Poison Powder", "Stun Spore", "Absorb", "Fury Cutter", "Spore", "Slash", "Growth", "Giga Drain", "Aromatherapy", "Rage Powder", "X Scissor"],
+    "movesLVL": [1, 6, 6, 11, 17, 22, 27, 33, 38, 43, 49, 54],
+    "movesTM": [6, 9, 10, 11, 16, 17, 21, 22, 27, 28, 31, 32, 36, 40, 42, 44, 45, 46, 48, 53, 54 ,75, 81, 86, 87, 88, 90, 86, 100],
+    "movesTR": [],
+    "abilities": ["Effect Spore", "Dry Skin", "Damp"],
+    "growthrate": "Medium_Fast",
+    "exp": 57,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/d/d4/046Paras.png/600px-046Paras.png",
+    "shinyURL": ""
+}

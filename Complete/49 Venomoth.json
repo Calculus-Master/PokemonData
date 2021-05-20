@@ -1,0 +1,21 @@
+{
+    "name": "Venomoth",
+    "fillerinfo": "Poison Moth Pokemon-1.5-12.5",
+    "dex": 49,
+    "type": ["Bug", "Poison"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [70, 65, 60, 90, 75, 90],
+    "ev": [0, 0, 0, 1, 0, 1],
+    "moves": ["Bug Buzz", "Disable", "Foresight", "Gust", "Quiver Dance", "Silver Wind", "Supersonic", "Tackle", "Confusion", "Poison Powder", "Psybeam", "Stun Spore", "Signal Beam", "Sleep Powder", "Leech Life", "Zen Headbutt", "Poison Fang", "Psychic"],
+    "movesLVL": [1, 1, 1, 1, 1, 1, 1, 1, 11, 13, 17, 23, 25, 29, 37, 41, 47, 55],
+    "movesTM": [6, 9, 10, 11, 15, 17, 19, 21, 22, 27, 28, 29, 32, 36, 40, 42, 44, 45, 46, 48, 53, 62, 68, 83, 87, 88, 89, 90, 100],
+    "movesTR": [],
+    "abilities": ["Shield Dust", "Tinted Lens", "Wonder Skin"],
+    "growthrate": "Medium_Fast",
+    "exp": 158,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/d/d3/049Venomoth.png/600px-049Venomoth.png",
+    "shinyURL": ""
+}

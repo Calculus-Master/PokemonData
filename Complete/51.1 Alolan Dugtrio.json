@@ -1,0 +1,21 @@
+{
+    "name": "Dugtrio",
+    "fillerinfo": "Mole Pokemon-0.7-66.6",
+    "dex": 51,
+    "type": ["Ground", "Steel"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": ["Dugtrio"],
+    "mega": [],
+    "stats": [35, 100, 60, 50, 70, 110],
+    "ev": [0, 2, 0, 0, 0, 0],
+    "moves": ["Growl", "Metal Claw", "Night Slash", "Rototiller", "Sand Attack", "Sand Tomb", "Tri Attack", "Astonish", "Mud Slap", "Magnitude", "Bulldoze", "Sucker Punch", "Mud Bomb", "Earth Power", "Dig", "Iron Head", "Earthquake", "Fissure"],
+    "movesLVL": [1, 1, 1, 1, 1, 1, 1, 7, 10, 14, 18, 22, 25, 30, 35, 41, 47, 53],
+    "movesTM": [1, 6, 10, 11, 15, 17, 21, 26, 27, 32, 34, 36, 37, 39, 40, 42, 44, 45, 46, 48, 49, 65, 68, 71, 78, 80, 87, 88, 90, 91, 100],
+    "movesTR": [1, 10, 12, 19, 20, 21, 22, 26, 27, 35, 46, 67, 70, 74, 75, 78, 83, 85, 94],
+    "abilities": ["Sand Veil", "Tangling Hair", "Sand Force"],
+    "growthrate": "Medium_Fast",
+    "exp": 149,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/e/e5/051Dugtrio.png/600px-051Dugtrio.png",
+    "shinyURL": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Venonat",
+    "fillerinfo": "Insect Pokemon-1.0-30.0",
+    "dex": 48,
+    "type": ["Bug", "Poison"],
+    "evolutions": ["Venomoth"],
+    "evolutionsLVL": [31],
+    "forms": [],
+    "mega": [],
+    "stats": [60, 55, 50, 40, 55, 45],
+    "ev": [0, 0, 0, 0, 1, 0],
+    "moves": ["Disable", "Foresight", "Tackle", "Supersonic", "Confusion", "Poison Powder", "Psybeam", "Stun Spore", "Signal Beam", "Sleep Powder", "Leech Life", "Zen Headbutt", "Poison Fang", "Psychic"],
+    "movesLVL": [1, 1, 1, 5, 11, 13, 17, 23, 25, 29, 35, 37, 41, 47],
+    "movesTM": [6, 9, 10, 11, 17, 21, 22, 27, 28, 29, 32, 36, 42, 44, 45, 46, 48, 83, 87, 88, 90, 100],
+    "movesTR": [],
+    "abilities": ["Compound Eyes", "Tinted Lens", "Run Away"],
+    "growthrate": "Medium_Fast",
+    "exp": 61,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/a/ad/048Venonat.png/600px-048Venonat.png",
+    "shinyURL": ""
+}

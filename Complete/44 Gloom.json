@@ -1,0 +1,21 @@
+{
+    "name": "Gloom",
+    "fillerinfo": "Weed Pokemon-0.8-8.6",
+    "dex": 44,
+    "type": ["Grass", "Poison"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [60, 65, 70, 85, 75, 40],
+    "ev": [0, 0, 0, 2, 0, 0],
+    "moves": ["Absorb", "Acid", "Growth", "Sweet Scent", "Poison Powder", "Stun Spore", "Sleep Powder", "Mega Drain", "Lucky Chant", "Moonlight", "Giga Drain", "Toxic", "Natural Gift", "Petal Blizzard", "Grassy Terrain", "Petal Dance"],
+    "movesLVL": [1, 1, 1, 1, 13, 14, 15, 19, 24, 29, 34, 39, 44, 49, 54, 59],
+    "movesTM": [6, 9, 10, 11, 17, 21, 22, 27, 32, 36, 42, 44, 45, 48, 53, 56, 75, 83, 86, 87, 88, 90, 96, 99, 100],
+    "movesTR": [0, 20, 22, 26, 27, 59, 65, 77, 92],
+    "abilities": ["Chlorophyll", "Stench"],
+    "growthrate": "Medium_Slow",
+    "exp": 138,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/2/2a/044Gloom.png/600px-044Gloom.png",
+    "shinyURL": ""
+}
