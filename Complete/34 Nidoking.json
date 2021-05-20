@@ -1,0 +1,21 @@
+{
+    "name": "Nidoking",
+    "fillerinfo": "Drill Pokemon-1.4-62.0",
+    "dex": 34,
+    "type": ["Poison", "Ground"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [81, 102, 77, 85, 75, 85],
+    "ev": [0, 3, 0, 0, 0, 0],
+    "moves": ["Double Kick", "Focus Energy", "Megahorn", "Peck", "Poison Sting", "Chip Away", "Thrash", "Earth Power"],
+    "movesLVL": [1, 1, 1, 1, 1, 23, 35, 43],
+    "movesTM": [5, 6, 9, 10, 11, 12, 13, 14, 15, 17, 18, 21, 23, 24, 25, 26, 27, 30, 31, 32, 34, 35, 36, 37, 38, 39, 41, 42, 44, 45, 46, 48, 49, 52, 56, 60, 65, 67, 68, 71, 78, 80, 82, 84, 87, 88, 90, 94, 100],
+    "movesTR": [1, 2, 4, 5, 6, 8, 9, 10, 13, 15, 17, 20, 22, 24, 26, 27, 28, 31, 33, 35, 37, 39, 54, 57, 62, 64, 67, 75, 76, 78, 87, 91, 94, 95, 99],
+    "abilities": ["Poison Point", "Rivalry", "Sheer Force"],
+    "growthrate": "Medium_Slow",
+    "exp": 227,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/c/c6/034Nidoking.png/600px-034Nidoking.png",
+    "shinyURL": ""
+}

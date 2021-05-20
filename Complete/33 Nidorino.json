@@ -1,0 +1,21 @@
+{
+    "name": "Nidorino",
+    "fillerinfo": "Poison Pin Pokemon-0.9-19.5",
+    "dex": 33,
+    "type": ["Poison", "Poison"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [61, 72, 57, 55, 55, 65],
+    "ev": [0, 2, 0, 0, 0, 0],
+    "moves": ["Leer", "Peck", "Focus Energy", "Double Kick", "Poison Sting", "Fury Attack", "Horn Attack", "Helping Hand", "Toxic Spikes", "Flatter", "Poison Jab", "Captivate", "Horn Drill"],
+    "movesLVL": [1, 1, 7, 9, 13, 20, 23, 28, 35, 38, 43, 50, 58],
+    "movesTM": [6, 9, 10, 11, 13, 14, 17, 18, 21, 24, 25, 27, 32, 36, 42, 44, 45, 46, 48, 49, 65, 67, 84, 87, 88, 90, 100],
+    "movesTR": [1, 5, 6, 8, 9, 13, 17, 20, 22, 26, 27, 31, 54, 57, 67, 87, 91],
+    "abilities": ["Poison Point", "Rivalry", "Hustle"],
+    "growthrate": "Medium_Slow",
+    "exp": 128,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/9/9f/033Nidorino.png/600px-033Nidorino.png",
+    "shinyURL": ""
+}

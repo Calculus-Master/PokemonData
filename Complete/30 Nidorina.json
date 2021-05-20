@@ -1,0 +1,21 @@
+{
+    "name": "Nidorina",
+    "fillerinfo": "Poison Pin Pokemon-0.8-20.0",
+    "dex": 30,
+    "type": ["Poison", "Poison"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [70, 62, 67, 55, 55, 56],
+    "ev": [2, 0, 0, 0, 0, 0],
+    "moves": ["Growl", "Scratch", "Tail Whip", "Double Kick", "Poison Sting", "Fury Swipes", "Bite", "Helping Hand", "Toxic Spikes", "Flatter", "Crunch", "Captivate", "Poison Fang"],
+    "movesLVL": [1, 1, 7, 9, 13, 20, 23, 28, 335, 38, 43, 50, 58],
+    "movesTM": [6, 9, 10, 11, 13, 14, 17, 18, 21, 24, 25, 27, 32, 36, 40, 42, 44, 45, 46, 48, 49, 65, 84, 87, 88, 90, 100],
+    "movesTR": [1, 5, 6, 8, 9, 13, 20, 22, 26, 27, 31, 32, 54, 57, 67, 91],
+    "abilities": ["Poison Point", "Rivalry", "Hustle"],
+    "growthrate": "Medium_Slow",
+    "exp": 128,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/c/cd/030Nidorina.png/600px-030Nidorina.png",
+    "shinyURL": ""
+}
