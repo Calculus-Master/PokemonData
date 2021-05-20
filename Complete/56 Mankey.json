@@ -1,0 +1,21 @@
+{
+    "name": "Mankey",
+    "fillerinfo": "Pig Monkey Pokemon-0.5-28.0",
+    "dex": 56,
+    "type": ["Fighting", "Fighting"],
+    "evolutions": ["Primeape"],
+    "evolutionsLVL": [28],
+    "forms": [],
+    "mega": [],
+    "stats": [40, 80, 35, 35, 45, 70],
+    "ev": [0, 1, 0, 0, 0, 0],
+    "moves": ["Covet", "Focus Energy", "Leer", "Low Kick", "Scratch", "Fury Swipes", "Karate Chop", "Pursuit", "Seismic Toss", "Swagger", "Cross Chop", "Assurance", "Punishment", "Thrash", "Close Combat", "Screech", "Stomping Tantrum", "Outrage", "Final Gambit"],
+    "movesLVL": [1, 1, 1, 1, 1, 5, 8, 12, 15, 19, 22, 26, 29, 33, 36, 40, 43, 47, 50],
+    "movesTM": [1, 6, 8, 10, 11, 12, 17, 18, 21, 23, 24, 25, 26, 27, 31, 32, 39, 40, 42, 44, 45, 46, 47, 48, 50, 52, 56, 62, 66, 78, 80, 84, 87, 88, 89, 90, 100],
+    "movesTR": [],
+    "abilities": ["Vital Spirit", "Anger Point", "Defiant"],
+    "growthrate": "Medium_Fast",
+    "exp": 61,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/4/41/056Mankey.png/600px-056Mankey.png",
+    "shinyURL": ""
+}

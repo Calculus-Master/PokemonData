@@ -1,0 +1,21 @@
+{
+    "name": "Psyduck",
+    "fillerinfo": "Duck Pokemon-0.8-19.6",
+    "dex": 54,
+    "type": ["Water", "Water"],
+    "evolutions": ["Golduck"],
+    "evolutionsLVL": [33],
+    "forms": [],
+    "mega": [],
+    "stats": [50, 52, 48, 65, 50, 55],
+    "ev": [0, 0, 0, 1, 0, 0],
+    "moves": ["Scratch", "Water Sport", "Tail Whip", "Water Gun", "Confusion", "Fury Swipes", "Water Pulse", "Disable", "Screech", "Zen Headbutt", "Aqua Tail", "Soak", "Psych Up", "Amnesia", "Hydro Pump", "Wonder Room"],
+    "movesLVL": [1, 1, 4, 7, 10, 13, 16, 19, 22, 25, 28, 31, 34, 37, 40, 43],
+    "movesTM": [3, 4, 6, 7, 10, 13, 14, 16, 17, 18, 21, 27, 29, 31, 32, 40, 42, 44, 45, 48, 55, 56, 65, 77, 87, 88, 90, 94, 98, 100],
+    "movesTR": [1, 3, 4, 5, 6, 11, 16, 17, 20, 25, 26, 27, 30, 31, 34, 49, 69, 84],
+    "abilities": ["Damp", "Cloud Nine", "Swift Swim"],
+    "growthrate": "Medium_Fast",
+    "exp": 64,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/5/53/054Psyduck.png/600px-054Psyduck.png",
+    "shinyURL": ""
+}
