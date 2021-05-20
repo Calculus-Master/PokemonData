@@ -1,0 +1,21 @@
+{
+    "name": "Ninetales",
+    "fillerinfo": "Fox Pokemon-1.1-19.9",
+    "dex": 38,
+    "type": ["Ice", "Fairy"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": ["Ninetales"],
+    "mega": [],
+    "stats": [73, 67, 75, 81, 100, 109],
+    "ev": [0, 0, 0, 0, 0, 2],
+    "moves": ["Confuse Ray", "Dazzling Gleam", "Ice Beam", "Ice Shard", "Imprison", "Nasty Plot", "Safeguard"],
+    "movesLVL": [1, 1, 1, 1, 1, 1, 1],
+    "movesTM": [3, 4, 5, 6, 7, 10, 13, 14, 15, 17, 18, 20, 21, 27, 32, 42, 44, 45, 48, 66, 68, 70, 77, 79, 85, 87, 88, 90, 97, 99, 100],
+    "movesTR": [1, 5, 6, 12, 20, 25, 26, 27, 30, 31, 49, 58, 68, 69, 81, 82, 92],
+    "abilities": ["Snow Cloak", "Snow Warning"],
+    "growthrate": "Medium_Fast",
+    "exp": 177,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/2/26/038Ninetales-Alola.png/600px-038Ninetales-Alola.png",
+    "shinyURL": ""
+}

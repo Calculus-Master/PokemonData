@@ -1,0 +1,21 @@
+{
+    "name": "Alolan Vulpix",
+    "fillerinfo": "Fox Pokemon-0.6-9.9",
+    "dex": 37,
+    "type": ["Ice", "Ice"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": ["Vulpix"],
+    "mega": [],
+    "stats": [38, 41, 40, 50, 65, 65],
+    "ev": [0, 0, 0, 0, 0, 1],
+    "moves": ["Powder Snow", "Tail Whip", "BabyDoll Eyes", "Ice Shard", "Confuse Ray", "Icy Wind", "Payback", "Mist", "Feint Attack", "Hex", "Aurora Beam", "Extrasensory", "Safeguard", "Ice Beam", "Imprison", "Blizzard", "Grudge", "Captivate", "Sheer Cold"],
+    "movesLVL": [1, 4, 7, 9, 10, 12, 15, 18, 20, 23, 26, 28, 31, 34, 36, 39, 42, 44, 47, 50],
+    "movesTM": [5, 6, 7, 10, 13, 14, 17, 18, 20, 21, 27, 32, 42, 44, 45, 48, 66, 70, 77, 79, 87, 88, 90, 97, 100],
+    "movesTR": [1, 5, 6, 12, 20, 26, 27, 30, 31, 58, 69, 81],
+    "abilities": ["Snow Cloak", "Snow Warning"],
+    "growthrate": "Medium_Fast",
+    "exp": 60,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/3/35/037Vulpix-Alola.png/600px-037Vulpix-Alola.png",
+    "shinyURL": ""
+}
