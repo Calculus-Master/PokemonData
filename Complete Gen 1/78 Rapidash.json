@@ -1,0 +1,21 @@
+{
+    "name": "Rapidash",
+    "fillerinfo": "Fire Horse Pokemon-1.7-95.0",
+    "dex": 78,
+    "type": ["Fire", "Fire"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": ["Galarian Rapidash"],
+    "mega": [],
+    "stats": [65, 100, 70, 80, 80, 105],
+    "ev": [0, 0, 0, 0, 0, 2],
+    "moves": ["Ember", "Fury Attack", "Growl", "Megahorn", "Poison Jab", "Quick Attack", "Tail Whip", "Flame Wheel", "Stomp", "Flame Charge", "Fire Spin", "Take Down", "Inferno", "Agility", "Fire Blast", "Bounce", "Flare Blitz"],
+    "movesLVL": [1, 1, 1, 1, 1, 1, 1, 13, 17, 21, 25, 29, 33, 37, 41, 45, 49],
+    "movesTM": [6, 10, 11, 15, 17, 21, 22, 27, 32, 35, 38, 42, 43, 44, 45, 48, 49, 50, 61, 67, 68, 84, 87, 88, 90, 93, 100],
+    "movesTR": [0, 1, 2, 7, 12, 15, 20, 26, 27, 28, 29, 31, 36, 43, 55, 57, 83, 86, 87, 90, 94, 95],
+    "abilities": ["Run Away", "Flash Fire", "Flame Body"],
+    "growthrate": "Medium_Fast",
+    "exp": 175,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/3/3f/078Rapidash.png/600px-078Rapidash.png",
+    "shinyURL": ""
+}

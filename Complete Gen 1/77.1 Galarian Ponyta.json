@@ -1,0 +1,21 @@
+{
+    "name": "Galarian Ponyta",
+    "fillerinfo": "Unique Horn Pokemon-0.8-24.0",
+    "dex": 77,
+    "type": ["Psychic", "Psychic"],
+    "evolutions": ["Galarian Rapidash"],
+    "evolutionsLVL": [40],
+    "forms": ["Ponyta"],
+    "mega": [],
+    "stats": [50, 85, 55, 65, 65, 90],
+    "ev": [0, 0, 0, 0, 0, 1],
+    "moves": ["Growl", "Tackle", "Tail Whip", "Confusion", "Fairy Wind", "Agility", "Psybeam", "Stomp", "Heal Pulse", "Take Down", "Dazzling Gleam", "Psychic", "Healing Wish"],
+    "movesLVL": [1, 1, 5, 10, 15, 20, 25, 30, 35, 41, 45, 50, 55],
+    "movesTM": [],
+    "movesTR": [1, 7, 11, 12, 20, 26, 27, 31, 34, 49, 69, 82, 83, 86, 90, 92, 94],
+    "abilities": ["Run Away", "Pastel Veil", "Anticipation"],
+    "growthrate": "Medium_Fast",
+    "exp": 82,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/9/92/077Ponyta-Galar.png/600px-077Ponyta-Galar.png",
+    "shinyURL": ""
+}

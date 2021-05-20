@@ -1,0 +1,21 @@
+{
+    "name": "Galarian Rapidash",
+    "fillerinfo": "Unique Horn Pokemon-1.7-80.0",
+    "dex": 78,
+    "type": ["Psychic", "Fairy"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": ["Rapidash"],
+    "mega": [],
+    "stats": [65, 100, 70, 80, 80, 105],
+    "ev": [0, 0, 0, 0, 0, 2],
+    "moves": ["Confusion", "Growl", "Megahorn", "Psycho Cut", "Quick Attack", "Tackle", "Tail Whip", "Fairy Wind", "Agility", "Psybeam", "Stomp", "Heal Pulse", "Take Down", "Dazzling Gleam", "Psychic", "Healing Wish"],
+    "movesLVL": [1, 1, 1, 1, 1, 1, 1, 15, 20, 25, 30, 35, 43, 49, 56, 63],
+    "movesTM": [],
+    "movesTR": [0, 1, 7, 11, 12 ,20, 26, 27, 28, 29, 31, 34, 49, 69, 82, 83, 86, 87, 90, 92, 94, 95],
+    "abilities": ["Run Away", "Pastel Veil", "Anticipation"],
+    "growthrate": "Medium_Fast",
+    "exp": 175,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/e/e0/078Rapidash-Galar.png",
+    "shinyURL": ""
+}
