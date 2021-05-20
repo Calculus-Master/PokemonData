@@ -1,0 +1,21 @@
+{
+    "name": "Tentacool",
+    "fillerinfo": "Jellyfish Pokemon-0.9-45.5",
+    "dex": 72,
+    "type": ["Water", "Poison"],
+    "evolutions": ["Tentacruel"],
+    "evolutionsLVL": [30],
+    "forms": [],
+    "mega": [],
+    "stats": [40, 40, 35, 50, 100, 70],
+    "ev": [0, 0, 0, 0, 1, 0],
+    "moves": ["Poison Sting", "Supersonic", "Constrict", "Acid", "Toxic Spikes", "Water Pulse", "Wrap", "Acid Spray", "Bubble Beam", "Barrier", "Poison Jab", "Brine", "Screech", "Hex", "Sludge Wave", "Hydro Pump", "Wring Out"],
+    "movesLVL": [1, 4, 7, 10, 13, 16, 19, 22, 25, 28, 31, 34, 37, 40, 43, 46, 49],
+    "movesTM": [6, 7, 9, 10, 13, 14, 17, 18, 20, 21, 27, 32, 34, 36, 42, 44, 45, 46, 48, 55, 66, 75, 83, 84, 87, 88, 90, 94, 98, 99, 100],
+    "movesTR": [0, 3, 4, 5, 6, 16, 20, 22, 26, 27, 45, 54, 57, 78, 84, 92],
+    "abilities": ["Clear Body", "Liquid Ooze", "Rain Dish"],
+    "growthrate": "Slow",
+    "exp": 67,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/4/4e/072Tentacool.png/600px-072Tentacool.png",
+    "shinyURL": ""
+}

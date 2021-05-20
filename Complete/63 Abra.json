@@ -1,0 +1,21 @@
+{
+    "name": "Abra",
+    "fillerinfo": "Psi Pokemon-0.9-19.5",
+    "dex": 63,
+    "type": ["Psychic", "Psychic"],
+    "evolutions": ["Kadabra"],
+    "evolutionsLVL": [16],
+    "forms": [],
+    "mega": [],
+    "stats": [25, 20, 15, 105, 55, 90],
+    "ev": [0, 0, 0, 1, 0, 0],
+    "moves": ["Teleport"],
+    "movesLVL": [1],
+    "movesTM": [3, 4, 6, 10, 11, 12, 16, 17, 18, 20, 21, 27, 29, 30, 32, 33, 41, 42, 44, 45, 46, 48, 53, 56, 57, 63, 73, 77, 85, 86, 87, 88, 90, 92, 99, 100],
+    "movesTR": [1, 11, 14, 19, 20, 25, 26, 27, 30, 31, 33, 37, 38, 40, 49, 65, 69, 77, 81, 83, 92],
+    "abilities": ["Synchronize", "Inner Focus", "Magic Guard"],
+    "growthrate": "Medium_Slow",
+    "exp": 62,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/6/62/063Abra.png/600px-063Abra.png",
+    "shinyURL": ""
+}

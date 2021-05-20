@@ -1,0 +1,21 @@
+{
+    "name": "Weepinbell",
+    "fillerinfo": "Flycatcher Pokemon-1.0-6.4",
+    "dex": 70,
+    "type": ["Grass", "Poison"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [65, 90, 50, 85, 45, 55],
+    "ev": [0, 2, 0, 0, 0, 0],
+    "moves": ["Growth", "Vine Whip", "Wrap", "Sleep Powder", "Poison Powder", "Stun Spore", "Acid", "Knock Off", "Sweet Scent", "Gastro Acid", "Razor Leaf", "Poison Jab", "Slam", "Wring Out"],
+    "movesLVL": [1, 1, 1, 13, 15, 17, 24, 29, 32, 39, 44, 47, 54, 58],
+    "movesTM": [6, 9, 10, 11, 17, 21, 22, 27, 32, 33, 36, 42, 44, 45, 46, 48, 53, 75, 83, 84, 86, 87, 88, 90, 96, 100],
+    "movesTR": [],
+    "abilities": ["Chlorophyll", "Gluttony"],
+    "growthrate": "Medium_Slow",
+    "exp": 137,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/9/9f/070Weepinbell.png/600px-070Weepinbell.png",
+    "shinyURL": ""
+}

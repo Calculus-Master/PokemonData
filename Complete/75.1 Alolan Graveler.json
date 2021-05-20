@@ -1,0 +1,21 @@
+{
+    "name": "Alolan Graveler",
+    "fillerinfo": "Rock Pokemon-1.0-110.0",
+    "dex": 75,
+    "type": ["Rock", "Electric"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": ["Graveler"],
+    "mega": [],
+    "stats": [55, 95, 115, 45, 45, 35],
+    "ev": [0, 0, 2, 0, 0, 0],
+    "moves": ["Charge", "Defense Curl", "Rock Polish", "Tackle", "Rock Polish", "Rollout", "Spark", "Rock Throw", "Smack Down", "Thunder Punch", "Self Destruct", "Stealth Rock", "Rock Blast", "Discharge", "Explosion", "Double Edge", "Stone Edge"],
+    "movesLVL": [1, 1, 1, 1, 6, 10, 12, 16, 18, 22, 24, 30, 34, 40, 44, 50, 54],
+    "movesTM": [6, 10, 11, 17, 21, 23, 24, 25, 26, 27, 31, 32, 35, 37, 38, 39, 42, 44, 45, 48, 56, 57, 59, 64, 69, 71, 72, 74, 78, 80, 87, 88, 90, 96, 100],
+    "movesTR": [],
+    "abilities": ["Magnet Pull", "Sturdy", "Galvanize"],
+    "growthrate": "Medium_Slow",
+    "exp": 137,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/6/62/075Graveler-Alola.png",
+    "shinyURL": ""
+}

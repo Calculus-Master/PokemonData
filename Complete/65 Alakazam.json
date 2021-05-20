@@ -1,0 +1,21 @@
+{
+    "name": "Alakazam",
+    "fillerinfo": "Psi Pokemon-1.5-48.0",
+    "dex": 65,
+    "type": ["Psychic", "Psychic"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": ["Mega Alakazam"],
+    "stats": [55, 50, 45, 135, 95, 120],
+    "ev": [0, 0, 0, 3, 0, 0],
+    "moves": ["Confusion", "Kinesis", "Teleport", "Disable", "Miracle Eye", "Reflect", "Psycho Cut", "Recover", "Telekinesis", "Ally Switch", "Psychic", "Calm Mind", "Future Sight", "Trick"],
+    "movesLVL": [1, 1, 1, 18, 21, 23, 26, 28, 31, 33, 36, 38, 41, 43, 46],
+    "movesTM": [3, 4, 6, 10, 11, 12, 15, 16, 17, 18, 20, 21, 27, 29, 30, 32, 33, 41, 42, 44, 45, 46, 48, 52, 53, 56, 57, 63, 68, 73, 77, 85, 86, 87, 88, 90, 92, 99, 100],
+    "movesTR": [1, 11, 14, 19, 20, 25, 26, 27, 30, 31, 33, 34, 37, 38, 40, 49, 64, 65, 68, 69, 77, 81, 82, 83, 92],
+    "abilities": ["Synchronize", "Inner Focus", "Magic Guard"],
+    "growthrate": "Medium_Slow",
+    "exp": 225,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/c/cc/065Alakazam.png/600px-065Alakazam.png",
+    "shinyURL": ""
+}

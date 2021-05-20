@@ -1,0 +1,21 @@
+{
+    "name": "Poliwhirl",
+    "fillerinfo": "Tadpole Pokemon-1.0-20.0",
+    "dex": 61,
+    "type": ["Water", "Water"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [65, 65, 65, 50, 50, 90],
+    "ev": [0, 0, 0, 0, 0, 2],
+    "moves": ["Hypnosis", "Water Gun", "Water Sport", "Bubble", "Double Slap", "Rain Dance", "Body Slam", "Bubble Beam", "Mud Shot", "Belly Drum", "WakeUp Slap", "Hydro Pump", "Mud Bomb"],
+    "movesLVL": [1, 1, 1, 11, 15, 18, 21, 27, 32, 37, 43, 48, 53],
+    "movesTM": [6, 7, 10, 13, 14, 17, 18, 21, 26, 27, 29, 31, 32, 42, 44, 45, 46, 48, 55, 56, 78,  87, 88, 90, 94, 98, 100],
+    "movesTR": [1, 3, 4, 5, 6, 10, 11, 14, 16, 20, 26, 27, 30, 45, 67, 84],
+    "abilities": ["Water Absorb", "Damp", "Swift Swim"],
+    "growthrate": "Medium_Slow",
+    "exp": 135,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/a/a9/061Poliwhirl.png/600px-061Poliwhirl.png",
+    "shinyURL": ""
+}

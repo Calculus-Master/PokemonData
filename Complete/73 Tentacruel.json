@@ -1,0 +1,21 @@
+{
+    "name": "Tentacruel",
+    "fillerinfo": "Jellyfish Pokemon-1.6-55.0",
+    "dex": 73,
+    "type": ["Water", "Poison"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [80, 70, 65, 80, 120, 100],
+    "ev": [0, 0, 0, 0, 2, 0],
+    "moves": ["Acid", "Constrict", "Poison Sting", "Reflect Type", "Supersonic", "Wring Out", "Toxic Spikes", "Water Pulse", "Wrap", "Acid Spray", "Bubble Beam", "Barrier", "Poison Jab", "Brine", "Screech", "Hex", "Sludge Wave", "Hydro Pump"],
+    "movesLVL": [1, 1, 1, 1, 1, 1, 13, 16, 19, 22, 25, 28, 32, 36, 40, 44, 48, 52],
+    "movesTM": [6, 7, 9, 10, 13, 14, 15, 17, 18, 20, 21, 27, 32, 34, 36, 42, 44, 45, 46, 48, 55, 66, 68, 75, 83, 84, 87, 88, 90, 94, 98, 99, 100],
+    "movesTR": [0, 3, 4, 5, 6, 16, 20, 22, 26, 27, 45, 54, 57, 78, 84, 91, 92],
+    "abilities": ["Clear Body", "Liquid Ooze", "Rain Dish"],
+    "growthrate": "Slow",
+    "exp": 180,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/f/f6/073Tentacruel.png/600px-073Tentacruel.png",
+    "shinyURL": ""
+}

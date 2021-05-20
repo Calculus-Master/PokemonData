@@ -1,0 +1,21 @@
+{
+    "name": "Alolan Golem",
+    "fillerinfo": "Rock Pokemon-1.7-316.0",
+    "dex": 76,
+    "type": ["Rock", "Electric"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": ["Golem"],
+    "mega": [],
+    "stats": [80, 120, 130, 55, 65, 45],
+    "ev": [0, 0, 3, 0, 0, 0],
+    "moves": ["Charge", "Defense Curl", "Heavy Slam", "Rock Polish", "Tackle", "Steamroller", "Spark", "Rock Throw", "Smack Down", "Thunder Punch", "Self Destruct", "Stealth Rock", "Rock Blast", "Discharge", "Explosion", "Double Edge", "Stone Edge", "Heavy Slam"],
+    "movesLVL": [1, 1, 1, 1, 1, 10, 12, 16, 18, 22, 24, 30, 34, 40, 44, 50, 54, 60],
+    "movesTM": [5, 6, 10, 11, 15, 17, 21, 23, 24, 25, 26, 27, 31, 32, 35, 37, 38, 39, 42, 44, 45, 48, 49, 52, 56, 57, 59, 64, 68, 69, 71, 72, 74, 78, 80, 87, 88, 90, 93, 96, 100],
+    "movesTR": [],
+    "abilities": ["Magnet Pull", "Sturdy", "Galvanize"],
+    "growthrate": "Medium_Slow",
+    "exp": 223,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/0/07/076Golem-Alola.png",
+    "shinyURL": ""
+}

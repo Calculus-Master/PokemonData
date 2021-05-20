@@ -1,0 +1,21 @@
+{
+    "name": "Kadabra",
+    "fillerinfo": "Psi Pokemon-1.3-56.5",
+    "dex": 64,
+    "type": ["Psychic", "Psychic"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [40, 35, 30, 120, 70, 105],
+    "ev": [0, 0, 0, 2, 0, 0],
+    "moves": ["Confusion", "Kinesis", "Teleport", "Confusion", "Disable", "Psybeam", "Miracle Eye", "Reflect", "Psycho Cut", "Recover", "Telekinesis", "Ally Switch", "Psychic", "Role Play", "Future Sight", "Trick"],
+    "movesLVL": [1, 1, 1, 16, 18, 21, 23, 26, 28, 31, 33, 36, 38, 41, 43, 46],
+    "movesTM": [3, 4, 6, 10, 11, 12, 16, 17, 18, 20, 21, 27, 29, 30, 32, 33, 41, 42, 44, 45, 46, 48, 53, 56, 57, 63, 73, 77, 85, 86, 87, 88, 90, 92, 99, 100],
+    "movesTR": [1, 11, 14, 19, 20, 25, 26, 27, 30, 31, 33, 34, 37, 38, 40, 49, 65, 69, 77, 81, 83, 92],
+    "abilities": ["Synchronize", "Inner Focus", "Magic Guard"],
+    "growthrate": "Medium_Slow",
+    "exp": 140,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/9/97/064Kadabra.png/600px-064Kadabra.png",
+    "shinyURL": ""
+}

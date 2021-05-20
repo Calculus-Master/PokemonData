@@ -1,0 +1,21 @@
+{
+    "name": "Victreebel",
+    "fillerinfo": "Flycatcher Pokemon-1.7-15.5",
+    "dex": 71,
+    "type": ["Grass", "Poison"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [80, 105, 65, 100, 70, 70],
+    "ev": [0, 3, 0, 0, 0, 0],
+    "moves": ["Leaf Tornado", "Razor Leaf", "Sleep Powder", "Spit Up", "Stockpile", "Swallow", "Sweet Scent", "Vine Whip", "Leaf Storm", "Leaf Blade"],
+    "movesLVL": [1, 1, 1, 1, 1, 1, 1, 1, 32, 44],
+    "movesTM": [6, 9, 10, 11, 15, 17, 21, 22, 27, 32, 33, 36, 42, 44, 45, 46, 48, 53, 68, 75, 83, 84, 86, 87, 88, 90, 96, 100],
+    "movesTR": [],
+    "abilities": ["Chlorophyll", "Gluttony"],
+    "growthrate": "Medium_Slow",
+    "exp": 221,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/b/be/071Victreebel.png/600px-071Victreebel.png",
+    "shinyURL": ""
+}

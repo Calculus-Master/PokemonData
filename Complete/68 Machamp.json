@@ -1,0 +1,21 @@
+{
+    "name": "Machamp",
+    "fillerinfo": "Superpower Pokemon-1.6-130.0",
+    "dex": 68,
+    "type": ["Fighting", "Fighting"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [90, 130, 80, 65, 85, 55],
+    "ev": [0, 3, 0, 0, 0, 0],
+    "moves": ["Focus Energy", "Karate Chop", "Leer", "Low Kick", "Strength", "Wide Guard", "Foresight", "Low Sweep", "Seismic Toss", "Revenge", "Knock Off", "Vital Throw", "WakeUp Slap", "Dual Chop", "Submission", "Bulk Up", "Cross Chop", "Scary Face", "Dynamic Punch"],
+    "movesLVL": [1, 1, 1, 1, 1, 1, 9, 13, 15, 19, 21, 25, 27, 33, 37, 43, 47, 53, 57],
+    "movesTM": [1, 6, 8, 10, 11, 15, 16, 18, 21, 23, 26, 27, 31, 32, 35, 38, 39, 42, 44, 45, 46, 47, 48, 52, 56, 66, 68, 71, 78, 80, 84, 87, 88, 90, 100],
+    "movesTR": [1, 2, 7, 10, 13, 14, 15, 20, 21, 26, 27, 30, 39, 48, 53, 57, 64, 75, 79, 85, 93, 94, 95],
+    "abilities": ["Guts", "No Guard", "Steadfast"],
+    "growthrate": "Medium_Slow",
+    "exp": 227,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/8/8f/068Machamp.png/600px-068Machamp.png",
+    "shinyURL": ""
+}

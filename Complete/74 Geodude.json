@@ -1,0 +1,21 @@
+{
+    "name": "Geodude",
+    "fillerinfo": "Rock Pokemon-0.4-20.0",
+    "dex": 74,
+    "type": ["Rock", "Ground"],
+    "evolutions": ["Graveler"],
+    "evolutionsLVL": [25],
+    "forms": ["Alolan Geodude"],
+    "mega": [],
+    "stats": [40, 80, 100, 30, 30, 20],
+    "ev": [0, 0, 1, 0, 0, 0],
+    "moves": ["Defense Curl", "Tackle", "Mud Sport", "Rock Polish", "Rollout", "Magnitude", "Rock Throw", "Smack Down", "Bulldoze", "Self Destruct", "Stealth Rock", "Rock Blast", "Earthquake", "Explosion", "Double Edge", "Stone Edge"],
+    "movesLVL": [1, 1, 4, 6, 10, 12, 16, 18, 22, 24, 28, 30, 34, 36, 40, 42],
+    "movesTM": [6, 10, 11, 17, 21, 23, 26, 27, 31, 32, 35, 37, 38, 39, 42, 44, 45, 48, 56, 64, 69, 71, 74, 78, 80, 87, 88, 90, 96, 100],
+    "movesTR": [],
+    "abilities": ["Rock Head", "Sturdy", "Sand Veil"],
+    "growthrate": "Medium_Slow",
+    "exp": 60,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/9/98/074Geodude.png/600px-074Geodude.png",
+    "shinyURL": ""
+}

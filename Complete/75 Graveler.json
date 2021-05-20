@@ -1,0 +1,21 @@
+{
+    "name": "Graveler",
+    "fillerinfo": "Rock Pokemon-1.0-105.0",
+    "dex": 75,
+    "type": ["Rock", "Ground"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": ["Alolan Graveler"],
+    "mega": [],
+    "stats": [55, 95, 115, 45, 45, 35],
+    "ev": [0, 0, 2, 0, 0, 0],
+    "moves": ["Defense Curl", "Mud Sport", "Rock Polish", "Tackle", "Rock Polish", "Rollout", "Magnitude", "Rock Throw", "Smack Down", "Bulldoze", "Self Destruct", "Stealth Rock", "Rock Blast", "Earthquake", "Explosion", "Double Edge", "Stone Edge"],
+    "movesLVL": [1, 1, 1, 1, 6, 10, 12, 16, 18, 22, 24, 30, 34, 40, 44, 50, 54],
+    "movesTM": [6, 10, 11, 17, 21, 23, 26, 27, 31, 32, 35, 37, 38, 39, 42, 44, 45, 48, 56, 64, 69, 71, 74, 78, 80, 87, 88, 90, 96, 100],
+    "movesTR": [],
+    "abilities": ["Rock Head", "Sturdy", "Sand Veil"],
+    "growthrate": "Medium_Slow",
+    "exp": 137,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/7/75/075Graveler.png/600px-075Graveler.png",
+    "shinyURL": ""
+}

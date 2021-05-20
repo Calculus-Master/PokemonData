@@ -1,0 +1,21 @@
+{
+    "name": "Bellsprout",
+    "fillerinfo": "Flower Pokemon-0.7-4.0",
+    "dex": 69,
+    "type": ["Grass", "Poison"],
+    "evolutions": ["Weepinbell"],
+    "evolutionsLVL": [21],
+    "forms": [],
+    "mega": [],
+    "stats": [50, 75, 35, 70, 30, 40],
+    "ev": [0, 1, 0, 0, 0, 0],
+    "moves": ["Vine Whip", "Growth", "Wrap", "Sleep Powder", "Poison Powder", "Stun Spore", "Acid", "Knock Off", "Sweet Scent", "Gastro Acid", "Razor Leaf", "Poison Jab", "Slam", "Wring Out"],
+    "movesLVL": [1, 7, 11, 13, 15 ,17, 23, 27, 29, 35, 39, 41, 47, 50],
+    "movesTM": [6, 9, 10, 11, 17, 21, 22, 27, 32, 33, 36, 42, 44, 45, 46, 48, 53, 75, 83, 84, 86, 87, 88, 90, 96, 100],
+    "movesTR": [],
+    "abilities": ["Chlorophyll", "Gluttony"],
+    "growthrate": "Medium_Slow",
+    "exp": 60,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/a/a2/069Bellsprout.png/600px-069Bellsprout.png",
+    "shinyURL": ""
+}

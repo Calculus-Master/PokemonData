@@ -1,0 +1,21 @@
+{
+    "name": "Machop",
+    "fillerinfo": "Superpower Pokemon-0.8-19.5",
+    "dex": 66,
+    "type": ["Fighting", "Fighting"],
+    "evolutions": ["Machoke"],
+    "evolutionsLVL": [28],
+    "forms": [],
+    "mega": [],
+    "stats": [70, 80, 50, 35, 35, 35],
+    "ev": [0, 1, 0, 0, 0, 0],
+    "moves": ["Leer", "Low Kick", "Focus Energy", "Karate Chop", "Foresight", "Low Sweep", "Seismic Toss", "Revenge", "Knock Off", "Vital Throw", "WakeUp Slap", "Dual Chop", "Submission", "Bulk Up", "Cross Chop", "Scary Face", "Dynamic Punch"],
+    "movesLVL": [1, 1, 3, 7, 9, 13, 15, 19, 21, 25, 27, 31, 33, 37, 39, 43, 45],
+    "movesTM": [1, 6, 8, 10, 11, 16, 17, 18, 21, 23, 26, 27, 31, 32, 35, 38, 39, 42, 44, 45, 46, 47, 48, 52, 56, 66, 78, 80, 84, 87, 88, 90, 100],
+    "movesTR": [1, 2, 7, 10, 13, 14, 15, 20, 21, 26, 27, 30, 39, 48, 53, 57, 64, 79, 85],
+    "abilities": ["Guts", "No Guard", "Steadfast"],
+    "growthrate": "Medium_Slow",
+    "exp": 61,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/8/85/066Machop.png/600px-066Machop.png",
+    "shinyURL": ""
+}
