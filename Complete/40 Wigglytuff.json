@@ -1,0 +1,21 @@
+{
+    "name": "Wigglytuff",
+    "fillerinfo": "Wigglytuff-1.0-12.0",
+    "dex": 40,
+    "type": ["Normal", "Fairy"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [140, 70, 45, 85, 50, 45],
+    "ev": [3, 0, 0, 0, 0, 0],
+    "moves": ["Defense Curl", "Disable", "Double Edge", "Double Slap", "Play Rough", "Sing"],
+    "movesLVL": [1, 1, 1, 1, 1, 1],
+    "movesTM": [1, 6, 10, 11, 13, 14, 15, 16, 17, 18, 20, 21, 22, 24, 25, 27, 29, 30, 31, 32, 33, 35, 38, 42, 44, 45, 48, 49, 52, 56, 57, 68, 73, 74, 77, 85, 86, 87, 88, 90, 93, 99, 100],
+    "movesTR": [1, 2, 5, 6, 8, 9, 11, 15, 19, 20, 26, 27, 29, 33, 35, 42, 52, 64, 76, 83, 85, 86, 90, 92],
+    "abilities": ["Cute Charm", "Competitive", "Frisk"],
+    "growthrate": "Fast",
+    "exp": 196,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/9/92/040Wigglytuff.png/600px-040Wigglytuff.png",
+    "shinyURL": ""
+}
