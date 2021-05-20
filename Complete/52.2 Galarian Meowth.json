@@ -1,0 +1,21 @@
+{
+    "name": "Meowth",
+    "fillerinfo": "Scratch Cat Pokemon-0.4-7.5",
+    "dex": 52,
+    "type": ["Steel", "Steel"],
+    "evolutions": ["Perrserker"],
+    "evolutionsLVL": [28],
+    "forms": ["Meowth", "Alolan Meowth"],
+    "mega": [],
+    "stats": [50, 65, 55, 40, 40, 40],
+    "ev": [0, 1, 0, 0, 0, 0],
+    "moves": ["Fake Out", "Growl", "Hone Claws", "Scratch", "Pay Day", "Metal Claw", "Taunt", "Swagger", "Fury Swipes", "Screech", "Slash", "Metal Sounds", "Thrash"],
+    "movesLVL": [1, 1, 4, 8, 12, 16, 20, 24, 29, 32, 36, 40, 44],
+    "movesTM": [],
+    "movesTR": [0, 1, 8, 9, 17, 20, 26, 27, 31, 32, 33, 35, 37, 42, 46, 52, 58, 59, 68, 73, 74, 81, 85, 90, 95],
+    "abilities": ["Pickup", "Tough Claws", "Unnerve"],
+    "growthrate": "Medium_Fast",
+    "exp": 58,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/0/09/052Meowth-Galar.png",
+    "shinyURL": ""
+}
