@@ -1,0 +1,21 @@
+{
+    "name": "Growlithe",
+    "fillerinfo": "Growlithe-0.7-19.0",
+    "dex": 58,
+    "type": ["Fire", "Fire"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [55, 70, 45, 70, 50, 60],
+    "ev": [0, 1, 0, 0, 0, 0],
+    "moves": ["Bite", "Roar", "Ember", "Leer", "Odor Sleuth", "Helping Hand", "Flame Wheel", "Reversal", "Fire Fang", "Take Down", "Flame Burst", "Agility", "Retaliate", "Flamethrower", "Crunch", "Heat Wave", "Outrage", "Flare Blitz"],
+    "movesLVL": [1, 1, 6, 8, 10, 12, 17, 19, 21, 23, 28, 30, 32, 34, 39, 41, 43, 45],
+    "movesTM": [5, 6, 10, 11, 17, 20, 21, 27, 32, 35, 38, 40, 42, 43, 44, 45, 46, 48, 50, 61, 87, 88, 90, 93, 95, 100],
+    "movesTR": [1, 2, 12, 15, 20, 21, 24, 26, 27, 31, 32, 36, 43, 53, 55, 86, 90, 97],
+    "abilities": ["Intimidate", "Flash Fire", "Justified"],
+    "growthrate": "Slow",
+    "exp": 70,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/3/3d/058Growlithe.png/600px-058Growlithe.png",
+    "shinyURL": ""
+}
