@@ -1,0 +1,21 @@
+{
+    "name": "Magneton",
+    "fillerinfo": "Magnet Pokemon-1.0-60.0",
+    "dex": 82,
+    "type": ["Electric", "Steel"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [50, 60, 95, 120, 70, 70],
+    "ev": [0, 0, 0, 2, 0, 0],
+    "moves": ["Electric Terrain", "Supersonic", "Tackle", "Thunder Shock", "Thunder Wave", "Tri Attack", "Zap Cannon", "Magnet Bomb", "Light Screen", "Sonic Boom", "Spark", "Mirror Shot", "Metal Sound", "Electro Ball", "Flash Cannon", "Screech", "Discharge", "Lock On", "Magnet Rise", "Gyro Ball"],
+    "movesLVL": [1, 1, 1, 1, 1, 1, 1, 11, 13, 17, 19, 23, 25, 29, 33, 39, 43, 49, 53, 59, 63],
+    "movesTM": [6, 10, 11, 15, 16, 17, 18, 21, 24, 25, 27, 32, 33, 42, 44, 48, 57, 64, 68, 72, 73, 74, 77, 87, 88, 90, 91, 93, 100],
+    "movesTR": [8, 9, 19, 20, 26, 27, 46, 52, 70, 80, 86],
+    "abilities": ["Magnet Pull", "Sturdy", "Analytic"],
+    "growthrate": "Medium_Fast",
+    "exp": 163,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/7/72/082Magneton.png/600px-082Magneton.png",
+    "shinyURL": ""
+}

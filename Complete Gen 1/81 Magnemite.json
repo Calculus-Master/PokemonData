@@ -1,0 +1,21 @@
+{
+    "name": "Magnemite",
+    "fillerinfo": "Magnet Pokemon-0.3-6.0",
+    "dex": 81,
+    "type": ["Electric", "Steel"],
+    "evolutions": ["Magneton"],
+    "evolutionsLVL": [30],
+    "forms": [],
+    "mega": [],
+    "stats": [25, 35, 70, 95, 55, 45],
+    "ev": [0, 0, 0, 1, 0, 0],
+    "moves": ["Supersonic", "Tackle", "Thunder Shock", "Thunder Wave", "Magnet Bomb", "Light Screen", "Sonic Boom", "Spark", "Mirror Shot", "Metal Sound", "Electro Ball", "Flash Cannon", "Screech", "Discharge", "Lock On", "Magnet Rise", "Gyro Ball", "Zap Cannon"],
+    "movesLVL": [1, 1, 5, 7, 11, 13, 17, 19, 23, 25, 29, 31, 35, 37, 41, 43, 47, 49],
+    "movesTM": [6, 10, 11, 16, 17, 18, 21, 24, 25, 27, 32, 33, 42, 44, 48, 57, 64, 72, 73, 74, 77, 87, 88, 90, 91, 93, 100],
+    "movesTR": [8, 9, 20, 26, 27, 46, 52, 70, 80, 86],
+    "abilities": ["Magnet Pull", "Sturdy", "Analytic"],
+    "growthrate": "Medium_Fast",
+    "exp": 65,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/6/6c/081Magnemite.png/600px-081Magnemite.png",
+    "shinyURL": ""
+}
