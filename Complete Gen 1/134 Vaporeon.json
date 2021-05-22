@@ -1,0 +1,21 @@
+{
+    "name": "Vaporeon",
+    "fillerinfo": "Bubble Jet Pokemon-1.0-29.0",
+    "dex": 134,
+    "type": ["Water", "Water"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [130, 65, 60, 110, 95, 65],
+    "ev": [2, 0, 0, 0, 0, 0],
+    "moves": ["Helping Hand", "Tackle", "Tail Whip", "Water Gun", "Sand Attack", "BabyDoll Eyes", "Quick Attack", "Water Pulse", "Aurora Beam", "Aqua Ring", "Acid Armor", "Haze", "Muddy Water", "Last Resort", "Hydro Pump"],
+    "movesLVL": [1, 1, 1, 1, 5, 9, 13 ,17, 20, 25, 29, 33, 37, 41, 45],
+    "movesTM": [1, 5, 6, 7, 10, 11, 13, 14, 15, 17, 18, 21, 27, 30, 32, 42, 44, 45, 48, 49, 55, 68, 87, 88, 90, 94, 98, 100],
+    "movesTR": [1, 3, 4, 5, 6, 13, 16, 20, 26, 27, 29, 31, 33, 42, 45, 82, 84, 85, 98],
+    "abilities": ["Water Absorb", "Hydration"],
+    "growthrate": "Medium_Fast",
+    "exp": 184,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/f/fd/134Vaporeon.png/600px-134Vaporeon.png",
+    "shinyURL": ""
+}

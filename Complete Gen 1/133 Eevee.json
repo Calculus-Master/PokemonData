@@ -1,0 +1,21 @@
+{
+    "name": "Eevee",
+    "fillerinfo": "Evolution Pokemon-0.3-6.5",
+    "dex": 133,
+    "type": ["Normal", "Normal"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [55, 55, 50, 45, 65, 55],
+    "ev": [0, 0, 0, 0, 1, 0],
+    "moves": ["Covet", "Growl", "Helping Hand", "Tackle", "Tail Whip", "Sand Attack", "BabyDoll Eyes", "Quick Attack", "Bite", "Swift", "Refresh", "Take Down", "Charm", "Baton Pass", "Double Edge", "Last Resort", "Trump Card"],
+    "movesLVL": [1, 1, 1, 1, 1, 5, 9, 13, 17, 17, 20, 25, 29, 33, 37, 41, 45],
+    "movesTM": [1, 6, 10, 11, 17, 18, 21, 27, 30, 32, 42, 44, 45, 48, 49, 87, 88, 90, 100],
+    "movesTR": [1, 13, 20, 26, 27, 29, 31, 33, 42, 82, 85],
+    "abilities": ["Run Away", "Adaptability", "Anticipation"],
+    "growthrate": "Medium_Fast",
+    "exp": 65,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/e/e2/133Eevee.png/600px-133Eevee.png",
+    "shinyURL": ""
+}

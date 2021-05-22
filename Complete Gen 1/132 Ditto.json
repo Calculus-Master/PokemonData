@@ -1,6 +1,6 @@
 {
     "name": "Ditto",
-    "fillerinfo": "Ditto-0.3-4.0",
+    "fillerinfo": "Transform Pokemon-0.3-4.0",
     "dex": 132,
     "type": ["Normal", "Normal"],
     "evolutions": [],
@@ -9,13 +9,13 @@
     "mega": [],
     "stats": [48, 48, 48, 48, 48, 48],
     "ev": [1, 0, 0, 0, 0, 0],
-    "moves": [],
-    "movesLVL": [],
+    "moves": ["Transform"],
+    "movesLVL": [1],
     "movesTM": [],
     "movesTR": [],
     "abilities": ["Limber", "Imposter"],
     "growthrate": "Medium_Fast",
     "exp": 101,
-    "normalURL": "",
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/3/36/132Ditto.png/600px-132Ditto.png",
     "shinyURL": ""
 }
