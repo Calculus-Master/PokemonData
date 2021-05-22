@@ -1,0 +1,21 @@
+{
+    "name": "Jynx",
+    "fillerinfo": "Human Shape Pokemon-1.4-40.6",
+    "dex": 124,
+    "type": ["Ice", "Psychic"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [65, 50, 35, 115, 95, 95],
+    "ev": [0, 0, 0, 2, 0, 0],
+    "moves": ["Draining Kiss", "Lick", "Lovely Kiss", "Perish Song", "Pound", "Powder Snow", "Double Slap", "Ice Punch", "Heart Stamp", "Mean Look", "Fake Tears", "WakeUp Slap", "Avalanche", "Body Slam", "Wring Out", "Perish Song", "Blizzard"],
+    "movesLVL": [1, 1, 1, 1, 1, 1, 15, 18, 21, 25, 28, 33, 39, 44, 49, 55, 60],
+    "movesTM": [3, 4, 6, 7, 10, 12, 13, 14, 15, 16, 17, 18, 21, 27, 29, 30, 31, 32, 33, 41, 42, 44, 45, 46, 48, 49, 52, 53, 56, 66, 70, 77, 79, 85, 86, 87, 88, 90, 92, 100],
+    "movesTR": [1, 5, 6, 11, 14, 20, 25, 26, 27, 30, 33, 34, 35, 37, 38, 40, 42, 49, 64, 65, 68, 69, 77, 82, 83],
+    "abilities": ["Oblivious", "Forewarn", "Dry Skin"],
+    "growthrate": "Medium_Fast",
+    "exp": 159,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/7/7c/124Jynx.png/600px-124Jynx.png",
+    "shinyURL": ""
+}
