@@ -1,0 +1,21 @@
+{
+    "name": "Scyther",
+    "fillerinfo": "Mantis Pokemon-1.5-56.0",
+    "dex": 123,
+    "type": ["Bug", "Flying"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [70, 110, 80, 55, 80, 105],
+    "ev": [0, 1, 0, 0, 0, 0],
+    "moves": ["Leer", "Quick Attack", "Vacuum Wave", "Focus Energy", "Pursuit", "False Swipe", "Agility", "Wing Attack", "Fury Cutter", "Slash", "Razor Wing", "Double Team", "X Scissor", "Night Slash", "Double Hit", "Air Slash", "Swords Dance", "Feint"],
+    "movesLVL": [1, 1, 1, 5, 9, 13, 17, 21, 25, 29, 33, 37, 41, 45, 49, 50, 57, 61],
+    "movesTM": [6, 10, 11, 15, 16, 17, 18, 19, 20, 21, 27, 31, 32, 40, 42, 44, 45, 46, 48, 51, 54, 59, 68, 75, 81, 87, 88, 89, 90, 100],
+    "movesTR": [0, 12, 13, 20, 21, 26, 27, 29, 60, 61],
+    "abilities": ["Swarm", "Technician", "Steadfast"],
+    "growthrate": "Medium_Fast",
+    "exp": 100,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/b/ba/123Scyther.png/600px-123Scyther.png",
+    "shinyURL": ""
+}
