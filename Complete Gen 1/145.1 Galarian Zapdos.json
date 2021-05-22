@@ -1,0 +1,21 @@
+{
+    "name": "Zapdos",
+    "fillerinfo": "Strong Legs Pokemon-1.6-58.2",
+    "dex": 145,
+    "type": ["Fighting", "Flying"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": ["Zapdos"],
+    "mega": [],
+    "stats": [90, 125, 90, 85, 90, 100],
+    "ev": [0, 0, 0, 3, 0, 0],
+    "moves": ["Focus Energy", "Peck", "Rock Smash", "Light Screen", "Pluck", "Agility", "Ancient Power", "Brick Break", "Drill Peck", "Quick Guard", "Thunderous Kick", "Bulk Up", "Counter", "Detect", "Close Combat", "Reversal"],
+    "movesLVL": [1, 1, 5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 60, 65, 70],
+    "movesTM": [],
+    "movesTR": [7, 12, 13, 20, 21, 26, 27, 37, 39, 41, 48, 53, 66, 89, 95],
+    "abilities": ["Defiant"],
+    "growthrate": "Slow",
+    "exp": 290,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/5/5d/145Zapdos-Galar_2.png/600px-145Zapdos-Galar_2.png",
+    "shinyURL": ""
+}

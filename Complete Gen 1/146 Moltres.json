@@ -1,0 +1,21 @@
+{
+    "name": "Moltres",
+    "fillerinfo": "Flame Pokemon-2.0-60.0",
+    "dex": 146,
+    "type": ["Fire", "Flying"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": ["Galarian Moltres"],
+    "mega": [],
+    "stats": [90, 100, 90, 125, 85, 90],
+    "ev": [0, 0, 0, 3, 0, 0],
+    "moves": ["Ember", "Wing Attack", "Fire Spin", "Agility", "Endure", "Ancient Power", "Flamethrower", "Safeguard", "Air Slash", "Sunny Day", "Heat Wave", "Solar Beam", "Sky Attack", "Roost", "Hurricane", "Burn Up"],
+    "movesLVL": [1, 1, 8, 15, 22, 29, 36, 43, 50, 57, 64, 71, 78, 85, 92, 99],
+    "movesTM": [5, 6, 10, 11, 15, 17, 18, 20, 21, 22, 27, 32, 35, 37, 38, 40, 42, 43, 44, 48, 50, 51, 58, 61, 68, 76, 87, 88, 89, 90, 100],
+    "movesTR": [2, 12, 15, 20, 26, 27, 36, 43, 55, 66, 89],
+    "abilities": ["Pressure", "Flame Body"],
+    "growthrate": "Slow",
+    "exp": 261,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/1/1b/146Moltres.png/600px-146Moltres.png",
+    "shinyURL": ""
+}

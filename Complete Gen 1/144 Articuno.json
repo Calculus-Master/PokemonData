@@ -1,0 +1,21 @@
+{
+    "name": "Articuno",
+    "fillerinfo": "Freeze Pokemon-1.7-55.4",
+    "dex": 144,
+    "type": ["Ice", "Flying"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": ["Galarian Articuno"],
+    "mega": [],
+    "stats": [90, 85, 100, 95, 125, 85],
+    "ev": [0, 0, 0, 0, 3, 0],
+    "moves": ["Gust", "Powder Snow", "Mist", "Ice Shard", "Mind Reader", "Ancient Power", "Agility", "Freeze Dry", "Reflect", "Hail", "Tailwind", "Ice Beam", "Blizzard", "Roost", "Hurricane", "Sheer Cold"],
+    "movesLVL": [1, 1, 8, 15, 22, 29, 36, 43, 50, 57, 64, 71, 78, 85, 92, 99],
+    "movesTM": [5, 6, 7, 10, 11, 13, 14, 15, 17, 18, 19, 21, 27, 32, 33, 37, 40, 42, 44, 48, 51, 58, 68, 70, 76, 79, 87, 88, 89, 90, 100],
+    "movesTR": [5, 6, 12, 20, 26, 27, 66, 89],
+    "abilities": ["Pressure", "Snow Cloak"],
+    "growthrate": "Slow",
+    "exp": 261,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/4/4e/144Articuno.png/600px-144Articuno.png",
+    "shinyURL": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Galarian Moltres",
+    "fillerinfo": "Malevolent Pokemon-2.0-66.0",
+    "dex": 146,
+    "type": ["Dark", "Flying"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": ["Moltres"],
+    "mega": [],
+    "stats": [90, 85, 90, 100, 125, 90],
+    "ev": [0, 0, 0, 0, 3, 0],
+    "moves": ["Gust", "Leer", "Payback", "Safeguard", "Wing Attack", "Agility", "Ancient Power", "Sucker Punch", "Air Slash", "After You", "Fiery Wrath", "Nasty Plot", "Hurricane", "Endure", "Memento", "Sky Attack"],
+    "movesLVL": [1, 1, 5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 60, 65, 70],
+    "movesTM": [],
+    "movesTR": [12, 20, 26, 27, 33, 37, 42, 58, 66, 68, 81, 89],
+    "abilities": ["Beserk"],
+    "growthrate": "Slow",
+    "exp": 290,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/d/d9/146Moltres-Galar_2.png/600px-146Moltres-Galar_2.png",
+    "shinyURL": ""
+}

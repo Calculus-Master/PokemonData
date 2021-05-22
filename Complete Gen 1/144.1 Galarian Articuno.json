@@ -1,0 +1,21 @@
+{
+    "name": "Articuno",
+    "fillerinfo": "Cruel Pokemon-1.7-50.9",
+    "dex": 144,
+    "type": ["Psychic", "Flying"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": ["Articuno"],
+    "mega": [],
+    "stats": [90, 85, 85, 125, 100, 95],
+    "ev": [0, 0, 0, 0, 3, 0],
+    "moves": ["Gust", "Psycho Shift", "Confusion", "Reflect", "Hypnosis", "Agility", "Ancient Power", "Tailwind", "Psycho Cut", "Recover", "Freezing Glare", "Dream Eater", "Hurricane", "Mind Reader", "Future Sight", "Trick Room"],
+    "movesLVL": [1, 1, 5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 60, 65, 70],
+    "movesTM": [],
+    "movesTR": [11, 12, 20, 25, 26, 27, 33, 34, 40, 42, 49, 66, 82, 83, 89],
+    "abilities": ["Competitive"],
+    "growthrate": "Slow",
+    "exp": 290,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/a/a3/144Articuno-Galar_2.png/600px-144Articuno-Galar_2.png",
+    "shinyURL": ""
+}
