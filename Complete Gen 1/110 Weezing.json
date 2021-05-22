@@ -1,0 +1,21 @@
+{
+    "name": "Weezing",
+    "fillerinfo": "Poison Gas Pokemon-1.2-9.5",
+    "dex": 110,
+    "type": ["Poison", "Poison"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": ["Galarian Weezing"],
+    "mega": [],
+    "stats": [65, 90, 120, 85, 70, 60],
+    "ev": [0, 0, 2, 0, 0, 0],
+    "moves": ["Double Hit", "Poison Gas", "Smog", "Smokescreen", "Tackle", "Assurance", "Clear Smog", "Sludge", "Self Destruct", "Haze", "Gyro Ball", "Sludge Bomb", "Explosion", "Destiny Bond", "Belch", "Memento"],
+    "movesLVL": [1, 1, 1, 1, 1, 12, 15, 18, 23, 26, 29, 34, 40, 46, 51, 57],
+    "movesTM": [6, 9, 10, 11, 12, 15, 17, 18, 21, 24, 25, 27, 30, 32, 35, 36, 38, 41, 42, 44, 45, 46, 48, 61, 64, 66, 68, 74, 83, 87, 88, 90, 97, 100],
+    "movesTR": [2, 8, 9, 15, 20, 22, 26, 27, 33, 35, 36, 37, 52, 54, 58, 78, 91],
+    "abilities": ["Levitate"],
+    "growthrate": "Medium_Fast",
+    "exp": 172,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/4/42/110Weezing.png/600px-110Weezing.png",
+    "shinyURL": ""
+}

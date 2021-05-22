@@ -1,0 +1,21 @@
+{
+    "name": "Rhyhorn",
+    "fillerinfo": "Spike Pokemon-1.0-115.0",
+    "dex": 111,
+    "type": ["Ground", "Rock"],
+    "evolutions": ["Rhydon"],
+    "evolutionsLVL": [42],
+    "forms": [],
+    "mega": [],
+    "stats": [80, 85, 95, 30, 30, 25],
+    "ev": [0, 0, 1, 0, 0, 0],
+    "moves": ["Horn Attack", "Tail Whip", "Fury Attack", "Scary Face", "Smack Down", "Stomp", "Bulldoze", "Chip Away", "Rock Blast", "Drill Run", "Take Down", "Stone Edge", "Earthquake", "Megahorn", "Horn Drill"],
+    "movesLVL": [1, 1, 5, 9, 13, 17, 21, 25, 29, 33, 37, 41, 45, 49, 53],
+    "movesTM": [5, 6, 10, 11, 13, 14, 17, 18, 21, 23, 24, 25, 26, 27, 32, 35, 37, 38, 39, 42, 44, 45, 46, 48, 66, 67, 69, 71, 75, 78, 80, 84, 87, 88, 90, 100],
+    "movesTR": [0, 1, 2, 5, 6, 8, 9, 10, 15, 20, 21, 26, 27, 28, 31, 32, 35, 39, 57, 62, 67, 75, 76, 87, 94],
+    "abilities": ["Lightning Rod", "Rock Head", "Reckless"],
+    "growthrate": "Slow",
+    "exp": 69,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/9/9b/111Rhyhorn.png/600px-111Rhyhorn.png",
+    "shinyURL": ""
+}

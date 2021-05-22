@@ -1,0 +1,21 @@
+{
+    "name": "Hitmonchan",
+    "fillerinfo": "Punching Pokemon-1.4-50.2",
+    "dex": 107,
+    "type": ["Fighting", "Fighting"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [50, 105, 79, 35, 110, 76],
+    "ev": [0, 0, 0, 0, 2, 0],
+    "moves": ["Agility", "Close Combat", "Comet Punch", "Counter", "Focus Punch", "Mach Punch", "Pursuit", "Revenge", "Bullet Punch", "Feint", "Vacuum Wave", "Quick Guard", "Fire Punch", "Ice Punch", "Thunder Punch", "Sky Uppercut", "Mega Punch", "Detect", "Counter"],
+    "movesLVL": [1, 1, 1, 1, 1, 1, 1, 1, 16, 21, 26, 31, 36, 36, 36, 41, 46, 50, 61],
+    "movesTM": [1, 6, 8, 10, 11, 17, 18, 21, 26, 27, 31, 32, 39, 42, 44, 45, 46, 47, 48, 52, 56, 71, 78, 80, 87, 88, 90, 100],
+    "movesTR": [1, 7, 10, 12, 13, 14, 20, 26, 27, 35, 48, 53, 56, 64, 75, 85, 95],
+    "abilities": ["Keen Eye", "Iron Fist", "Inner Focus"],
+    "growthrate": "Medium_Fast",
+    "exp": 159,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/a/a3/107Hitmonchan.png/600px-107Hitmonchan.png",
+    "shinyURL": ""
+}

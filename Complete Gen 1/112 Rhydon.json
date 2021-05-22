@@ -1,0 +1,21 @@
+{
+    "name": "Rhydon",
+    "fillerinfo": "Drill Pokemon-1.9-120.0",
+    "dex": 112,
+    "type": ["Ground", "Rock"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [105, 130, 120, 45, 45, 40],
+    "ev": [0, 2, 0, 0, 0, 0],
+    "moves": ["Fury Attack", "Hammer Arm", "Horn Attack", "Horn Drill", "Scary Face", "Tail Whip", "Smack Down", "Stomp", "Bulldoze", "Chip Away", "Rock Blast", "Drill Run", "Take Down", "Stone Edge", "Earthquake", "Megahorn"],
+    "movesLVL": [1, 1, 1, 1, 1, 1, 13, 17, 21, 25, 29, 33, 37, 41, 48, 55],
+    "movesTM": [5, 6, 10, 11, 13, 14, 15, 17, 18, 21, 23, 24, 25, 26, 27, 31, 32, 35, 37, 38, 39, 42, 44, 45, 46, 48, 52, 56, 59, 65, 66, 67, 68, 69, 71, 75, 78, 80, 82, 84, 87, 88, 90, 94, 100],
+    "movesTR": [0, 1, 2, 3, 4, 5, 6, 8, 9, 10, 15, 20, 21, 24, 26, 27, 28, 31, 32, 35, 39, 46, 57, 62, 64, 67, 75, 76, 79, 87, 88, 94, 99],
+    "abilities": ["Lightning Rod", "Rock Head", "Reckless"],
+    "growthrate": "Slow",
+    "exp": 170,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/4/47/112Rhydon.png/600px-112Rhydon.png",
+    "shinyURL": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Marowak",
+    "fillerinfo": "Bone Keeper Pokemon-1.0-45.0",
+    "dex": 105,
+    "type": ["Ground", "Ground"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": ["Alolan Marowak"],
+    "mega": [],
+    "stats": [60, 80, 110, 50, 80, 45],
+    "ev": [0, 0, 2, 0, 0, 0],
+    "moves": ["Bone Club", "Growl", "Headbutt", "Tail Whip", "Leer", "Focus Energy", "Bonemerang", "Rage", "False Swipe", "Thrash", "Fling", "Stomping Tantrum", "Endeavor", "Double Edge", "Retaliate", "Bone Rush"],
+    "movesLVL": [1, 1, 1, 1, 13, 17, 21, 23, 27, 33, 37, 43, 49, 53, 59, 65],
+    "movesTM": [6, 10, 11, 13, 14, 15, 17, 21, 23, 26, 27, 31, 32, 35, 37, 38, 39, 40, 42, 44, 45, 46, 48, 49, 52, 54, 56, 68, 71, 75, 78, 80, 87, 88, 90, 100],
+    "movesTR": [0, 1, 2, 5, 6, 7, 10, 13, 15, 20, 24, 26, 27, 31, 35, 46, 64, 67, 74, 75, 76, 95],
+    "abilities": ["Rock Head", "Lightning Rod", "Battle Armor"],
+    "growthrate": "Medium_Fast",
+    "exp": 149,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/9/98/105Marowak.png/600px-105Marowak.png",
+    "shinyURL": ""
+}

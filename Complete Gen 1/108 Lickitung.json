@@ -1,0 +1,21 @@
+{
+    "name": "Lickitung",
+    "fillerinfo": "Licking Pokemon-1.2-65.5",
+    "dex": 108,
+    "type": ["Normal", "Normal"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [90, 55, 75, 60, 75, 30],
+    "ev": [2, 0, 0, 0, 0, 0],
+    "moves": ["Lick", "Supersonic", "Defense Curl", "Knock Off", "Wrap", "Stomp", "Disable", "Slam", "Rollout", "Chip Away", "Me First", "Refresh", "Screech", "Power Whip", "Wring Out"],
+    "movesLVL": [1, 5, 9, 13, 17, 21, 25, 29, 33, 37, 41, 45, 49, 53, 57],
+    "movesTM": [1, 6, 10, 11, 13, 14, 15, 17, 18, 21, 22, 24, 25, 26, 27, 30, 31, 32, 35, 37, 38, 39, 42, 44, 45, 46, 48, 56, 59, 68, 75, 77, 78, 80, 82, 85, 87, 90, 94, 100],
+    "movesTR": [0, 1, 2, 3, 4, 5, 6, 8, 9, 10, 15, 17, 20, 26, 27, 31, 33, 45, 69, 72, 85, 99],
+    "abilities": ["Own Tempo", "Oblivious", "Cloud Nine"],
+    "growthrate": "Medium_Fast",
+    "exp": 77,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/0/00/108Lickitung.png/600px-108Lickitung.png",
+    "shinyURL": ""
+}

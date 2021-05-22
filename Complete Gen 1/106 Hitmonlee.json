@@ -1,0 +1,21 @@
+{
+    "name": "Hitmonlee",
+    "fillerinfo": "Kicking Pokemon-1.5-49.8",
+    "dex": 106,
+    "type": ["Fighting", "Fighting"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [50, 120, 53, 35, 110, 87],
+    "ev": [0, 2, 0, 0, 0, 0],
+    "moves": ["Close Combat", "Double Kick", "Jump Kick", "Meditate", "Rolling Kick", "Mega Kick", "Revenge", "Reversal", "Rolling Kick", "Brick Break", "Focus Energy", "Feint", "HighJump Kick", "Mind Reader", "Foresight", "Wide Guard", "Blaze Kick", "Endure", "Reversal"],
+    "movesLVL": [1, 1, 1, 1, 1, 1, 1, 1, 9, 17, 21, 25, 29, 33, 37, 41, 45, 49],
+    "movesTM": [1, 6, 8, 10, 11, 17, 18, 21, 26, 27, 31, 32, 39, 42, 44, 45, 46, 47, 48, 52, 56, 71, 78, 80, 84, 87, 88, 90, 100],
+    "movesTR": [1 ,7, 10, 13, 14, 20, 21, 26, 27, 35, 39, 41, 48, 53, 56, 57, 64, 75, 85, 95],
+    "abilities": ["Limber", "Reckless", "Unburden"],
+    "growthrate": "Medium_Fast",
+    "exp": 159,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/3/32/106Hitmonlee.png/600px-106Hitmonlee.png",
+    "shinyURL": ""
+}
