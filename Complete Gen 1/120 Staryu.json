@@ -1,0 +1,21 @@
+{
+    "name": "Staryu",
+    "fillerinfo": "Star Shape Pokemon-0.8-34.5",
+    "dex": 120,
+    "type": ["Water", "Water"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [30, 45, 55, 70, 55, 85],
+    "ev": [0, 0, 0, 0, 0, 1],
+    "moves": ["Harden", "Tackle", "Water Gun", "Rapid Spin", "Recover", "Psywave", "Swift", "Bubble Beam", "Camouflage", "Gyro Ball", "Brine", "Minimize", "Reflect Type", "Power Gem", "Confuse Ray", "Psychic", "Light Screen", "Cosmic Power", "Hydro Pump"],
+    "movesLVL": [1, 1, 4, 7, 10, 13, 16, 18, 22, 24, 28, 31, 35, 37, 40, 42, 46, 49, 53],
+    "movesTM": [6, 7, 10, 13, 14, 16, 17, 18, 21, 24, 25, 27, 29, 32, 33, 42, 44, 48, 55, 73, 74, 77, 87, 88, 90, 91, 94, 98, 99, 100],
+    "movesTR": [3, 4, 5, 6, 8, 9, 11, 16, 19, 20, 26, 27, 44, 52, 63, 70, 84, 92],
+    "abilities": ["Illuminate", "Natural Cure", "Analytic"],
+    "growthrate": "Slow",
+    "exp": 68,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/4/4f/120Staryu.png/600px-120Staryu.png",
+    "shinyURL": ""
+}

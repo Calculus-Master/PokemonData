@@ -1,0 +1,21 @@
+{
+    "name": "Seadra",
+    "fillerinfo": "Dragon Pokemon-1.2-25.0",
+    "dex": 117,
+    "type": ["Water", "Water"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [55, 65, 95, 95, 45, 85],
+    "ev": [0, 0, 1, 1, 0, 0],
+    "moves": ["Bubble", "Hydro Pump", "Leer", "Smokescreen", "Water Gun", "Twister", "Bubble Beam", "Focus Energy", "Brine", "Agility", "Dragon Pulse", "Dragon Dance", "Hydro Pump"],
+    "movesLVL": [1, 1, 1, 1, 1, 17, 21, 26, 31, 38, 45, 52, 60],
+    "movesTM": [6, 7, 10, 13, 14, 15, 17, 18, 21, 27, 32, 42, 44, 45, 48, 55, 68, 87, 88, 90, 91, 94, 98, 100],
+    "movesTR": [3, 4, 5, 6, 12, 13, 16, 20, 24, 26, 27, 45, 51, 62, 70, 84, 98],
+    "abilities": ["Poison Point", "Sniper", "Damp"],
+    "growthrate": "Medium_Fast",
+    "exp": 154,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/2/26/117Seadra.png/600px-117Seadra.png",
+    "shinyURL": ""
+}

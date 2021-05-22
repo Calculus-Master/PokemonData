@@ -1,0 +1,21 @@
+{
+    "name": "Goldeen",
+    "fillerinfo": "Goldfish Pokemon-0.6-15.0",
+    "dex": 118,
+    "type": ["Water", "Water"],
+    "evolutions": ["Seaking"],
+    "evolutionsLVL": [33],
+    "forms": [],
+    "mega": [],
+    "stats": [45, 67, 60, 35, 50, 63],
+    "ev": [0, 1, 0, 0, 0, 0],
+    "moves": ["Peck", "Tail Whip", "Water Sport", "Supersonic", "Horn Attack", "Flail", "Water Pulse", "Aqua Ring", "Fury Attack", "Agility", "Waterfall", "Horn Drill", "Soak", "Megahorn"],
+    "movesLVL": [1, 1, 1, 5, 8, 13, 16, 21, 24, 29, 32, 37, 40, 45],
+    "movesTM": [6, 7, 10, 13, 14, 17, 18, 21, 27, 32, 42, 44, 45, 48, 55, 67, 84, 87, 88, 90, 94, 98, 100],
+    "movesTR": [0, 1, 3, 4, 5, 6, 12, 16, 20, 26, 27, 28, 45, 57, 84, 87, 95],
+    "abilities": ["Swift Swim", "Water Veil", "Lightning Rod"],
+    "growthrate": "Medium_Fast",
+    "exp": 64,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/7/7b/118Goldeen.png/600px-118Goldeen.png",
+    "shinyURL": ""
+}

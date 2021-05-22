@@ -1,0 +1,21 @@
+{
+    "name": "Horsea",
+    "fillerinfo": "Dragon Pokemon-0.4-8.0",
+    "dex": 116,
+    "type": ["Water", "Water"],
+    "evolutions": ["Seadra"],
+    "evolutionsLVL": [32],
+    "forms": [],
+    "mega": [],
+    "stats": [30, 40, 70, 70, 25, 60],
+    "ev": [0, 0, 0, 1, 0, 0],
+    "moves": ["Bubble", "Smokescreen", "Leer", "Water Gun", "Twister", "Bubble Beam", "Focus Energy", "Brine", "Agility", "Dragon Pulse", "Dragon Dance", "Hydro Pump"],
+    "movesLVL": [1, 5, 9, 13, 17, 21, 26, 31, 36, 41, 46, 52],
+    "movesTM": [6, 7, 10, 13, 14, 17, 18, 21, 27, 32, 42, 44, 45, 48, 55, 87, 88, 90, 91, 94, 98, 100],
+    "movesTR": [3, 4, 5, 6, 12, 13, 16, 20, 24, 26, 27, 45, 51, 62, 70, 84, 98],
+    "abilities": ["Swift Swim", "Sniper", "Damp"],
+    "growthrate": "Medium_Fast",
+    "exp": 59,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/5/5a/116Horsea.png/600px-116Horsea.png",
+    "shinyURL": ""
+}

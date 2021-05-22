@@ -1,0 +1,21 @@
+{
+    "name": "Starmie",
+    "fillerinfo": "Mysterious Pokemon-1.1-80.0",
+    "dex": 121,
+    "type": ["Water", "Psychic"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [60, 75, 85, 100, 85, 115],
+    "ev": [0, 0, 0, 0, 0, 2],
+    "moves": ["Hydro Pump", "Rapid Spin", "Recover", "Spotlight", "Swift", "Water Gun", "Confuse Ray"],
+    "movesLVL": [1, 1, 1, 1, 1, 1, 40],
+    "movesTM": [3, 6, 7, 10, 13, 14, 15, 16, 17, 18, 21, 24, 25, 27, 29, 32, 33, 42, 44, 48, 55, 68, 73, 74, 77, 85, 86, 87, 88, 90, 91, 92, 94, 98, 99, 100],
+    "movesTR": [3, 4, 5, 6, 8, 9, 11, 12, 16, 19, 20, 25, 26, 27, 38, 40, 44, 52, 63, 70, 77, 83, 84, 92],
+    "abilities": ["Illuminate", "Natural Cure", "Analytic"],
+    "growthrate": "Slow",
+    "exp": 182,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/c/cd/121Starmie.png/600px-121Starmie.png",
+    "shinyURL": ""
+}
