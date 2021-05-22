@@ -1,0 +1,21 @@
+{
+    "name": "Magikarp",
+    "fillerinfo": "Fish Pokemon-0.9-10.0",
+    "dex": 129,
+    "type": ["Water", "Water"],
+    "evolutions": ["Gyarados"],
+    "evolutionsLVL": [20],
+    "forms": [],
+    "mega": [],
+    "stats": [20, 10, 55, 15, 20, 80],
+    "ev": [0, 0, 0, 0, 0, 1],
+    "moves": ["Splash", "Tackle", "Flail"],
+    "movesLVL": [1, 15, 30],
+    "movesTM": [],
+    "movesTR": [3],
+    "abilities": ["Swift Swim", "Rattled"],
+    "growthrate": "Slow",
+    "exp": 40,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/0/02/129Magikarp.png/600px-129Magikarp.png",
+    "shinyURL": ""
+}
