@@ -1,0 +1,21 @@
+{
+    "name": "Krabby",
+    "fillerinfo": "River Crab Pokemon-0.4-6.5",
+    "dex": 98,
+    "type": ["Water", "Water"],
+    "evolutions": ["Kingler"],
+    "evolutionsLVL": [28],
+    "forms": [],
+    "mega": [],
+    "stats": [30, 105, 90, 25, 25, 50],
+    "ev": [0, 1, 0, 0, 0, 0],
+    "moves": ["Bubble", "Mud Sport", "Vise Grip", "Leer", "Harden", "Bubble Beam", "Mud Shot", "Metal Claw", "Stomp", "Protect", "Guillotine", "Slam", "Brine", "Crabhammer", "Flail"],
+    "movesLVL": [1, 1, 5, 9, 11, 15, 19, 21, 25, 29, 31, 35, 39, 41, 45],
+    "movesTM": [6, 7, 10, 13, 14, 17, 18, 21, 27, 31, 32, 39, 42, 44, 45, 46, 48, 54, 55, 56, 75, 80, 81, 87, 88, 90, 94, 100],
+    "movesTR": [0, 1, 4, 5, 6, 12, 17, 20, 26, 27, 39, 46, 60, 83, 84, 98],
+    "abilities": ["Hyper Cutter", "Shell Armor", "Sheer Force"],
+    "growthrate": "Medium_Fast",
+    "exp": 65,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/a/a7/098Krabby.png/600px-098Krabby.png",
+    "shinyURL": ""
+}

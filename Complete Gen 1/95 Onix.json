@@ -1,0 +1,21 @@
+{
+    "name": "Onix",
+    "fillerinfo": "Rock Snake Pokemon-8.8-210.0",
+    "dex": 95,
+    "type": ["Rock", "Ground"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [35, 45, 160, 30, 45, 70],
+    "ev": [0, 0, 1, 0, 0, 0],
+    "moves": ["Bind", "Harden", "Mud Sport", "Tackle", "Curse", "Rock Throw", "Rock Tomb", "Rage", "Stealth Rock", "Rock Polish", "Gyro Ball", "Smack Down", "Dragon Breath", "Slam", "Screech", "Rock Slide", "Sand Tomb", "Iron Tail", "Dig", "Stone Edge", "Double Edge", "Sandstorm"],
+    "movesLVL": [1, 1, 1, 1, 4, 7, 10, 13, 16, 19, 20, 22, 25, 28, 31, 34, 37, 40, 43, 46, 49, 52],
+    "movesTM": [5, 6, 10, 11, 12, 17, 21, 23, 26, 27, 32, 37, 39, 41, 42, 44, 45, 48, 59, 64, 66, 69, 71, 74, 77, 78, 80, 82, 87, 88, 90, 91, 96, 100],
+    "movesTR": [1, 10, 20, 26, 27, 31, 37, 51, 52, 62, 67, 70, 74, 75, 76, 79, 87, 94, 99],
+    "abilities": ["Rock Head", "Sturdy", "Weak Armor"],
+    "growthrate": "Medium_Fast",
+    "exp": 77,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/9/9a/095Onix.png/600px-095Onix.png",
+    "shinyURL": ""
+}

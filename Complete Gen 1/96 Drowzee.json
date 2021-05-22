@@ -1,0 +1,21 @@
+{
+    "name": "Drowzee",
+    "fillerinfo": "Hypnosis Pokemon-1.0-32.4",
+    "dex": 96,
+    "type": ["Psychic", "Psychic"],
+    "evolutions": ["Hypno"],
+    "evolutionsLVL": [26],
+    "forms": [],
+    "mega": [],
+    "stats": [60, 48, 45, 43, 90, 42],
+    "ev": [0, 0, 0, 0, 1, 0],
+    "moves": ["Hypnosis", "Pound", "Disable", "Confusion", "Headbutt", "Poison Gas", "Meditate", "Psybeam", "WakeUp Slap", "Psych Up", "Synchronoise", "Zen Headbutt", "Swagger", "Psychic", "Nasty Plot", "Psyshock", "Future Sight"],
+    "movesLVL": [1, 1, 5, 9, 13, 17, 21, 25, 29, 33, 37, 41, 45, 49, 53, 57, 61],
+    "movesTM": [3, 4, 6, 10, 11, 12, 16, 17, 18, 20, 21, 27, 29, 30, 31, 32, 33, 41, 42, 44, 45, 46, 47, 48, 56, 73, 77, 85, 86, 87, 88, 90, 92, 99, 100],
+    "movesTR": [],
+    "abilities": ["Insomnia", "Forewarn", "Inner Focus"],
+    "growthrate": "Medium_Fast",
+    "exp": 66,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/3/3e/096Drowzee.png/600px-096Drowzee.png",
+    "shinyURL": ""
+}
