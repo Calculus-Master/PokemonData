@@ -1,0 +1,21 @@
+{
+    "name": "Electrode",
+    "fillerinfo": "Ball Pokemon-1.2-66.6",
+    "dex": 101,
+    "type": ["Electric", "Electric"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [60, 50, 70, 80, 80, 150],
+    "ev": [0, 0, 0, 0, 0, 2],
+    "moves": ["Charge", "Eerie Impulse", "Magnetic Flux", "Sonic Boom", "Tackle", "Spark", "Rollout", "Screech", "Charge Beam", "Swift", "Electro Ball", "Self Destruct", "Light Screen", "Magnet Rise", "Discharge", "Explosion", "Gyro Ball", "Mirror Coat"],
+    "movesLVL": [1, 1, 1, 1, 1, 9, 11, 13, 16, 20, 22, 26, 29, 36, 41, 47, 54, 58],
+    "movesTM": [6, 10, 12, 15, 16, 17, 18, 21, 24, 25, 27, 32, 41, 42, 44, 46, 48, 57, 64, 68, 72, 73, 74, 87, 88, 90, 93, 100],
+    "movesTR": [],
+    "abilities": ["Soundproof", "Static", "Aftermath"],
+    "growthrate": "Medium_Fast",
+    "exp": 172,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/8/84/101Electrode.png/600px-101Electrode.png",
+    "shinyURL": ""
+}

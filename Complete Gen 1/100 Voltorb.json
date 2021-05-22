@@ -1,0 +1,21 @@
+{
+    "name": "Voltorb",
+    "fillerinfo": "Ball Pokemon-0.5-10.4",
+    "dex": 100,
+    "type": ["Electric", "Electric"],
+    "evolutions": ["Electrode"],
+    "evolutionsLVL": [30],
+    "forms": [],
+    "mega": [],
+    "stats": [40, 30, 50, 55, 55, 100],
+    "ev": [0, 0, 0, 0, 0, 1],
+    "moves": ["Charge", "Tackle", "Sonic Boom", "Eerie Impulse", "Spark", "Rollout", "Screech", "Charge Beam", "Swift", "Electro Ball", "Self Destruct", "Light Screen", "Magnet Rise", "Discharge", "Explosion", "Gyro Ball", "Mirror Coat"],
+    "movesLVL": [1, 1, 4, 5, 9, 11, 13, 16, 20, 22, 26, 29, 34, 37, 41, 46, 48],
+    "movesTM": [6, 10, 12, 16, 17, 18, 21, 24, 25, 27, 32, 41, 42, 44, 46, 48, 57, 64, 72, 73, 74, 87, 88, 90, 93, 100],
+    "movesTR": [],
+    "abilities": ["Soundproof", "Static", "Aftermath"],
+    "growthrate": "Medium_Fast",
+    "exp": 66,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/d/da/100Voltorb.png/600px-100Voltorb.png",
+    "shinyURL": ""
+}
