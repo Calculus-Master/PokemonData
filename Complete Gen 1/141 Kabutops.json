@@ -1,0 +1,21 @@
+{
+    "name": "Kabutops",
+    "fillerinfo": "Shellfish Pokemon-1.3-40.5",
+    "dex": 141,
+    "type": ["Rock", "Water"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [60, 115, 105, 65, 70, 80],
+    "ev": [0, 2, 0, 0, 0, 0],
+    "moves": ["Absorb", "Feint", "Harden", "Leer", "Night Slash", "Scratch", "Slash", "Mud Shot", "Sand Attack", "Endure", "Aqua Jet", "Mega Drain", "Metal Sound", "Ancient Power", "Wring Out"],
+    "movesLVL": [1, 1, 1, 1, 1, 1, 1, 16, 21, 26, 31, 36, 45, 54, 63],
+    "movesTM": [6, 7, 10, 13, 14, 15, 17, 18, 21, 23, 27, 31, 32, 37, 39, 40, 42, 44, 45, 46, 48, 55, 68, 69, 71, 75, 80, 81, 87, 88, 90, 94, 96, 98, 100],
+    "movesTR": [0, 1, 3, 4, 5, 6, 7, 16, 18, 20, 26, 27, 39, 46, 60, 67, 75, 76, 84, 98],
+    "abilities": ["Swift Swim", "Battle Armor", "Weak Armor"],
+    "growthrate": "Medium_Fast",
+    "exp": 173,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/2/29/141Kabutops.png/600px-141Kabutops.png",
+    "shinyURL": ""
+}
