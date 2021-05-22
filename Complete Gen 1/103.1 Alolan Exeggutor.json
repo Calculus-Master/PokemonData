@@ -1,0 +1,21 @@
+{
+    "name": "Alolan Exeggutor",
+    "fillerinfo": "Coconut Pokemon-10.0-415.6",
+    "dex": 103,
+    "type": ["Grass", "Dragon"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": ["Exeggutor"],
+    "mega": [],
+    "stats": [95, 105, 85, 125, 75, 45],
+    "ev": [0, 0, 0, 2, 0, 0],
+    "moves": ["Barrage", "Confusion", "Dragon Hammer", "Hypnosis", "Seed Bomb", "Psyshock", "Egg Bomb", "Wood Hammer", "Leaf Storm"],
+    "movesLVL": [1, 1, 1, 1, 1, 17, 27, 37, 47],
+    "movesTM": [3, 6, 10, 11, 15, 16, 17, 21, 22, 26, 27, 29, 31, 32, 33, 35, 36, 42, 44, 45, 46, 48, 53, 59, 64, 68, 75, 77, 78, 82, 83, 85, 86, 87, 88, 90, 92, 96, 100],
+    "movesTR": [0, 2, 7, 10, 11, 20, 22, 24, 25, 26, 27, 31, 35, 39, 40, 59, 62, 65, 69, 71, 72, 74, 77],
+    "abilities": ["Frisk", "Harvest"],
+    "growthrate": "Slow",
+    "exp": 186,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/7/74/103Exeggutor-Alola.png/600px-103Exeggutor-Alola.png",
+    "shinyURL": ""
+}

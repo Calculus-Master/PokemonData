@@ -1,0 +1,21 @@
+{
+    "name": "Exeggcute",
+    "fillerinfo": "Egg Pokemon-0.4-2.5",
+    "dex": 102,
+    "type": ["Grass", "Psychic"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [60, 40, 80, 60, 45, 40],
+    "ev": [0, 0, 1, 0, 0, 0],
+    "moves": ["Barrage", "Hypnosis", "Uproar", "Reflect", "Leech Seed", "Bullet Seed", "Stun Spore", "Poison Powder", "Sleep Powder", "Confusion", "Worry Seed", "Natural Gift", "Solar Beam", "Extrasensory", "Bestow"],
+    "movesLVL": [1, 1, 1, 7, 11, 17, 19, 21, 23, 27, 33, 37, 43, 47, 50],
+    "movesTM": [6, 10, 11, 16, 17, 21, 22, 27, 29, 32, 33, 36, 42, 44, 45, 46, 48, 53, 64, 75, 77, 83, 85, 86, 87, 88, 90, 92, 96, 100],
+    "movesTR": [0, 11, 20, 22, 26, 27, 35, 40, 59, 65, 71, 77],
+    "abilities": ["Chlorophyll", "Harvest"],
+    "growthrate": "Slow",
+    "exp": 65,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/a/af/102Exeggcute.png/600px-102Exeggcute.png",
+    "shinyURL": ""
+}
