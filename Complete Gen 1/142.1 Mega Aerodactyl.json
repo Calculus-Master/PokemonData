@@ -1,0 +1,21 @@
+{
+    "name": "Mega Aerodactyl",
+    "fillerinfo": "Fossil Pokemon-2.1-79.0",
+    "dex": 142,
+    "type": ["Rock", "Flying"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": ["Mega Aerodactyl"],
+    "stats": [80, 135, 85, 70, 95, 150],
+    "ev": [0, 0, 0, 0, 0, 2],
+    "moves": ["Bite", "Fire Fang", "Ice Fang", "Iron Head", "Scary Face", "Supersonic", "Thunder Fang", "Wing Attack", "Roar", "Agility", "Ancient Power", "Crunch", "Take Down", "Sky Drop", "Iron Head", "Hyper Beam", "Rock Slide", "Giga Impact"],
+    "movesLVL": [1, 1, 1, 1, 1, 1, 1, 1, 9, 17, 25, 33, 41, 49, 57, 65, 73, 81],
+    "movesTM": [2, 5, 6, 10, 11, 12, 15, 17, 18, 19, 21, 23, 26, 27, 32, 35, 37, 38, 39, 40, 41, 42, 44, 45, 46, 48, 51, 58, 59, 66, 68, 69, 71, 76, 78, 80, 87, 88, 90, 100],
+    "movesTR": [2, 10, 12, 15, 20, 26, 27, 31, 32, 36, 37, 47, 51, 62, 67, 74, 75, 76, 89, 97],
+    "abilities": ["Tough Claws"],
+    "growthrate": "Slow",
+    "exp": 215,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/a/a5/142Aerodactyl-Mega.png",
+    "shinyURL": ""
+}
