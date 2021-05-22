@@ -1,0 +1,21 @@
+{
+    "name": "Grimer",
+    "fillerinfo": "Sludge Pokemon-0.7-42.0",
+    "dex": 88,
+    "type": ["Poison", "Dark"],
+    "evolutions": ["Alolan Muk"],
+    "evolutionsLVL": [38],
+    "forms": ["Grimer"],
+    "mega": [],
+    "stats": [80, 80, 50, 40, 50, 25],
+    "ev": [1, 0, 0, 0, 0, 0],
+    "moves": ["Poison Gas", "Pound", "Harden", "Bite", "Disable", "Acid Spray", "Poison Fang", "Minimize", "Fling", "Knock Off", "Crunch", "Screech", "Gunk Shot", "Acid Armor", "Belch", "Memento"],
+    "movesLVL": [1, 1, 4, 7, 12, 15, 18, 21, 26, 29, 32, 37, 40, 43, 46, 48],
+    "movesTM": [6, 9, 10, 11, 12, 17, 18, 21, 27, 30, 32, 34, 35, 36, 38, 39, 41, 42, 44, 45, 46, 48, 56, 59, 60, 63, 64, 66, 69, 71, 80, 83, 84, 87, 88, 90, 95, 100],
+    "movesTR": [],
+    "abilities": ["Poison Touch", "Gluttony", "Power of Alchemy"],
+    "growthrate": "Medium_Fast",
+    "exp": 65,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/e/e0/088Grimer-Alola.png/600px-088Grimer-Alola.png",
+    "shinyURL": ""
+}

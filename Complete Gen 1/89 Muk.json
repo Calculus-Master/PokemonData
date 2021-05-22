@@ -1,0 +1,21 @@
+{
+    "name": "Muk",
+    "fillerinfo": "Sludge Pokemon-1.2-30.0",
+    "dex": 89,
+    "type": ["Poison", "Poison"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": ["Alolan Muk"],
+    "mega": [],
+    "stats": [105, 105, 75, 65, 100, 50],
+    "ev": [1, 1, 0, 0, 0, 0],
+    "moves": ["Harden", "Mud Slap", "Poison Gas", "Pound", "Venom Drench", "Disable", "Sludge", "Mud Bomb", "Minimize", "Fling", "Sludge Bomb", "Sludge Wave", "Screech", "Gunk Shot", "Acid Armor", "Belch", "Memento"],
+    "movesLVL": [1, 1, 1, 1, 1, 12, 15, 18, 21, 26, 29, 32, 37, 40, 46, 52, 57],
+    "movesTM": [6, 9, 10, 11, 12, 15, 17, 18, 21, 24, 25, 27, 30, 31, 32, 34, 35, 36, 38, 39, 41, 42, 44, 45, 46, 48, 52, 56, 64, 66, 68, 80, 83, 84, 87, 88, 90, 97, 100],
+    "movesTR": [],
+    "abilities": ["Stench", "Sticky Hold", "Poison Touch"],
+    "growthrate": "Medium_Fast",
+    "exp": 175,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/7/7c/089Muk.png/600px-089Muk.png",
+    "shinyURL": ""
+}
