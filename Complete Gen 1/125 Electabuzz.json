@@ -1,0 +1,21 @@
+{
+    "name": "Electabuzz",
+    "fillerinfo": "Electric Pokemon-1.1-30.0",
+    "dex": 125,
+    "type": ["Electric", "Electric"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [65, 83, 57, 95, 85, 105],
+    "ev": [0, 0, 0, 0, 0, 2],
+    "moves": ["Leer", "Quick Attack", "Thunder Shock", "Low Kick", "Swift", "Shock Wave", "Thunder Wave", "Electro Ball", "Light Screen", "Thunder Punch", "Discharge", "Screech", "Thunderbolt", "Thunder"],
+    "movesLVL": [1, 1, 1, 8, 12, 15, 19, 22, 26, 29, 36, 42, 49, 55],
+    "movesTM": [6, 10, 15, 16, 17, 18, 21, 24, 25, 27, 29, 31, 32, 42, 44, 45, 46, 47, 48, 52, 56, 57, 68, 72, 73, 87, 88, 90, 93, 100],
+    "movesTR": [1, 7, 8, 9, 11, 20, 26, 27, 31, 35, 64, 80, 86],
+    "abilities": ["Static", "Vital Spirit"],
+    "growthrate": "Medium_Fast",
+    "exp": 172,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/d/de/125Electabuzz.png/600px-125Electabuzz.png",
+    "shinyURL": ""
+}

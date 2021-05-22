@@ -1,0 +1,21 @@
+{
+    "name": "Mega Pinsir",
+    "fillerinfo": "Stag Beetle Pokemon-1.7-59.0",
+    "dex": 127,
+    "type": ["Bug", "Flying"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [65, 155, 120, 65, 90, 105],
+    "ev": [0, 2, 0, 0, 0, 0],
+    "moves": ["Focus Energy", "Vise Grip", "Bind", "Seismic Toss", "Harden", "Revenge", "Vital Throw", "Double Hit", "Brick Break", "X Scissor", "Submission", "Storm Throw", "Swords Dance", "Thrash", "Superpower", "Guillotine"],
+    "movesLVL": [1, 1, 4, 8, 11, 15, 18, 22, 26, 29, 33, 36, 40, 43, 47, 50],
+    "movesTM": [6, 8, 10, 11, 15, 17, 18, 21, 23, 26, 27, 31, 32, 39, 42, 44, 45, 46, 48, 52, 54, 56, 59, 68, 71, 75, 78, 80, 81, 87, 88, 90, 100],
+    "movesTR": [0, 1, 10, 13, 20, 21, 26, 27, 39, 46, 48, 53, 60, 64, 75, 76, 94, 95],
+    "abilities": ["Aerilate"],
+    "growthrate": "Slow",
+    "exp": 210,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/7/74/127Pinsir-Mega.png/600px-127Pinsir-Mega.png",
+    "shinyURL": ""
+}
