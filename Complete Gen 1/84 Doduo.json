@@ -1,0 +1,21 @@
+{
+    "name": "Doduo",
+    "fillerinfo": "Twin Bird Pokemon-1.4-39.2",
+    "dex": 84,
+    "type": ["Normal", "Flying"],
+    "evolutions": ["Dodrio"],
+    "evolutionsLVL": [31],
+    "forms": [],
+    "mega": [],
+    "stats": [35, 85, 45, 35, 35, 75],
+    "ev": [0, 1, 0, 0, 0, 0],
+    "moves": ["Growl", "Peck", "Quick Attack", "Rage", "Fury Attack", "Pursuit", "Pluck", "Double Hit", "Agility", "Uproar", "Acupressure", "Swords Dance", "Jump Kick", "Drill Peck", "Endeavor", "Thrash"],
+    "movesLVL": [1, 1, 5, 8, 12, 15, 19, 22, 26, 29, 33, 36, 40, 43, 47, 50],
+    "movesTM": [1, 6, 10, 11, 17, 19, 21, 27, 32, 40, 42, 44, 45, 46, 48, 49, 51, 75, 76, 87, 88, 90, 100],
+    "movesTR": [],
+    "abilities": ["Run Away", "Early Bird", "Tangled Feet"],
+    "growthrate": "Medium_Fast",
+    "exp": 62,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/5/54/084Doduo.png/600px-084Doduo.png",
+    "shinyURL": ""
+}

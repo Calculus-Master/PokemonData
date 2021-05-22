@@ -1,0 +1,21 @@
+{
+    "name": "Dewgong",
+    "fillerinfo": "Sea Lion Pokemon-1.7-120.0",
+    "dex": 87,
+    "type": ["Water", "Ice"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [90, 70, 80, 70, 95, 70],
+    "ev": [0, 0, 0, 0, 2, 0],
+    "moves": ["Growl", "Headbutt", "Icy Wind", "Sheer Cold", "Signal Beam", "Encore", "Ice Shard", "Rest", "Aqua Ring", "Aurora Beam", "Aqua Jet", "Brine", "Take Down", "Dive", "Aqua Tail", "Ice Beam", "Safeguard", "Hail"],
+    "movesLVL": [1, 1, 1, 1, 1, 13, 17, 21, 23, 27, 31, 33, 39, 45, 49, 55, 61, 65],
+    "movesTM": [6, 7, 10, 13, 14, 15, 17, 18, 20, 21, 27, 32, 42, 44, 45, 46, 48, 49, 56, 67, 68, 79, 87, 88, 90, 94, 98, 100],
+    "movesTR": [],
+    "abilities": ["Thick Fat", "Hydration", "Ice Body"],
+    "growthrate": "Medium_Fast",
+    "exp": 166,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/c/c7/087Dewgong.png/600px-087Dewgong.png",
+    "shinyURL": ""
+}

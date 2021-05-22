@@ -1,0 +1,21 @@
+{
+    "name": "Dodrio",
+    "fillerinfo": "Triple Bird Pokemon-1.8-85.2",
+    "dex": 85,
+    "type": ["Normal", "Flying"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [60, 110, 70, 60, 60, 110],
+    "ev": [0, 2, 0, 0, 0, 0],
+    "moves": ["Growl", "Peck", "Quick Attack", "Rage", "Tri Attack", "Fury Attack", "Pursuit", "Pluck", "Double Hit", "Agility", "Uproar", "Acupressure", "Swords Dance", "Jump Kick", "Drill Peck", "Endeavor", "Thrash"],
+    "movesLVL": [1, 1, 1, 1, 1, 12, 15, 19, 22, 26, 29, 34, 38, 43, 47, 52, 56],
+    "movesTM": [1, 6, 10, 11, 12, 15, 17, 19, 21, 27, 32, 40, 41, 42, 44, 45, 46, 48, 49, 51, 66, 68, 75, 76, 87, 88, 90, 100],
+    "movesTR": [],
+    "abilities": ["Run Away", "Early Bird", "Tangled Feet"],
+    "growthrate": "Medium_Fast",
+    "exp": 165,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/9/93/085Dodrio.png/600px-085Dodrio.png",
+    "shinyURL": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Seel",
+    "fillerinfo": "Sea Lion Pokemon-1.1-90.0",
+    "dex": 86,
+    "type": ["Water", "Water"],
+    "evolutions": ["Dewgong"],
+    "evolutionsLVL": [34],
+    "forms": [],
+    "mega": [],
+    "stats": [65, 45, 55, 45, 70, 45],
+    "ev": [0, 0, 0, 0, 1, 0],
+    "moves": ["Headbutt", "Growl", "Water Sport", "Icy Wind", "Encore", "Ice Shard", "Rest", "Aqua Ring", "Aurora Beam", "Aqua Jet", "Brine", "Take Down", "Dive", "Aqua Tail", "Ice Beam", "Safeguard", "Hail"],
+    "movesLVL": [1, 3, 7, 11, 13, 16, 21, 23, 27, 31, 33, 37, 41, 43, 47, 51, 53],
+    "movesTM": [6, 7, 10, 13, 14, 17, 18, 20, 21, 27, 32, 42, 44, 45, 46, 48, 49, 56, 67, 87, 88, 90, 94, 98, 100],
+    "movesTR": [],
+    "abilities": ["Thick Fat", "Hydration", "Ice Body"],
+    "growthrate": "Medium_Fast",
+    "exp": 65,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/1/1f/086Seel.png/600px-086Seel.png",
+    "shinyURL": ""
+}
