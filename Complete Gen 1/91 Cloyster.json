@@ -1,0 +1,21 @@
+{
+    "name": "Cloyster",
+    "fillerinfo": "Bivalve Pokemon-1.5-132.5",
+    "dex": 91,
+    "type": ["Water", "Ice"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [50, 95, 180, 85, 45, 70],
+    "ev": [0, 0, 2, 0, 0, 0],
+    "moves": ["Aurora Beam", "Hydro Pump", "Protect", "Shell Smash", "Supersonic", "Toxic Spikes", "Withdraw", "Spike Cannon", "Spikes", "Icicle Crash"],
+    "movesLVL": [1, 1, 1, 1, 1, 1, 1, 13, 28, 50],
+    "movesTM": [6, 7, 10, 13, 14, 15, 17, 18, 21, 27, 32, 41, 42, 44, 45, 48, 64, 66, 67, 68, 79, 84, 87, 88, 90, 94, 100],
+    "movesTR": [3, 4, 5, 6, 19, 20, 23, 26, 27, 46, 54, 57, 98],
+    "abilities": ["Shell Armor", "Skill Link", "Overcoat"],
+    "growthrate": "Slow",
+    "exp": 184,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/1/1d/091Cloyster.png/600px-091Cloyster.png",
+    "shinyURL": ""
+}

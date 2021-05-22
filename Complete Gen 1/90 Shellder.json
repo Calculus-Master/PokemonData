@@ -1,0 +1,21 @@
+{
+    "name": "Shellder",
+    "fillerinfo": "Bivalve Pokemon-0.3-4.0",
+    "dex": 90,
+    "type": ["Water", "Water"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [30, 65, 100, 45, 25, 40],
+    "ev": [0, 0, 1, 0, 0, 0],
+    "moves": ["Tackle", "Water Gun", "Withdraw", "Supersonic", "Icicle Spear", "Protect", "Leer", "Clamp", "Ice Shard", "Razor Shell", "Aurora Beam", "Whirlpool", "Brine", "Iron Defense", "Ice Beam", "Shell Smash", "Hydro Pump"],
+    "movesLVL": [1, 1, 4, 8, 13, 16, 20, 25, 28, 32, 37, 40, 44, 49, 52, 56, 61],
+    "movesTM": [6, 7, 10, 13, 14, 17, 18, 21, 27, 32, 42, 44, 45, 48, 64, 66, 87, 88, 90, 94, 100],
+    "movesTR": [3, 4, 5, 6, 19, 20, 26, 27, 46, 98],
+    "abilities": ["Shell Armor", "Skill Link", "Overcoat"],
+    "growthrate": "Slow",
+    "exp": 61,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/4/40/090Shellder.png/600px-090Shellder.png",
+    "shinyURL": ""
+}

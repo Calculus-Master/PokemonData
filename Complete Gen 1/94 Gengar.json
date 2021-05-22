@@ -1,0 +1,21 @@
+{
+    "name": "Gengar",
+    "fillerinfo": "Shadow Pokemon-1.5-40.5",
+    "dex": 94,
+    "type": ["Ghost", "Poison"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": ["Mega Gengar"],
+    "stats": [60, 65, 60, 130, 75, 110],
+    "ev": [0, 0, 0, 3, 0, 0],
+    "moves": ["Hypnosis", "Lick", "Shadow Punch", "Spite", "Mean Look", "Curse", "Night Shade", "Confuse Ray", "Sucker Punch", "Payback", "Shadow Ball", "Dream Eater", "Dark Pulse", "Destiny Bond", "Hex", "Nightmare"],
+    "movesLVL": [1, 1, 1, 1, 5, 8, 12, 15, 19, 22, 28, 33, 39, 44, 50, 55, 61],
+    "movesTM": [6, 9, 10, 11, 12, 15, 17, 18, 21, 24, 25, 27, 29, 30, 31, 32, 36, 41, 42, 44, 45, 46, 48, 52, 53, 56, 61, 63, 64, 65, 66, 68, 77, 83, 84, 85, 87, 88, 90, 92, 97, 99, 100],
+    "movesTR": [1, 8, 9, 11, 14, 20, 22, 26, 27, 30, 33, 35, 37, 38, 40, 57, 58, 64, 65, 68, 78, 81, 83, 92],
+    "abilities": ["Cursed Body"],
+    "growthrate": "Medium_Slow",
+    "exp": 225,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/c/c6/094Gengar.png/600px-094Gengar.png",
+    "shinyURL": ""
+}
