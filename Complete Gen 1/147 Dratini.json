@@ -1,0 +1,21 @@
+{
+    "name": "Dratini",
+    "fillerinfo": "Dragon Pokemon-1.8-3.3",
+    "dex": 147,
+    "type": ["Dragon", "Dragon"],
+    "evolutions": ["Dragonair", "Dragonite"],
+    "evolutionsLVL": [30, 55],
+    "forms": [],
+    "mega": [],
+    "stats": [41, 64, 45, 50, 50, 50],
+    "ev": [0, 1, 0, 0, 0, 0],
+    "moves": ["Leer", "Wrap", "Thunder Wave", "Twister", "Dragon Rage", "Slam", "Agility", "Dragon Tail", "Aqua Tail", "Dragon Rush", "Safeguard", "Dragon Dance", "Outrage", "Hyper Beam"],
+    "movesLVL": [1, 1, 5, 11, 15, 21, 25, 31, 35, 41, 45, 51, 55, 61],
+    "movesTM": [6, 7, 10, 11, 13, 14, 15, 16, 17, 18, 20, 21, 24, 25, 27, 32, 35, 38, 42, 44, 45, 48, 59, 73, 82, 87, 88, 90, 94, 98, 100],
+    "movesTR": [1, 2, 3, 4, 5, 6, 8, 9, 12, 15, 16, 20, 24, 26, 27, 31, 51, 62],
+    "abilities": ["Shed Skin", "Marvel Scale"],
+    "growthrate": "Slow",
+    "exp": 60,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/c/cc/147Dratini.png/600px-147Dratini.png",
+    "shinyURL": ""
+}
