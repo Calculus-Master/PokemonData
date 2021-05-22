@@ -1,0 +1,21 @@
+{
+    "name": "Farfetchd",
+    "fillerinfo": "Wild Duck Pokemon-0.8-15.0",
+    "dex": 83,
+    "type": ["Normal", "Flying"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": ["Galarian Farfetchd"],
+    "mega": [],
+    "stats": [52, 90, 55, 58, 62, 60],
+    "ev": [0, 1, 0, 0, 0, 0],
+    "moves": ["Brave Bird", "Fury Cutter", "Leer", "Peck", "Poison Jab", "Sand Attack", "Aerial Ace", "Knock Off", "Slash", "Air Cutter", "Swords Dance", "Agility", "Night Slash", "Acrobatics", "Feint", "False Swipe", "Air Slash"],
+    "movesLVL": [1, 1, 1, 1, 1, 1, 7, 9, 13, 19, 21, 25, 31, 33, 37, 43, 45, 49],
+    "movesTM": [1, 6, 10, 11, 17, 19, 21, 27, 32, 40, 42, 44, 45, 46, 48, 51, 54, 59, 62, 75, 76, 77, 84, 87, 88, 89, 90, 100],
+    "movesTR": [0, 1, 12, 13 ,20, 26, 27, 29, 31, 35, 36, 50, 53, 57, 66, 85, 95],
+    "abilities": ["Keen Eye", "Inner Focus", "Defiant"],
+    "growthrate": "Medium_Fast",
+    "exp": 132,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/f/f8/083Farfetch%27d.png/600px-083Farfetch%27d.png",
+    "shinyURL": ""
+}

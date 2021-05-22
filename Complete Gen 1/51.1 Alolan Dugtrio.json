@@ -1,5 +1,5 @@
 {
-    "name": "Dugtrio",
+    "name": "Alolan Dugtrio",
     "fillerinfo": "Mole Pokemon-0.7-66.6",
     "dex": 51,
     "type": ["Ground", "Steel"],
@@ -16,6 +16,6 @@
     "abilities": ["Sand Veil", "Tangling Hair", "Sand Force"],
     "growthrate": "Medium_Fast",
     "exp": 149,
-    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/e/e5/051Dugtrio.png/600px-051Dugtrio.png",
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/2/22/051Dugtrio-Alola.png/600px-051Dugtrio-Alola.png",
     "shinyURL": ""
 }

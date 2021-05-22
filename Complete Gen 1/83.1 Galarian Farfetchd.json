@@ -1,0 +1,21 @@
+{
+    "name": "Galarian Farfetchd",
+    "fillerinfo": "Wild Duck Pokemon-0.8-42.0",
+    "dex": 83,
+    "type": ["Fighting", "Fighting"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": ["Farfetchd"],
+    "mega": [],
+    "stats": [52, 95, 55, 58, 62, 55],
+    "ev": [0, 1, 0, 0, 0, 0],
+    "moves": ["Peck", "Sand Attack", "Leer", "Fury Cutter", "Rock Smash", "Brutal Swing", "Detect", "Knock Off", "Defog", "Brick Break", "Swords Dance", "Slam", "Leaf Blade", "Final Gambit", "Brave Bird"],
+    "movesLVL": [1, 1, 5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 60, 65],
+    "movesTM": [],
+    "movesTR": [0, 1, 13, 20, 26, 27, 39, 50, 53, 57, 66, 85, 95],
+    "abilities": ["Steadfast", "Scrappy"],
+    "growthrate": "Medium_Fast",
+    "exp": 132,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/7/7d/083Farfetch%27d-Galar.png",
+    "shinyURL": ""
+}
