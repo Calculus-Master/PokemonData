@@ -1,0 +1,21 @@
+{
+    "name": "Regidrago",
+    "fillerinfo": "Dragon Orb Pokemon-2.1-200.0",
+    "dex": 895,
+    "type": ["Dragon", "Dragon"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [200, 100, 50, 100, 50, 80],
+    "ev": [3, 0, 0, 0, 0, 0],
+    "moves": ["Twister", "Vise Grip", "Bite", "Ancient Power", "Dragon Breath", "Focus Energy", "Crunch", "Dragon Claw", "Hammer Arm", "Dragon Dance", "Thrash", "Laser Focus", "Dragon Energy", "Hyper Beam", "Explosion"],
+    "movesLVL": [1, 1, 6, 12, 18, 24, 30, 36, 42, 48, 54, 60, 66, 72, 78],
+    "movesTM": [],
+    "movesTR": [1, 13, 20, 21, 24, 26, 27, 32, 47, 51, 62],
+    "abilities": [],
+    "growthrate": "Slow",
+    "exp": 290,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/e/e8/895Regidrago.png/600px-895Regidrago.png",
+    "shinyURL": ""
+}
