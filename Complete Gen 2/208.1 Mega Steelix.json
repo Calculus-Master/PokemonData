@@ -1,0 +1,21 @@
+{
+    "name": "Mega Steelix",
+    "fillerinfo": "Iron Snake Pokemon-10.5-740.0",
+    "dex": 208,
+    "type": ["Steel", "Ground"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [75, 125, 230, 55, 95, 30],
+    "ev": [0, 0, 2, 0, 0, 0],
+    "moves": ["Bind", "Fire Fang", "Harden", "Ice Fang", "Mud Sport", "Tackle", "Thunder Fang", "Curse", "Rock Throw", "Rock Tomb", "Rage", "Stealth Rock", "Autotomize", "Gyro Ball", "Smack Down", "Dragon Breath", "Slam", "Screech", "Rock Slide", "Crunch", "Iron Tail", "Dig", "Stone Edge", "Double Edge", "Sandstorm"],
+    "movesLVL": [1, 1, 1, 1, 1, 1, 1, 4, 7, 10, 13, 16, 19, 20, 22, 25, 28, 31, 34, 37, 40, 43, 46, 49, 52],
+    "movesTM": [5, 6, 10, 11, 12, 15, 17, 21, 23, 26, 27, 32, 37, 39, 41, 42, 44, 45, 48, 59, 64, 66, 68, 69, 71, 74, 77, 78, 80, 82, 87, 88, 90, 91, 96, 97, 100],
+    "movesTR": [1, 10, 20, 26, 27, 31, 32, 37, 46, 51, 52, 58, 62, 67, 70, 74, 75, 76, 79, 87, 94, 97, 99],
+    "abilities": ["Sand Force"],
+    "growthrate": "Medium_Fast",
+    "exp": 214,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/1/1b/208Steelix-Mega.png/600px-208Steelix-Mega.png",
+    "shinyURL": ""
+}
