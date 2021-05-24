@@ -1,0 +1,21 @@
+{
+    "name": "Giratina",
+    "fillerinfo": "Renegade Pokemon-4.5-750.0",
+    "dex": 487,
+    "type": ["Ghost", "Dragon"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": ["Giratina"],
+    "mega": [],
+    "stats": [150, 120, 100, 120, 100, 90],
+    "ev": [3, 0, 0, 0, 0, 0],
+    "moves": ["Dragon Breath", "Scary Face", "Ominous Wind", "Ancient Power", "Slash", "Shadow Sneak", "Destiny Bond", "Dragon Claw", "Earth Power", "Aura Sphere", "Shadow Claw", "Shadow Force", "Hex"],
+    "movesLVL": [1, 1, 6, 10, 15, 19, 24, 28, 33, 37, 42, 46, 50],
+    "movesTM": [2, 4, 5, 6, 10, 11, 15, 17, 18, 20, 21, 24, 25, 26, 27, 29, 30, 32, 40, 42, 44, 48, 49, 51, 53, 57, 59, 61, 65, 66, 68, 71, 73, 76, 77, 78, 82, 85, 87, 88, 90, 97, 100],
+    "movesTR": [1, 8, 9, 10, 11, 20, 24, 26, 27, 31, 33, 42, 47, 49, 56, 58, 62, 65, 67, 74, 75],
+    "abilities": ["Levitate"],
+    "growthrate": "Slow",
+    "exp": 306,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/2/2b/487Giratina-Origin.png/600px-487Giratina-Origin.png",
+    "shinyURL": ""
+}
