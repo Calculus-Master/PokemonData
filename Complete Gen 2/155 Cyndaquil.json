@@ -1,6 +1,6 @@
 {
     "name": "Cyndaquil",
-    "fillerinfo": "Cyndaquil-0.5-7.9",
+    "fillerinfo": "Fire Mouse Pokemon-0.5-7.9",
     "dex": 155,
     "type": ["Fire", "Fire"],
     "evolutions": ["Quilava", "Typhlosion"],
@@ -16,6 +16,6 @@
     "abilities": ["Blaze", "Flash Fire"],
     "growthrate": "Medium_Slow",
     "exp": 62,
-    "normalURL": "",
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/9/9b/155Cyndaquil.png/600px-155Cyndaquil.png",
     "shinyURL": ""
 }
