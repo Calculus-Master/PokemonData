@@ -1,0 +1,21 @@
+{
+    "name": "Grubbin",
+    "fillerinfo": "Larva Pokemon-0.4-4.4",
+    "dex": 736,
+    "type": ["Bug", "Bug"],
+    "evolutions": ["Charjabug"],
+    "evolutionsLVL": [20],
+    "forms": [],
+    "mega": [],
+    "stats": [47, 62, 45, 55, 45, 46],
+    "ev": [0, 1, 0, 0, 0, 0],
+    "moves": ["Vise Grip", "String Shot", "Mud Slap", "Bite", "Bug Bite", "Spark", "Acrobatics", "Crunch", "X Scissor", "Dig"],
+    "movesLVL": [1, 4, 7, 10, 13, 16, 19, 22, 25, 28],
+    "movesTM": [6, 10, 16, 17, 18, 21, 24, 27, 32, 42, 44, 45, 48, 57, 62, 72, 73, 81, 84, 87, 88, 90, 93, 100],
+    "movesTR": [8, 20, 26, 27, 32, 57, 60, 86],
+    "abilities": ["Swarm"],
+    "growthrate": "Medium_Fast",
+    "exp": 60,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/1/14/736Grubbin.png/600px-736Grubbin.png",
+    "shinyURL": ""
+}

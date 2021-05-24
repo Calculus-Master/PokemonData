@@ -1,0 +1,21 @@
+{
+    "name": "Charjabug",
+    "fillerinfo": "Battery Pokemon-0.5-10.5",
+    "dex": 737,
+    "type": ["Bug", "Electric"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [57, 82, 95, 55, 75, 36],
+    "ev": [0, 0, 2, 0, 0, 0],
+    "moves": ["Bite", "Charge", "Mud Slap", "String Shot", "Vise Grip", "Bug Bite", "Spark", "Acrobatics", "Crunch", "X Scissor", "Dig", "Discharge", "Iron Defense"],
+    "movesLVL": [1, 1, 1, 1, 1, 13, 16, 19, 25, 31, 37, 43, 49],
+    "movesTM": [6, 10, 16, 17, 18, 21, 24, 32, 42, 44, 45, 48, 57, 62, 72, 73, 81, 84, 87, 88, 90, 93, 100],
+    "movesTR": [8, 20, 26, 27, 32, 46, 57, 60, 80, 86],
+    "abilities": ["Battery"],
+    "growthrate": "Medium_Fast",
+    "exp": 140,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/e/ec/737Charjabug.png/600px-737Charjabug.png",
+    "shinyURL": ""
+}

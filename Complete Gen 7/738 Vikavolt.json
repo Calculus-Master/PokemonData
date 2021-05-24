@@ -1,0 +1,21 @@
+{
+    "name": "Vikavolt",
+    "fillerinfo": "Stag Beetle Pokemon-1.5-45.0",
+    "dex": 738,
+    "type": ["Bug", "Electric"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [77, 70, 90, 145, 75, 43],
+    "ev": [0, 0, 0, 3, 0, 0],
+    "moves": ["Air Slash", "Bite", "Charge", "Mud Slap", "String Shot", "Thunderbolt", "Vise Grip", "Bug Bite", "Spark", "Acrobatics", "Guillotine", "Bug Buzz", "Dig", "Zap Cannon", "Agility"],
+    "movesLVL": [1, 1, 1, 1, 1, 1, 1, 13, 16, 19, 25, 31, 37, 41, 49],
+    "movesTM": [6, 10, 16, 16, 17, 18, 19, 21, 22, 24, 25, 27, 32, 42, 44, 45, 48, 53, 57, 58, 62, 68, 72, 73, 81, 84, 87, 88, 90, 91, 93, 100],
+    "movesTR": [8, 9, 12, 20, 26, 27, 32, 46, 57, 60, 61, 65, 70, 80, 86],
+    "abilities": ["Levitate"],
+    "growthrate": "Medium_Fast",
+    "exp": 225,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/4/4e/738Vikavolt.png/600px-738Vikavolt.png",
+    "shinyURL": ""
+}
