@@ -1,0 +1,21 @@
+{
+    "name": "Primal Groudon",
+    "fillerinfo": "Continent Pokemon-5.0-999.7",
+    "dex": 383,
+    "type": ["Ground", "Fire"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [100, 180, 160, 150, 90, 90],
+    "ev": [0, 3, 0, 0, 0, 0],
+    "moves": ["Ancient Power", "Mud Shot", "Scary Face", "Earth Power", "Lava Plume", "Rest", "Earthquake", "Precipice Blades", "Bulk Up", "Solar Beam", "Fissure", "Fire Blast", "Hammer Arm", "Eruption"],
+    "movesLVL": [1, 1, 5, 15, 20, 30, 35, 45, 50, 60, 65, 75, 80, 90],
+    "movesTM": [2, 5, 6, 8, 10, 11, 15, 17, 20, 21, 22, 23, 24, 25, 26, 27, 31, 32, 35, 37, 38, 39, 40, 42, 44, 48, 50, 52, 56, 59, 65, 68, 69, 71, 73, 75, 77, 78, 80, 82, 87, 88, 90, 100],
+    "movesTR": [0, 1, 2, 8, 9, 10, 15, 20, 26, 27, 31, 35, 43, 47, 48, 62, 64, 67, 74, 75, 76, 79, 88, 94],
+    "abilities": ["Desolate Land"],
+    "growthrate": "Slow",
+    "exp": 347,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/9/9d/383Groudon-Primal.png/600px-383Groudon-Primal.png",
+    "shinyURL": ""
+}
