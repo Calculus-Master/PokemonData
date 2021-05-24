@@ -1,0 +1,21 @@
+{
+    "name": "Regice",
+    "fillerinfo": "Iceberg Pokemon-1.8-175.0",
+    "dex": 378,
+    "type": ["Ice", "Ice"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [80, 50, 100, 100, 200, 50],
+    "ev": [0, 0, 0, 0, 3, 0],
+    "moves": ["Bulldoze", "Charge Beam", "Explosion", "Icy Wind", "Stomp", "Curse", "Ancient Power", "Amnesia", "Ice Beam", "Hammer Arm", "Lock On", "Zap Cannon", "Superpower", "Hyper Beam"],
+    "movesLVL": [1, 1, 1, 1, 1, 25, 31, 37, 43, 49, 55, 55, 61, 67],
+    "movesTM": [6, 7, 10, 13, 14, 15, 17, 18, 20, 21, 24, 25, 26, 27, 31, 32, 39, 42, 44, 48, 52, 56, 57, 64, 68, 69, 70, 73, 77, 78, 79, 80, 88, 90, 91, 100],
+    "movesTR": [1, 5, 6, 8, 9, 10, 17, 20, 26, 27, 39, 64, 70, 74, 79],
+    "abilities": ["Clear Body", "Ice Body"],
+    "growthrate": "Slow",
+    "exp": 261,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/f/fe/378Regice.png/600px-378Regice.png",
+    "shinyURL": ""
+}

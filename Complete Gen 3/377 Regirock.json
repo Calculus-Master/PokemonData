@@ -1,0 +1,21 @@
+{
+    "name": "Regirock",
+    "fillerinfo": "Rock Peak Pokemon-1.7-230.0",
+    "dex": 377,
+    "type": ["Rock", "Rock"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [80, 100, 200, 50, 100, 50],
+    "ev": [0, 0, 3, 0, 0, 0],
+    "moves": ["Bulldoze", "Charge Beam", "Explosion", "Rock Throw", "Stomp", "Curse", "Ancient Power", "Iron Defense", "Stone Edge", "Hammer Arm", "Lock On", "Zap Cannon", "Superpower", "Hyper Beam"],
+    "movesLVL": [1, 1, 1, 1, 1, 25, 31, 37, 43, 49, 55, 55, 61, 67],
+    "movesTM": [6, 10, 11, 15, 17, 20, 21, 23, 24, 25, 26, 27, 31, 32, 37, 39, 42, 44, 48, 52, 56, 57, 64, 68, 69, 71, 73, 77, 78, 80, 87, 88, 90, 100],
+    "movesTR": [1, 8, 9, 10, 20, 26, 27, 39, 46, 64, 67, 70, 74, 75, 76, 79, 99],
+    "abilities": ["Clear Body", "Sturdy"],
+    "growthrate": "Slow",
+    "exp": 261,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/a/aa/377Regirock.png/600px-377Regirock.png",
+    "shinyURL": ""
+}

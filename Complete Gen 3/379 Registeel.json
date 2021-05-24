@@ -1,0 +1,21 @@
+{
+    "name": "Registeel",
+    "fillerinfo": "Iron Pokemon-1.9-205.0",
+    "dex": 379,
+    "type": ["Steel", "Steel"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [80, 75, 150, 75, 150, 50],
+    "ev": [0, 0, 2, 0, 1, 0],
+    "moves": ["Bulldoze", "Charge Beam", "Explosion", "Metal Claw", "Stomp", "Curse", "Ancient Power", "Amnesia", "Iron Defense", "Flash Cannon", "Iron Head", "Hammer Arm", "Lock On", "Zap Cannon", "Superpower", "Hyper Beam"],
+    "movesLVL": [1, 1, 1, 1, 1, 25, 31, 37, 37, 43, 43, 49, 55, 55, 61, 67],
+    "movesTM": [6, 10, 11, 15, 17, 18, 20, 21, 24, 25, 26, 27, 31, 32, 37, 39, 40, 42, 44, 48, 52, 56, 57, 64, 65, 68, 69, 73, 77, 78, 80, 87, 88, 90, 91, 100],
+    "movesTR": [1, 8, 9, 10, 17, 20, 26, 27, 39, 46, 64, 70, 74, 76, 79, 99],
+    "abilities": ["Clear Body", "Light Metal"],
+    "growthrate": "Slow",
+    "exp": 261,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/2/22/379Registeel.png/600px-379Registeel.png",
+    "shinyURL": ""
+}
