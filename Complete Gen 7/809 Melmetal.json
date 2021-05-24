@@ -1,0 +1,21 @@
+{
+    "name": "Melmetal",
+    "fillerinfo": "Hex Nut Pokemon-2.5-800.0",
+    "dex": 809,
+    "type": ["Steel", "Steel"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [135, 143, 143, 80, 65, 34],
+    "ev": [0, 3, 0, 0, 0, 0],
+    "moves": ["Harden", "Headbutt", "Tail Whip", "Thunder Punch", "Thunder Shock", "Thunder Wave", "Acid Armor", "Flash Cannon", "Mega Punch", "Protect", "Discharge", "Dynamic Punch", "Superpower", "Double Iron Bash", "Hyper Beam"],
+    "movesLVL": [1, 1, 1, 1, 1, 24, 32, 40, 48, 56, 64, 72, 80, 88, 96],
+    "movesTM": [],
+    "movesTR": [1, 5, 8, 9, 10, 20, 26, 27, 39, 46, 52, 70, 74, 79, 93, 94, 99],
+    "abilities": ["Iron Fist"],
+    "growthrate": "Slow",
+    "exp": 300,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/e/ea/809Melmetal.png/600px-809Melmetal.png",
+    "shinyURL": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Meltan",
+    "fillerinfo": "Hex Nut Pokemon-0.2-8.0",
+    "dex": 808,
+    "type": ["Steel", "Steel"],
+    "evolutions": ["Melmetal"],
+    "evolutionsLVL": [50],
+    "forms": [],
+    "mega": [],
+    "stats": [46, 65, 65, 55, 35, 34],
+    "ev": [0, 1, 0, 0, 0, 0],
+    "moves": ["Harden", "Thunder Shock", "Tail Whip", "Headbutt", "Thunder Wave", "Acid Armor", "Flash Cannon"],
+    "movesLVL": [1, 1, 8, 16, 24, 32, 40],
+    "movesTM": [],
+    "movesTR": [8, 20, 26, 27, 46, 52, 70],
+    "abilities": ["Magnet Pull"],
+    "growthrate": "Slow",
+    "exp": 150,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/d/d1/808Meltan.png/600px-808Meltan.png",
+    "shinyURL": ""
+}
