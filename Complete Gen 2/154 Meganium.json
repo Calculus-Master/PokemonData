@@ -1,6 +1,6 @@
 {
     "name": "Meganium",
-    "fillerinfo": "Meganium-1.8-100.5",
+    "fillerinfo": "Herb Pokemon-1.8-100.5",
     "dex": 154,
     "type": ["Grass", "Grass"],
     "evolutions": [],
@@ -16,6 +16,6 @@
     "abilities": ["Overgrow", "Leaf Guard"],
     "growthrate": "Medium_Slow",
     "exp": 236,
-    "normalURL": "",
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/d/d1/154Meganium.png/600px-154Meganium.png",
     "shinyURL": ""
 }

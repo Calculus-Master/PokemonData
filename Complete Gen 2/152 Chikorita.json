@@ -1,0 +1,21 @@
+{
+    "name": "Chikorita",
+    "fillerinfo": "Leaf Pokemon-0.9-6.4",
+    "dex": 152,
+    "type": ["Grass", "Grass"],
+    "evolutions": ["Bayleef", "Meganium"],
+    "evolutionsLVL": [16, 32],
+    "forms": [],
+    "mega": [],
+    "stats": [45, 49, 65, 49, 65, 45],
+    "ev": [0, 0, 0, 0, 1, 0],
+    "moves": ["Growl", "Tackle", "Razor Leaf", "Poison Powder", "Synthesis", "Reflect", "Magical Leaf", "Natural Gift", "Sweet Scent", "Light Screen", "Body Slam", "Safegaurd", "Aromatherapy", "Solar Beam"],
+    "movesLVL": [1, 1, 6, 9, 12, 17, 20, 23, 28, 31, 34, 39, 42, 45],
+    "movesTM": [1, 6, 10, 11, 16, 17, 20, 21, 22, 27, 32, 42, 44, 45, 48, 49, 53, 75, 86, 87, 88, 90, 96, 100],
+    "movesTR": [],
+    "abilities": ["Overgrow", "Leaf Guard"],
+    "growthrate": "Medium_Slow",
+    "exp": 64,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/b/bf/152Chikorita.png/600px-152Chikorita.png",
+    "shinyURL": ""
+}
