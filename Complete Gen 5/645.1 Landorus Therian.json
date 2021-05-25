@@ -9,7 +9,7 @@
     "mega": [],
     "stats": [89, 145, 90, 105, 80, 91],
     "ev": [0, 3, 0, 0, 0, 0],
-    "moves": ["Block", "Fissure", "Hammer Arm", "Imprison", "Mud Shot", "Outrage", "Rock Tomb", "Punishment", "Bulldoze", "Rock Throw", "Extransensory", "Swords Dance", "Earth Power", "Rock Slide", "Earthquake", "Sandstorm", "Stone Edge"],
+    "moves": ["Block", "Fissure", "Hammer Arm", "Imprison", "Mud Shot", "Outrage", "Rock Tomb", "Punishment", "Bulldoze", "Rock Throw", "Extrasensory", "Swords Dance", "Earth Power", "Rock Slide", "Earthquake", "Sandstorm", "Stone Edge"],
     "movesLVL": [1, 1, 1, 1, 1, 1, 1, 7, 13, 19, 25, 31, 37, 43, 49, 55, 67],
     "movesTM": [4, 6, 8, 10, 15, 17, 21, 23, 26, 27, 29, 31, 32, 34, 36, 37, 39, 42, 44, 45, 48, 52, 56, 59, 64, 66, 68, 69, 71, 75, 76, 78, 80, 86, 87, 88, 89, 90, 100],
     "movesTR": [0, 1, 10, 11, 20, 22, 24, 26, 27, 31, 39, 48, 49, 64, 67, 75, 76, 77, 78],
