@@ -9,7 +9,7 @@
     "mega": [],
     "stats": [100, 120, 120, 150, 100, 90],
     "ev": [0, 0, 0, 3, 0, 0],
-    "moves": ["Dragon Breath", "Scary Face", "Metal Claw", "Ancient Power", "Slash", "Power Gem", "Metal Burst", "Dragon Claw", "Earth Power", "Aura Sphere", "Iron Tail", "Roar of Time", "Flash Cannon"],
+    "moves": ["Dragon Breath", "Scary Face", "Metal Claw", "Ancient Power", "Slash", "Power Gem", "Metal Burst", "Dragon Claw", "Earth Power", "Aura Sphere", "Iron Tail", "Roar Of Time", "Flash Cannon"],
     "movesLVL": [1, 1, 6, 10, 15, 19, 24, 28, 33, 37, 42, 46, 50],
     "movesTM": [2, 5, 6, 8, 10, 11, 13, 14, 15, 17, 18, 20, 21, 24, 25, 26, 27, 31, 32, 35, 37, 38, 39, 40, 42, 44, 48, 49, 50, 65, 68, 71, 73, 77, 78, 80, 90, 91, 92, 100],
     "movesTR": [1, 2, 5, 6, 8, 9, 10, 15, 20, 24, 26, 27, 31, 42, 43, 46, 56, 62, 63, 67, 70, 74, 75, 76, 79, 99],

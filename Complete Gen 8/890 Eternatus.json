@@ -1,0 +1,21 @@
+{
+    "name": "Eternatus",
+    "fillerinfo": "Gigantic Pokemon-20.0-950.0",
+    "dex": 890,
+    "type": ["Poison", "Dragon"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": ["Eternamax Eternatus"],
+    "mega": [],
+    "stats": [140, 85, 95, 145, 95, 130],
+    "ev": [3, 0, 0, 0, 0, 0],
+    "moves": ["Agility", "Confuse Ray", "Dragon Tail", "Poison Tail", "Toxic", "Venoshock", "Dragon Dance", "Cross Poison", "Dragon Pulse", "Flamethrower", "Dynamax Cannon", "Cosmic Power", "Recover", "Hyper Beam", "Eternabeam"],
+    "movesLVL": [1, 1, 1, 1, 8, 16, 24, 32, 40, 48, 56, 64, 72, 80, 88],
+    "movesTM": [],
+    "movesTR": [2, 12, 20, 22, 26, 27, 33, 44, 51, 54, 57, 62, 70, 78, 91],
+    "abilities": ["Pressure"],
+    "growthrate": "Slow",
+    "exp": 345,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/6/62/890Eternatus.png",
+    "shinyURL": ""
+}
