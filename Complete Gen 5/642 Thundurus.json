@@ -1,0 +1,21 @@
+{
+    "name": "Thundurus",
+    "fillerinfo": "Bolt Strike Pokemon-1.5-61.0",
+    "dex": 642,
+    "type": ["Electric", "Flying"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": ["Thundurus Therian"],
+    "mega": [],
+    "stats": [79, 115, 70, 125, 80, 111],
+    "ev": [0, 3, 0, 0, 0, 0],
+    "moves": ["Astonish", "Hammer Arm", "Nasty Plot", "Swagger", "Thrash", "Thunder Shock", "Uproar", "Bite", "Revenge", "Shock Wave", "Heal Block", "Agility", "Discharge", "Crunch", "Charge", "Thunder", "Dark Pulse"],
+    "movesLVL": [1, 1, 1, 1, 1, 1, 1, 7, 13, 19, 25, 31, 37, 43, 49, 61, 67],
+    "movesTM": [6, 8, 10, 12, 15, 17, 18, 21, 23, 24, 25, 27, 29, 31, 32, 34, 36, 41, 42, 44, 45, 46, 48, 52, 56, 57, 58, 59, 63, 66, 67, 68, 72, 73, 76, 86, 87, 88, 89, 90, 91, 93, 97, 100],
+    "movesTR": [1, 8, 9, 11, 12, 20, 22, 26, 27, 31, 32, 35, 37, 39, 48, 58, 64, 68, 70, 77, 78, 80, 81, 86],
+    "abilities": ["Prankster", "Defiant"],
+    "growthrate": "Slow",
+    "exp": 261,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/b/b8/642Thundurus.png/600px-642Thundurus.png",
+    "shinyURL": ""
+}
