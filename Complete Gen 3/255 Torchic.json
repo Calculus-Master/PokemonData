@@ -1,0 +1,21 @@
+{
+    "name": "Torchic",
+    "fillerinfo": "Chick Pokemon-0.4-2.5",
+    "dex": 255,
+    "type": ["Fire", "Fire"],
+    "evolutions": ["Combusken", "Blaziken"],
+    "evolutionsLVL": [16, 36],
+    "forms": [],
+    "mega": [],
+    "stats": [45, 60, 40, 70, 50, 45],
+    "ev": [0, 0, 0, 1, 0, 0],
+    "moves": ["Growl", "Scratch", "Ember", "Sand Attack", "Peck", "Fire Spin", "Quick Attack", "Flame Burst", "Focus Energy", "Slash", "Mirror Move", "Flamethrower"],
+    "movesLVL": [1, 1, 5, 10, 14, 19, 23, 28, 32, 37, 41, 46],
+    "movesTM": [1, 6, 10, 11, 17, 21, 27, 32, 35, 38, 39, 40, 42, 43, 44, 45, 48, 49, 50, 61, 65, 75, 80, 87, 88, 90, 100],
+    "movesTR": [0, 1, 2, 7, 12, 13, 15, 20, 21, 26, 27, 29, 36, 43, 55, 85],
+    "abilities": ["Blaze", "Speed Boost"],
+    "growthrate": "Medium_Slow",
+    "exp": 62,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/9/91/255Torchic.png/600px-255Torchic.png",
+    "shinyURL": ""
+}
