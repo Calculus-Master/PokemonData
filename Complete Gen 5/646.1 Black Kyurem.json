@@ -1,0 +1,21 @@
+{
+    "name": "Black Kyurem",
+    "fillerinfo": "Boundary Pokemon-3.3-325.0",
+    "dex": 646,
+    "type": ["Dragon", "Ice"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": ["Kyurem", "White Kyurem"],
+    "mega": [],
+    "stats": [125, 170, 100, 120, 90, 95],
+    "ev": [0, 3, 0, 0, 0, 0],
+    "moves": ["Dragon Rage", "Icy Wind", "Imprison", "Ancient Power", "Ice Beam", "Dragon Breath", "Slash", "Fusion Bolt", "Freeze Shock", "Dragon Pulse", "Noble Roar", "Endeavor", "Blizzard", "Outrage", "Hyper Voice"],
+    "movesLVL": [1, 1, 8, 15, 22, 29, 36, 43, 50, 57, 64, 71, 78, 85, 92],
+    "movesTM": [2, 6, 7, 10, 11, 13, 14, 15, 16, 17, 18, 19, 20, 21, 27, 29, 30, 32, 33, 39, 42, 44, 48, 49, 51, 52, 56, 59, 65, 66, 68, 71, 76, 80, 82, 87, 88, 90, 91, 100],
+    "movesTR": [5, 6, 11, 20, 24, 26, 27, 33, 42, 47, 51, 62, 64, 67, 69, 70, 74, 75, 99],
+    "abilities": ["Teravolt"],
+    "growthrate": "Slow",
+    "exp": 315,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/d/de/646Kyurem-Black2.png/600px-646Kyurem-Black2.png",
+    "shinyURL": ""
+}
