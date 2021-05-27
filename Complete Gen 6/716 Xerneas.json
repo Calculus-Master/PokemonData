@@ -1,0 +1,21 @@
+{
+    "name": "Xerneas",
+    "fillerinfo": "Life Pokemon-3.0-215.0",
+    "dex": 716,
+    "type": ["Fairy", "Fairy"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [126, 131, 95, 131, 98, 99],
+    "ev": [3, 0, 0, 0, 0, 0],
+    "moves": ["Aromatherapy", "Heal Pulse", "Ingrain", "Take Down", "Light Screen", "Aurora Beam", "Gravity", "Geomancy", "Moonblast", "Megahorn", "Night Slash", "Horn Leech", "Psych Up", "Misty Terrain", "Nature Power", "Close Combat", "Giga Impact", "Outrage"],
+    "movesLVL": [1, 1, 1, 1, 5, 10, 18, 26, 35, 44, 51, 55, 59, 63, 72, 80, 88, 93],
+    "movesTM": [3, 4, 5, 6, 7, 10, 11, 15, 16, 17, 18, 21, 24, 25, 27, 29, 32, 33, 42, 44, 48, 49, 52, 68, 73, 77, 80, 86, 87, 88, 90, 91, 96, 99, 100],
+    "movesTR": [1, 8, 9, 11, 20, 24, 25, 26, 27, 28, 42, 49, 53, 64, 69, 70, 77, 90, 92],
+    "abilities": ["Fairy Aura"],
+    "growthrate": "Slow",
+    "exp": 306,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/1/13/716Xerneas.png/600px-716Xerneas.png",
+    "shinyURL": ""
+}
