@@ -1,0 +1,21 @@
+{
+    "name": "Swampert",
+    "fillerinfo": "Mud Fish Pokemon-1.9-102.0",
+    "dex": 260,
+    "type": ["Water", "Ground"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [100, 150, 110, 95, 110, 70],
+    "ev": [0, 3, 0, 0, 0, 0],
+    "moves": ["Growl", "Hammer Arm", "Mud Shot", "Mud Slap", "Tackle", "Water Gun", "Foresight", "Mud Bomb", "Rock Slide", "Protect", "Muddy Water", "Take Down", "Earthquake", "Endeavor"],
+    "movesLVL": [1, 1, 1, 1, 1, 1, 12, 18, 22, 28, 32, 39, 44, 51, 56],
+    "movesTM": [1, 5, 6, 7, 10, 13, 14, 15, 17, 18, 21, 26, 27, 31, 32, 34, 39, 42, 44, 45, 48, 49, 52, 55, 56, 68, 71, 78, 80, 87, 88, 90, 94, 98, 100],
+    "movesTR": [1, 3, 4, 5, 6, 7, 10, 16, 17, 20, 24, 26, 27, 31, 35, 39, 45, 48, 64, 67, 75, 76, 78, 84, 85, 93, 94, 98, 99],
+    "abilities": ["Torrent", "Damp"],
+    "growthrate": "Medium_Slow",
+    "exp": 286,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/9/98/260Swampert-Mega.png/600px-260Swampert-Mega.png",
+    "shinyURL": ""
+}

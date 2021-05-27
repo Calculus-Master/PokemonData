@@ -1,0 +1,21 @@
+{
+    "name": "Marshtomp",
+    "fillerinfo": "Mud Fish Pokemon-0.7-28.0",
+    "dex": 259,
+    "type": ["Water", "Ground"],
+    "evolutions": ["Swampert"],
+    "evolutionsLVL": [36],
+    "forms": [],
+    "mega": [],
+    "stats": [70, 85, 70, 60, 70, 50],
+    "ev": [0, 2, 0, 0, 0, 0],
+    "moves": ["Growl", "Mud Shot", "Mud Slap", "Tackle", "Water Gun", "Foresight", "Bide", "Mud Bomb", "Rock Slide", "Protect", "Muddy Water", "Take Down", "Earthquake", "Endeavor"],
+    "movesLVL": [1, 1, 1, 1, 1, 4, 9, 12, 18, 22, 28, 32, 38, 42, 48, 52],
+    "movesTM": [1, 6, 7, 10, 13, 14, 17, 18, 21, 26, 27, 31, 32, 34, 39, 42, 44, 45, 48, 49, 55, 56, 78, 80, 87, 88, 90, 94, 98, 100],
+    "movesTR": [1, 3, 4, 5, 6, 7, 10, 16, 17, 20, 26, 27, 31, 35, 39, 45, 67, 76, 78, 84, 85],
+    "abilities": ["Torrent", "Damp"],
+    "growthrate": "Medium_Slow",
+    "exp": 142,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/2/27/259Marshtomp.png/600px-259Marshtomp.png",
+    "shinyURL": ""
+}
