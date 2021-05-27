@@ -1,0 +1,21 @@
+{
+    "name": "Reshiram",
+    "fillerinfo": "Vast White Pokemon-3.2-330.0",
+    "dex": 643,
+    "type": ["Dragon", "Fire"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [100, 120, 100, 150, 120, 90],
+    "ev": [0, 0, 0, 3, 0, 0],
+    "moves": ["Dragon Rage", "Fire Fang", "Imprison", "Ancient Power", "Flamethrower", "Dragon Breath", "Slash", "Extrasensory", "Fusion Flare", "Dragon Pulse", "Noble Roar", "Crunch", "Fire Blast", "Outrage", "Hyper Voice", "Blue Flare"],
+    "movesLVL": [1, 1, 8, 15, 22, 29, 36, 43, 50, 54, 64, 71, 78, 85, 92, 100],
+    "movesTM": [2, 6, 10, 11, 15, 16, 17, 19, 20, 21, 22, 27, 29, 30, 32, 33, 35, 38, 39, 42, 43, 44, 48, 49, 50, 51, 52, 56, 59, 61, 65, 66, 68, 71, 76, 80, 82, 87, 88, 90, 100],
+    "movesTR": [2, 11, 15, 20, 24, 26, 27, 32, 33, 36, 42, 43, 47, 51, 55, 62, 64, 67, 69, 75, 88, 99],
+    "abilities": ["Turboblaze"],
+    "growthrate": "Slow",
+    "exp": 306,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/8/8d/643Reshiram.png/600px-643Reshiram.png",
+    "shinyURL": ""
+}
