@@ -1,0 +1,21 @@
+{
+    "name": "Zygarde",
+    "fillerinfo": "Order Pokemon-5.0-305.0",
+    "dex": 718,
+    "type": ["Dragon", "Ground"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": ["Zygarde 10", "Zygarde Complete"],
+    "mega": [],
+    "stats": [108, 100, 121, 81, 95, 95],
+    "ev": [3, 0, 0, 0, 0, 0],
+    "moves": ["Bite", "Bulldoze", "Dragon Breath", "Glare", "Safeguard", "Dig", "Bind", "Land's Wrath", "Sandstorm", "Haze", "Crunch", "Earthquake", "Camouflage", "Dragon Pulse", "Coil", "Outrage"],
+    "movesLVL": [1, 1, 1, 1, 5, 10, 18, 26, 35, 44, 51, 55, 59, 63, 72, 80],
+    "movesTM": [6, 10, 11, 15, 17, 20, 21, 26, 27, 31, 32, 34, 37, 42, 44, 48, 52, 68, 71, 78, 80, 82, 86, 87, 88, 90, 100],
+    "movesTR": [1, 10, 20, 21, 24, 26, 27, 31, 32, 39, 42, 51, 62, 64, 67, 69, 75, 77, 78, 94],
+    "abilities": ["Aura Break"],
+    "growthrate": "Slow",
+    "exp": 270,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/3/3a/718Zygarde.png/600px-718Zygarde.png",
+    "shinyURL": ""
+}
