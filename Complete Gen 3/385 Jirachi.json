@@ -1,0 +1,21 @@
+{
+    "name": "Jirachi",
+    "fillerinfo": "Wish Pokemon-0.3-1.1",
+    "dex": 385,
+    "type": ["Steel", "Psychic"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [100, 100, 100, 100, 100, 100],
+    "ev": [3, 0, 0, 0, 0, 0],
+    "moves": ["Confusion", "Wish", "Rest", "Swift", "Helping Hand", "Psychic", "Refresh", "Lucky Chant", "Zen Headbutt", "Double Edge", "Gravity", "Healing Wish", "Future Sight", "Cosmic Power", "Last Resort", "Doom Desire"],
+    "movesLVL": [1, 1, 5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 60, 65, 70],
+    "movesTM": [3, 4, 6, 10, 11, 15, 16, 17, 18, 20, 21, 24, 25, 27, 29, 30, 32, 33, 37, 40, 42, 44 ,48, 53, 56, 57, 68, 74, 77, 85, 86, 87, 88, 89, 90, 91, 92, 99, 100],
+    "movesTR": [1, 8, 9, 11, 14, 17, 20, 25, 26, 27, 29, 30, 33, 34, 35, 38, 40, 44, 46, 49, 56, 65, 69, 70, 74, 76, 77, 82, 83, 90, 92],
+    "abilities": ["Serene Grace"],
+    "growthrate": "Slow",
+    "exp": 270,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/8/85/385Jirachi.png/600px-385Jirachi.png",
+    "shinyURL": ""
+}
