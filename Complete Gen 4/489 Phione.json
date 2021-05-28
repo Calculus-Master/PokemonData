@@ -1,0 +1,21 @@
+{
+    "name": "Phione",
+    "fillerinfo": "Sea Drifter Pokemon-0.4-3.1",
+    "dex": 489,
+    "type": ["Water", "Water"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [80, 80, 80, 80, 80, 80],
+    "ev": [1, 0, 0, 0, 0, 0],
+    "moves": ["Bubble", "Water Sport", "Charm", "Supersonic", "Bubble Beam", "Acid Armor", "Whirlpool", "Water Pulse", "Aqua Ring", "Dive", "Rain Dance"],
+    "movesLVL": [1, 1, 9, 16, 24, 31, 39, 46, 54, 61, 69],
+    "movesTM": [6, 7, 10, 13, 14, 17, 18, 20, 21, 27, 32, 42, 44, 48, 55, 56, 77, 86, 87, 88, 89, 90, 94, 98, 99, 100],
+    "movesTR": [],
+    "abilities": ["Hydration"],
+    "growthrate": "Slow",
+    "exp": 216,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/7/72/489Phione.png/600px-489Phione.png",
+    "shinyURL": ""
+}

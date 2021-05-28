@@ -1,0 +1,21 @@
+{
+    "name": "Manaphy",
+    "fillerinfo": "Seafaring Pokemon-0.3-1.4",
+    "dex": 490,
+    "type": ["Water", "Water"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [100, 100, 100, 100, 100, 100],
+    "ev": [3, 0, 0, 0, 0, 0],
+    "moves": ["Bubble", "Tail Glow", "Water Sport", "Charm", "Supersonic", "Bubble Beam", "Acid Armor", "Whirlpool", "Water Pulse", "Aqua Ring", "Dive", "Rain Dance", "Heart Swap"],
+    "movesLVL": [1, 1, 1, 9, 16, 24, 31, 39, 46, 54, 61, 69, 76],
+    "movesTM": [4, 6, 7, 10, 13, 14, 15, 16, 17, 18, 20, 21, 27, 29, 30, 32, 33, 42, 44, 48, 53, 55, 56, 68, 77, 86, 87, 88, 89, 90, 94, 98, 99, 100],
+    "movesTR": [],
+    "abilities": ["Hydration"],
+    "growthrate": "Slow",
+    "exp": 270,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/2/2e/490Manaphy.png/600px-490Manaphy.png",
+    "shinyURL": ""
+}

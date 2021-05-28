@@ -1,0 +1,21 @@
+{
+    "name": "Mesprit",
+    "fillerinfo": "Emotion Pokemon-0.3-0.3",
+    "dex": 481,
+    "type": ["Psychic", "Psychic"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [80, 105, 105, 105, 105, 80],
+    "ev": [0, 1, 0, 1, 1, 0],
+    "moves": ["Confusion", "Copycat", "Healing Wish", "Natural Gift", "Rest", "Imprison", "Protect", "Swift", "Lucky Chant", "Future Sight", "Charm", "Extrasensory"],
+    "movesLVL": [1, 1, 1, 1, 1, 6, 16, 21, 31, 36, 46, 50],
+    "movesTM": [3, 4, 6, 10, 11, 13, 14, 15, 16, 17, 18, 20, 21, 24, 25, 27, 29, 30, 32, 33, 37, 42, 44, 48, 53, 56, 57, 62, 68, 73, 77, 85, 86, 87, 88, 89, 90, 92, 99, 100],
+    "movesTR": [5, 6, 8, 9, 11, 14, 19, 20, 25, 26, 27, 29, 30, 31, 33, 34, 38, 40, 49, 65, 68, 69, 76, 77, 82, 83, 90, 92],
+    "abilities": ["Levitate"],
+    "growthrate": "Slow",
+    "exp": 261,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/4/40/481Mesprit.png/600px-481Mesprit.png",
+    "shinyURL": ""
+}

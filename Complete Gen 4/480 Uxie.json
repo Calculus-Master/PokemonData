@@ -1,0 +1,21 @@
+{
+    "name": "Uxie",
+    "fillerinfo": "Knowledge Pokemon-0.3-0.3",
+    "dex": 480,
+    "type": ["Psychic", "Psychic"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [75, 75, 130, 75, 130, 95],
+    "ev": [0, 0, 2, 0, 1, 0],
+    "moves": ["Confusion", "Flail", "Memento", "Natural Gift", "Rest", "Imprison", "Endure", "Swift", "Yawn", "Future Sight", "Amnesia", "Extrasensory"],
+    "movesLVL": [1, 1, 1, 1, 1, 6, 16, 21, 31, 36, 46, 50],
+    "movesTM": [3, 4, 6, 10, 11, 15, 16, 17, 18, 20, 21, 22, 24, 25, 27, 29, 30, 32, 33, 37, 42, 44, 48, 53, 56, 57, 62, 68, 73, 77, 85, 86, 87, 88, 89, 90, 92, 99, 100],
+    "movesTR": [8, 9, 11, 14, 17, 19, 20, 25, 26, 27, 29, 30, 31, 33, 34, 38, 40, 49, 65, 68, 69, 76, 77, 81, 82, 83, 90, 92],
+    "abilities": ["Levitate"],
+    "growthrate": "Slow",
+    "exp": 261,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/e/ef/480Uxie.png/600px-480Uxie.png",
+    "shinyURL": ""
+}
