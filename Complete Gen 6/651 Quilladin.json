@@ -1,0 +1,21 @@
+{
+    "name": "Quilladin",
+    "fillerinfo": "Spiny Armor Pokemon-0.7-29.0",
+    "dex": 651,
+    "type": ["Grass", "Grass"],
+    "evolutions": ["Chesnaught"],
+    "evolutionsLVL": [36],
+    "forms": [],
+    "mega": [],
+    "stats": [61, 78, 95, 56, 58, 57],
+    "ev": [0, 0, 2, 0, 0, 0],
+    "moves": ["Growl", "Needle Arm", "Vine Whip", "Rollout", "Bite", "Leech Seed", "Pin Missile", "Take Down", "Seed Bomb", "Mud Shot", "Bulk Up", "Body Slam", "Pain Split", "Wood Hammer"],
+    "movesLVL": [1, 1, 1, 8, 11, 15, 19, 29, 35, 39, 44, 48, 52, 56],
+    "movesTM": [1, 5, 6, 8, 10, 11, 12, 17, 21, 22, 23, 27, 31, 32, 33, 36, 39, 40, 42, 44, 45, 47, 48, 53, 56, 65, 66, 71, 74, 75, 78, 80, 84, 86, 87, 88, 90, 96, 100],
+    "movesTR": [],
+    "abilities": ["Overgrow", "Bulletproof"],
+    "growthrate": "Medium_Slow",
+    "exp": 142,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/7/71/651Quilladin.png/600px-651Quilladin.png",
+    "shinyURL": ""
+}

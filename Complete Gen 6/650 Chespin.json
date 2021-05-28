@@ -1,0 +1,21 @@
+{
+    "name": "Chespin",
+    "fillerinfo": "Spiny Nut Pokemon-0.4-9.0",
+    "dex": 650,
+    "type": ["Grass", "Grass"],
+    "evolutions": ["Quilladin", "Chesnaught"],
+    "evolutionsLVL": [16, 36],
+    "forms": [],
+    "mega": [],
+    "stats": [56, 61, 65, 48, 45, 38],
+    "ev": [0, 0, 1, 0, 0, 0],
+    "moves": ["Growl", "Vine Whip", "Rollout", "Bite", "Leech Seed", "Pin Missile", "Take Down", "Seed Bomb", "Mud Shot", "Bulk Up", "Body Slam", "Pain Split", "Wood Hammer"],
+    "movesLVL": [1, 1, 5, 8, 11, 15, 18, 27, 32, 35, 39, 42, 45, 48],
+    "movesTM": [1, 5, 6, 8, 10, 11, 12, 17, 21, 22, 23, 27, 31, 32, 33, 36, 39, 40, 42, 44, 45, 47, 48, 53, 56, 65, 66, 71, 74, 75, 78, 80, 84, 86, 87, 88, 90, 96, 100],
+    "movesTR": [],
+    "abilities": ["Overgrow", "Bulletproof"],
+    "growthrate": "Medium_Slow",
+    "exp": 63,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/c/ca/650Chespin.png/600px-650Chespin.png",
+    "shinyURL": ""
+}
