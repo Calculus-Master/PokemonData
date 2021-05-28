@@ -1,0 +1,21 @@
+{
+    "name": "Hoopa Unbound",
+    "fillerinfo": "Djinn Pokemon Pokemon-6.5-490.0",
+    "dex": 720,
+    "type": ["Psychic", "Dark"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": ["Hoopa"],
+    "mega": [],
+    "stats": [80, 160, 60, 170, 130, 80],
+    "ev": [0, 0, 0, 3, 0, 0],
+    "moves": ["Ally Switch", "Confusion", "Destiny Bond", "Hyperspace Fury", "Trick", "Astonish", "Magic Coat", "Light Screen", "Psybeam", "Skill Swap", "Guard Split", "Power Split", "Knock Off", "Trick Room", "Wonder Room", "Dark Pulse", "Psychic"],
+    "movesLVL": [1, 1, 1, 1, 1, 6, 10, 15, 19, 25, 29, 29, 46, 50, 50, 55, 75],
+    "movesTM": [3, 4, 6, 10, 11, 12, 15, 16, 17, 18, 20, 21, 24, 27, 29, 30, 31, 32, 33, 41, 42, 44, 46, 48, 52, 53, 56, 57, 60, 63, 68, 73, 77, 85, 86, 87, 88, 90, 92, 97, 100],
+    "movesTR": [],
+    "abilities": ["Magician"],
+    "growthrate": "Slow",
+    "exp": 306,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/a/ad/720Hoopa-Unbound.png/600px-720Hoopa-Unbound.png",
+    "shinyURL": ""
+}
