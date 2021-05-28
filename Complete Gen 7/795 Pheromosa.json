@@ -1,0 +1,21 @@
+{
+    "name": "Pheromosa",
+    "fillerinfo": "Lissome Pokemon-1.8-25.0",
+    "dex": 795,
+    "type": ["Bug", "Fighting"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [71, 137, 37, 137, 37, 151],
+    "ev": [0, 0, 0, 0, 0, 3],
+    "moves": ["Double Kick", "Leer", "Low Kick", "Quick Guard", "Quiver Dance", "Rapid Spin", "Swift", "Stomp", "Feint", "Silver Wind", "Bounce", "Jump Kick", "Agility", "Triple Kick", "Lunge", "Bug Buzz", "Me First", "High Jump Kick", "Speed Swap"],
+    "movesLVL": [1, 1, 1, 1, 1, 1, 7, 13, 19, 23, 29, 31, 37, 43, 47, 53, 59, 67, 73],
+    "movesTM": [6, 10, 12, 13, 14, 15, 17, 19, 21, 27, 31, 32, 41, 42, 44, 47, 48, 49, 52, 54, 56 ,68, 84, 87, 88, 89, 90, 100],
+    "movesTR": [5, 6, 7, 12, 20, 24, 26, 27, 37, 53, 57, 61, 64, 81, 87, 95],
+    "abilities": ["Beast Boost"],
+    "growthrate": "Slow",
+    "exp": 257,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/c/c7/795Pheromosa.png/600px-795Pheromosa.png",
+    "shinyURL": ""
+}
