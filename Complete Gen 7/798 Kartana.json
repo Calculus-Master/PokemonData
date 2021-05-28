@@ -1,0 +1,21 @@
+{
+    "name": "Kartana",
+    "fillerinfo": "Drawn Sword Pokemon-0.3-0.1",
+    "dex": 798,
+    "type": ["Grass", "Steel"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [59, 181, 131, 59, 31, 109],
+    "ev": [0, 3, 0, 0, 0, 0],
+    "moves": ["Air Cutter", "Cut", "Defog", "Fury Cutter", "Sacred Sword", "Vacuum Wave", "False Swipe", "Razor Leaf", "Synthesis", "Aerial Ace", "Laser Focus", "Night Slash", "Swords Dance", "Leaf Blade", "X Scissor", "Detect", "Air Slash", "Psycho Cut", "Guillotine"],
+    "movesLVL": [1, 1, 1, 1, 1, 1, 7, 13, 19, 23, 29, 31, 37, 43, 47, 53, 59, 67, 73],
+    "movesTM": [4, 6, 10, 17, 21, 27, 31, 32, 40, 44, 48, 54, 67, 68, 75, 81, 87, 88, 90, 100],
+    "movesTR": [0, 20, 26, 27, 46, 49, 50, 60],
+    "abilities": ["Beast Boost"],
+    "growthrate": "Slow",
+    "exp": 257,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/f/fe/798Kartana.png/600px-798Kartana.png",
+    "shinyURL": ""
+}
