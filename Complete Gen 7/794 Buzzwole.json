@@ -1,0 +1,21 @@
+{
+    "name": "Buzzwole",
+    "fillerinfo": "Swollen Pokemon-2.4-333.6",
+    "dex": 794,
+    "type": ["Bug", "Fighting"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [107, 139, 139, 53, 53, 79],
+    "ev": [0, 1, 2, 0, 0, 0],
+    "moves": ["Fell Stinger", "Focus Energy", "Harden", "Ice Punch", "Power Up Punch", "Reversal", "Thunder Punch", "Comet Punch", "Bulk Up", "Vital Throw", "Endure", "Leech Life", "Taunt", "Mega Punch", "Counter", "Hammer Arm", "Lunge", "Dynamic Punch", "Superpower", "Focus Punch"],
+    "movesLVL": [1, 1, 1, 1, 1, 1, 1, 7, 13, 19, 23, 29, 31, 37, 43, 47, 53, 59, 67, 73],
+    "movesTM": [1, 6, 8, 10, 12, 17, 19, 21, 23, 26, 27, 28, 31, 32, 39, 42, 44, 47, 48, 54, 56, 66, 68, 71, 74, 78, 80, 84, 87, 88, 90, 100],
+    "movesTR": [1, 10, 13, 18, 20, 21, 24, 26, 27, 37, 39, 48, 52, 53, 57, 74, 75, 85, 93, 94],
+    "abilities": ["Beast Boost"],
+    "growthrate": "Slow",
+    "exp": 257,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/f/fa/794Buzzwole.png/600px-794Buzzwole.png",
+    "shinyURL": ""
+}
