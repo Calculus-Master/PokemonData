@@ -1,0 +1,21 @@
+{
+    "name": "Keldeo",
+    "fillerinfo": "Colt Pokemon-1.4-48.5",
+    "dex": 647,
+    "type": ["Water", "Fighting"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [91, 72, 90, 129, 90, 108],
+    "ev": [0, 0, 0, 3, 0, 0],
+    "moves": ["Aqua Jet", "Bubble Beam", "Double Kick", "Leer", "Take Down", "Helping Hand", "Retaliate", "Aqua Tail", "Sacred Sword", "Swords Dance", "Quick Guard", "Work Up", "Hydro Pump", "Close Combat"],
+    "movesLVL": [1, 1, 1, 1, 19, 25, 31, 37, 43, 49, 55, 61, 67, 73],
+    "movesTM": [1, 4, 5, 6, 7, 10, 12, 15, 17, 18, 20, 21, 27, 32, 33, 40, 42, 44, 48, 52, 54, 55, 68, 71, 75, 77, 81, 84, 87, 88, 90, 94, 100],
+    "movesTR": [0, 3, 4, 7, 20, 21, 26, 27, 28, 37, 39, 45, 49, 53, 56, 57, 60, 64, 75, 84, 85, 98],
+    "abilities": ["Justified"],
+    "growthrate": "Slow",
+    "exp": 261,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/5/50/647Keldeo.png/600px-647Keldeo.png",
+    "shinyURL": ""
+}
