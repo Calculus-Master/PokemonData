@@ -1,0 +1,21 @@
+{
+    "name": "Torterra",
+    "fillerinfo": "Continent Pokemon-2.2-310.0",
+    "dex": 389,
+    "type": ["Grass", "Ground"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [95, 109, 105, 75, 85, 56],
+    "ev": [0, 2, 1, 0, 0, 0],
+    "moves": ["Absorb", "Earthquake", "Razor Leaf", "Tackle", "Withdraw", "Wood Hammer", "Curse", "Bite", "Mega Drain", "Leech Seed", "Synthesis", "Crunch", "Giga Drain", "Leaf Storm"],
+    "movesLVL": [1, 1, 1, 1, 1, 1, 17, 22, 27, 33, 39, 45, 51, 57],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Overgrow", "Shell Armor"],
+    "growthrate": "Medium_Slow",
+    "exp": 236,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/d/df/389Torterra.png/600px-389Torterra.png",
+    "shinyURL": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Turtwig",
+    "fillerinfo": "Tiny Leaf Pokemon-0.4-10.2",
+    "dex": 387,
+    "type": ["Grass", "Grass"],
+    "evolutions": ["Grotle", "Torterra"],
+    "evolutionsLVL": [18, 32],
+    "forms": [],
+    "mega": [],
+    "stats": [55, 68, 64, 45, 55, 31],
+    "ev": [0, 1, 0, 0, 0, 0],
+    "moves": ["Tackle", "Withdraw", "Absorb", "Razor Leaf", "Curse", "Bite", "Mega Drain", "Leech Seed", "Synthesis", "Crunch", "Giga Drain", "Leaf Storm"],
+    "movesLVL": [1, 5, 9, 13, 17, 21, 25, 29, 33, 37, 41, 45],
+    "movesTM": [1, 6, 10, 11, 16, 17, 20, 21, 22, 27, 32, 33, 42, 44, 45, 48, 53, 75, 86, 87, 88, 90, 96, 100],
+    "movesTR": [],
+    "abilities": ["Overgrow", "Shell Armor"],
+    "growthrate": "Medium_Slow",
+    "exp": 64,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/5/5c/387Turtwig.png/600px-387Turtwig.png",
+    "shinyURL": ""
+}

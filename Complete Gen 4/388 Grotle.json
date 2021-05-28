@@ -1,0 +1,21 @@
+{
+    "name": "Grotle",
+    "fillerinfo": "Grove Pokemon-1.1-97.0",
+    "dex": 388,
+    "type": ["Grass", "Grass"],
+    "evolutions": ["Torterra"],
+    "evolutionsLVL": [32],
+    "forms": [],
+    "mega": [],
+    "stats": [75, 89, 85, 55, 65, 36],
+    "ev": [0, 1, 1, 0, 0, 0],
+    "moves": ["Absorb", "Tackle", "Withdraw", "Razor Leaf", "Curse", "Bite", "Mega Drain", "Leech Seed", "Synthesis", "Crunch", "Giga Drain", "Leaf Storm"],
+    "movesLVL": [1, 1, 1, 13, 17, 22, 27, 32, 37, 42, 47, 52],
+    "movesTM": [],
+    "movesTR": [],
+    "abilities": ["Overgrow", "Shell Armor"],
+    "growthrate": "Medium_Slow",
+    "exp": 142,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/5/53/388Grotle.png/600px-388Grotle.png",
+    "shinyURL": ""
+}
