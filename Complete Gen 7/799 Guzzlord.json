@@ -1,0 +1,21 @@
+{
+    "name": "Guzzlord",
+    "fillerinfo": "Junkivore Pokemon-5.5-888.0",
+    "dex": 799,
+    "type": ["Dark", "Dragon"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [223, 101, 53, 97, 53, 43],
+    "ev": [3, 0, 0, 0, 0, 0],
+    "moves": ["Belch", "Bite", "Dragon Rage", "Stockpile", "Swallow", "Wide Guard", "Stomp", "Brutal Swing", "Steamroller", "Dragon Tail", "Iron Tail", "Stomping Tantrum", "Crunch", "Hammer Arm", "Thrash", "Gastro Acid", "Heavy Slam", "Wring Out", "Dragon Rush"],
+    "movesLVL": [1, 1, 1, 1, 1, 1, 7, 13, 19, 23, 29, 31, 37, 43, 47, 53, 59, 67, 73],
+    "movesTM": [2, 6, 10, 15, 17, 21, 23, 26, 27, 31, 32, 34, 35, 36, 38, 39, 42, 44, 46, 48, 56, 65, 66, 68, 71, 74, 78, 80, 82, 84, 88, 90, 95, 97],
+    "movesTR": [1, 2, 10, 15, 17, 20, 22, 24, 26, 27, 31, 32, 36, 46, 47, 58, 62, 74, 75, 78, 79, 88, 94, 99],
+    "abilities": ["Beast Boost"],
+    "growthrate": "Slow",
+    "exp": 257,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/4/47/799Guzzlord.png/600px-799Guzzlord.png",
+    "shinyURL": ""
+}
