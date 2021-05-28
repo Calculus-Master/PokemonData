@@ -1,0 +1,21 @@
+{
+    "name": "Xurkitree",
+    "fillerinfo": "Glowing Pokemon-3.8-100.0",
+    "dex": 796,
+    "type": ["Electric", "Electric"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [83, 89, 71, 173, 71, 83],
+    "ev": [0, 0, 0, 3, 0, 0],
+    "moves": ["Charge", "Spark", "Tail Glow", "Thunder Shock", "Wrap", "Thunder Wave", "Shock Wave", "Ingrain", "Thunder Punch", "Eerie Impulse", "Signal Beam", "Thunderbolt", "Hypnosis", "Discharge", "Electric Terrain", "Power Whip", "Ion Deluge", "Zap Cannon"],
+    "movesLVL": [1, 1, 1, 1, 1, 7, 13, 19, 23, 29, 31, 37, 43, 47, 53, 59, 67, 73],
+    "movesTM": [4, 6, 10, 11, 15, 16, 17, 18, 21, 22, 24, 25, 27, 32, 33, 42, 44, 48, 53, 56, 57, 59, 68, 72, 73, 86, 87, 88, 90, 93, 96, 99, 100],
+    "movesTR": [8, 9, 20, 26, 27, 49, 65, 72, 77, 80, 86, 92],
+    "abilities": ["Beast Boost"],
+    "growthrate": "Slow",
+    "exp": 257,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/d/d2/796Xurkitree.png/600px-796Xurkitree.png",
+    "shinyURL": ""
+}
