@@ -1,6 +1,6 @@
 {
     "name": "Cosmoem",
-    "fillerinfo": "Cosmoem-0.1-999.9",
+    "fillerinfo": "Protostar Pokemon-0.1-999.9",
     "dex": 790,
     "type": ["Psychic", "Psychic"],
     "evolutions": [],
@@ -9,13 +9,13 @@
     "mega": [],
     "stats": [43, 29, 131, 29, 131, 37],
     "ev": [0, 0, 1, 0, 1, 0],
-    "moves": [],
-    "movesLVL": [],
+    "moves": ["Cosmic Power", "Teleport"],
+    "movesLVL": [1, 1],
     "movesTM": [],
-    "movesTR": [],
+    "movesTR": [44],
     "abilities": ["Sturdy"],
     "growthrate": "Slow",
     "exp": 140,
-    "normalURL": "",
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/1/1b/790Cosmoem.png/600px-790Cosmoem.png",
     "shinyURL": ""
 }
