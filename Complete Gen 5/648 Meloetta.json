@@ -1,0 +1,21 @@
+{
+    "name": "Meloetta",
+    "fillerinfo": "Melody Pokemon-0.6-6.5",
+    "dex": 648,
+    "type": ["Normal", "Psychic"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": ["Meloetta Pirouette"],
+    "mega": [],
+    "stats": [100, 77, 77, 128, 128, 90],
+    "ev": [0, 0, 0, 1, 1, 1],
+    "moves": ["Confusion", "Quick Attack", "Round", "Sing", "Teeter Dance", "Acrobatics", "Psybeam", "Echoed Voice", "U Turn", "Wake Up Slap", "Psychic", "Hyper Voice", "Role Play", "Close Combat", "Perish Song"],
+    "movesLVL": [1, 1, 1, 1, 21, 26, 31, 36, 43, 50, 57, 64, 71, 78, 85],
+    "movesTM": [1, 3, 4, 6, 10, 11, 15, 16, 17, 18, 20, 21, 24, 25, 27, 29, 30, 31, 32, 42, 44, 47, 48, 49, 52, 53, 56, 57, 62, 63, 65, 66, 68, 71, 73, 77, 85, 86, 87, 88, 89, 90, 92, 99, 100],
+    "movesTR": [],
+    "abilities": ["Serene Grace"],
+    "growthrate": "Slow",
+    "exp": 270,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/a/a3/648Meloetta.png/600px-648Meloetta.png",
+    "shinyURL": ""
+}
