@@ -1,0 +1,21 @@
+{
+    "name": "Chimchar",
+    "fillerinfo": "Chimp Pokemon-0.5-6.2",
+    "dex": 390,
+    "type": ["Fire", "Fire"],
+    "evolutions": ["Monferno", "Infernape"],
+    "evolutionsLVL": [14, 36],
+    "forms": [],
+    "mega": [],
+    "stats": [44, 58, 44, 58, 44, 61],
+    "ev": [0, 0, 0, 0, 0, 1],
+    "moves": ["Leer", "Scratch", "Ember", "Taunt", "Fury Swipes", "Flame Wheel", "Nasty Plot", "Torment", "Facade", "Fire Spin", "Acrobatics", "Slack Off", "Flamethrower"],
+    "movesLVL": [1, 1, 7, 9, 15, 17, 23, 25, 31, 33, 39, 41, 47],
+    "movesTM": [1, 6, 8, 10, 11, 12, 17, 21, 27, 31, 32, 35, 38, 40, 41, 42, 43, 44, 45, 47, 48, 50, 56, 61, 62, 65, 75, 86, 87, 88, 89, 90, 100],
+    "movesTR": [],
+    "abilities": ["Blaze", "Iron Fist"],
+    "growthrate": "Medium_Slow",
+    "exp": 62,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/7/76/390Chimchar.png/600px-390Chimchar.png",
+    "shinyURL": ""
+}

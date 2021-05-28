@@ -1,0 +1,21 @@
+{
+    "name": "Monferno",
+    "fillerinfo": "Playful Pokemon-0.9-22.0",
+    "dex": 391,
+    "type": ["Fire", "Fighting"],
+    "evolutions": ["Infernape"],
+    "evolutionsLVL": [36],
+    "forms": [],
+    "mega": [],
+    "stats": [64, 78, 52, 78, 52, 81],
+    "ev": [0, 0, 0, 1, 0, 1],
+    "moves": ["Ember", "Leer", "Mach Punch", "Scratch", "Taunt", "Fury Swipes", "Flame Wheel", "Feint", "Torment", "Close Combat", "Fire Spin", "Acrobatics", "Slack Off", "Flare Blitz"],
+    "movesLVL": [1, 1, 1, 1, 9, 16, 19, 26, 29, 36, 39, 46, 49, 56],
+    "movesTM": [1, 6, 8, 10, 11, 12, 17, 21, 27, 31, 32, 35, 38, 39, 40, 41, 42, 43, 44, 45, 47, 48, 50, 52, 56, 61, 62, 65, 75, 80, 84, 86, 87, 88, 89, 90, 100],
+    "movesTR": [],
+    "abilities": ["Blaze", "Iron Fist"],
+    "growthrate": "Medium_Slow",
+    "exp": 142,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/2/2e/391Monferno.png/600px-391Monferno.png",
+    "shinyURL": ""
+}

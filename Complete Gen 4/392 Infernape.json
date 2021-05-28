@@ -1,0 +1,21 @@
+{
+    "name": "Infernape",
+    "fillerinfo": "Flame Pokemon-1.2-55.0",
+    "dex": 392,
+    "type": ["Fire", "Fighting"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [76, 104, 71, 104, 71, 108],
+    "ev": [0, 1, 0, 1, 0, 1],
+    "moves": ["Close Combat", "Ember", "Flare Blitz", "Leer", "Mach Punch", "Scratch", "Taunt", "Fury Swipes", "Flame Wheel", "Feint", "Punishment", "Fire Spin", "Acrobatics", "Calm Mind", "Flare Blitz"],
+    "movesLVL": [1, 1, 1, 1, 1, 1, 1, 16, 19, 26, 29, 42, 52, 58, 68],
+    "movesTM": [1, 4, 5, 6, 8, 10, 11, 12, 15, 17, 21, 22, 26, 27, 31, 32, 35, 38, 39, 40, 41, 42, 43, 44, 45, 47, 48, 50, 52, 56, 61, 62, 65, 68, 71, 75, 78, 80, 84, 86, 87, 88, 89, 90, 100],
+    "movesTR": [],
+    "abilities": ["Blaze", "Iron Fist"],
+    "growthrate": "Medium_Slow",
+    "exp": 240,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/f/fb/392Infernape.png/600px-392Infernape.png",
+    "shinyURL": ""
+}
