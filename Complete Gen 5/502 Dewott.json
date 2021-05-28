@@ -1,0 +1,21 @@
+{
+    "name": "Dewott",
+    "fillerinfo": "Discipline Pokemon-0.8-24.5",
+    "dex": 502,
+    "type": ["Water", "Water"],
+    "evolutions": ["Samurott"],
+    "evolutionsLVL": [36],
+    "forms": [],
+    "mega": [],
+    "stats": [75, 75, 60, 83, 60, 60],
+    "ev": [0, 0, 0, 2, 0, 0],
+    "moves": ["Tackle", "Tail Whip", "Water Gun", "Water Sport", "Focus Energy", "Razor Shell", "Fury Cutter", "Water Pulse", "Revenge", "Aqua Jet", "Encore", "Aqua Tail", "Retaliate", "Swords Dance", "hydro Pump"],
+    "movesLVL": [1, 1, 1, 1, 13, 18, 21, 26, 29, 34, 37, 42, 45, 50, 53],
+    "movesTM": [1, 6, 7, 10, 12, 13, 14, 17, 18, 21, 27, 32, 40, 42, 44, 45, 48, 54, 55, 56, 75, 81, 86, 87, 88, 90, 94, 98, 100],
+    "movesTR": [],
+    "abilities": ["Torrent", "Shell Armor"],
+    "growthrate": "Medium_Slow",
+    "exp": 145,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/e/e4/502Dewott.png/600px-502Dewott.png",
+    "shinyURL": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Oshawott",
+    "fillerinfo": "Sea Otter Pokemon-0.5-5.9",
+    "dex": 501,
+    "type": ["Water", "Water"],
+    "evolutions": ["Dewott", "Samurott"],
+    "evolutionsLVL": [17, 36],
+    "forms": [],
+    "mega": [],
+    "stats": [55, 55, 45, 63, 45, 45],
+    "ev": [0, 0, 0, 1, 0, 0],
+    "moves": ["Tackle", "Tail Whip", "Water Gun", "Water Sport", "Focus Energy", "Razor Shell", "Fury Cutter", "Water Pulse", "Revenge", "Aqua Jet", "Encore", "Aqua Tail", "Retaliate", "Swords Dance", "Hydro Pump"],
+    "movesLVL": [1, 5, 7, 11, 13, 17, 19, 23, 25, 29, 31, 35, 37, 41, 43],
+    "movesTM": [1, 6, 7, 10, 12, 13, 14, 17, 18, 21, 27, 32, 40, 42, 44, 45, 48, 54, 55, 56, 75, 81, 86, 87, 88, 90, 94, 98, 100],
+    "movesTR": [],
+    "abilities": ["Torrent", "Shell Armor"],
+    "growthrate": "Medium_Slow",
+    "exp": 62,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/3/3b/501Oshawott.png/600px-501Oshawott.png",
+    "shinyURL": ""
+}
