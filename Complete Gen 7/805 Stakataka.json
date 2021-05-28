@@ -1,0 +1,21 @@
+{
+    "name": "Stakataka",
+    "fillerinfo": "Rampart Pokemon-5.5-820.0",
+    "dex": 805,
+    "type": ["Rock", "Steel"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [61, 131, 211, 53, 101, 13],
+    "ev": [0, 0, 3, 0, 0, 0],
+    "moves": ["Protect", "Tackle", "Rock Slide", "Stealth Rock", "Bide", "Take Down", "Rock Throw", "Autotomize", "Iron Defense", "Iron Head", "Rock Blast", "Wide Guard", "Double Edge"],
+    "movesLVL": [1, 1, 5, 11, 17, 19, 23, 31, 37, 43, 47, 53, 61],
+    "movesTM": [6, 10, 16, 17, 20, 21, 23, 26, 27, 33, 37, 39, 42, 44, 48, 59, 68, 69, 71, 74, 78, 80, 83, 88, 90, 91, 92],
+    "movesTR": [1, 10, 20, 26, 27, 39, 40, 46, 52, 69, 70, 74, 75, 76, 79, 83, 88, 94, 99],
+    "abilities": ["Beast Boost"],
+    "growthrate": "Slow",
+    "exp": 257,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/2/27/805Stakataka.png/600px-805Stakataka.png",
+    "shinyURL": ""
+}
