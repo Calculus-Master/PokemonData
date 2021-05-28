@@ -1,0 +1,21 @@
+{
+    "name": "Heatran",
+    "fillerinfo": "Lava Dome Pokemon-1.7-430.0",
+    "dex": 485,
+    "type": ["Fire", "Steel"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [91, 90, 106, 130, 106, 77],
+    "ev": [0, 0, 0, 3, 0, 0],
+    "moves": ["Ancient Power", "Earth Power", "Fire Spin", "Heat Wave", "Iron Head", "Magma Storm", "Leer", "Fire Fang", "Metal Sound", "Crunch", "Scary Face", "Lava Plume", "Stone Edge", "Magma Storm"],
+    "movesLVL": [1, 1, 1, 1, 1, 1, 9, 17, 25, 33, 41, 49, 88, 96],
+    "movesTM": [5, 6, 10, 11, 12, 15, 17, 21, 22, 26, 27, 32, 35, 38, 39, 41, 42, 43, 44, 45, 48, 50, 61, 64, 66, 68, 71, 78, 80, 87, 88, 90, 91, 96, 97, 100],
+    "movesTR": [1, 2, 10, 15, 20, 26, 27, 32, 35, 36, 37, 43, 46, 58, 62, 67, 70, 74, 75, 76, 79, 88, 99],
+    "abilities": ["Flash Fire", "Flame Body"],
+    "growthrate": "Slow",
+    "exp": 270,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/b/b7/485Heatran.png/600px-485Heatran.png",
+    "shinyURL": ""
+}
