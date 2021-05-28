@@ -1,0 +1,21 @@
+{
+    "name": "Genesect",
+    "fillerinfo": "Paleozoic Pokemon-1.5-82.5",
+    "dex": 649,
+    "type": ["Bug", "Steel"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [71, 120, 95, 120, 95, 99],
+    "ev": [0, 1, 0, 1, 0, 1],
+    "moves": ["Fell Stinger", "Magnet Rise", "Metal Claw", "Quick Attack", "Screech", "Techno Blast", "Fury Cutter", "Lock On", "Flame Charge", "Magnet Bomb", "Slash", "Metal Sound", "Signal Beam", "Tri Attack", "X Scissor", "Bug Buzz", "Simple Beam", "Zap Cannon", "Hyper Beam", "Self Destruct"],
+    "movesLVL": [1, 1, 1, 1, 1, 1, 7, 11, 18, 22, 29, 33, 40, 44, 51, 55, 62, 66, 73, 77],
+    "movesTM": [6, 10, 13, 14, 15, 16, 17, 21, 22, 24, 25, 27, 29, 32, 33, 35, 40, 42, 43, 44, 48, 53, 57, 64, 65, 68, 69, 73, 76, 81, 83, 87, 88, 89, 90, 91, 97, 100],
+    "movesTR": [2, 5, 6, 8, 9, 11, 18, 19, 20, 26, 27, 41, 46, 58, 60, 61, 65, 69, 70, 73, 74, 83],
+    "abilities": ["Download"],
+    "growthrate": "Slow",
+    "exp": 270,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/4/46/649Genesect.png/600px-649Genesect.png",
+    "shinyURL": ""
+}
