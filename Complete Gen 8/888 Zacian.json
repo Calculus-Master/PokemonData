@@ -1,0 +1,21 @@
+{
+    "name": "Zacian",
+    "fillerinfo": "Warrior Pokemon-2.8-355.0",
+    "dex": 888,
+    "type": ["Fairy", "Steel"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [92, 170, 115, 80, 115, 148],
+    "ev": [0, 0, 0, 0, 0, 3],
+    "moves": ["Bite", "Howl", "Metal Claw", "Quick Attack", "Quick Guard", "Sacred Swords", "Slash", "Swords Dance", "Iron Head", "Laser Focus", "Crunch", "Moonblast", "Close Combat", "Giga Impact", "Behemoth Blade"],
+    "movesLVL": [1, 1, 1, 1, 1, 1, 11, 22, 33, 44, 55, 66, 77, 88, 99],
+    "movesTM": [],
+    "movesTR": [0, 12, 13, 20, 21, 26, 27, 31, 32, 42, 53, 64, 74, 85, 86, 90, 97],
+    "abilities": ["Intrepid Sword"],
+    "growthrate": "Slow",
+    "exp": 360,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/c/ca/888Zacian.png/600px-888Zacian.png",
+    "shinyURL": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Zamazenta",
+    "fillerinfo": "Warrior Pokemon-2.9-785.0",
+    "dex": 889,
+    "type": ["Fighting", "Steel"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [92, 130, 145, 80, 145, 128],
+    "ev": [0, 0, 0, 0, 0, 3],
+    "moves": ["Bite", "Howl", "Metal Burst", "Metal Claw", "Quick Attack", "Wide Guard", "Slash", "Iron Defense", "Iron Head", "Laser Focus", "Crunch", "Moonblast", "Close Combat", "Giga Impact", "Behemoth Bash"],
+    "movesLVL": [1, 1, 1, 1, 1, 1, 11, 22, 33, 44, 55, 66, 77, 88, 99],
+    "movesTM": [],
+    "movesTR": [12, 13, 20, 21, 26, 27, 31, 32, 42, 46, 53, 64, 70, 74, 85, 86, 90, 92, 97],
+    "abilities": ["Dauntless Shield"],
+    "growthrate": "Slow",
+    "exp": 360,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/7/72/889Zamazenta.png/600px-889Zamazenta.png",
+    "shinyURL": ""
+}
