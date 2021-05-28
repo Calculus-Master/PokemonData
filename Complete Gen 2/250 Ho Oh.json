@@ -1,0 +1,21 @@
+{
+    "name": "Ho Oh",
+    "fillerinfo": "Rainbow Pokemon-3.8-199.0",
+    "dex": 250,
+    "type": ["Fire", "Flying"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [106, 130, 90, 110, 154, 90],
+    "ev": [0, 0, 0, 0, 3, 0],
+    "moves": ["Weather Ball", "Whirlwind", "Gust", "Brave Bird", "Extrasensory", "Sunny Day", "Fire Blast", "Sacred Fire", "Punishment", "Ancient Power", "Safeguard", "Recover", "Future Sight", "Natural Gift", "Calm Mind", "Sky Attack"],
+    "movesLVL": [1, 1, 9, 15, 23, 29, 37, 43, 50, 57, 65, 71, 79, 85, 93, 99],
+    "movesTM": [4, 5, 6, 10, 11, 15, 16, 17, 18, 19, 20, 21, 22, 24, 25, 26, 27, 29, 30, 32, 33, 35, 37, 38, 40, 42, 43, 44, 48, 49, 50, 51, 57, 58, 61, 68, 73, 76, 77, 78, 85, 87, 88, 90, 100],
+    "movesTR": [2, 8, 9, 10, 11, 15, 20, 26, 27, 33, 34, 36, 42, 43, 49, 55, 66, 67, 69, 74],
+    "abilities": ["Pressure", "Regenerator"],
+    "growthrate": "Slow",
+    "exp": 306,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/6/67/250Ho-Oh.png/600px-250Ho-Oh.png",
+    "shinyURL": ""
+}

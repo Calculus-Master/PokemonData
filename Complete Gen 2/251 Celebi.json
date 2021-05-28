@@ -1,0 +1,21 @@
+{
+    "name": "Celebi",
+    "fillerinfo": "Time Travel Pokemon-0.6-5.0",
+    "dex": 251,
+    "type": ["Psychic", "Grass"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [100, 100, 100, 100, 100, 100],
+    "ev": [3, 0, 0, 0, 0, 0],
+    "moves": ["Confusion", "Heal Bell", "Leech Seed", "Recover", "Safeguard", "Magical Leaf", "Ancient Power", "Baton Pass", "Natural Gift", "Heal Block", "Future Sight", "Healing Wish", "Leaf Storm", "Perish Song"],
+    "movesLVL": [1, 1, 1, 1, 10, 19, 28, 37, 46, 55, 64, 73, 82, 91],
+    "movesTM": [4, 6, 10, 11, 15, 16, 17, 18, 20, 21, 22, 27, 29, 30, 32, 33, 37, 40, 42, 44, 48, 49, 53, 56, 57, 68, 73, 75, 77, 85, 86, 87, 88, 89, 90, 92, 96, 99, 100],
+    "movesTR": [0, 11, 14, 20, 26, 27, 29, 33, 34, 35, 38, 40, 49, 50, 56, 59, 65, 67, 68, 69, 71, 76, 77, 83, 92, 96],
+    "abilities": ["Natural Cure"],
+    "growthrate": "Medium_Slow",
+    "exp": 270,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/e/e7/251Celebi.png/600px-251Celebi.png",
+    "shinyURL": ""
+}

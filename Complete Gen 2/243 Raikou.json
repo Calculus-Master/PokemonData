@@ -1,0 +1,21 @@
+{
+    "name": "Raikou",
+    "fillerinfo": "Thunder Pokemon-1.9-178.0",
+    "dex": 243,
+    "type": ["Electric", "Electric"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [90, 85, 75, 115, 100, 115],
+    "ev": [0, 0, 0, 1, 0, 2],
+    "moves": ["Bite", "Discharge", "Extrasensory", "Leer", "Thunder Shock", "Roar", "Quick Attack", "Spark", "Reflect", "Crunch", "Thunder Fang", "Discharge", "Extransensory", "Rain Dance", "Calm Mind", "Thunder"],
+    "movesLVL": [1, 1, 1, 1, 8, 15, 22, 29, 36, 43, 50, 57, 64, 71, 78, 85],
+    "movesTM": [4, 5, 6, 10, 11, 15, 16, 17, 18, 21, 24, 25, 27, 30, 32, 33, 37, 42, 44, 48, 57, 60, 68, 72, 73, 77, 78, 87, 88, 90, 93, 95, 100],
+    "movesTR": [1, 8, 9, 12, 20, 26, 27, 31, 32, 33, 49, 56, 74, 84, 86, 95],
+    "abilities": ["Pressure", "Inner Focus"],
+    "growthrate": "Slow",
+    "exp": 261,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/c/c1/243Raikou.png/600px-243Raikou.png",
+    "shinyURL": ""
+}
