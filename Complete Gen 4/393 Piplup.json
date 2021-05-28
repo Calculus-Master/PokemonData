@@ -1,0 +1,21 @@
+{
+    "name": "Piplup",
+    "fillerinfo": "Penguin Pokemon-0.4-5.2",
+    "dex": 393,
+    "type": ["Water", "Water"],
+    "evolutions": ["Prinplup", "Empoleon"],
+    "evolutionsLVL": [16, 36],
+    "forms": [],
+    "mega": [],
+    "stats": [53, 51, 53, 61, 56, 40],
+    "ev": [0, 0, 0, 1, 0, 0],
+    "moves": ["Pound", "Growl", "Bubble", "Water Sport", "Peck", "Bubble Beam", "Bide", "Fury Attack", "Brine", "Whirlpool", "Mist", "Drill Peck", "Hydro Pump"],
+    "movesLVL": [1, 4, 8, 11, 15, 18, 22, 25, 29, 32, 36, 39, 43],
+    "movesTM": [1, 6, 7, 10, 13, 14, 17, 18, 21, 27, 31, 32, 39, 40, 42, 44, 45, 48, 49, 55, 56, 60, 86, 87, 88, 90, 94, 98, 100],
+    "movesTR": [],
+    "abilities": ["Torrent", "Defiant"],
+    "growthrate": "Medium_Slow",
+    "exp": 63,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/b/b1/393Piplup.png/600px-393Piplup.png",
+    "shinyURL": ""
+}
