@@ -1,0 +1,21 @@
+{
+    "name": "Magearna",
+    "fillerinfo": "Artificial Pokemon-1.0-80.5",
+    "dex": 801,
+    "type": ["Steel", "Fairy"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [80, 95, 115, 130, 115, 65],
+    "ev": [0, 0, 0, 3, 0, 0],
+    "moves": ["Crafty Shield", "Defense Curl", "Gear Up", "Helping Hand", "Iron Head", "Psybeam", "Shift Gear", "Sonic Boom", "Lucky Chant", "Aurora Beam", "Mirror Shot", "Mind Reader", "Flash Cannon", "Fleur Cannon", "Iron Defense", "Pain Split", "Synchronoise", "Aura Sphere", "Heart Swap", "Trump Card"],
+    "movesLVL": [1, 1, 1, 1, 1, 1, 1, 1, 9, 17, 25, 33, 41, 49, 57, 65, 73, 81, 89, 97],
+    "movesTM": [4, 10, 13, 15, 16, 17, 21, 22, 24, 27, 30, 31, 32, 33, 48, 49, 52, 53, 54, 57, 63, 64, 68, 72, 73, 74, 86, 87, 90, 91, 92, 99, 100],
+    "movesTR": [5, 8, 12, 19, 20, 26, 29, 30, 33, 38, 46, 49, 52, 56, 64, 65, 69, 70, 74, 77, 80, 82, 92],
+    "abilities": ["Soul Heart"],
+    "growthrate": "Slow",
+    "exp": 270,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/0/0a/801Magearna.png/600px-801Magearna.png",
+    "shinyURL": ""
+}
