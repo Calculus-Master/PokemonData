@@ -1,0 +1,21 @@
+{
+    "name": "Terrakion",
+    "fillerinfo": "Cavern Pokemon-1.9-260.0",
+    "dex": 639,
+    "type": ["Rock", "Fighting"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [91, 129, 90, 72, 90, 108],
+    "ev": [0, 3, 0, 0, 0, 0],
+    "moves": ["Close Combat", "Double Kick", "Leer", "Quick Attack", "Smack Down", "Take Down", "Helping Hand", "Retaliate", "Rock Slide", "Sacred Sword", "Swords Dance", "Quick Guard", "Work Up", "Stone Edge"],
+    "movesLVL": [1, 1, 1, 1, 1, 7, 13, 19, 25, 31, 37, 42, 49, 55],
+    "movesTM": [1, 4, 5, 6, 10, 12, 15, 17, 20, 21, 23, 26, 27, 32, 33, 37, 39, 40, 42, 44, 48, 52, 54, 68, 69, 71, 75, 77, 78, 80, 81, 84, 87, 88, 90, 100],
+    "movesTR": [0, 10, 20, 21, 26, 27, 28, 37, 39, 49, 53, 57, 60, 64, 67, 69, 74, 75, 76, 85],
+    "abilities": ["Justified"],
+    "growthrate": "Slow",
+    "exp": 261,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/a/ad/639Terrakion.png/600px-639Terrakion.png",
+    "shinyURL": ""
+}

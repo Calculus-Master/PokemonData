@@ -1,0 +1,21 @@
+{
+    "name": "Cobalion",
+    "fillerinfo": "Iron Will Pokemon-2.1-250.0",
+    "dex": 638,
+    "type": ["Steel", "Fighting"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [91, 90, 129, 90, 72, 108],
+    "ev": [0, 0, 3, 0, 0, 0],
+    "moves": ["Close Combat", "Double Kick", "Leer", "Metal Burst", "Metal Claw", "Quick Attack", "Take Down", "Helping Hand", "Retaliate", "Iron Head", "Sacred Sword", "Swords Dance", "Quick Guard", "Work Up"],
+    "movesLVL": [1, 1, 1, 1, 1, 1, 7, 13, 19, 25, 31, 37, 42, 49],
+    "movesTM": [1, 4, 5, 6, 10, 12, 15, 17, 20, 21, 27, 32, 33, 37, 40, 42, 44, 48, 52, 54, 68, 69, 71, 72, 73, 75, 77, 81, 84, 87, 88, 90, 91, 100],
+    "movesTR": [0, 20, 21, 26, 27, 28, 37, 39, 46, 49, 53, 57, 60, 64, 69, 70, 74, 75, 76, 85],
+    "abilities": ["Justified"],
+    "growthrate": "Slow",
+    "exp": 261,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/6/65/638Cobalion.png/600px-638Cobalion.png",
+    "shinyURL": ""
+}
