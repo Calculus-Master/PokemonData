@@ -1,0 +1,21 @@
+{
+    "name": "Ash Greninja",
+    "fillerinfo": "Ninja Pokemon-1.5-40.0",
+    "dex": 658,
+    "type": ["Water", "Dark"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": ["Greninja"],
+    "mega": [],
+    "stats": [72, 145, 67, 153, 71, 132],
+    "ev": [0, 0, 0, 0, 0, 3],
+    "moves": ["Water Shuriken", "Quick Attack", "Bubble", "Mat Block", "Night Slash", "Pound", "Haze", "Growl", "Role Play", "Lick", "Water Pulse", "Smokescreen", "Shadow Sneak", "Spikes", "Feint Attack", "Substitute", "Extrasensory", "Double Team", "Hydro Pump"],
+    "movesLVL": [0, 1, 1, 1, 1, 1, 1, 1, 1, 10, 14, 19, 23, 28, 33, 42, 49, 56, 68],
+    "movesTM": [1, 6, 10, 12, 13, 14, 15, 17, 18, 21, 23, 27, 32, 39, 40, 42, 44, 45, 46, 48, 49, 55, 56, 59, 62, 68, 80, 86, 87, 88, 89, 90, 94, 97, 98, 100],
+    "movesTR": [],
+    "abilities": ["Battle Bond"],
+    "growthrate": "Medium_Slow",
+    "exp": 288,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/0/0e/658Greninja-Ash.png/600px-658Greninja-Ash.png",
+    "shinyURL": ""
+}

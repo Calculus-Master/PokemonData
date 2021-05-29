@@ -3,8 +3,8 @@
     "fillerinfo": "Bubble Frog Pokemon-0.6-10.9",
     "dex": 657,
     "type": ["Water", "Water"],
-    "evolutions": [],
-    "evolutionsLVL": [],
+    "evolutions": ["Greninja"],
+    "evolutionsLVL": [36],
     "forms": [],
     "mega": [],
     "stats": [54, 63, 52, 83, 56, 97],
@@ -16,6 +16,6 @@
     "abilities": ["Torrent", "Protean"],
     "growthrate": "Medium_Slow",
     "exp": 142,
-    "normalURL": "",
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/f/fc/657Frogadier.png/600px-657Frogadier.png",
     "shinyURL": ""
 }

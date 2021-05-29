@@ -5,7 +5,7 @@
     "type": ["Water", "Dark"],
     "evolutions": [],
     "evolutionsLVL": [],
-    "forms": [],
+    "forms": ["Ash Greninja"],
     "mega": [],
     "stats": [72, 95, 67, 103, 71, 122],
     "ev": [0, 0, 0, 0, 0, 3],
@@ -16,6 +16,6 @@
     "abilities": ["Torrent", "Protean"],
     "growthrate": "Medium_Slow",
     "exp": 239,
-    "normalURL": "",
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/6/67/658Greninja.png/600px-658Greninja.png",
     "shinyURL": ""
 }
