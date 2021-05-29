@@ -3,8 +3,8 @@
     "fillerinfo": "Tiny Bird Pokemon-0.2-2.0",
     "dex": 177,
     "type": ["Psychic", "Flying"],
-    "evolutions": [],
-    "evolutionsLVL": [],
+    "evolutions": ["Xatu"],
+    "evolutionsLVL": [25],
     "forms": [],
     "mega": [],
     "stats": [40, 50, 45, 70, 45, 70],
@@ -16,6 +16,6 @@
     "abilities": ["Synchronize", "Early Bird", "Magic Bounce"],
     "growthrate": "Medium_Fast",
     "exp": 64,
-    "normalURL": "",
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/5/5b/177Natu.png/600px-177Natu.png",
     "shinyURL": ""
 }
