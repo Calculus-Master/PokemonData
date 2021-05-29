@@ -1,0 +1,21 @@
+{
+    "name": "Slowking",
+    "fillerinfo": "Hexpert Pokemon-1.8-79.5",
+    "dex": 199,
+    "type": ["Poison", "Psychic"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": ["Slowking"],
+    "mega": [],
+    "stats": [95, 65, 80, 110, 110, 30],
+    "ev": [0, 0, 0, 0, 2, 0],
+    "moves": ["Acid", "Curse", "Eerie Spell", "Growl", "Nasty Plot", "Power Gem", "Swagger", "Tackle", "Yawn", "Confusion", "Disable", "Water Pulse", "Headbutt", "Zen Headbutt", "Amnesia", "Surf", "Slack Off", "Psychic", "Psych Up", "Rain Dance", "Heal Pulse"],
+    "movesLVL": [1, 1, 1, 1, 1, 1, 1, 1, 9, 12, 15, 18, 21, 24, 27, 30, 33, 36, 39, 42, 45],
+    "movesTM": [],
+    "movesTR": [1, 2, 3, 4, 5, 6, 10, 11, 15, 17, 19, 20, 22, 25, 26, 27, 31, 33, 34, 38, 40, 45, 46, 49, 63, 64, 68, 69, 77, 78, 81, 82, 84, 91, 98],
+    "abilities": ["Curious Medicine", "Own Tempo", "Regenerator"],
+    "growthrate": "Medium_Fast",
+    "exp": 172,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/c/ca/199Slowking-Galar.png/600px-199Slowking-Galar.png",
+    "shinyURL": ""
+}

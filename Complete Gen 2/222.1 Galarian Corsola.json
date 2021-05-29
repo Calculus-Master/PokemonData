@@ -1,0 +1,21 @@
+{
+    "name": "Galarian Corsola",
+    "fillerinfo": "Coral Pokemon-0.6-0.5",
+    "dex": 222,
+    "type": ["Ghost", "Ghost"],
+    "evolutions": ["Cursola"],
+    "evolutionsLVL": [38],
+    "forms": ["Corsola"],
+    "mega": [],
+    "stats": [60, 66, 100, 65, 100, 30],
+    "ev": [0, 0, 0, 0, 1, 0],
+    "moves": ["Harden", "Tackle", "Astonish", "Disable", "Spite", "Ancient Power", "Hex", "Curse", "Strength Sap", "Power Gem", "Night Shade", "Grudge", "Mirror Coat"],
+    "movesLVL": [1, 1, 5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55],
+    "movesTM": [],
+    "movesTR": [1, 3, 4, 5, 6, 10, 11, 17, 20, 26, 27, 33, 46, 49, 63, 67, 75, 76, 84, 95, 98],
+    "abilities": ["Hustle", "Natural Cure", "Regenerator"],
+    "growthrate": "Fast",
+    "exp": 144,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/c/ce/222Corsola-Galar.png/600px-222Corsola-Galar.png",
+    "shinyURL": ""
+}

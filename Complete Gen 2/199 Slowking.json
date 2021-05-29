@@ -5,7 +5,7 @@
     "type": ["Water", "Psychic"],
     "evolutions": [],
     "evolutionsLVL": [],
-    "forms": [],
+    "forms": ["Galarian Slowking"],
     "mega": [],
     "stats": [95, 75, 80, 100, 110, 30],
     "ev": [0, 0, 0, 0, 3, 0],

@@ -1,0 +1,21 @@
+{
+    "name": "Mega Ampharos",
+    "fillerinfo": "Light Pokemon-1.4-61.5",
+    "dex": 181,
+    "type": ["Electric", "Dragon"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": [],
+    "mega": [],
+    "stats": [90, 95, 105, 165, 110, 45],
+    "ev": [0, 0, 0, 3, 0, 0],
+    "moves": ["Thunder Punch", "Fire Punch", "Tackle", "Thunder Wave", "Thunder Shock", "Magnetic Flux", "Dragon Pulse", "Growl", "Zap Cannon", "Ion Deluge", "Cotton Spore", "Charge", "Take Down", "Electro Ball", "Confuse Ray", "Power Gem", "Discharge", "Cotton Guard", "Signal Beam", "Light Screen", "Thunder"],
+    "movesLVL": [0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 11, 16, 20, 25, 29, 35, 40, 46, 51, 57, 62],
+    "movesTM": [6, 10, 15, 16, 17, 18, 20, 21, 24, 25, 27, 31, 32, 42, 44, 45, 48, 49, 52, 56, 57, 59, 68, 72, 73, 78, 87, 88, 90, 93, 100],
+    "movesTR": [],
+    "abilities": ["Mold Breaker"],
+    "growthrate": "Medium_Slow",
+    "exp": 275,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/a/a2/181Ampharos-Mega.png/600px-181Ampharos-Mega.png",
+    "shinyURL": ""
+}

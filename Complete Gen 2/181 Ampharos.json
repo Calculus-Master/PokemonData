@@ -6,7 +6,7 @@
     "evolutions": [],
     "evolutionsLVL": [],
     "forms": [],
-    "mega": [],
+    "mega": ["Mega Ampharos"],
     "stats": [90, 75, 85, 115, 90, 55],
     "ev": [0, 0, 0, 3, 0, 0],
     "moves": ["Thunder Punch", "Fire Punch", "Tackle", "Thunder Wave", "Thunder Shock", "Magnetic Flux", "Dragon Pulse", "Growl", "Zap Cannon", "Ion Deluge", "Cotton Spore", "Charge", "Take Down", "Electro Ball", "Confuse Ray", "Power Gem", "Discharge", "Cotton Guard", "Signal Beam", "Light Screen", "Thunder"],

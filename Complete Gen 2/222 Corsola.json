@@ -5,7 +5,7 @@
     "type": ["Water", "Rock"],
     "evolutions": [],
     "evolutionsLVL": [],
-    "forms": [],
+    "forms": ["Galarian Corsola"],
     "mega": [],
     "stats": [65, 55, 95, 65, 95, 35],
     "ev": [0, 0, 1, 0, 1, 0],

@@ -6,7 +6,7 @@
     "evolutions": [],
     "evolutionsLVL": [],
     "forms": [],
-    "mega": [],
+    "mega": ["Mega Houndoom"],
     "stats": [75, 90, 50, 110, 80, 95],
     "ev": [0, 0, 0, 2, 0, 0],
     "moves": ["Nasty Plot", "Smog", "Howl", "Inferno", "Leer", "Ember", "Thunder Fang", "Roar", "Bite", "Odor Sleuth", "Beat Up", "Fire Fang", "Feint Attack", "Embargo", "Foul Play", "Flamethrower", "Crunch"],
