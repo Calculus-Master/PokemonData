@@ -1,6 +1,6 @@
 {
     "name": "Ledian",
-    "fillerinfo": "Ledian-1.4-35.6",
+    "fillerinfo": "Five Star Pokemon-1.4-35.6",
     "dex": 166,
     "type": ["Bug", "Flying"],
     "evolutions": [],
@@ -9,13 +9,13 @@
     "mega": [],
     "stats": [55, 35, 50, 55, 110, 85],
     "ev": [0, 0, 0, 0, 2, 0],
-    "moves": [],
-    "movesLVL": [],
-    "movesTM": [],
+    "moves": ["Swift", "Supersonic", "Tackle", "Safeguard", "Light Screen", "Reflect", "Mach Punch", "Silver Wind", "Comet Punch", "Baton Pass", "Agility", "Bug Buzz", "Air Slash", "Double Edge"],
+    "movesLVL": [1, 1, 1, 12, 12, 12, 15, 20, 24, 29, 33, 38, 42, 47],
+    "movesTM": [6, 10, 11, 15, 16, 17, 19, 20, 21, 22, 27, 31, 32, 33, 40, 42, 44, 45, 46, 48, 52, 56, 62, 68, 75, 83, 87, 88, 89, 90, 100],
     "movesTR": [],
     "abilities": ["Swarm", "Early Bird", "Iron Fist"],
     "growthrate": "Fast",
     "exp": 137,
-    "normalURL": "",
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/5/5b/166Ledian.png/600px-166Ledian.png",
     "shinyURL": ""
 }

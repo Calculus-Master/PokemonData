@@ -1,6 +1,6 @@
 {
     "name": "Ariados",
-    "fillerinfo": "Ariados-1.1-33.5",
+    "fillerinfo": "Long Leg Pokemon-1.1-33.5",
     "dex": 168,
     "type": ["Bug", "Poison"],
     "evolutions": [],
@@ -9,13 +9,13 @@
     "mega": [],
     "stats": [70, 90, 70, 60, 70, 40],
     "ev": [0, 2, 0, 0, 0, 0],
-    "moves": [],
-    "movesLVL": [],
-    "movesTM": [],
+    "moves": ["Swords Dance", "Bug Bite", "Constrict", "Venom Drench", "Focus Energy", "Fell Stinger", "Absorb", "Poison Sting", "String Shot", "Infestation", "Scary Face", "Night Shade", "Shadow Sneak", "Fury Swipes", "Sucker Punch", "Spider Web", "Agility", "Pin Missile", "Psychic", "Poison Jab", "Cross Poison", "Sticky Web", "Toxic Thread"],
+    "movesLVL": [0, 1, 1, 1, 1, 1, 1, 1, 1, 8, 12, 15, 19, 23, 28, 32, 37, 41, 46, 50, 55, 58, 63],
+    "movesTM": [6, 9, 10, 11, 15, 17, 21, 22, 27, 28, 29, 32, 36, 42, 44, 45, 46, 48, 67, 68, 75, 81, 83, 84, 87, 88, 90, 100],
     "movesTR": [],
     "abilities": ["Swarm", "Insomnia", "Sniper"],
     "growthrate": "Fast",
     "exp": 140,
-    "normalURL": "",
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/7/76/168Ariados.png/600px-168Ariados.png",
     "shinyURL": ""
 }

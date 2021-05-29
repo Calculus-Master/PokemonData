@@ -1,6 +1,6 @@
 {
     "name": "Crobat",
-    "fillerinfo": "Crobat-1.8-75.0",
+    "fillerinfo": "Bat Pokemon-1.8-75.0",
     "dex": 169,
     "type": ["Poison", "Flying"],
     "evolutions": [],
@@ -9,13 +9,13 @@
     "mega": [],
     "stats": [85, 90, 80, 70, 80, 130],
     "ev": [0, 0, 0, 0, 0, 3],
-    "moves": [],
-    "movesLVL": [],
-    "movesTM": [],
-    "movesTR": [],
+    "moves": ["Cross Poison", "Supersonic", "Astonish", "Bite", "Absorb", "Screech", "Wing Attack", "Confuse Ray", "Air Cutter", "Swift", "Poison Fang", "Mean Look", "Leech Life", "Haze", "Venoshock", "Air Slash", "Quick Guard"],
+    "movesLVL": [0, 1, 1, 1, 1, 1, 13, 17, 19, 24, 27, 32, 35, 40, 43, 48, 51],
+    "movesTM": [6, 9, 10, 11, 12, 15, 17, 18, 19, 21, 27, 28, 30, 32, 36, 40, 41, 42, 44, 45, 46, 48, 51, 62, 66, 68, 76, 81, 87, 88, 89, 90, 97, 100],
+    "movesTR": [12, 18, 20, 22, 26, 27, 32, 33, 35, 36, 37, 58, 60, 66, 68, 69, 89, 91],
     "abilities": ["Inner Focus", "Infiltrator"],
     "growthrate": "Medium_Fast",
     "exp": 241,
-    "normalURL": "",
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/1/17/169Crobat.png/600px-169Crobat.png",
     "shinyURL": ""
 }

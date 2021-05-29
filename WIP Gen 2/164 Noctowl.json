@@ -1,6 +1,6 @@
 {
     "name": "Noctowl",
-    "fillerinfo": "Noctowl-1.6-40.8",
+    "fillerinfo": "Owl Pokemon-1.6-40.8",
     "dex": 164,
     "type": ["Normal", "Flying"],
     "evolutions": [],
@@ -9,13 +9,13 @@
     "mega": [],
     "stats": [100, 50, 50, 86, 96, 70],
     "ev": [2, 0, 0, 0, 0, 0],
-    "moves": [],
-    "movesLVL": [],
-    "movesTM": [],
-    "movesTR": [],
+    "moves": ["Tackle", "Hypnosis", "Foresight", "Dream Eater", "Sky Attack", "Growl", "Peck", "Confusion", "Echoed Voice", "Zen Headbutt", "Psycho Shift", "Extrasensory", "Take Down", "Reflect", "Air Slash", "Uproar", "Roost", "Moonblast", "Synchronoise"],
+    "movesLVL": [1, 1, 1, 1, 1, 1, 7, 10, 13, 16, 19, 23, 27, 31, 35, 39, 43, 47, 51],
+    "movesTM": [1, 6, 10, 11, 15, 17, 18, 19, 21, 27, 29, 30, 32, 33, 40, 42, 44, 45, 46, 48, 49, 51, 68, 76, 77, 85, 87, 88, 90, 100],
+    "movesTR": [11, 12, 17, 20, 26, 27, 33, 34, 35, 36, 42, 49, 68, 69, 82, 85, 89],
     "abilities": ["Insomnia", "Keen Eye", "Tinted Lens"],
     "growthrate": "Medium_Fast",
     "exp": 158,
-    "normalURL": "",
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/f/fa/164Noctowl.png/600px-164Noctowl.png",
     "shinyURL": ""
 }
