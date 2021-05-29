@@ -3,8 +3,8 @@
     "fillerinfo": "Grass Quill Pokemon-0.3-1.5",
     "dex": 722,
     "type": ["Grass", "Flying"],
-    "evolutions": [],
-    "evolutionsLVL": [],
+    "evolutions": ["Dartrix", "Decidueye"],
+    "evolutionsLVL": [17, 34],
     "forms": [],
     "mega": [],
     "stats": [68, 55, 55, 50, 50, 42],
@@ -16,6 +16,6 @@
     "abilities": ["Overgrow", "Long Reach"],
     "growthrate": "Medium_Slow",
     "exp": 64,
-    "normalURL": "",
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/7/74/722Rowlet.png/600px-722Rowlet.png",
     "shinyURL": ""
 }

@@ -3,8 +3,8 @@
     "fillerinfo": "Fire Cat Pokemon-0.7-25.0",
     "dex": 726,
     "type": ["Fire", "Fire"],
-    "evolutions": [],
-    "evolutionsLVL": [],
+    "evolutions": ["Incineroar"],
+    "evolutionsLVL": [34],
     "forms": [],
     "mega": [],
     "stats": [65, 85, 50, 80, 50, 90],
@@ -16,6 +16,6 @@
     "abilities": ["Blaze", "Intimidate"],
     "growthrate": "Medium_Slow",
     "exp": 147,
-    "normalURL": "",
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/d/dc/726Torracat.png/600px-726Torracat.png",
     "shinyURL": ""
 }

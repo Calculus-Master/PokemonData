@@ -3,8 +3,8 @@
     "fillerinfo": "Pop Star Pokemon-0.6-17.5",
     "dex": 729,
     "type": ["Water", "Water"],
-    "evolutions": [],
-    "evolutionsLVL": [],
+    "evolutions": ["Primarina"],
+    "evolutionsLVL": [34],
     "forms": [],
     "mega": [],
     "stats": [60, 69, 69, 91, 81, 50],
@@ -16,6 +16,6 @@
     "abilities": ["Torrent", "Liquid Voice"],
     "growthrate": "Medium_Slow",
     "exp": 147,
-    "normalURL": "",
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/c/cd/729Brionne.png/600px-729Brionne.png",
     "shinyURL": ""
 }

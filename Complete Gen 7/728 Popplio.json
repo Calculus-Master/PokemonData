@@ -3,8 +3,8 @@
     "fillerinfo": "Sea Lion Pokemon-0.4-7.5",
     "dex": 728,
     "type": ["Water", "Water"],
-    "evolutions": [],
-    "evolutionsLVL": [],
+    "evolutions": ["Brionne", "Primarina"],
+    "evolutionsLVL": [37, 34],
     "forms": [],
     "mega": [],
     "stats": [50, 54, 54, 66, 56, 40],
@@ -16,6 +16,6 @@
     "abilities": ["Torrent", "Liquid Voice"],
     "growthrate": "Medium_Slow",
     "exp": 64,
-    "normalURL": "",
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/d/d8/728Popplio.png/600px-728Popplio.png",
     "shinyURL": ""
 }

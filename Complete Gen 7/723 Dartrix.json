@@ -3,8 +3,8 @@
     "fillerinfo": "Blade Quill Pokemon-0.7-16.0",
     "dex": 723,
     "type": ["Grass", "Flying"],
-    "evolutions": [],
-    "evolutionsLVL": [],
+    "evolutions": ["Decidueye"],
+    "evolutionsLVL": [34],
     "forms": [],
     "mega": [],
     "stats": [78, 75, 75, 70, 70, 52],
@@ -16,6 +16,6 @@
     "abilities": ["Overgrow", "Long Reach"],
     "growthrate": "Medium_Slow",
     "exp": 147,
-    "normalURL": "",
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/1/1e/723Dartrix.png/600px-723Dartrix.png",
     "shinyURL": ""
 }
