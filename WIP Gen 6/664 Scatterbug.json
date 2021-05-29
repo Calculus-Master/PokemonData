@@ -1,6 +1,6 @@
 {
     "name": "Scatterbug",
-    "fillerinfo": "Scatterbug-0.3-2.5",
+    "fillerinfo": "こなふきポケモン-0.3-2.5",
     "dex": 664,
     "type": ["Bug", "Bug"],
     "evolutions": [],
@@ -9,8 +9,8 @@
     "mega": [],
     "stats": [38, 35, 40, 27, 25, 35],
     "ev": [0, 0, 1, 0, 0, 0],
-    "moves": [],
-    "movesLVL": [],
+    "moves": ["Tackle", "String Shot", "Stun Spore", "Bug Bite"],
+    "movesLVL": [1, 1, 6, 15],
     "movesTM": [],
     "movesTR": [],
     "abilities": ["Shield Dust", "Compound Eyes", "Friend Guard"],
