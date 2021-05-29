@@ -1,6 +1,6 @@
 {
     "name": "Wurmple",
-    "fillerinfo": "Wurmple-0.3-3.6",
+    "fillerinfo": "Worm Pokemon-0.3-3.6",
     "dex": 265,
     "type": ["Bug", "Bug"],
     "evolutions": [],
@@ -9,8 +9,8 @@
     "mega": [],
     "stats": [45, 45, 35, 20, 30, 20],
     "ev": [1, 0, 0, 0, 0, 0],
-    "moves": [],
-    "movesLVL": [],
+    "moves": ["Tackle", "String Shot", "Poison Sting", "Bug Bite"],
+    "movesLVL": [1, 1, 5, 15],
     "movesTM": [],
     "movesTR": [],
     "abilities": ["Shield Dust", "Run Away"],
