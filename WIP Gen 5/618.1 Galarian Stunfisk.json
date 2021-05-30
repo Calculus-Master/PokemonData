@@ -1,0 +1,21 @@
+{
+    "name": "Galarian Stunfisk",
+    "fillerinfo": "Trap Pokemon-0.7-20.5",
+    "dex": 618,
+    "type": ["Ground", "Steel"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": ["Stunfisk"],
+    "mega": [],
+    "stats": [109, 81, 99, 66, 84, 32],
+    "ev": [2, 0, 0, 0, 0, 0],
+    "moves": ["Metal Claw", "Mud Slap", "Tackle", "Water Gun", "Endure", "Mud Shot", "Revenge", "Metal Sound", "Sucker Punch", "Iron Defense", "Bounce", "Muddy Water", "Snap Trap", "Flail", "Fissure"],
+    "movesLVL": [1, 1, 1, 1, 5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55],
+    "movesTM": [],
+    "movesTR": [4, 10, 20, 22, 26, 27, 32, 35, 45, 46, 67, 70, 75, 76, 78, 81, 84],
+    "abilities": ["Mimicry"],
+    "growthrate": "Medium_Fast",
+    "exp": 165,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/1/11/618Stunfisk-Galar.png",
+    "shinyURL": ""
+}

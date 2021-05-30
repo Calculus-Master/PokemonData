@@ -1,0 +1,21 @@
+{
+    "name": "Galarian Yamask",
+    "fillerinfo": "Spirit Pokemon-0.5-1.5",
+    "dex": 562,
+    "type": ["Ground", "Ghost"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": ["Yamask"],
+    "mega": [],
+    "stats": [38, 55, 85, 30, 65, 30],
+    "ev": [0, 0, 1, 0, 0, 0],
+    "moves": ["Astonish", "Protect", "Haze", "Night Shade", "Disable", "Brutal Swing", "Crafty Shield", "Hex", "Mean Look", "Slam", "Curse", "Shadow Ball", "Earthquake", "Guard Split", "Power Split", "Destiny Bond"],
+    "movesLVL": [1, 1, 4, 8, 12, 16, 20, 24, 28, 32, 36, 40, 44, 48, 48, 52],
+    "movesTM": [],
+    "movesTR": [10, 11, 20, 26, 27, 33, 38, 40, 46, 49, 54, 58, 65, 67, 68, 69, 83],
+    "abilities": ["Wandering Spirit"],
+    "growthrate": "Medium_Fast",
+    "exp": 61,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/4/46/562Yamask-Galar.png",
+    "shinyURL": ""
+}

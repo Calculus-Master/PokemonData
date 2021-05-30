@@ -1,0 +1,21 @@
+{
+    "name": "Galarian Darumaka",
+    "fillerinfo": "Zen Charm Pokemon-0.7-40.0",
+    "dex": 554,
+    "type": ["Ice", "Ice"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": ["Darumaka"],
+    "mega": [],
+    "stats": [70, 90, 45, 15, 45, 50],
+    "ev": [0, 1, 0, 0, 0, 0],
+    "moves": ["Powder Snow", "Tackle", "Taunt", "Bite", "Avalanche", "Work Up", "Ice Fang", "Headbutt", "Ice Punch", "Uproar", "Belly Drum", "Blizzard", "Thrash", "Superpower"],
+    "movesLVL": [1, 1, 4, 8, 12, 16, 20, 24, 28, 32, 36, 40, 44, 48],
+    "movesTM": [],
+    "movesTR": [2, 5, 6, 13, 15, 20, 26, 27, 30, 35, 36, 37, 39, 43, 52, 55, 69, 77, 86],
+    "abilities": ["Hustle", "Inner Focus"],
+    "growthrate": "Medium_Slow",
+    "exp": 63,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/c/c9/554Darumaka-Galar.png/600px-554Darumaka-Galar.png",
+    "shinyURL": ""
+}
