@@ -1,10 +1,10 @@
 {
-    "name": "Hakamo-O-",
+    "name": "Hakamo-o",
     "fillerinfo": "Scaly Pokemon-1.2-47.0",
     "dex": 783,
     "type": ["Dragon", "Fighting"],
-    "evolutions": [],
-    "evolutionsLVL": [],
+    "evolutions": ["Kommo-o"],
+    "evolutionsLVL": [45],
     "forms": [],
     "mega": [],
     "stats": [55, 75, 90, 65, 70, 65],

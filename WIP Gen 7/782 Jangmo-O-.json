@@ -1,10 +1,10 @@
 {
-    "name": "Jangmo-O-",
+    "name": "Jangmo-o",
     "fillerinfo": "Scaly Pokemon-0.6-29.7",
     "dex": 782,
     "type": ["Dragon", "Dragon"],
-    "evolutions": [],
-    "evolutionsLVL": [],
+    "evolutions": ["Hakamo-o", "Kommo-o"],
+    "evolutionsLVL": [35, 45],
     "forms": [],
     "mega": [],
     "stats": [45, 55, 65, 45, 45, 45],
