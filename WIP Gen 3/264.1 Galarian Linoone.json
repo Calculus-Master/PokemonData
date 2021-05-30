@@ -1,0 +1,21 @@
+{
+    "name": "Galarian Linoone",
+    "fillerinfo": "Rushing Pokemon-0.5-32.5",
+    "dex": 264,
+    "type": ["Dark", "Normal"],
+    "evolutions": ["Obstagoon"],
+    "evolutionsLVL": [35],
+    "forms": ["Linoone"],
+    "mega": [],
+    "stats": [78, 70, 61, 50, 61, 100],
+    "ev": [0, 0, 0, 0, 0, 2],
+    "moves": ["Baby Doll Eyes", "Leer", "Lick", "Night Slash", "Pin Missile", "Sand Attack", "Switcheroo", "Tackle", "Snarl", "Headbutt", "Hone Claws", "Fury Swipes", "Rest", "Take Down", "Scary Face", "Counter", "Taunt", "Double Edge"],
+    "movesLVL": [1, 1, 1, 1, 1, 1, 1, 1, 9, 12, 15, 18, 23, 28, 33, 38, 43, 48],
+    "movesTM": [],
+    "movesTR": [1, 4, 5, 6, 8, 9, 20, 26, 27, 31, 33, 37, 38, 42, 59, 73, 77, 85, 95, 99],
+    "abilities": ["Pickup", "Gluttony", "Quick Feet"],
+    "growthrate": "Medium_Fast",
+    "exp": 147,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/8/8e/264Linoone-Galar.png/600px-264Linoone-Galar.png",
+    "shinyURL": ""
+}

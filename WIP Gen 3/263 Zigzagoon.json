@@ -5,7 +5,7 @@
     "type": ["Normal", "Normal"],
     "evolutions": ["Linoone"],
     "evolutionsLVL": [20],
-    "forms": [],
+    "forms": ["Galarian Zigzagoon"],
     "mega": [],
     "stats": [38, 30, 41, 30, 41, 60],
     "ev": [0, 0, 0, 0, 0, 1],
