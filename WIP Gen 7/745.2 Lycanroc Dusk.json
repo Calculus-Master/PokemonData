@@ -1,0 +1,21 @@
+{
+    "name": "Lycanroc Dusk",
+    "fillerinfo": "Wolf Pokemon-0.8-25.0",
+    "dex": 745,
+    "type": ["Rock", "Rock"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": ["Lycanroc", "Lycanroc Midnight"],
+    "mega": [],
+    "stats": [75, 117, 65, 55, 65, 110],
+    "ev": [0, 2, 0, 0, 0, 0],
+    "moves": ["Accelerock", "Bite", "Counter", "Leer", "Sand Attack", "Tackle", "Thrash", "Howl", "Rock Throw", "Odor Sleuth", "Rock Tomb", "Roar", "Stealth Rock", "Rock Slide", "Scary Face", "Crunch", "Rock Climb", "Stone Edge"],
+    "movesLVL": [1, 1, 1, 1, 1, 1, 1, 12, 15, 18, 23, 26, 29, 34, 37, 40, 45, 48],
+    "movesTM": [5, 6, 8, 10, 12, 17, 21, 27, 31, 32, 39, 42, 44, 45, 48, 49, 69, 71, 75, 80, 87, 88, 90, 95, 100],
+    "movesTR": [0, 13, 20, 21, 24, 26, 27, 31, 32, 37, 42, 46, 48, 53, 67, 69, 74, 75, 76, 85, 87, 90, 97],
+    "abilities": ["Tough Claws"],
+    "growthrate": "Medium_Fast",
+    "exp": 170,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/3/37/745Lycanroc-Dusk.png/600px-745Lycanroc-Dusk.png",
+    "shinyURL": ""
+}

@@ -1,13 +1,13 @@
 {
-    "name": "Wishiwashi-Solo-",
-    "fillerinfo": "Small Fry Pokemon-0.2-0.3",
+    "name": "Wishiwashi School",
+    "fillerinfo": "Small Fry Pokemon-8.2-78.6",
     "dex": 746,
     "type": ["Water", "Water"],
     "evolutions": [],
     "evolutionsLVL": [],
-    "forms": [],
+    "forms": ["Wishiwashi"],
     "mega": [],
-    "stats": [45, 20, 20, 25, 25, 40],
+    "stats": [45, 140, 130, 140, 135, 30],
     "ev": [1, 0, 0, 0, 0, 0],
     "moves": ["Water Gun", "Growl", "Helping Hand", "Feint Attack", "Brine", "Aqua Ring", "Tearful Look", "Take Down", "Dive", "Beat Up", "Aqua Tail", "Double Edge", "Soak", "Endeavor", "Hydro Pump"],
     "movesLVL": [1, 1, 6, 9, 14, 17, 22, 25, 30, 33, 38, 41, 46, 49, 54],
@@ -15,7 +15,7 @@
     "movesTR": [3, 4, 5, 10, 16, 20, 26, 27, 31, 35, 45, 84, 98],
     "abilities": ["Schooling"],
     "growthrate": "Fast",
-    "exp": 61,
-    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/1/18/746Wishiwashi-Solo.png/600px-746Wishiwashi-Solo.png",
+    "exp": 217,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/7/7f/746Wishiwashi-School.png/600px-746Wishiwashi-School.png",
     "shinyURL": ""
 }

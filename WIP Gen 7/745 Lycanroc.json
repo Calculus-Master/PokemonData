@@ -1,11 +1,11 @@
 {
-    "name": "Lycanroc-Midday-",
+    "name": "Lycanroc",
     "fillerinfo": "Wolf Pokemon-0.8-25.0",
     "dex": 745,
     "type": ["Rock", "Rock"],
     "evolutions": [],
     "evolutionsLVL": [],
-    "forms": [],
+    "forms": ["Lycanroc Midnight", "Lycanroc Dusk"],
     "mega": [],
     "stats": [75, 115, 65, 55, 65, 112],
     "ev": [0, 2, 0, 0, 0, 0],
