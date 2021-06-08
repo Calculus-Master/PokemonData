@@ -9,13 +9,13 @@
     "mega": [],
     "stats": [105, 180, 100, 180, 100, 115],
     "ev": [0, 2, 0, 1, 0, 0],
-    "moves": ["Twister", "Scary Face", "Ancient Power", "Crunch", "Air Slash", "Rest", "Extreme Speed", "Dragon Pulse", "Dragon Dance", "Fly", "Hyper Voice", "Outrage", "Hyper Beam"],
-    "movesLVL": [1, 5, 15, 20, 30, 35, 45, 50, 60, 65, 75, 80, 90],
+    "moves": ["Twister", "Scary Face", "Ancient Power", "Crunch", "Air Slash", "Rest", "Extreme Speed", "Dragon Pulse", "Dragon Dance", "Fly", "Hyper Voice", "Outrage", "Hyper Beam", "V Create"],
+    "movesLVL": [1, 5, 15, 20, 30, 35, 45, 50, 60, 65, 75, 80, 90, 100],
     "movesTM": [2, 5, 6, 8, 10, 11, 13, 14, 15, 17, 18, 21, 22, 24, 25, 26, 27, 31, 32, 35, 37, 38, 39, 40, 42, 44, 48, 49, 50, 53, 56, 58, 59, 65, 68, 71, 73, 74, 75, 76, 77, 78, 80, 82, 87, 88, 90, 94, 98, 100],
     "movesTR": [0, 1, 2, 3, 4, 5, 6, 8, 9, 10, 15, 16, 20, 24, 26, 27, 31, 32, 35, 42, 43, 44, 47, 48, 51, 52, 62, 64, 65, 67, 74, 75, 89],
     "abilities": ["Delta Stream"],
     "growthrate": "Slow",
     "exp": 351,
     "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/5/58/384Rayquaza-Mega.png/600px-384Rayquaza-Mega.png",
-    "shinyURL": ""
+    "shinyURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/e48d6b9d-3b1d-46a0-a254-3a448ec3a8a5/ddnyg3d-eb709dbd-3363-4a8e-9a2f-76614915a7c1.png"
 }

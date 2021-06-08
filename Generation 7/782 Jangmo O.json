@@ -3,7 +3,7 @@
     "fillerinfo": "Scaly Pokemon-0.6-29.7",
     "dex": 782,
     "type": ["Dragon", "Dragon"],
-    "evolutions": ["Hakamo-o", "Kommo-o"],
+    "evolutions": ["Hakamo O", "Kommo O"],
     "evolutionsLVL": [35, 45],
     "forms": [],
     "mega": [],
@@ -17,5 +17,5 @@
     "growthrate": "Slow",
     "exp": 60,
     "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/a/a0/782Jangmo-o.png/600px-782Jangmo-o.png",
-    "shinyURL": ""
+    "shinyURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/e48d6b9d-3b1d-46a0-a254-3a448ec3a8a5/ddn40y9-3c11b1d2-b46a-4c0d-8f64-dbbf2b0949fc.png/v1/fill/w_894,h_894,strp/_782_jangmo_o_by_tonofdirt726_ddn40y9-pre.png"
 }
