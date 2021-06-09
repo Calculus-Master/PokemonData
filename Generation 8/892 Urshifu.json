@@ -1,0 +1,21 @@
+{
+    "name": "Urshifu",
+    "fillerinfo": "Wushu Pokemon-1.9-105.0",
+    "dex": 892,
+    "type": ["Fighting", "Dark"],
+    "evolutions": [],
+    "evolutionsLVL": [],
+    "forms": ["Urshifu Rapid Strike"],
+    "mega": [],
+    "stats": [100, 130, 100, 63, 60, 97],
+    "ev": [0, 3, 0, 0, 0, 0],
+    "moves": ["Wicked Blow", "Rock Smash", "Sucker Punch", "Focus Energy", "Endure", "Leer", "Aerial Ace", "Scary Face", "Headbutt", "Brick Break", "Detect", "Bulk Up", "Iron Head", "Dynamic Punch", "Counter", "Close Combat", "Focus Punch"],
+    "movesLVL": [1, 1, 1, 1, 1, 1, 12, 16, 20, 24, 28, 32, 36, 40, 44, 48, 52],
+    "movesTM": [],
+    "movesTR": [1, 7, 13, 20, 21, 26, 27, 32, 37, 39, 46, 48, 53, 56, 57, 58, 64, 69, 74, 75, 81, 85, 93, 95, 99],
+    "abilities": ["Unseen Fist"],
+    "growthrate": "Slow",
+    "exp": 275,
+    "normalURL": "https://archives.bulbagarden.net/media/upload/thumb/e/e7/892Urshifu-Single_Strike.png/600px-892Urshifu-Single_Strike.png",
+    "shinyURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/e48d6b9d-3b1d-46a0-a254-3a448ec3a8a5/ddzpwt6-ad2190fa-2ab8-4cd4-9d73-886f74157b2d.png"
+}

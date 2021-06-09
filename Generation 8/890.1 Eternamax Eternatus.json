@@ -1,6 +1,6 @@
 {
     "name": "Eternamax Eternatus",
-    "fillerinfo": "Gigantic Pokemon-20.0-Infinite",
+    "fillerinfo": "Gigantic Pokemon-20.0-∞",
     "dex": 890,
     "type": ["Poison", "Dragon"],
     "evolutions": [],
@@ -16,6 +16,6 @@
     "abilities": ["Pressure"],
     "growthrate": "Slow",
     "exp": 345,
-    "normalURL": "https://archives.bulbagarden.net/media/upload/6/62/890Eternatus.png",
+    "normalURL": "https://static.wikia.nocookie.net/villains/images/7/76/HOME890E.png/revision/latest/scale-to-width-down/512?cb=20200221025522",
     "shinyURL": ""
 }
