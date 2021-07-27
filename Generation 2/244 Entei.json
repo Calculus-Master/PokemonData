@@ -12,7 +12,7 @@
     "moves": ["Bite", "Eruption", "Extransensory", "Lava Plume", "Leer", "Sacred Fire", "Ember", "Roar", "Fire Spin", "Stomp", "Flamethrower", "Swagger", "Fire Fang", "Fire Blast", "Calm Mind"],
     "movesLVL": [1, 1, 1, 1, 1, 1, 8, 15, 22, 29, 36, 43, 50, 64, 71, 78],
     "movesTM": [4, 5, 6, 10, 11, 15, 17, 18, 21, 22, 27, 30, 32, 33, 35, 37, 38, 42, 43, 44, 48, 50, 60, 61, 68, 71, 77, 78, 87, 88, 90, 95, 100],
-    "movesTR": [1, 2, 12, 15, 120, 21, 26, 27, 31, 32, 33, 36, 43, 49, 55, 74, 75],
+    "movesTR": [1, 2, 12, 15, 20, 21, 26, 27, 31, 32, 33, 36, 43, 49, 55, 74, 75],
     "abilities": ["Pressure", "Inner Focus"],
     "growthrate": "Slow",
     "exp": 261,

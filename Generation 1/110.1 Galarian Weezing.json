@@ -9,7 +9,7 @@
     "mega": [],
     "stats": [65, 90, 120, 85, 70, 60],
     "ev": [0, 0, 2, 0, 0, 0],
-    "moves": ["Aromatic Mist", "Defog", "Double Hit", "Fairy Wind", "Haze", "Heat Wave", "Poison Gas", "Smog", "Smokescreen", "Strange Steam", "Tackle", "Clear Smog", "Assurance", "Sludge", "Aromatherapy", "Self Destruct", "Sludge Bomb", "Toxic", "Belch", "Explosion", "Memento", "Destiny Bond", "Misty Terrain"],
+    "moves": ["Aromatic Mist", "Defog", "Double Hit", "Fairy Wind", "Haze", "Heat Wave", "Poison Gas", "Smog", "Smokescreen", "Strange Steam", "Clear Smog", "Assurance", "Sludge", "Aromatherapy", "Self Destruct", "Sludge Bomb", "Toxic", "Belch", "Explosion", "Memento", "Destiny Bond", "Misty Terrain"],
     "movesLVL": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 12, 16, 20, 24, 28, 32, 38, 44, 50, 56, 62, 68],
     "movesTM": [],
     "movesTR": [2, 8, 9, 15, 20, 22, 26, 27, 33, 35, 36, 37, 43, 52, 54, 58, 78, 90, 91, 92],

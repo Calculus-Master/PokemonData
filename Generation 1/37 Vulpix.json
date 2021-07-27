@@ -9,7 +9,7 @@
     "mega": [],
     "stats": [38, 41, 40, 50, 65, 65],
     "ev": [0, 0, 0, 0, 0, 1],
-    "moves": ["Ember", "Tail Whip", "Roar", "BabyDoll Eyes", "Quick Attack", "Confuse Ray", "Fire Spin", "Payback", "WillOWisp", "Feint Attack", "Hex", "Flame Burst", "Extrasensory", "Safeguard", "Flamethrower", "Imprison", "Fire Blast", "Grudge", "Captivate", "Inferno"],
+    "moves": ["Ember", "Tail Whip", "Roar", "BabyDoll Eyes", "Quick Attack", "Confuse Ray", "Fire Spin", "Payback", "Will O Wisp", "Feint Attack", "Hex", "Flame Burst", "Extrasensory", "Safeguard", "Flamethrower", "Imprison", "Fire Blast", "Grudge", "Captivate", "Inferno"],
     "movesLVL": [1, 4, 7, 9, 10, 12, 15, 18, 20, 23, 26, 28, 31, 34, 36, 39, 42, 44, 47, 50],
     "movesTM": [5, 6, 10, 11, 17, 20, 21, 27, 32, 35, 38, 42, 43, 44, 45, 48, 50, 53, 61, 66, 77, 87, 88, 90, 97, 100],
     "movesTR": [1, 2, 12, 15, 20, 26, 27, 30, 31, 36, 43, 55, 58, 65, 69, 81],

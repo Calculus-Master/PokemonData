@@ -10,7 +10,7 @@
     "stats": [35, 60, 44, 40, 54, 55],
     "ev": [0, 1, 0, 0, 0, 0],
     "moves": ["Leer", "Wrap", "Poison Sting", "Bite", "Glare", "Screech", "Acid", "Spit Up", "Stockpile", "Swallow", "Acid Spray", "Mud Bomb", "Gastro Acid", "Belch", "Haze", "Coil", "Gunk Shot"],
-    "movesLVL": [1, 4, 9, 12, 17, 20, 25, 25, 25, 28, 33, 36, 38, 41, 44, 49],
+    "movesLVL": [1, 1, 4, 9, 12, 17, 20, 25, 25, 25, 28, 33, 36, 38, 41, 44, 49],
     "movesTM": [6, 9, 10, 11, 17, 18, 21, 26, 27, 32, 34, 36, 39, 41, 42, 44, 45, 46, 48, 59, 66, 78, 80, 83, 84, 87, 88, 90, 97, 100],
     "movesTR": [],
     "abilities": ["Intimidate", "Shed Skin"],
